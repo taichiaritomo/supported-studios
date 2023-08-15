@@ -1,4 +1,4 @@
-[
+const placeDetailsData = [
   {
     "address_components": [
       {

@@ -1,0 +1,46 @@
+* {
+  text-align: left;
+}
+
+table {
+  /* min-width: 1200px; */
+  border-collapse: collapse;
+}
+
+tr {
+  border-bottom: 1px solid gray;
+}
+
+th {
+  vertical-align: bottom;
+  padding: 0.5em;
+}
+
+td {
+  vertical-align: top;
+  padding: 0.5em;
+}
+
+td.name {
+  width: 200px;
+  text-overflow: ellipsis;
+  overflow: scroll;
+  /* white-space: nowrap; */
+}
+
+td.country {
+  width: 100px;
+}
+
+td.distance {
+  text-align: right;
+  white-space: nowrap;
+}
+
+td.phone {
+  white-space: nowrap;
+}
+
+.gray {
+  color: gray;
+}

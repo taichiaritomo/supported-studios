@@ -1,4 +1,4 @@
-[
+const placeDetails = [
   {
     "address_components": [
       {
@@ -150,8 +150,7 @@
     },
     "website": "http://www.perspektivy.ru/",
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAACUxlkYRzZ2pqzjotQc",
-    "date_retrieved": "2023-08-15T00:05:49.869Z",
-    "placeId": "ChIJAQAAACUxlkYRzZ2pqzjotQc"
+    "date_retrieved": "2023-08-14T22:57:14.306Z"
   },
   {
     "address_components": [
@@ -293,7 +292,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/115380981173999065321\">Lee Ohnesorge (ThinkTherapy.org)</a>"
         ],
-        "photo_reference": "AUacShiMjanp4TdHpTZvTt8b95Bc-M900FHWQLLoEueB9l7AnQZt7EdUPFK-6JZfRVU97NMWzPqID-gvblSOpP9tYLlNcd7Z1f4ZDd3LJP9Wrri45obCOuUiI9tdLKp-tfht7yVnsRV0Vuq7a844hiu3BsgcDeSzvpU16Aw9m6a_UvImA7P_",
+        "photo_reference": "AUacShjCZkPrjkGMqsTbHuGrNuhALQCQoTQXEdmSTp0yKne0r7_c8G6ZO9IrogpLdBpNIhhqm-F1Oachg86JqexC7hT6Kf2qeYOnkBe1iPe-uFIO46W0lYaaQJElx_7fWFpjGLwiC4qkbKDxaNOHUXdvDtDKpNqB_0qTuVbGJ2-SzNUG5C32",
         "width": 3000
       },
       {
@@ -301,7 +300,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/115380981173999065321\">Lee Ohnesorge (ThinkTherapy.org)</a>"
         ],
-        "photo_reference": "AUacShgn0dqJfjbyXKfeh7OSqd9uK2Nhqqb5WK02B-MvtjlNkp7P_MjsAZt7XL4G1AdR1aqapsZk1Dpxij8PCBTFcwTAc_G2JswgYjisZSRzegEcUsS3DpiPLUYUbu5xDmAT_iOQWAWrnjW_Wu6DyVb22-q0NuiMq7HTEue0wE_KF-ivgQqk",
+        "photo_reference": "AUacShjJnnWJP5aBqUtSboevUlP3nV4IYfzfbLAamCBCQk3Nuqy5O5tSc6x7F2fQWVf0myBEecL2SfWAiBuW_WC5NPqg78QkwXbhw4d_xvtN8m-ZpVKKMWZClFHfEOs7H5aiT_9prJRTLS9aPKqBmEee87jZZN8TOmA5Yie5W5g_3xWfhZDe",
         "width": 3000
       },
       {
@@ -309,7 +308,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/112765586484562716783\">Drake Friesen</a>"
         ],
-        "photo_reference": "AUacShhvDf2AC7CaIVdzXp5bEIf8KRc1nQfWEVifGaVMwxaYbLShNdEHxVWZXX3gzLpTlOz5YyI88gnFYet_NbNg88ToN82Yr0qpehezhhNnFBl0pmpx8AuLW0F7CcL-Oo_e8n72_EMfX2IYMA68Bm0WA6fDSmuIw01EAJ-ehVh9xDAustKd",
+        "photo_reference": "AUacShia-6w1XHXF0Enn-xv_YzES_J6_EKM5a173S-r2EHUzKcWwCeio08JP4uIQHBFBhOTKZHQcG4kmOKC_nqGowwUpKoehfzyn4mi2pt4XcashXhfsxuazsBrNtzK_WaShJKmxHOTJaHvdNCpagTietk3EDHcwbtPAKintdWQTfpqJbeIV",
         "width": 3024
       }
     ],
@@ -317,8 +316,7 @@
     "website": "http://www.fresheyegallery.com/",
     "wheelchair_accessible_entrance": true,
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ4FM3a0n9ocRdQGv9Lr32wc",
-    "date_retrieved": "2023-08-15T00:05:50.091Z",
-    "placeId": "ChIJZ4FM3a0n9ocRdQGv9Lr32wc"
+    "date_retrieved": "2023-08-14T22:57:14.561Z"
   },
   {
     "address_components": [
@@ -397,8 +395,7 @@
     "name": "Milk River Arts",
     "website": "https://www.milkriverarts.org/",
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5d9DZIsVsYkRxLa426_pIGk",
-    "date_retrieved": "2023-08-15T00:05:50.250Z",
-    "placeId": "ChIJ5d9DZIsVsYkRxLa426_pIGk"
+    "date_retrieved": "2023-08-14T22:57:14.707Z"
   },
   {
     "address_components": [
@@ -481,7 +478,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/109729020465973264465\">Helen Clark Bell</a>"
         ],
-        "photo_reference": "AUacShjk-1AK5j8bfkybLoygoYxAXB2iCmymc02QbBPX6JtQd6DtE_kC87b8aiGX2IRyErYKoxT8dnEJT6L6EL3aL3yYvpGSHqOZxzU4KuC8blO6E8c5Zo7hmeZx7o9BRx1PaXYDMMznbcsuHvvT4fryRyHNWx3Wqi3IxVgDNNp02q1_ge88",
+        "photo_reference": "AUacShjmmumFUvAwVvaM3H3oRd8qIfOjVH7biO8u9FifU3g1-9bb5sL5KI5qyIUTgbvdGlZkEncaSlZpib8F2jxQVYwrMfbqxoDrpqtYojXmJIbPajjteTTHbE8F7ypifz05IAatO88d0ycd2r1y02ow_fon1R6uD8fJDnrM_xs-8A3GYvGh",
         "width": 4080
       },
       {
@@ -489,7 +486,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/109756568715853884575\">Jessica Izzard</a>"
         ],
-        "photo_reference": "AUacShjPYAKNpQ9OEljnDnJOWu2MKr-mkMDdl9eVP8vEJfPCsd8xkTKuEADxz-lefQH6TXHsONEoF2EC0-qeBfdEAiW-BXjonXm6rIQaIlSHpWrLsG2MBFAklAZub2H6IlVhMNuSoqnx3N85PICbvCtuNtyC7_DKoDLl2u4CE1oakbMnEgbY",
+        "photo_reference": "AUacShiibKKSvwRza8TKq_C8NgNBcLW4W8ykGbnhFEVRi1Ppj-U-gbJ0GcCmQV5UpFecB_JdTkjSbUiA_XLd8vZBTC0t_SX5vb6vd5A7A24UD3heLaCrHh_g_g8hPHoELofN_-j6hbfAPfvZSUdzs6lCgQkMVaTyBLY_ujQkpEmIk4H6x-Us",
         "width": 4032
       },
       {
@@ -497,7 +494,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/109729020465973264465\">Helen Clark Bell</a>"
         ],
-        "photo_reference": "AUacShhyq_gtjNEVtpE9LGdm63ZDNFUDZCQ_2kOIV2poOuypuKXbArQ2dJjVHC6ym9SFanlZpxNmgBpB9WJr9LziR4Wb-dupyObY6YlbNWIipN-TYG_AiNG-kwqfG4LCi-emOsQ4-J8i17Lh2O7sJT1sKOQz0rokHmFT_-3-d4ZavvXyMkuD",
+        "photo_reference": "AUacShi1AusoZNEkfTvIaSTXqtYhv4vYZ7QkNo3RAL9pwWREiuG4BWo0oGla6igF7TjNSyjRzUjNURLUeTWzneZR7FdeqY5xb1Bo_GH_0omrlvtISx9Hkup7BDwsPitm3Fx_BzA6CORztwZdQIUuyaqa_KkksBQHNz_rJ-7SwNdHXSuzK8PT",
         "width": 4080
       },
       {
@@ -505,7 +502,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/109729020465973264465\">Helen Clark Bell</a>"
         ],
-        "photo_reference": "AUacShgXJJQfHt-veA8n8_76BzdIU-3eb7Bmn-zCV2EQVwAVcXnVw2togOpcfexzeULtdfd3zmqf-aHyTi4LsC_dtJd8_N_nSMJDxmykaZskyQm-hWy2h-1t3Y-vLrtEIRgB1BEbJlNrzgosO6li4ooFLqcH_nqCegyzFYLUJD9h_Y5zE0aP",
+        "photo_reference": "AUacShjVr6GGVIZfNbbsyUmNfz_l1HeUCBB7sE8wPYjC8w_0E8MA_lT_SWv2zz_6J6NPkU-IQdNnpF87A542gqmYiBZPIfwU604ERPYDwRhvXkgADGKCIu-gefp7qqz7AM4VIRbIplDqzjAECLfnlRKS0dbhL1yJr7J2-2cvtOcSK1_xUZRn",
         "width": 4080
       },
       {
@@ -513,7 +510,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/109729020465973264465\">Helen Clark Bell</a>"
         ],
-        "photo_reference": "AUacShglZ0dXM4J7uizlGF5KUtuteycZbpd87bQD7QuAL9-ngc21w6gz68bWEO_F_-LRfofE0bxsdFeQg21ZT0g-mx6Bvfmup5xbvmzs2WClg_AkQBtedY23JqoLplXB9oRg5aq83AqDBtPzV1eTDukXkkR57-7gN5_-XNtlXqLpOzm6icDp",
+        "photo_reference": "AUacShiJWa4TREqg7_FP_1KZkTwWfVTdsCaNUq4FP2u891viprsnv1SOG1QWjlUDoOMgdnYec_LHjMw1CMS41Rw68wf5lGVr0wPxdKSq-XBZquQZOGf3jHvlWRL9wQJ15HGUfPFiCy6yiXLErPV6rMM2aCXE8to98J7VUKdDM4m9bAghnEtq",
         "width": 3072
       },
       {
@@ -521,7 +518,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/110133179905697780655\">Aga Wicinska</a>"
         ],
-        "photo_reference": "AUacShhAXWCSjCxO4fhzotJfEDOTPimDF1lhzNNSZyMSzIhyLj3l7P7PKhg79Hn9RfGdLITEy77eHLTwIB7oPXymKTBWmboFhV1NGlLhIVds6z6UAuWv92QFNMZLR1aVBm9b1Bks1VznYqx5Lbj6VktCf7ERcq9qCgtJP7i0QSdLJCJBDNGN",
+        "photo_reference": "AUacShjxx4n6Up9AAs-91XU7jDRFbB5T8UOlbh5nBoSjtreHsnmzLbaGJe74sraTQ8h5BNM5nAcLQCsKvLpKyF8hyMDmyxX3-nrGWk9dRDOD0zok8gEg4VFciTfmwGuu0yuypNUOL9vQbj14C8o-GEGa7KbqUergFmsp1916tYoF-UiriO7v",
         "width": 4032
       },
       {
@@ -529,7 +526,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/109729020465973264465\">Helen Clark Bell</a>"
         ],
-        "photo_reference": "AUacShhsLpECGtI-GNQJu7Xa_V8E3Ki6qkjnIAXK2BebDVTpDDg2NYHnInFCYdcC1tWF6fOmPqac5XKZTFrvz02YqKgrj1YtUrBoOLDAoViBLYgJrPEFChXnvP-7Wv-ayhIqBb8laC4zWulthzauAUb4HHzIAu0C7EDZIH9vRs9h674rF3Mz",
+        "photo_reference": "AUacShipLHMhE1mxFQmqZw0wKVmdS2yLyTXUibZk4ie58d6EunWKN7oAeHZ3YAtbxghLg2JBKxMcWox1LELTF9xb4tyTZ_8yYWVefPbavmeAzsk3p__WhDw2d0mJNCsIdnkhbHPXcbXsm6Arb_sabSJomwoAQCu2JxXBbhS0LcLN0HS4os6-",
         "width": 4080
       },
       {
@@ -537,7 +534,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/111352835884531498997\">Ismail Al-Abdallah</a>"
         ],
-        "photo_reference": "AUacShjvyuKwykQ2Dnai4bYdzYSACUz7LZUpH1bJCscX6OYjUkDQiOdF8IgeSMZZybWAo-UHbdtYAuuu7k_KA2j9mIHKZUedgvolFFLjPg7uqbnrVuPKkx0sPfgL_KFypFqXg7fIuwvk7PRWTxcmNcfnKBJwVMnYsxerZAbLsDRaYuUHLPMh",
+        "photo_reference": "AUacShh601rQn2WmnfpWy8AnFPIfKhLTbevnATLc_9OnMBLaix6EVatAqR3fUwNNrHP-i4lPK8EIGF_0rBEKa47ukzODzmC7GzTs1crpKKFbVYbLzR7CEumf5xBjZ-cv90jhyC5J0qIufAta5wRdMF5pR34HF3ZWdckrMCLjmbmdzX7tNyU7",
         "width": 3120
       },
       {
@@ -545,7 +542,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/109729020465973264465\">Helen Clark Bell</a>"
         ],
-        "photo_reference": "AUacShi4dqSRGQROMe3AflpFEG1LkgjM_pEgfZ4xz9cCPY-rhkpUAayz_g4WsR1aDxYX3IKrcQEFhtNpkajrgMLVL6PXv5BG22IDZ5e6rHt_lBvzy9FLrgA3e3WF4Ttvi7HcKKI0itVRvE_UnmhfL9fE7eo62e39ndWi9s7lnsTy9iGH8l8_",
+        "photo_reference": "AUacShhXw05UrYknjTyu5Pw3gyMGesnvlsgRScSq1ZMfBTOJYl5mfXrCcxHC0NwtnGezu31C4oO_LLAJVhTdE26pX_lidijEZhLRO3w1rL-977r0CKHzbCvr86F7ULI5M5RyvSbZ8yC1WFRLT7S9sg3V3my318-DvYSZlNotdKe27kqCL-GN",
         "width": 4080
       },
       {
@@ -553,7 +550,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/111352835884531498997\">Ismail Al-Abdallah</a>"
         ],
-        "photo_reference": "AUacShgYk1nzzyuA6FMdE67wPqOk1nOAwpcucZX6azKo1CRXUoAiO_uWM_EiLDbzvp16PvcaGEbcLcDRvv0NG_5btfXZCvXDPmAM48X8UUK3--ps4H5c69U0ot8Wo_jV4c_bkYKqSUnrsAMdwLmxUil8jGTeXswnvxq1UC0XfleyiHV_cr8G",
+        "photo_reference": "AUacShgu_oGeyno4EjJIP590VHMV4XEJ8Sa58wmTOD_dgPoZqMEPEcjOMNSwUT1PHpCGLliV3pOCh2XDtuZU_82C3B2kCCd2btok2oNttuy8-LKpBJq6wSijbsLDYQAPovT4EzAIWa-6RlAErC1QJ6A_uNXekFhcmheBE-Xav472n3Eha_RZ",
         "width": 3120
       }
     ],
@@ -561,8 +558,7 @@
     "website": "http://www.workshop305.com/",
     "wheelchair_accessible_entrance": true,
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJz7UCk1QPdkgR4rCClrBqz1k",
-    "date_retrieved": "2023-08-15T00:05:50.413Z",
-    "placeId": "ChIJz7UCk1QPdkgR4rCClrBqz1k"
+    "date_retrieved": "2023-08-14T22:57:14.891Z"
   },
   {
     "address_components": [
@@ -655,7 +651,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/106203699856691871836\">Bernd Kumar (Tron)</a>"
         ],
-        "photo_reference": "AUacShgpxXzd8KfH3B1DjfenzrcpmYD0R-a6DOAfhEHIGbfjqeUob3snL3jcm2Anh5iAtosp5uKdMu3dSYXQyvZ-qVE6J1iLktktLjmDlD4AMxsICYCoX8jP71-UhZLgiuGG9M0yHmEXiz_MnkrnCd2uEqNAK3HVovIc6an6U0TPCMAbUMMa",
+        "photo_reference": "AUacShjE7T-R8ndQ9x3Hy0nBpiuDtVFWaYNQy-HqlfHfHmqNkbbjv0xvGSQKJ72pksA66W_rYW-P3EIXyvZ27yJn1dMuTA8FTXTuo57fDn_zdTvIEZgrHoUI9dTN90ztefr3-rFjTPhEUVbLjnNIYKNFbHKaWW3aISaf8xg6f1sQRurnuRQM",
         "width": 4608
       },
       {
@@ -663,7 +659,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/106203699856691871836\">Bernd Kumar (Tron)</a>"
         ],
-        "photo_reference": "AUacShiRHpkFLi3CI_aHFHpQjmmo1tJwTQLGv25_xxoR_28_mNsclILioO4zQCwn_dQuX244SHfpsa0l7fQTqZEmhGTPNDs68K7bhPxGd3LXX5d9C9oFAkslqgKty-jr_bTGkeCAXdbTKGZ8KKUxpNDbRNCkG5QsTUwfMSJECrH5X3VIX-sh",
+        "photo_reference": "AUacShi70z51k1WAITaEDAu5NwH8lp51oDT6vjtKY_DJlP1RLqe9vlPAV-eGtih-x1FwvF5l9Vs3T9Ope5Z2o1S6MCPoMQaNyGuowKlRUX295M90iE8Ki0MQCH1uzS7TMGUaEfqE0z-bXslIwWIyS3Z6G7tpePw9r7M-z7DBE0ZzV6AwqDZS",
         "width": 4032
       },
       {
@@ -671,7 +667,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/101061408605149380294\">Helmut Forner</a>"
         ],
-        "photo_reference": "AUacShinxnEdBPlknoTgJcnDkvHyn8eGjPpC5Z12wc1ucQEOkHkYIG-Woz5dveYIz6xUbWiVeaZi7OtF-afWF7vg9GpMeAyLRSc1ItOTWxm7BGAzduXWt2qIU7-1jAAErWjENlR5Widcgfr3bMRRpOgFJo9mCnrL7q5DfsRwh_7O6Z8BfW5k",
+        "photo_reference": "AUacShhzQTT0tUTBJDejVPnJsOclCXUZ1GaXIUW7mE_l3kCGbZGZwKyic_mPIV5EfuMXSZfLCgORzVC0WNCv75X8Y6uckp79KPJ-2-L1TclLnLOyQJGBZ_f7rEjbsGQWodMjaETffVgeYvI6SCYfpvGuEAmTKWDPVHcNC4mV7r-CapppnWH7",
         "width": 1582
       },
       {
@@ -679,7 +675,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/103442593223624976707\">rini sowitzki</a>"
         ],
-        "photo_reference": "AUacShgfwKpBGHFk5h4vtFbJq4H0gzIqGpv_0nzHr4zbyauls8wLBYwDi3cQ3F9q38YW0MzKbUl56piAtbALyXyD_kHz8Eg8D9w2KwQh7lwxYMqfkc6n54d8UNq0BiA7j3yqcUxvChO2N8SakH_6EWDiqxIoQX27t1M3PecuZ-qCYXSGh30",
+        "photo_reference": "AUacShgIyhEFRc2kL7OE2xM4ahuwG4KjLw93BnD9Vhwd_1clbrMD0j9-7qSCs0JPR6WD89L3EUG28p1SyQUHSJr8MCfuDNvVPRcy3V1TCPpEIlKJpvUXkJgb95lIPuUDD1nD2yCgKkFoERKphqjxQK9fRJbS_PuTprCx4rXZFEnFHb-Cg0Q",
         "width": 4032
       },
       {
@@ -687,7 +683,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/109693949040784470274\">Moath Isied</a>"
         ],
-        "photo_reference": "AUacShhvZ5gJNM3z9LzK5Q_FHwKq8A4yMmwk-ODmx750nAMV6h6od1IOlUdIKkysjGYdYYNsj_456ERs2p2V_rP51H6dEWsGfaze3ZTfq04XsQuOtBJavkJofd01dNWcT1CZmEWzgN-q9uL2P0cPXlaMkc42Sza7ZwpgQqx56rX4UPcH9E41",
+        "photo_reference": "AUacShgQI3ppzcS6j_XmDF_togi1ayzr27JF63F2lx_tvyQ9VAyrBs-8dbinkxxTBw7boBZlHpV8bW8K4NWXZLTHF53guINeDgnkHTTEvXR35eOaq2_PfzaNxId52GRlSKZY_c1U2_MdQ-1EJYYVZpGZGhpYKb5ysIn-Z9tMx7HjaDvFaD1X",
         "width": 4160
       },
       {
@@ -695,7 +691,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/106203699856691871836\">Bernd Kumar (Tron)</a>"
         ],
-        "photo_reference": "AUacShiDvx7zdX3NLREAtsao_46TMcJ9MPZ2ea-wcyQVaTiN_OtPQk-THOY6USDkZ_taB4o4E52wVQENlCqGl9ng4a7FObQejzdwVV0VfaIyJ03vDK8BxUemhSyxzt36Ou7gtst4fbsDnRhO-mRxyq-KeTMMF_bbBmzPG58ZEcHgAJf_5wPS",
+        "photo_reference": "AUacShgEnXH_xCxA34vhk2oEIqLxR9mZYJoIzgEWiGjm2LHP7UqUPBQP8dgutycUzIukawVXF4sFx4Lfv35FIwF_U9G6M0omfea-HGEC90vNSymVlBy6gbGAuFZhO_DbhZQY-kNi6lId_Lx9B7A709Gv-rnYf9SDeXUIh_AwIn6dPa23bc9O",
         "width": 3456
       },
       {
@@ -703,7 +699,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/103442593223624976707\">rini sowitzki</a>"
         ],
-        "photo_reference": "AUacShip0buT1xCNsNxs3F-bTjIGHr5CMBzBXa2dx0VvjtZNEzTaHiIRAV-u7KT_SY5zsGJxl93Y82wrxxXD0pRshT0_HAi_aBa03LNnaKEKVr5JfSf7amrF-X6CO0q9GEbW8vVmbQ73dCgtJrNiR8nqRaZUJNHQkTDAATjMfMxHqJTbNMM",
+        "photo_reference": "AUacShhkGaBk7_LfC5wsShrKNx8DGSxRRPTpSsrA3CzhSpCo4zKmALK0oaDy6Xf4LRBZ-YD0kvRKuFRCbz4ErY5Ze4F3iRoc7XFRGMGnOQ7HG972VVDB_aEYD1fRs1AMjyobP4_NSRHvqTo8GOeTKxuDtOY5JU4c4pbopzIGsd0jVeAjTpo",
         "width": 4032
       },
       {
@@ -711,7 +707,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/103442593223624976707\">rini sowitzki</a>"
         ],
-        "photo_reference": "AUacShjx81Od8ICz5kj9SAHYvuvkSRlO3iOH_OV_tob788xxNnwv4J-g__wb2hC27IIUrubncGfZsUMOysB-HUQF24rvU_Q9Cw24kvgKR2OlThxDpfGKemBztjgC7o7xgRRwJHWv_WVLtEzx8NiAZRPQHnnx3pnQHmopdL8nnkB6PNgD6Gw",
+        "photo_reference": "AUacShg6u9nlamKdIKtAFti2ElTNx1l2Ea-oPO5i3MtfDHvsBKdnUYDWmQrnbNFcFH25BnSyHFP654WuydmZUMBllNb9aiiaZ7-kIoUwTsYywEuxcI0_TARBdUT-9fxGAk6Ml3a67-4Qk8cLSSTZb6k9uqGhyoYEmTsSiAfF0q_Ud2wO6zo",
         "width": 4032
       },
       {
@@ -719,7 +715,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/109693949040784470274\">Moath Isied</a>"
         ],
-        "photo_reference": "AUacShhuqYweGGuhLbmXZ-y1HFlvTZum9eKB3h65BT0BCQK3ntwZfz5swoY9QdRqhtqW67K1oKW4ZLK4Lgm1nTXJc6PyVFyFj18mDpKiUd8q7nTUV5dKL0WgraFzFQTgq6pPXEQh0BpxsPsFE7vMrzt8rHa5aw3_n7sVH6ejfZYyri5GWxFn",
+        "photo_reference": "AUacShgdpDkPgERWcVKBsr7uoRfJD5Dmst7RMLueZ9zGKQcKYzNRhcfklBlNStBsSJJNpMYZornWMu6jS0I6zPzrIq3YcPpWb4aGXoZXXtVaC-bMJnelDJ1-xIZfHQPCKeZqYBbWiwIVQHCy51rZzSjZmJ8rRLXoQIadjxLBwTbBLvQCUPBK",
         "width": 4160
       },
       {
@@ -727,7 +723,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/101061408605149380294\">Helmut Forner</a>"
         ],
-        "photo_reference": "AUacShhxd6oO2AyJbf-DwaCP8yu1SLb9tXR-M0MJGtioM1i-tzrWmQYRXsWAtlGCcnsdZbP1TXo8ICJUazoE1gKCozH6SJTTewYOxvMYGqoATxfoyi5y6l66Ik94Jq_Zl6rNx19DuSIV3MX2_UGldOom63Rx61vpd75zD-3nC5GeDyUv1w0j",
+        "photo_reference": "AUacShhN-RGXyWYOeimXRBhRu5y2k1XQ9IKWBia94XFhL-Nu5q-fIhdHE9Vk6qKVmocvMy6Y_MSQQBQ6fUQQm0x_EfUOaIBJQfTMX0udvx1I4VbRE6ar4MnMBtefIUVxnJ7cI95e-o90geAfmjTssdZfLWEjm7seyoTI6hFEeQaKqfcRqMCI",
         "width": 2976
       }
     ],
@@ -735,8 +731,7 @@
     "website": "https://www.thikwa.de/",
     "wheelchair_accessible_entrance": true,
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ08JhcidQqEcR2tyz6sc-z5A",
-    "date_retrieved": "2023-08-15T00:05:50.604Z",
-    "placeId": "ChIJ08JhcidQqEcR2tyz6sc-z5A"
+    "date_retrieved": "2023-08-14T22:57:15.072Z"
   },
   {
     "address_components": [
@@ -829,14 +824,13 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/101816810726149715531\">Severin Bunse</a>"
         ],
-        "photo_reference": "AUacShgETAJLH7vDWOxaYDbWT8lh0UIO5ZFoeOTMC9-otRJhKY01kb0dM_F7WXQETgCCRYC53xRBrDcuYc5l88fC69kzQC08QDyXUGP_5bYJdmdZ3QhrJW7EfYixI3956KHRsMR-EOCoIeKEpUfkeTyUnHsWcJaNfdlL-vxNLJcmsZXLnAqd",
+        "photo_reference": "AUacShi-CCxcBBaLR3CZ9FgnSXqmfF3VmaZiUULqJWfQdyM-gbsHfGTv-InE5TzxXVvDXHH3TRrkL08ZoGpbp_B-61QXBi_GR6hO4Tc7uGCDoim1UuCZvxHoWJTCsa4YqdR98vi4sIsbrd_V1Trq42-9Wd6gTmU_qD966dAkBAOXRDWF--qw",
         "width": 500
       }
     ],
     "website": "https://thikwawerkstatt.com/Kontakt",
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVUFbCdQqEcRdZySbJhT9IU",
-    "date_retrieved": "2023-08-15T00:05:50.761Z",
-    "placeId": "ChIJVVUFbCdQqEcRdZySbJhT9IU"
+    "date_retrieved": "2023-08-14T22:57:15.251Z"
   },
   {
     "address_components": [
@@ -993,7 +987,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/101816810726149715531\">Severin Bunse</a>"
         ],
-        "photo_reference": "AUacShhVsYmNAYW1_QBOlcK7mJayfZkVYU2T8pvZCxTOYowLxxVY4Z4zg0m629QtLrDrNkKT9uhhBDcsbstHip619arOxgrd85GjIx30XXbb4fSVqq6jrcQrkD83HMANg-QXBac82tGNdmWZwTzsvU3RbWESXJHgFXn1-G70oNcnKWnjrOYK",
+        "photo_reference": "AUacShjnteTzW0oC6vBsKsl5GjrPPccKy3FG5WFf9J4WSe-YYSEzctmDMoOB0mRiWdzSc4dRj1JA9xB_kod84iUQitlKRbC9Uq4ZFw94HRyIxxTmyxcEFbEok0J4FMBL_CVFnjTr_y2Qa1anuEJlz0pZCmfrBPgdSDUG3bX_uA3DfgqpOuUW",
         "width": 1920
       },
       {
@@ -1001,7 +995,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/117402368869187745375\">Bernhard B</a>"
         ],
-        "photo_reference": "AUacShhotBPlKV5Qa89CT5A9Tk2Kgij3ZWUED1q1vHRgzXgyw6UpBTgxRebNQApCeP79t-dh_fDzkYOmZ27Vk7CeELr-ID-ZJmb-HSq6pKs2snH6zhsvIkjTxsh80w7mGQxoVzB_q7Gj5_tu7H1OmRoBbGnmtIOLpM5oZfQBRnwR21xbP8W3",
+        "photo_reference": "AUacShi941g-ck3ev0SZHRGWkYfF3T8GJZIfldohHz4k3xaKzGRrEq3LENDBs2Cp5fRDToTfKLZQNlZTU-lj9r4ys_65ux5uMKoHp_MtEDtPZWjb1klXyloGJsRGLnR1nSR6BgIUYjRbxCeat2egfMjVMwm1QFPJ9Wp0-McsvE-uYGHHP9ab",
         "width": 4032
       },
       {
@@ -1009,7 +1003,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/114177440049853087528\">Ximpix Kreativagentur</a>"
         ],
-        "photo_reference": "AUacShjx5r9BW2qev_d39Ll6QCBIYHe27p0gIL7GPXSZBnqQPXaMbHvDE01ngIrDS0oFbUN1RJLYRMQw2MdY44uh3QiZUdIc4GwbId6E8W0Kncyjls14krI5GKM8JeUV3FgqTHR_3WSjO81u-KpzSNjgYsL0QGDbdOOikVc-yB9xZcmKnHbG",
+        "photo_reference": "AUacShgLuV0-SSws8s4ohy8VgtHyVj9YS26PhnzQ7GcVIyb7fasLwSbl2kLjOtb7ExssOIPO9v6sYVRAZZ2FTBuu5JWLMjYmONDICZVdS7ckKVsxNlZV3tiEVvcUIVmTwpxhL9y1znnamPYX1cmz0XRcclyIqPxM5kx0eQtcSaWoj19TMG7t",
         "width": 1334
       },
       {
@@ -1017,7 +1011,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/117402368869187745375\">Bernhard B</a>"
         ],
-        "photo_reference": "AUacShiN937dwUdYHgoNaEUUrSOioYOwKWv1izXJ6YqYzgfWTv62HH1WjtSNUjEacRuwI1pARAU1Efso-6IHguhN62UdCpbmdBk9cpwONh8AqMJU3KgDb9_lKfvkcY6ZgxGtlTWyFO7Wme3CzitK2Slhm_w8UoY6Gwsw0oYNygsfqIsKvsjc",
+        "photo_reference": "AUacShjaLje18usrnoL6-4DGeM9djTkyF7DgHQN-lv5cW4e7JfRFwHVy6y5oKJhV7ol_W4BELXuodXCnqh82-QYi8pVKGjc3s4amgykaH5CBf1DLICtLntvuF7Cly2dL4L8JUZaJFUHB8GoT2IRr5LOrtil6mdsWa_qNGqCZ3JzNDovxa1A_",
         "width": 4032
       },
       {
@@ -1025,7 +1019,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/109956321120843177728\">Harald Fiene</a>"
         ],
-        "photo_reference": "AUacShgqQJCcBU1HV_B_Wl699Q0r30xYjzBfQDnfanjiIlES55qRAScHTCyNWz1QeaGSjeE8XhOsvxxvHfqA1MX-aNvzLkW-JZM5n7cCU8eHJJ6a2ESTYpkrn2LvuXpdF4SvN0fJ4U6MW19ZhpwgnYZl6GJUV0bKKfl0Ur5f3C1GYnE_EYRP",
+        "photo_reference": "AUacShj_WK6FpjUd_i3yZY8C8LvRMRrfnw3sbZVZD6479TU1tbMIYyP5PomzcxmiqELNbd8dX99QaMldS-C9FqojG_NWKf5fGE-C3LrKDjOEKQijql35GxiIOiKkX-5tPZgDyK33yFDvE0J6D3t1mlNdqIWduKe9UxVJHzBVUQ01WPWFJ0ZZ",
         "width": 4128
       },
       {
@@ -1033,7 +1027,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/111106136837748927051\">Jürgen Kalmbach</a>"
         ],
-        "photo_reference": "AUacShgBTUpjvnhRn0idB_K206qbIu-yINXBacUuQzVmgyV1066utfyZ1CKL7Q3X7NfXisOraU9Sj9mD3jotJHRkt-JvnKUOaX508ypSSH47dZomZjSqtxOr-4nTikIS5PkmYNOLdBlyug6346Uq6EkkKBBj7930CG0_tcLW1v0H8Uyb-Glv",
+        "photo_reference": "AUacShjpO5p9ogCbKj4XMvQ4BV3SU9yJfgBb5aALIIuososrd2BVlH_4GDc0M8tw5mwEruihNErddo_xaBEaOtFoglIXUhW3qIpI6PWryt2_NY6meHiwLMn4WandgwKcljxupsZkhlf4a9-47BihFV8cxuVnsEAimkqcKunHolwQAnHFmiEj",
         "width": 3264
       },
       {
@@ -1041,7 +1035,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/114090503964760354994\">Judith Wo</a>"
         ],
-        "photo_reference": "AUacShgsXArIwpNBNo1J-vV_yytOwqQ-F4xf4bp0aInS13i78iR55pzvgw9qnXMUYerGTiuewwVXW7MJ5QOm-PILwPkTc_OTRlDi8VOdG5dj7qhSFxlqB1Zhb2LgPy-V7tfSVS59Ao1aZHAOQRuYKlF8AvfVBguZ2F3l_l3kMmM5KYbsdj61",
+        "photo_reference": "AUacShjvG2893tKfJLC8OfjXrslmfA-4As2VyxOEcmvZg1Hx4xMnQ4f1wrIU31BXa5_Ji0gc12v2x4G2IoRjQiBE1WfSK34ti9ON8GEKW8-j1YUG8yhB6y37UySFOpJRKqPvGsgCexMDJEMF6xfBthxA3TfWssF76YEhlVpVbKcZYUUcCWwS",
         "width": 4160
       },
       {
@@ -1049,7 +1043,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/109923608538501188774\">matthias garbs</a>"
         ],
-        "photo_reference": "AUacShgE_M-h5D2sVFEdUPGV3Px7ZiDZ7BBwf7osg6Kgeqp0u5tCC1tRd0ZvkFRF1l9Tk2tYMUYLWvSfS5lokYgolcf9Yn4IJw1v5eW_t1e3A8dPkWu4hYcAwejjPYxp0pq-RrmLXPYzWtkVS6aMYpVByiM2XPD12UhE6oKHeRZGrXi6hS8f",
+        "photo_reference": "AUacShglqusT49xEn86vOv_DEHPKQ5Tfy2gW8HTepjSQ8NHnct_KMzCSJZ2XJ1PC3rCD_q3KJZSzE-SEOfNDjQrlk1GYILu1Y7aUfv8E8JQCqQs7XRFcD236yLMxVttUFDOhZ2vRzVY3edJtHhVFbXk0JYmHbRSMheRrtSlrGY6FcEFoOmW7",
         "width": 4000
       },
       {
@@ -1057,7 +1051,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/116106248121802035776\">Uwe Watermann</a>"
         ],
-        "photo_reference": "AUacShjbyyun2wFq6pG3vjlDwzyhL_DQ2QcWvHlfzRowplSQYFNJVSB1FWrKcDcwmwNubsucTLYJGDTMLEgMxQRBaJNZ7lyUzuM0ATsFr7yKSbbavOS3469Nc0p6xf1Y1TPDsWifmZgooWdQE2H44W-9NV8TVggpl4xO-s518Xf3DUMUj9tQ",
+        "photo_reference": "AUacShjn2AmGObodbv8hYcEqVtFD5rxlr5CoLQH-ecrk0u7EplW0DIoVeqap4mQFuAefWAx4yr3lywXzVOjhQTy-hOx5u83ETeyG62sg_0_NKCsMN9iOO0HVcCzaxSeFsWxzVn2ae78Eie1O6g0A6-p9K_R0cgG-ZdqNuf4e3yh2PBpw1LQQ",
         "width": 3024
       },
       {
@@ -1065,7 +1059,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/114177440049853087528\">Ximpix Kreativagentur</a>"
         ],
-        "photo_reference": "AUacShhOCzH2mpO5hyFM1AHPbCEVGQp5jr7n1FzuGDz_TKf0CQzXaJTeOKnihfWXwrR9Z38Mx2mYmJZPE6pcLPcRTo6aZEJt6W2nMF75nJrYY2XT3V19QGpXt3OMDiwlQbyqH7ofOAE7kNCefdO7e30XmpDwD8TV5IHPIP7-CihYUU6zzO4i",
+        "photo_reference": "AUacShjE19b8KqnAcOChsyn2074jpysxbjbLMYklEHw5oLZdzwM5Kb0WFI2b0OkLgSCoDw9_EROBjt8Ezp314IxDVMUkFNo9FeMjJcTNcXQs3_YtrunP0MHxayHacusCpM2K6LJMoDDAjtRwD25X3NKUPIrXp1KErw532RkkCUAfqiYQmtNg",
         "width": 1334
       }
     ],
@@ -1073,8 +1067,7 @@
     "website": "https://www.diakonie-himmelsthuer.de/",
     "wheelchair_accessible_entrance": true,
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJSd40nXqlukcRmt32E61x8jg",
-    "date_retrieved": "2023-08-15T00:05:50.951Z",
-    "placeId": "ChIJSd40nXqlukcRmt32E61x8jg"
+    "date_retrieved": "2023-08-14T22:57:15.438Z"
   },
   {
     "address_components": [
@@ -1299,15 +1292,14 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/115998271386605011570\">M C</a>"
         ],
-        "photo_reference": "AUacShi_XdjrPiDECIqBVblVxAPOPvexXNiNYRepIVckEV0ECGtpDUdNA6rpF4POgbZEW1oWElbPVsZTSdNDdBQyKZcMl2OJ5X06wkjO1oII3osyKyQFzKBo4qhV8HqQPdminjB8XLpgOEPAdnMeAmW18S22xF6hUrN4fkmmW3YIdZBlaTgZ",
+        "photo_reference": "AUacShgVYCizVoFTlXlzefyHzBygBINsR4o1zm_pSJQihu_W3H22OHXC41dOF9-w9TNBMQ6z18Oyl-BulB6SxukDjJE0xqxMH26h68-Rhr3bpOejxjeZIqyJ82qAZqlCpK06N53KgZ-7Z-5XnNzi5jV8TaUnQzgkZosxJ5NNHfzCvyY5jO_9",
         "width": 3264
       }
     ],
     "rating": 4.6,
     "website": "https://www.theaterwerkstatt-bethel.de/",
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJJfzRwOE8ukcR5KwtpJl8rWA",
-    "date_retrieved": "2023-08-15T00:05:51.125Z",
-    "placeId": "ChIJJfzRwOE8ukcR5KwtpJl8rWA"
+    "date_retrieved": "2023-08-14T22:57:15.568Z"
   },
   {
     "address_components": [
@@ -1469,8 +1461,7 @@
     "rating": 5,
     "website": "http://www.theateratelier-muenchen.de/",
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJS2RlC391nkcRStZ-S1Wb6Lg",
-    "date_retrieved": "2023-08-15T00:05:51.256Z",
-    "placeId": "ChIJS2RlC391nkcRStZ-S1Wb6Lg"
+    "date_retrieved": "2023-08-14T22:57:15.735Z"
   },
   {
     "address_components": [
@@ -1635,7 +1626,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/104783571245189986157\">Mosaik-Berlin gGmbH - Betriebsstätte Kreuzberg</a>"
         ],
-        "photo_reference": "AUacShiSnHA7SHq2PIVG5jXk5x6R4W16TOxaQUhNuBc3jr4leYnE6wM_-IV1Z1yL-Y6Q-vhfzTkeKKTNocmu7JG-5vT_joF3UDJA1CDTMLjepwMZmFrSTh1Y6nGEKDwW6H2A-Qj4RVXqIj_sb4ZG-SR6AOr2Ip6Pjl8i6gfw_7IvL0b02Eyv",
+        "photo_reference": "AUacShhOV7nNJR853Hx6m-JJjR1v5DS7tsqQmS1e9w9sxb5R8YSGcZzQ1LRbqNH1Y2fXSP0Tn6aQ1e_4GGX0S7-uFQMLZsfvexudkIqoDaur7vONmiSCDAr9T_dTz7u0lObiJU9XPFl360sVgvy_ERgAh45MqaDfu_SyxU1vZomp0678YIc_",
         "width": 1500
       },
       {
@@ -1643,7 +1634,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/109552307988112743685\">Marco XD Nadolle</a>"
         ],
-        "photo_reference": "AUacShjXEdiELfq6cICpR5G3WyFkIMCu6i_BJY3RT33bn4ii4w4y3BWm3kcLfb3Re12hACnvpENp4EG6uLrss69SS07ZTYzUu-7_XWMMwmMiWAvmhQrhpb4yT8EtnFqDUycLLvuV4C09h4NqoGcpNj5OeWkCz8avZ8bT2RRP0fqzPn6YTMNA",
+        "photo_reference": "AUacShgsgu11fbjW1E3Gi1seBaS0Dia-815AMLJrM4BwddtQWtxHmV42k3CSdwAI336GOA929nyxCERAZL8Yyz0PsmD1f_mAKnpNq1sz4TEk_liwa10tJKI7xsyNudU8R8-7Wc32W9OOWdJN38bkZVl3dPWB_PxkfLyoQzyFTxTT10SWfxup",
         "width": 3264
       },
       {
@@ -1651,7 +1642,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/104783571245189986157\">Mosaik-Berlin gGmbH - Betriebsstätte Kreuzberg</a>"
         ],
-        "photo_reference": "AUacShjV2y9vNuuapptPYdBxoL9GhUxAXnWHxkwBSX800xPcqAV999RVuFWbNis49AfvQWd8qeMftAc9ohGR2bUHxobaQNWua7lIpFkq6UzMB00heQgdUSdisdRdSNfCkAzpsdXcP09Yk1dtoexAgmuhaHoiKeo-AEQhNOWWAkYYKXrXqB0W",
+        "photo_reference": "AUacShiG-ZlRZwbcgIWpKtKE0SokJO8rUPDDV0A5OXI7B1rn0_nFjMqnBgC5JQhrEh0FeNF3TcW426nBHxmgu1MzaM5tGGI4Ze5RiIm8UOehMEwfyfKMsaMNED0bMoLSbk_vekukr06CV107RlqOqfNXkE9NZmnVBufmb3BBIOX117DxY4lt",
         "width": 1500
       },
       {
@@ -1659,7 +1650,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/104783571245189986157\">Mosaik-Berlin gGmbH - Betriebsstätte Kreuzberg</a>"
         ],
-        "photo_reference": "AUacShjKkxKWtJnhgjjyKJT10iLpAFBscJzTP4wttKlQNFnLCiSIVKPc017LXXWnLzs5ggzn5gnRlvomOHoq9AK4Du8pgbCLawnHX57zLyEqR94v9PTdLkMMClSrW3_VX19IqXzhyuZGG8RX74S1PpgQn4PyN776AWFgTSInoX4wZHHNGaRs",
+        "photo_reference": "AUacShiB3tSinDZhjpwpL25kim-ZgpN8dWMEPSnV9nGWN8UcryfMerUfXznG_KtI8-M7RnGSp_QHhQx3Wr1nhWJDd_MobGZg8PZZerq6Ftg6OgbZUDGxTx98APDv2luZjUNfUUMjDy840izQDsj0DYMRHnEIKZy5hTj8XEKF2btOOdX4Cq6G",
         "width": 1500
       },
       {
@@ -1667,7 +1658,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/113936997245236232149\">Eric Spamer</a>"
         ],
-        "photo_reference": "AUacShhH_m_UYA9W9fO1mdwd8L3ZUCMlK7h2RFDo7MJ94LxWxYQiyKTlp_-zzSk_jpRkWFPxJeJgnZHg0nJObhJ19DQrysJLt8xSa2yXQx6t2E13GGY1JtwFyTmZetAY-jFg3M8dm2Kmx9sI5xVYmGBZqQy7JqSe6uuEcZS9B9pskVjgtXOm",
+        "photo_reference": "AUacShiY0tCO4Mk8GXQMA5JuHl5fmsbXGOT2Wzwj05FywQ3mceikuBmuzD58e8pQ9MinCSJyzV7vhA3x-fAv9PQkB_6U6zQ5HZH902fRvc-nraLLwv8LsWREaKo08ZVSxT36doQdGKAQMf6JKe4VqTIJOc9dXNEtSuy4r0w6knLh-U-7ZNa8",
         "width": 3024
       },
       {
@@ -1675,7 +1666,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/104783571245189986157\">Mosaik-Berlin gGmbH - Betriebsstätte Kreuzberg</a>"
         ],
-        "photo_reference": "AUacShhNcHyfzhaBLbbEhFugtB90woVT__Cx_yNNs2IYI-NeVK8OP8PEFvvGfridcQXS8rgPKX_XptLfNLpQ9gizN6jHA7Y3e8B9C8uXUFbg-JZ1lne8t4WyGK1F4S_h3ufVpGLErH4xLfR9D5SZ2M6HTSumF4iFK7oYhCLUYqJbBoys3Q5Z",
+        "photo_reference": "AUacShhQ2uoGkyKdIk-_6Px2dsZG8B60ueRXHzr6F3AKnJic95NGckiBqivS5o7-lsVj8zYyt8vbIEF8mM9i6NM3H4dqUgjis9542W70SPQ0YWXQdEbmpA4cM5khzQv3W5XFc8-a-JwC3BX_S2svepg-Nsh6_uUTqbVFQ43xGcEQ9efOpX72",
         "width": 756
       },
       {
@@ -1683,7 +1674,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/117276186416649258006\">Holger Osterbuhr</a>"
         ],
-        "photo_reference": "AUacShjvSgNEtK-1GHsXTnuRjHjRVM_5zmh3IEcO_1rLOW2E8KwtpLwWE2OTVBwFuIwIEPdtGzD5tsOSNtcTfKeSDJthddIjYVZvIXP-ZXaHO3YZvak8brVN1EF-ybfz0cdMyDR3Inf7_A2coceqKBbspsi_k8AvoZoNJYj5oAmtIKPHrBBS",
+        "photo_reference": "AUacShjSMPwHhiX1lZwqnEtCMfGzLPhj33RG3USKZGA-3YPxZpSpu380DAA1l_TvBd7LhUqqa4SKm81-jMWQTHtq_lgrqkkfzO3N5Et2yF04-RNexH0ftKikFQAl1TOd7sqRQI9ekknQhaWR5QYGV1Pl-uqyd-mXs16t16C5K0K9K7JofewC",
         "width": 3008
       }
     ],
@@ -1691,8 +1682,7 @@
     "website": "https://www.mosaik-berlin.de/de/betriebsstaette-kreuzberg",
     "wheelchair_accessible_entrance": true,
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-8fl7MpPqEcRKgbKbPUWlR0",
-    "date_retrieved": "2023-08-15T00:05:51.454Z",
-    "placeId": "ChIJ-8fl7MpPqEcRKgbKbPUWlR0"
+    "date_retrieved": "2023-08-14T22:57:15.872Z"
   },
   {
     "address_components": [
@@ -1869,7 +1859,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/108544760501435302570\">Mosaik-Berlin gGmbH - Betriebsstätte Mitte</a>"
         ],
-        "photo_reference": "AUacShj5rdg3PTpxf6NQ03MxD1P5G9tJU-LJj883wUSzyHXcel4Y-rtTNCc8PvZC3nWWtr9hGSv-Chq3Xy4StRfiOWAWqLaunkW0C4Wn2gFEf_yjJyjHScYzdQy5EKF1o2g9F-nHotnzzq_WdWe0bnXedVWSmZNIcsy--nMrgaz-SJQD0fQo",
+        "photo_reference": "AUacShiTJo1X5SJn8KBQR4iUOCML5AVPULo_l8zJu3Y6zDivEbWfEaOBigKyvyWvqmg4LF9vt-ITSV56NEkl5awiUqh4S9zC26WFBuz_2nwUQI-dz8kZEsICaNqiLZr1jiKz6hL1VenpGXm8t4cF4ADWwwjGcWrRig5D3TbJdLXvTPGu3xis",
         "width": 1500
       },
       {
@@ -1877,7 +1867,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/114863606118661716484\">Juliane Doernbrack</a>"
         ],
-        "photo_reference": "AUacShiCsGr0HaY9WivIV8il2Rv-HNj8RLctJXOaBOkfk5g39TABDalrDyVE72qpCXxvQqyKQ7oj6l41hoebSeC0st6DQ41o36ZErctOwO_BaH-sbvWoVMyiw-6RC4MyVPPZ5_dQ1F5KYT8YvA3xiZdd8xJdpAl409OS6MyatCr5LdqS8FEn",
+        "photo_reference": "AUacShiYAojlKrtzsbx16_UTDERXDKr96fuwIFZwf-ZwiMDz8Nr153wi4nVxvkFJ2yyjMAf1mcBx8pBRR08OW0EsndOzW9eEuuAvMbAJS_f3mIoo597558-2P8h_slXrRCfgt2R0GwtveHg-nSsWSd9wBMN0WUdCwmMdo8MB56WsE0XyIWh_",
         "width": 2988
       },
       {
@@ -1885,7 +1875,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/108544760501435302570\">Mosaik-Berlin gGmbH - Betriebsstätte Mitte</a>"
         ],
-        "photo_reference": "AUacShihLKS1wylHbHcgDdLDspCKzAnAzBVk3oSWhJRsUmjY86HouDmXx8jqkNFJHOL6p9vKqCAXUcI7xjIbecLlldE-gDPSzBw6aSUUn2t9oJOnqWa0jmksmylY-GyXlyQtJRmolRSo71wdSWfv9pZVdhDtNQLyrkSbl-cSOWJvmHdzuCl9",
+        "photo_reference": "AUacShjyHxMojEdIK7kzgMbPYbMUsj4f4xJQneBqddlkF-KexDRP4Atp57TTifJcAcOe1dWvkLMm0C0jPmD4WjQAYbSf22otLeOs3E8xCZRueRUtYqqA0QSlQEFsgSpKDVjYC-mfGxTLYMfdgZEfzI4L_YDJv10bvvG7VFhrzwwGUZx_euaw",
         "width": 567
       },
       {
@@ -1893,7 +1883,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/102690979726200102365\">enno reinelt</a>"
         ],
-        "photo_reference": "AUacShiH3WwFgv2oiCblcZU3S70K2kTw57uAocmwMbpZn8Ojg5LsedacoL-DfxJb8U_SkblaKv4vKA5nOt_fTxLU5ThE5VQXDeKwpn4ktZSipSgQk2qQ3JZDXLLg5Es75E-MRKeCAQP8_EzQK_gsrXQOrQMtkfOvcFzgWdgH_-pyI9O_SdjJ",
+        "photo_reference": "AUacShgV1B5E-9T9e83ika7UJpzy9WavJGgu0SipBbJa92OJ_ho2d3nNZqdIrtsqtq-w9v8JtsxqgksyQQcO0RvsS925hko85zx8UcDUah04s1s4AfUiAyW-WqnfqOOhNKnEekcbLtF25Hmx3iEoiGsVGUsBN5BShrQK1Dt0EbuRmJmCNTzE",
         "width": 3647
       },
       {
@@ -1901,7 +1891,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/103687454275536051499\">Marianne Kölbel</a>"
         ],
-        "photo_reference": "AUacShiA0qm-KOZWfJbJY2z9nzJuIIA1RGUEMPV34CLxZkVur7k1ReLgMzVYrt01L44BvZ-8ae-87BOkg_Tm7bS7G9uCBQroY-3dQ_j-M4sqsp07LDGJK-yFYLpX3qmq4uiL5khTx_gvwJUzOxK_9wtFKiDxKYV650_ipjSuf9Zt-WvcnonA",
+        "photo_reference": "AUacShiO4yE5eCjPZwUdy8qGKJt1yynhGp4Wu52xOFlEeyLi95PHjS2bJwYJA9tpCzXgVAF7SCXRRS4x9fTY1GajAgWJRl6b0xuvImsFBGNvNePKRpSlwbZoHvMN8CFM5GYVyYiinSXNToDi4klD1wXmNwxmYFe3OjivuxRftJdmKkNeV4P4",
         "width": 4608
       },
       {
@@ -1909,7 +1899,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/114863606118661716484\">Juliane Doernbrack</a>"
         ],
-        "photo_reference": "AUacShgTs8glNsKpbqMaakWWB23gBmhoD3seRjetTuPlxnendIm_oEbgNsDOyCa_fO3eCXGZcFlUXYluAth-Drh-qMBtAJV8A9YuVFiMdq7GFWgAddtbhndtsb0WZdaZTtMDLqJKE9tFbjXl17P7XoUpQImdTSH3jlVUzvxmkUkDXyStTLSO",
+        "photo_reference": "AUacShg3YQ7u_R7gCuvtI4UkE0NUVluUfzFdwP3i0FqMNk5l6UQinHN9n5oAKiY-8IytO8u09Q8N_9MVmKqdrkE_sm-XAl6WT7ltH2vy-l5CB20XMgb5UDVQ8zMlbrMxmvTRSpepisKkerAIZj89xS2_IQxRxs6-S9gkZPo6oobQTzfy2naS",
         "width": 2988
       },
       {
@@ -1917,7 +1907,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/116802393705885197151\">Arkadiusz Milejski</a>"
         ],
-        "photo_reference": "AUacShi1n7kwAmgshT0I8bOqVJre4YOPa8bZ786FqtxdUsszMMqYOhZER-T6Y3rbIMNV-wvgbsiSBTbRm1psQF4OxLgTtL7V2S_ITVcQeoW7c3BylkPnkWuVWDy7kbPAJmd5AZaORfIsPAX2w3pwfYIjrHKcKlXz-TIzObp952wRa9Q93xaP",
+        "photo_reference": "AUacShh99GSMqeje4qK0uDI9OAvcIyt-WQbORuq6a0L0qzeSfnweB9RHhObJFkN7XYV2pBgAfs9gVsk1ErXr7u73qcaKXLglZJ8ZMMNnliEYPG8l3E1-UCdo60RuTBUBNlcHS7gYTNS-2LoVHT0ShqkAUk2XPHv-kUl2PrG_d6NkDP1q2vRT",
         "width": 4000
       },
       {
@@ -1925,7 +1915,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/114863606118661716484\">Juliane Doernbrack</a>"
         ],
-        "photo_reference": "AUacShjhqu7btMof8wjVUC-5To_flVmsFAltaYF4sAtjJx5EHZ2A6LsAc5V261KCCWn8PLOnXTCEhxqcqV20Inh1NBZDX_ZikKd4q6AaMZK5Zhtj-lbryCS1MdVVAMEjXuXkiE7U6Xh0SaCZlpOeJuJp60UxtrR-9f4O58UOvrCceZCgvQJr",
+        "photo_reference": "AUacShj21m2t2JisDTa7SLoAmpXSjKFLJsbzlA5BvtjoCUHOQ8oOCoBi5oLM7LICoVq53-EypRZDic7aE03FzO0789AerawP-d1TjxT2xDQlm4LI9cifSvjA7DLVgcLRYlMIPVApj84imi0fhdu6Vg-X5FwzZKkgWGaa37aZmDdF8EpCHROW",
         "width": 2988
       },
       {
@@ -1933,7 +1923,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/108544760501435302570\">Mosaik-Berlin gGmbH - Betriebsstätte Mitte</a>"
         ],
-        "photo_reference": "AUacShivE0wgGe9EqKOF1TKdi0w6YZWpVBw-xiBEfsFwAJMXuWEyMrdYhz2A3lAuOxBmZi1hHZIm8sW3E8Qi-UuMF7e86p9Sz1aYCRf4BeOsu-C2It7pcpOzNnzid_vfxgdIGlygodPeUP14k1v7dMvb-GSWtFQvkLKUxCUy4q1aum-XPzjG",
+        "photo_reference": "AUacShhAYUuhTvIfZLjjz9EyUrXER691IAwzZhXzlELVUryhbYK2uZ_YG9Vi4lKufirYpxDFksyA4e0ueC1dnJR7v4L4cME_tTIeIGVAumtGLE1b8lsYXL7_y4pbwMKwJLHYjJTsuek8P-84ew0G2iS4MHdO4AtTmoP8YCSFWcQGWi0XaqqI",
         "width": 1500
       },
       {
@@ -1941,7 +1931,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/108544760501435302570\">Mosaik-Berlin gGmbH - Betriebsstätte Mitte</a>"
         ],
-        "photo_reference": "AUacShg8Dl9VKpCzYBoT2rwUt_Mcn3FqmoJvk6s3gG8FUEWXC3sdjBhJpv2a7veAjoTCc5c63G9FRHJEajMY2kPOu9mMIfX50ftvXG5YiJ6SRvd3DPGhajw9vUkQl0S1kDfykIH050AMQyTh2Rx82ACI0Cuuts1wNuSftRAtTRBHOOCFwAmH",
+        "photo_reference": "AUacShiid6B4MjjncC-mCKkdfg-qv8NR3EG7TS8dCLKmK-8jz4NwVBcKg52aA_Mza4LipGlfHtcDk3F6V1zIknSyYEKIPje5vKtY0alrsJLY07vKl-2oLBubCiNs_RSmt_LyTBq1JsdKmMS_lTpo9-09grGQT_MOEZTBZgpVclkwuVRAh6sN",
         "width": 1500
       }
     ],
@@ -1949,8 +1939,7 @@
     "website": "https://www.mosaik-berlin.de/de/betriebsstaette-mitte",
     "wheelchair_accessible_entrance": true,
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJq-6t5zxOqEcR_Q389jq0khI",
-    "date_retrieved": "2023-08-15T00:05:51.583Z",
-    "placeId": "ChIJq-6t5zxOqEcR_Q389jq0khI"
+    "date_retrieved": "2023-08-14T22:57:16.000Z"
   },
   {
     "address_components": [
@@ -2146,7 +2135,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/101816810726149715531\">Severin Bunse</a>"
         ],
-        "photo_reference": "AUacShjQ89BIjcEJ8G7pzBIQkwsE62Kr2p8yx36WB2PMxktHDtMIpdHtJB4bb_QcaWG1_9SPsBrGq6_NlypqvGe_Gig9X-bXeluqgjyfMaXwFR8eD_-vIkhmdPMJ1q7VRwA0UiWUpE_VbOpqWLBsgsAxLYOC9xkuJtM4OTImxD2La1FtUM15",
+        "photo_reference": "AUacShh_6VkepfyDZsirK0HOb7322mevD0LGnvCswaFUgHkMlHZom2IwagSPfkJy-LkA4PFwkvpuLc_-iwCrt-44BK93U063L_QMo6hUBk1PoXpLsifKxfh5HMEubSuPsdReM_vux0r3ZGkKOUZev4cbpi1-bFOfNvpiRhb0wUdhcXRZjJZv",
         "width": 640
       },
       {
@@ -2154,15 +2143,14 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/101816810726149715531\">Severin Bunse</a>"
         ],
-        "photo_reference": "AUacShjq6a3SE7_RsSLZj2wPLqX1rPd82TKhsezA2q_OR6OH_XyvLlz5JajR4zA73CUtSZVh18wPCBp0yKlCf82hUA-DWjPVFJTzWkHS10bSP_4RxLbQ2pDPRXr-bP17b8Gt5llMs1gk8Cp0NAcQtHdEvbVK3cYgiK7uCx1_WmE_XiBlJyxD",
+        "photo_reference": "AUacShhrVpspjtZ3t9FPUsvajbbdc4U9TonH0qYBm0HQdyh27HDPkUmL1Hply7Ka9-a5LyVONp_GzBIJtMrpDAJmb8mCPU94S72XaOO77JGLAFd4VGEqMYacC2csV09xl7RS1xsMviOF3jG8-yYscgxWqSLGLN5wvbS_gzzO2eFli1tp_jt3",
         "width": 425
       }
     ],
     "rating": 5,
     "website": "https://www.kunstpraxis-soest.de/",
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7XHrodJiuUcRxJhFBKBP2xg",
-    "date_retrieved": "2023-08-15T00:05:51.694Z",
-    "placeId": "ChIJ7XHrodJiuUcRxJhFBKBP2xg"
+    "date_retrieved": "2023-08-14T22:57:16.115Z"
   },
   {
     "address_components": [
@@ -2246,7 +2234,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/115192874551718345860\">Ralf Nordhauss</a>"
         ],
-        "photo_reference": "AUacShhaNPwv37_YPSQuN7hoPeX-ChKTH0fuQIuyAOMd9KXwsJsvZG6UqnDYobC12Yw9ME-2Wm_GK8OT5jPjsfwNonSQ20N0dgPP42DfW4TrrQGq2elV250PeOUeXh8qo9ql_z76Cl0o-gp3A1YeMLpEPeiZFRlote7zftiEqzJi14nRAhoc",
+        "photo_reference": "AUacShhu_OUO4RiQc0MeNu3nbN8_gyyyxeDhhqe264bbyVfYb7I2MO5feZAsHO7tqrzKRarQX00SBQefjBo_vr7Sm17XvYMX4gyjPOt7MN6oQxZouEwY77wHLJovzD_60AZ-QH0ZPRr21B9dlXPVGxSY0ri4Dp0QsEr9FJflhzTtKvyHHK6I",
         "width": 3264
       },
       {
@@ -2254,7 +2242,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/115192874551718345860\">Ralf Nordhauss</a>"
         ],
-        "photo_reference": "AUacShhgM9rQ2UmNAhvqX4P7qPuOiC07FKXTPxKa6Oc7W1juqZSXyaQaRffE2-CKpMxW6mzLYXk5FQKLn0KbEvBtjTAoa9q6_zXQTG8F1oVX_3nO3iLigD67DsD231Xq46_38zilmNKkehbx3jr6g-lkvq8ELo9D0MOaIHCismtY2baHupyV",
+        "photo_reference": "AUacShiK0g1YVEQ6GTGc_T6RJOjhVdRBJQsehkyo2f-nUmcO88JbV0H4c6alf7-iWOMbbgoleylPgrkYGpMx8RaP94xq1pbQZpEP8tNsTz3xinQ4liN8Q4FFthsCawdCZLdr58lGXlVKc93anj04JL6_DMtizz6IahDWt0QBen2jF6yIi2Am",
         "width": 3264
       },
       {
@@ -2262,7 +2250,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/115192874551718345860\">Ralf Nordhauss</a>"
         ],
-        "photo_reference": "AUacShgikzg3pnM2IzTH9q-LqGtr7nbbteKMQzKTBDova49_Y1WRvIkIP2CsMiDl942j4flLtc63yhe3EuKhsY07fsrXvVtJk8Qtwop-29l73pw41Qm-SNMGQqDKTjnATV_R5dG9MC9DGg8SgvUw_SHNMVb8l4qk5975chx83R2Y4bzbB3V0",
+        "photo_reference": "AUacShgShjU550H6S7HUTJ9vR_p_hrnZAhdwBYvY-x5BtpEguEM6C68DGTeQZBPTqSDLsOvwZIeH7QTqsN9EC2e-mkBbuaBkUHV4Xf7wEy1sjPAKPDTvXRjNd00NlUtjO-FnFjEAoww7fIA3DLrSc0IdautJxPtQrgmPSsX4Zym384SSgy6Z",
         "width": 5312
       },
       {
@@ -2270,7 +2258,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/115192874551718345860\">Ralf Nordhauss</a>"
         ],
-        "photo_reference": "AUacShhpmd05brTgP25G7zG2o2EO1qQD60f0td3hyfuW3aHOGU4RoMINg2-NZgNvAt1AMZOoaC1VhAiyArc7Xn5h53Jd_qh3CUo9JKtOv_Fvc7KCXZCtTBGzBQVaPpc_aXmg0uYyYHyZNjBai0LjqKUGhxXd8UEzKnoNKgeAaUlH4ALcJvdt",
+        "photo_reference": "AUacShiyy6G0cQFz-HRyqoulbxVx4BnWoMWCLL_BDawVoqlYUk4cuVnZw_Ffm8H3RLYoEg5XsdPwnB5riLl8kDOJVFRiMymCo0jFziGoied-RDiiVHJLE5OrAOUpJ5ZHSt0NrvGfvPDPmSyksWfTyW0yoIyDrR9-VXthunYG_8G7p_jMtIpT",
         "width": 5312
       },
       {
@@ -2278,7 +2266,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/115192874551718345860\">Ralf Nordhauss</a>"
         ],
-        "photo_reference": "AUacShgypJerJniYM3kg1jDoewIl3cJTxNNZVCKE1dp08H7P2XNjCzIKT8FY22jDbe6s4RRtcob0dXPAL8XHv1N0QG2ZnNzX8pgQW2ljEoMx98VqIH8pNma1eMqi5mHmraLglPD5M-uhO6Y-A-MzG5bQEMMAyylrcE3TLvozymehxgNIN4yt",
+        "photo_reference": "AUacShiCMk3YbB3TUoKXUYijUhvyBLWkn7eHV3vRB2Spxy654cqxEfdAf1JdkeGqDtQAXTPsBL2GYiBGRg5Lfx_gkdFxRPVPpeJPCrj-GMOOBDTn5nKh2b4_AIA4xFIlZxRuhLDz6iYtTpqFTRfpLiz-NGSMs66-jEClMEqF3I94ymBQZJps",
         "width": 5312
       },
       {
@@ -2286,7 +2274,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/115192874551718345860\">Ralf Nordhauss</a>"
         ],
-        "photo_reference": "AUacShiGbpxiRX2FvXet5SSOV1tvhogiRTLX9uVBYTurJG1GWznlUEwXY3ybCHbd02iDR5i4rL2o0ZPOpgDXhoe1ZhIyiUoQMnai-QJvVK7HT36uma2Vex8MtEks_O1sSXLtA17352TNXjv5lnPauMmC5CRSL1f3ZEiUFxPIUTN1MGjE8WFs",
+        "photo_reference": "AUacShjUxuOMEmqLY3CVU9QPmLFOWofV7VbeTFABIbEl-1IZhVJ5FVY2Ke7qKLYZMwOFi-yXSnqTJRxUPi7HqSeaV_rGNh3pn_hdU0aSAQthcnzYboSUnBiSUDOeQ6hBVFJyesaNq1Db7kQ_YZ13AwPICLPvbhJdIGXc8qpyRexeGvZcdQNg",
         "width": 1836
       },
       {
@@ -2294,15 +2282,14 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/115192874551718345860\">Ralf Nordhauss</a>"
         ],
-        "photo_reference": "AUacShhsI_UzrWxtP-S3yEKuKQazE8FSghsiGoPnpMHdRWmGjRxE0caoIx137LGIH7KdHKjZUNJ1m14NB3dEDZdDa4YCXoa2tGF6yORDnd2iZLnb28cJYHhUpqK14LBXstZN1BsopdIVov2ef9OR1sbdSguWiUeBb6epeU2JtIN6ci9jJ5b6",
+        "photo_reference": "AUacShj5K0FgnYrlXu8lrafMmtFSn7KExLl7mWvRdUVtuqu58dY4A9rHpom0ov7qCEcUhvO91YK0Als8_eBPJ8nBjRSXRch-6T9p6j0VqL5g90rdN8FyssMn9gD8sXQuvm6UFavv-zFKuHSzkCYNS5vQ4BX9SOxxVfydNylkQLyGcLR5zBX6",
         "width": 3264
       }
     ],
     "rating": 5,
     "website": "https://www.minne-colson.de/",
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJTx0VOM0wskcRXkoIE66zTpU",
-    "date_retrieved": "2023-08-15T00:05:51.818Z",
-    "placeId": "ChIJTx0VOM0wskcRXkoIE66zTpU"
+    "date_retrieved": "2023-08-14T22:57:16.235Z"
   },
   {
     "address_components": [
@@ -2464,8 +2451,7 @@
     "rating": 4.4,
     "wheelchair_accessible_entrance": true,
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJz-92nLHHmUcRq98lMVgXRTs",
-    "date_retrieved": "2023-08-15T00:05:51.928Z",
-    "placeId": "ChIJz-92nLHHmUcRq98lMVgXRTs"
+    "date_retrieved": "2023-08-14T22:57:16.392Z"
   },
   {
     "address_components": [
@@ -2549,15 +2535,14 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/109614472568283557029\">Peter Stadelmann</a>"
         ],
-        "photo_reference": "AUacShjVvKXQyKAXMHwJMtz84JVQp2cOmFgsZ009UeUbkdoWSGWrAre_ecWgzkhuaJU2OlTUvqyE6qgXbG-hR5WfU5kjb2MZ0upv51qXjs1M7q-0THxw2B5zxe8hzAXgekl-a37sE4CSyByoeEVTZ2ALYS_h9vkQ_RcPFT3bkpdvh8vULfkP",
+        "photo_reference": "AUacShjL78dSWxqb8RaSCofwohMolYydHD5ODQz67jy3b2M7o_LZMJ5MYmkNnbQNkPilUbQ3mBE7c4v02McdrcAjln9Wl7igvciJEiy9vKa_BpjbGGumnrmm3olatBccxaCWjupgeYSzSoRjg4kIMrVhfV-S612vFLDb5IGAzjqDWhCEj734",
         "width": 3096
       }
     ],
     "rating": 4,
     "website": "http://www.kubeis.ch/kontakt.html",
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQBQZvIAkEcR4uXvdrFakKc",
-    "date_retrieved": "2023-08-15T00:05:52.028Z",
-    "placeId": "ChIJAQBQZvIAkEcR4uXvdrFakKc"
+    "date_retrieved": "2023-08-14T22:57:16.543Z"
   },
   {
     "address_components": [
@@ -2755,7 +2740,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/111350689196910174160\">BSB Kreativwerkstatt</a>"
         ],
-        "photo_reference": "AUacShhhMcCbuWIbHCmuJZRL6nQ3Hfo1T8Io23tzqM4RzrszYh2cxD6VLjHP5J1FytKTS1i4cKkWqfV0HaQRW2tgVpCzWVLLbmqNJnqjR3yc_EtjiSv5UMOsM__ePgBS_3K_qdGORcbBY6M8O4-fwE-gahUwuC3GFLyfLiyB3WaUj5YXBPfj",
+        "photo_reference": "AUacShj8tgapcGXEPGT-xJBSmC1c0xyszfOQtwp80pXWQ-tcnXLFLLe7tF9utvPM9dkk1wx7oZpLERGKMr1i2-OjFuDiSSlm9vOwSZvrsicqyB04rPcT8kJwe2hcNke5ilzL9Qf8foGHu9TAH9ErxA93pUhtRt2SLUvFawqSa8FsrunfM8wi",
         "width": 1920
       },
       {
@@ -2763,7 +2748,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/111350689196910174160\">BSB Kreativwerkstatt</a>"
         ],
-        "photo_reference": "AUacShiWNtz-7hMxMOsD3SpQi83lmLQoPbx5bcDgkQZ08zEiD9k-hj8SpsaEB9fLJmiz1AManLXJY5jz0ZSU-K4jNGoOmmyqIy0_6SDWjS2GasiBfCNq4pyQhWU98Yl_cCrWQWvjEring91M4Qm8TOGI87deSPVnW4S6h6ZXpM3NsoCGkuBa",
+        "photo_reference": "AUacShhdUMV0MgNrNA6D-1C-Ct94G_Wyz5AJx0z3DaAdvYcyec2G7oeHwrhPFNksUPzWJu9uGJTQwMfrVdCyc4-Jh7qwYqwwh8FIJBH08H1jSnq8BDf4k6YPjfM6DedPgQmy5JdNUmq_q1E-RCCn9LtAZNyu5HwqM1Qxk54LHGp_DrLdM5mK",
         "width": 1920
       },
       {
@@ -2771,7 +2756,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/111350689196910174160\">BSB Kreativwerkstatt</a>"
         ],
-        "photo_reference": "AUacShh8XZThJiavnnsqntPwosRrWIKfhG39p8rsODv0w7dCaQMMMBSA9zo28LCYa4-21vEWrZuiSfhCNKtb3tCB3atp9QL-xwotmNZoN6vRQDp_M8QpFaQ1wpkPN-ogjI910QZp0zT18UsYPPzLDTGt6YZxAwI2Mj2RKNcFwhesxS7ptcjl",
+        "photo_reference": "AUacShi0g8XiW_1kaKxt5Se5khSqwuPdz2Q1RJZfALQwo55BFnArPmXpMvq7RtJ_-zU9FZenfBuKOIo-hNu-exOviuCjlZdy_nfzGwZPHqaNksda0a-9td0j_juZDflciFb0Mqz6Rypp9SYgCNp9AGdgGBl0vte65TEdEJP7gtKbq3bWOAOb",
         "width": 640
       },
       {
@@ -2779,7 +2764,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/111350689196910174160\">BSB Kreativwerkstatt</a>"
         ],
-        "photo_reference": "AUacShgM3Dw90qUjQQR6nU8_4t0pUXowHop7wsQ6Bv86P37BKurqOSH7ny8QD7Qc6S-14agYpPlLi5MnGhmslBaJNMZOsC2JXob8COVKWqhXRIvsT-aL6uMS2NSqUOSMfPKC-Wn5thgbL5xTKJq7hroIymDilym4S-O5a61t0C_g-kWT32aM",
+        "photo_reference": "AUacShhpigrivNvHk6ZD-h6lCx9U15h1G9zum0v_WFHDuc7UKWsQRlOieMKAvH2LO8GI95CFFmIrgZz2OtrHjHyKd9sfBxmd52PcQLLH2bG_koPWvfg51pWL2FseCJy5UZIUmt1uqzHsxwMrdmukr5oxyFC7cZ44tmJRk0qs-hDRlzcL1tTy",
         "width": 1920
       },
       {
@@ -2787,7 +2772,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/111350689196910174160\">BSB Kreativwerkstatt</a>"
         ],
-        "photo_reference": "AUacShg6-A4mT4YjQG1YRZQQvVlFCbqu9ve1Vd8dnDGdSuVHfRVntU4Ef-wnHt-Edq76DKpfbeIUhehxjZbXG7uaJYVSjsyALYqK9VOsX7cbipila7tVgELT6IPv0tjeNdmgfVuUHXY6HVyF-B6z-TJYELkq0DQfLJUS81sLAmxNOASwFgpy",
+        "photo_reference": "AUacShhcDBhS0ArKT4Kp53gMp3GMQgahgd37TrcQdRWRdsuXtT_YjDrSk3x_lBVIOdQtq9V-dC8-MhW8oncQh0Z2EFs6CsOWEeF2yY1r7MiJTfTvzHBHE4qzNaZNdf8SfTpeuCHKMWq3JbABrhEk1RzEp47KydINTf5JGRTkdNSgxT3HoHni",
         "width": 640
       },
       {
@@ -2795,7 +2780,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/111350689196910174160\">BSB Kreativwerkstatt</a>"
         ],
-        "photo_reference": "AUacShiqLW09vvpNQAq0tYRcl01bd40G13Uev3IfRFcLETZq6oZT_xxDIPMIrhV2Q6Pv4T7XR78xUVcbQWdCHcAT2HjoST9ucX5hz-zRZZVSciYgKP_MeWjsga08lYFIC1Cnb97QnJGqJf9ryiInHyszrfSR0ya3HkyC8_S_m1jiOAoDqsLw",
+        "photo_reference": "AUacShgyzHUL2sFW_TtUXSGV22VaQDIlHTDn9NPIQZO3pkR8s2y9xhAiNZpkyyjpV19c0x2EP520vzxrTIGTV2Bf4q4tIsHP_sbdGqvBgRQNZK7u1bJB9LIeghcLRxu4WTyGeiCTg-fmRkDsVpBKk0Mrb8qKqXMWW9tUGXIg8pB1-CuoI0dR",
         "width": 1920
       },
       {
@@ -2803,7 +2788,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/111350689196910174160\">BSB Kreativwerkstatt</a>"
         ],
-        "photo_reference": "AUacShiChiSR5SMvW7E7DvGg8JeC1Ve_hOxU6nPrFhAj_sQmYRxeAAtVuV9DCI1oRIqa9W_972O7qCDfj_19lzCh_M98OfZlzEbGkLAW3C7ZHpVcQrmn2go2N1GnAWhXK-XoS9FD282LCn8vl3dGKB-n0K8EFTb-L2axBwOeGnWXCkXBoYMD",
+        "photo_reference": "AUacShiq_-FJSDpd3VKaGxeEZdrI1jJ_A1gSGiMAnzVi94iXAzPQmE6wVL5Ovl1PkarRR6gCLhVm09-7gqHqmJvRk4f_H_dMmJbOuMkeHs3qlYUIkw6V5WuQhAiDnezgAY-XNkYqXlqj982e2nnt3miYItJuAzCwgy9aM3knuWWD4XAfWlEz",
         "width": 1920
       },
       {
@@ -2811,7 +2796,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/111350689196910174160\">BSB Kreativwerkstatt</a>"
         ],
-        "photo_reference": "AUacShjirECXBD_ZCXjX2jL5B9SiP4uNEMSBj6xtFlNItarv7NbhSIb9v7F-RpK27YLV7CVbFJ0zD4Q1KjqFNBGrmfkukbcCmOunhWwk-RcXBnftgUbgsnMSsSY1TISAxfiS1I1syqWlhRXd4zL7AtdumHu58IAkJbGh7mNuOX7RwjWo-iJc",
+        "photo_reference": "AUacShjNoeS_II7V1sJYjIyw50etGOKKaooi1F6FRYpdWziHO6UnvJsvxtsjIgFy5YI1Snwl3wHAk2D5on_7GSSndDc0N9bD2MisssMjZETaEHrWfvfqZN8AX2P7oAGktndvdVbbqVTh4gVeJZYU7aNnxod3wnEAucvK4D3lRx_3dZFpRJ5A",
         "width": 1920
       },
       {
@@ -2819,7 +2804,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/111350689196910174160\">BSB Kreativwerkstatt</a>"
         ],
-        "photo_reference": "AUacShiSflbBgAz7jkuTd3jyFiCkJ1KtVySKaTOB4E9ooU03Kvm1dqMeIo-SyR6jBmACGvvL4ejmR_Nmq5LQt76CxbsfzJpEpKbe-9adGFSbJDQkOW3vfcy8GDqs-gRTjcfRzF8jjxDHUEDGxi78Zq-ky2-MqJcO5S9tA76As6m-rL-RXAru",
+        "photo_reference": "AUacShiOEPTmDCF1-k7SNx_rzHtOtgnmuvWrKhQnPd4TxAVtpEDjlBRRWZypytkjzMTUk3iGDzpspMRn0nzOAD-izV6AYj72FEuZpnLpgvEHeMi03EyYw3fsHh-uOvBJ26oDnRmnJi3ug7LNwqHDt1s-aLzbcp7q2CscWxqsJjK7_U3Zw5Uf",
         "width": 1920
       },
       {
@@ -2827,7 +2812,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/111350689196910174160\">BSB Kreativwerkstatt</a>"
         ],
-        "photo_reference": "AUacShgJiCRGwQUYsS3sJ4m_xw9TeSz8D5onK7lBOWJQDGk4GZXCAe1YTPdSeN0hvb5mEzZkyM3Ao3z--aMZrCNRnwAf-FcQFFFlMRKqZhw35NItHNgLgdg13q6mlgjAToaCCO9ysXCSpoUAFlzE2SVtQgpD0I534sQMt185AjdWaAknsHND",
+        "photo_reference": "AUacShg5MKMEIikpJwH5mdi1dQkd2CDnb8jV9GHdKqF5n0Xz6ufAjm6mOxa93YoP1gU26awQ2QVadTbe4Vc343ZkaFGMX3vMh6kPh8RuXvre7bmVC5Iu4IOPUH5M9XZWY-bjRuFRes6wj4WO9UbclqvpqswOnMCAFy_ID0KZGK-BR795oFfk",
         "width": 1920
       }
     ],
@@ -2835,8 +2820,7 @@
     "website": "https://kreativwerkstatt.bsb.ch/",
     "wheelchair_accessible_entrance": true,
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJbcHZ0Wq5kUcR-DhpCKF4GXY",
-    "date_retrieved": "2023-08-15T00:05:52.138Z",
-    "placeId": "ChIJbcHZ0Wq5kUcR-DhpCKF4GXY"
+    "date_retrieved": "2023-08-14T22:57:16.667Z"
   },
   {
     "address_components": [
@@ -2929,15 +2913,14 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/107114199873587461466\">Galerie der Villa</a>"
         ],
-        "photo_reference": "AUacShgx5AXBgqGuPzRD2e7LxLa_QFPE6hAFGNWa2WD5-kAvRDfDnkxlGw1UXFaNWdV90c8CzRX6oeDrjQQhRA2WRrw3eqsI2BG3LmgdTIZv_HcCYugzxHli8KHWQW3DFqgOn5M5GsnmfHYrnhKeqa21Hu5W0X0YYf4TZTIjAhW1cRaufKw",
+        "photo_reference": "AUacShjUm7Mtigjw1s2aSG4iKcGYAT2HMBUmof20uZLWmcAK_8PjdSaxtCClpTnsGiaXP_-eNpdDkCoe_ZVQPlSUfNTxOytSM4wni4qGMzPwT6rwQuF9dwTchjtDFAc_cdef83BqG2WmxAkekwopIX0FP76-G6JJ2v4PQjMIwvAcyYswNSY",
         "width": 3378
       }
     ],
     "rating": 5,
     "website": "http://www.galeriedervilla.de/",
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJN6IZ6EyPsUcR5AxX-HkrMxw",
-    "date_retrieved": "2023-08-15T00:05:52.238Z",
-    "placeId": "ChIJN6IZ6EyPsUcR5AxX-HkrMxw"
+    "date_retrieved": "2023-08-14T22:57:16.774Z"
   },
   {
     "address_components": [
@@ -3094,7 +3077,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/113479873714139700155\">GEYSO20 atelier - galerie - sammlung</a>"
         ],
-        "photo_reference": "AUacShj3yob2WHv3OD7VXLxL8M9qhQRjjc48-qpQDuCqKnt0JauzUIvz1BLurSCRuUQaj0Kc5pnsjFVb78mae-ChXswwYCQqbXQv-dRAa9tDAi_8wz5zUYaVVtZ2RmTsLZ6pHmXkxg9eAM7TTD9_L3ZI79QNSH3b8qBVusRBfjL733AJgODJ",
+        "photo_reference": "AUacShhmjaK0f0GgW3mmCdOSya2Rcx5zjPTj4GMxS0ltiXJp2AgZkj7SIfWt8-l3NOkixxD34U1r7AxTBJ0BlUha8Nr5SYIuqzv3tMs7uwIAKl0RbUFEjuiEC4Gw4pA0oUb238YGCtTTsK5y4C0jezY1tnYdWXbiZBtJy2_WijAR54r8Iqwa",
         "width": 2048
       },
       {
@@ -3102,7 +3085,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/113479873714139700155\">GEYSO20 atelier - galerie - sammlung</a>"
         ],
-        "photo_reference": "AUacShgXfzO0bARvMOCPn7GwO1btNoZ6vcTrrRIZ9PuYNNRh1q91y4zcF9ktL7x4YpDnAV3HR5GhQ9nbkOZvAndF9plj2MkGweX3V4UADiLpRcZFcP6zWCNeXnLsQHVsmr3W9L8Pw9rKYKyaFEPUd4mTu842n8PBCInnUcYtqeOhhOhJlNiS",
+        "photo_reference": "AUacShgWi8ELBL8BXd2D8SkzMlDvTquPs8u6cXTl-Z1SFVKCYRP6IgN74Uq9HFYvO1krhZYvkLFU3avQbyR-vKtRVUyJGBwHMlsTzVhn_Loi1WyX_mx01Surzlj4a1bk-C_qOzvj9fOKy4QjmcLaO4VtS230nDh5jqSu0zs8p7NuvV41YYIR",
         "width": 3640
       },
       {
@@ -3110,7 +3093,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/102670291532448494773\">Heike Jaschke</a>"
         ],
-        "photo_reference": "AUacShhkUOW3QQzYZMY0cx8p62HsPxBFxFSGuE4E8MZM7680XKmJMkchrekI30L7vxC7YWTmeaDzysVOTFUVFBIh1nTMlxmD6mOdHoA9PG1ULEP3uKlmFEpzDKcyxlsWa6Tpo0W5gGRS3qR4SDYIx6lcdWJzoUfBaL_1-Tcv080BwHojTWLg",
+        "photo_reference": "AUacShjYHTtuLw_d1FiRLpAb4pLbAkVe-RKqV3nYD4VLCXzKyW-QlLeD7TuSfJ5h0j1LFdZ-E2b435fe9itTrE-2yMV7b_ws9HI9F251iCkXWTcOhgJ8Lt54whexAOv0MvnhkppfJbtHRxuKBCg9DNjzPiWGXNj5mpYm2jyRCc9imLl4Grh7",
         "width": 4032
       },
       {
@@ -3118,7 +3101,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/113479873714139700155\">GEYSO20 atelier - galerie - sammlung</a>"
         ],
-        "photo_reference": "AUacShicXehq4ds-dEV3yyxtVPCz-LnYGy5qoMfoO0OS_SUwY8i-hFL4fzp0s6Kx8FIs0ZJ-WkldEp8KfB2Hws4IKyivx72_aNzEfnT973XXD3hItXWpdT8tT7O4wvPXQi-hgoKQTcoYSB69Z-ZHwl_D_5Jhf-Zr8svJJbMpFzyMqLHXPDBP",
+        "photo_reference": "AUacShjANpiY45Wfr8j--Fr_YXIfzO6WoS8rVLETcVV9dZTGBA6opnVL9AtBMH_mQM13gKTfDO7t4fsrRS5TT4l7maha7sAAYr04isBMdC4tUM87QQi0g9HK7I9-tvkzoxjzk0_WO4iQ85fHZfVZGmS3ufidKTF1FeiymlzpIBRFP4VscwN8",
         "width": 1028
       },
       {
@@ -3126,7 +3109,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/112957149240337194862\">Jan Wantzelius</a>"
         ],
-        "photo_reference": "AUacShgLDpdWovXZiUBpQCG8jrxuXNSnaGAvB73xRpxdVnn-A2EtVHnt1F60Q7cUPCR4VxBuYoAD-KPVfQUdCpUVmiZOZh0JMmXZDC9-5FcOKs_euvo9Qo9HmM87vzFIemS8K2QYFZuS1ppSyzwQIe9eQLgAdxxKa1heoWcCpJ0xbUwnOOE",
+        "photo_reference": "AUacShhp3w_dSWiKn84nnanPafVbbNsFGVSPFNPvg04TgFmljZEVKTzJKr75DJWQLkPM-vxailjCOJ_4aFbQEjhrvaBYe3ZPJolZb08jicX7KnCA5aBJ9v8wI2uXqUZP3UxRAXVvOW65-DtD7FKLc-sHOEzs00JM0dcaEjkpS7KZ38vCfAU",
         "width": 1920
       },
       {
@@ -3134,7 +3117,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/102670291532448494773\">Heike Jaschke</a>"
         ],
-        "photo_reference": "AUacShj47Fmx0Vaghm__pgE5RtI6cn21OKrDFsTKBJfQUNcoD3wevIgewS55k8jt20yIg9cdjWrf7sieqEIPmO1I2wCNYfNXKW4eLRGvbK3HMlGfsqabl30dQ38ERoLp0z3X95X3kO6cVP3J2unWtt6XfLeu9i982EP0jkovH6fH2tKOshXl",
+        "photo_reference": "AUacShgsEP4if4pxo6LrLD4CsibTz--C-erXA8ljFjGgxozpw4n-tMlgHaOlk-cy0JHDF2zyFzypqc3CsAAkrf2amIK2waebcGrkhJBJkNW2W1VM3lvUO9Ix6wt5grcsHV1grZ7Ovi4fj2ZiVjvE1-Er2SUdx6PofKT0SD9p2JDDII5LQWgt",
         "width": 4032
       },
       {
@@ -3142,7 +3125,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/113479873714139700155\">GEYSO20 atelier - galerie - sammlung</a>"
         ],
-        "photo_reference": "AUacShjdCMmAkKAy55Ig7helJE-BtWf5UcSWUer5s-DVqLpk4qy_sOXVUxVOhXP2bEdcUvk10ypkcAptilmBxCsiI87xgbiryZlEiDNP08UDAmXvT3pN7g2FsLLS7RmI-m_EsoB19OKNG-pnWP-KA0ZdOJEl6o1CrH0lZ7wd9EQhF63cmYqd",
+        "photo_reference": "AUacShg3qbFoZ5L-J5PE64xKvPk1HHcSDF6sVFQDVLsIYg9JlR5gFvoTdsr2-OfwglaUV8uE6bCusag-SvVGAVOMJznTEoMm0HDj8ERCRILYH24g0wWqXzsayvoF6AKjyUfq6CrRXPVY80CwSW6aZLwe4BS2e5Af0St8LG5bXI5Jkhcsn1ks",
         "width": 2364
       },
       {
@@ -3150,15 +3133,14 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/102670291532448494773\">Heike Jaschke</a>"
         ],
-        "photo_reference": "AUacShgLwBHKpa6_cA-D4nY1w87WpBaCdKmnTFoigaxUx1y-uS5VN2NS11SCq-o7pgOsbOfD7fkiVDjgAHjr1_QLMWTCZeDSeNC8K8S5APmMmLdOfqbbAD66vfInFgBBDZR9YrVPrASmeTWSweE2k70m137kOunBVFonFqYKWHZwWnAcpCPB",
+        "photo_reference": "AUacShiMnSozCPH2mNSWumU4xTJtZneWOjKatwN_rdmoobBWqCCDEGrfskk8xA2cj5-ZeBMvsgjIR6mh5e7-MrU-KgYDM0YwMHt6XBLkMqSV0U6wHhdjjuVOXEjP5vKtMDzsMQEPlrsjy99II9k89IAk6cOWHxyakzXCvuGrV-38aMCoS04J",
         "width": 4032
       }
     ],
     "rating": 4.3,
     "website": "http://www.geyso20.de/",
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJGfuqEoD2r0cRyrkpFDQZumY",
-    "date_retrieved": "2023-08-15T00:05:52.351Z",
-    "placeId": "ChIJGfuqEoD2r0cRyrkpFDQZumY"
+    "date_retrieved": "2023-08-14T22:57:16.882Z"
   },
   {
     "address_components": [
@@ -3315,7 +3297,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/101484655382867997763\">VIA Blumenfisch gGmbH</a>"
         ],
-        "photo_reference": "AUacShjurm6kiXCbw1FiIutwE5ANZplEusrO9y4kwOBqlZtH6vAsayw89xTdKkvV-1t5ca8bDy1Oh4Z8fB2BBX4bIfTJXrpARFNfB6jeGSKxJIYo7ekUcgtAf9Uva_OKXhBjU0CxIFKJwH8FefAKMgROY7mGxbOKH6FJYLSCwNm4HwZ5BLP1",
+        "photo_reference": "AUacShgJ3LV4k9GwrrCTJbk1EC6oACAL9PxcOT-EDd7ta7QuHAMkBUjAKVYKljorqc5AJ3mJZsywEQo8QSwKgYhEz1UN5guN9JOonnYBE9IJtUuQ4l6mg5jDNBeHug4xYy3na-2b7ac4CkF1filMy_xlLpPeKHPf4EbWxsvtkC8fqE4Xk3eJ",
         "width": 4992
       },
       {
@@ -3323,7 +3305,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/101441313909293634749\">ibrahim semiz</a>"
         ],
-        "photo_reference": "AUacShj_3UXUEGsduDE_H537-plxDuU1nodFUxcYeqhzN3-C5AA0rny5jt4TVIoWXrBIB7VA6J6Wn8LqzRIZEzftPCbW1zASxMZY3qCAbJIf_QXbR7iagaYLC-18fT6tcRv2XpkShhNXVvo1n_FHNaFr3hG_yvYkXkNnyy0VjQVqbY_Ec0iH",
+        "photo_reference": "AUacShhesiuICWOeLzmC5siVuvJMtk1yiIXmo40MYADwE96KY2odps26AGHTbDft4y1rsEAdnS5R8RB2kKxRxzmrCnviaVzY-yHjb1tfv_MnEGN9DaFoeGwLiRpcIco8giT5vM6h6FlPMPsHHY8c4rsvN7HdH1bRKqXzfQQUZNxzBPU5XVmO",
         "width": 2448
       },
       {
@@ -3331,7 +3313,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/102239004900902980456\">Benny Andersson</a>"
         ],
-        "photo_reference": "AUacShiMRMY4jLwRULas26oI2_W0nGbfJ34LxUkF-GPgx2ANX-gAC6an5mK0kIkRbYkV5x2zNHg5RUPNkKttgg2zeIhjQUKAupZqPGi4h1pfClBEGtPVpeGUZNr2Ut8rQ7AfUBBNEcFiR9JvL-cAyWQ_HENmeZIbjKk4FA9QZkU7jMOuQqU0",
+        "photo_reference": "AUacShjiylIHMDoLSjNbSZ2dcnHIslZmtd3LtVzYzyLFmPIlLkt1t6YVxblvBf_fHLXitBPRUN4-Sy7ppAedo_tG4Rt9IrQWxsnCMLbSkkCV4NWTx9U2W-MJSb1-wBAOmu9-YmUuc9brEGGxFz3yYUctX8UJDSFY7DuMDpzmRFWXo7suBiKW",
         "width": 3024
       },
       {
@@ -3339,7 +3321,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/102239004900902980456\">Benny Andersson</a>"
         ],
-        "photo_reference": "AUacShgOMlKRySGLEbaoTqXsF9A439rg28AC9aGwrtJ1Se6_KBe-WdcAcUfvTYUReRUJdUM7n3Z5ZxyGH4PRaDvFc4QIbZWuDlsiqtn2jzzoTnbNL8Kko_DdrFhYeZW8Bk0X__PZswHdwNDjdkhMvZM2KmX1q3445QnbUpE2FWT72uFRC7mK",
+        "photo_reference": "AUacShgQ0sSDhTzLjlyCmUFjfT0yDoQ2BcTVCLFzHTw5eMORIFb9sCbtY2geoZI6eXEO6wADsTypMnsD8LnXnrpQKZdcZEjA6FS6SVon_6fBevtqEBScEpZgwIR23Ipsfhtn-6rxrjwcyoD6UNiQNPEU2N8ZZtkiT_JLnu96Tg0awcksFL_r",
         "width": 3024
       },
       {
@@ -3347,7 +3329,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/112945950244951030711\">Martin Wübken</a>"
         ],
-        "photo_reference": "AUacShhXO3rmw-bflLhbU4Z2rhOMCj_98m7IHmU6Gn_6QA3RCRHWFF_aon22jRN-cienzws86eFoIN2kPknUD0IAaa9KqW_dMIZHa48Kq54rtvEF8nHmE6e2mbZ-0hKMG10t_cF-5QJygvAr6r2dOPOBTJnxDS9AJJb_bE_B1qvjyHChfH9y",
+        "photo_reference": "AUacShjrKXxFeYfnc8a00eyAZHlUzR5qKxSB8aNrCWA1LoSnmecKAS2-EMtjy28Y32nTChsbNfqqib9-F0ZcKGAd7xX7zG7sFvHrp6Obxw6FYnyQBXoAHcOgBhPEQcRM1T0PrIF69VN3TyPxkFihnNQM5OwTgW1sYG9ly6e7BKvh_giJhB-r",
         "width": 3024
       },
       {
@@ -3355,7 +3337,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/100053566215354765188\">Jo Lano</a>"
         ],
-        "photo_reference": "AUacShgnuWQE_0OdMOvAXIYiFCSarX9IJAk5G8Byk6b6iulcZ-Lah3pFTyFS-jmtTXYzfqSuIKt4xuy67qCQ6Q4CO3o_o1-VmMiLwBr_la4ymATCnKyTPSoViCzXbk7q3MuQhR712zUWaZoVRqUCSX7hcJXfagbrgSWWGAH_T5F5ooULXB3a",
+        "photo_reference": "AUacShh-vcKH-aEjoJgF8Qe9hPtAHwsXewN38mbzLDVuak2DMRdhv3bip5MqHu0M58SxTaKvAzzfQdM7QSvht8LEBiVSf_nX9_IudLSxBsE_CK62mzg_dqX42B0EkNTLX-f65vmmSlQH0vZaqBGxDRizR660HnwyceQBhWbXUm7MWVXenVW8",
         "width": 4128
       },
       {
@@ -3363,7 +3345,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/117952253183867671480\">Recki&#39;s Fotografie</a>"
         ],
-        "photo_reference": "AUacShh_Q1HgNBmd7iKbV-UdgNWA9fMbvooo-VqdKGKKTMfSF-jQKq9m7QiEqRW1Dweigpp-qt7g6vdBDWJccO5Zc2fq0qOZiu7iiTufAD2rQCL88dp3oqVB_Yjr_98rkx7Bg7kg_GXwCTg_fndavxq4NuQhiRQiQlCQ8lSnxizaHXWO7ots",
+        "photo_reference": "AUacShgtDw6B5uAEolTrCyaqRiHBV07hwn65v0hGhjmJR15b3_nZ0rQJGdIGyWergauVIaI_a8vorTTylKsUhuxsOlfxqM4k7gkiGkxhYgLPE--1aWKERROCDfyY0ahJPTf3SuD9eiyU2VWQALVm3LVtFiFXCxGnz4RKPK3idG2noM5a4Jwd",
         "width": 3472
       }
     ],
@@ -3371,8 +3353,7 @@
     "website": "http://www.blumenfisch-berlin.de/",
     "wheelchair_accessible_entrance": true,
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1VouHhBQqEcRRyRlLp33nQw",
-    "date_retrieved": "2023-08-15T00:05:52.455Z",
-    "placeId": "ChIJ1VouHhBQqEcRRyRlLp33nQw"
+    "date_retrieved": "2023-08-14T22:57:16.991Z"
   },
   {
     "address_components": [
@@ -3464,7 +3445,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/112179023598068288324\">Stephan Hobohm</a>"
         ],
-        "photo_reference": "AUacShjFCr8f26SyWV-6WuwlSjCddOC24zvMMyeNpikwErWxHm2nYJi46iTq9riW0d5m9DcXPWG6KkARFlIhagB_YpDyb6QCbL4_7UnwXLiwFIVNVOCula6f7vho6ikmS06xs7OxYyXlowLXnaLSqSBXOk-zd2cdxEhAju5d7BmHxynSuqGE",
+        "photo_reference": "AUacShhVCQPfrOpRA1oTVbuFjxVm90kmrvucic4MrkHNxnL5ZKl1OTUll5Z-9XMboSseM4mbX0XBH4qjrR-Bz0YLOl-LOD-dF5KTFD98qdIoJnY2ohW8ObrLUV5r1iFGKFugHwOw1I5Xwobrc0qcWWYK5sSKuMxH6D7nBP0847Jd9lJ-ed8o",
         "width": 4608
       },
       {
@@ -3472,7 +3453,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/115309844364703050220\">Janek Männamaa</a>"
         ],
-        "photo_reference": "AUacShixOLfWd6IG3VOBHp-cbJPTRVK250xL65gqdzgX2Os58Zh7Ehj-KiHG3kk_UKjmXTixi1ng90j3gcukqNMrWRgpoBhj5_ru43qxqyvanrJwVxOWtKTnJfYeJdMxUTjw4Zacnz78WArg8Z9frt-IunioZKYPcS-uHjpwKnoiCyaUi9ya",
+        "photo_reference": "AUacShgaFEAi4OCv3cdLGU3EXq64OFzCCdhbkdLxsjxXNLjehmHJ1KEANGH9j15NJlq_jOy78S2RzwIiXyccKyJia__JqZsL2bgAIQ_vvCcfiaPoYSCxN6vRYh0w1-N2t5U2Q1LVuRBD33Z3ZgjKPw9oPbeWjOV3MjsRE-gQWE6ms6ybTtOw",
         "width": 3096
       },
       {
@@ -3480,7 +3461,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/112179023598068288324\">Stephan Hobohm</a>"
         ],
-        "photo_reference": "AUacShjSEUeMTcNPtQ-L8uO4lxznMsdTqOtdmGXdrqgzax64uSqNFkUk2S2q-gCnEycJvEmOs9lNlWj0fZJX3BncVQb8uxzw3x3hHuYpZxKZUtf8Nmif0hOZUa6HMbEFVfl8xprL9V_06tWnPuT4t5E9_mSMnlwl532oUQB2W8RO7OhVwPjy",
+        "photo_reference": "AUacShgFzt77dVp1dHfXTEq6nCjR1hF53MLIcG-zzxYSWMF2cKm5lKGGqFUV9rJbZATS54_SD13TwBqRHWDK18xmJeHXdlpaym1peodMHIYE-ZyqwI4D8S1o0kMuRSgPwKcdvapbcIrxq4frs-kQxfJyhfRCzgHdRGK5hoo8ms_SMj9rhKsE",
         "width": 4608
       },
       {
@@ -3488,7 +3469,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/112179023598068288324\">Stephan Hobohm</a>"
         ],
-        "photo_reference": "AUacShg3e1QHK-Xuvls67Tw2wLCePXfXfZ8sHMG1ij62KZTYoSAltqLyS36nlGSWeBC4vX2DtBpFvy1XduUMbPxjotI7BKHpxe8ec15yaCemDUmQA8MQa024dtu2fGBJsWmp9BQ7MQbJG0EXLzFoHbpOtuN6IOwPmplYX-68Boo4_yUE2fFX",
+        "photo_reference": "AUacShgMUEwXbfIVsA0F61goAEQnRceI2PefCsaz5cjEXVysv6Er7uSD4m0_D-WU09bMV-9qibJs1Iwo6HBU7e4ssUiDCAdbqihrAYcoetZfGaTlGXNRh1X3Lewe7P6qxaKq-On4MGCR_Sge6uAU_76iHy8XH7mggs-BFFM13EvS_pq0wrvo",
         "width": 4608
       },
       {
@@ -3496,7 +3477,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/115309844364703050220\">Janek Männamaa</a>"
         ],
-        "photo_reference": "AUacShhuvQ5G1U4hrT3Wryd7DZlhjnc_zVAsADdY05LyNFGk3MTlGwBKUOcQEWrwZMnBVqEbSiv7bGJjw8qIX0nHXM8X14F6qKcqcHJ4OtchL9IaGhks8DaDNJrR1ly26KDvq1VgOZn0f_6Wpj4HEc17Nehlw_2FhpCQ3x3ngEwRgj5JnaKT",
+        "photo_reference": "AUacShiEmz7T69upCcEiuXdyk6XXJtRMKmnXNOY1vq0bwxX4qJq8U928_Ix49leYeALuI2PMOybwCF0TfEWJc3hU2pFKWIekGTdxmlFAR_BMwB8lWxNNjZvMk-2dPgrK3wQ52XSbMksMA5S2bYzLGaEyRNB2oHH2pZym1APk3uZAFWiVAJcM",
         "width": 3096
       },
       {
@@ -3504,7 +3485,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/100813615400542724562\">axel klöss-fleischmann</a>"
         ],
-        "photo_reference": "AUacShj89veX-rp5ecfa_B9xHE8hnKyhP2QVTmU1g9fkE3XHW08VNkehP-9rS6UE14ejM3q9et1gBj843E3fzyaiJyVrSA0MUJKIgEbudL-tAxT7te4btcmvsOT4J5A749mm3xn043HyUixy0JgdPZhM37guPuNZd8YdualWLb_RDezi98er",
+        "photo_reference": "AUacShiGbmzvYvFhVnGC9Fmi74Fcmfqiy8t1zAnk58h-Elxt5JvW3JqfZuuvdlKtYI1BQqbss2BtxgAQ9YWkO2YwujiND7ksAoKUEQa0Zo5aEGvJdrE_XUKnCDMBjfZ6HU56RmFB11lWDETHP4Su_VISO5XryjO_WeCyvyo8EdqUw2SCD0v5",
         "width": 1134
       },
       {
@@ -3512,7 +3493,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/115309844364703050220\">Janek Männamaa</a>"
         ],
-        "photo_reference": "AUacShh5bLQx6hGGALJZAaNndHLbh4pbIfMOqb6FkJFBECfvXAooOxXsm6lNYK8KEQb_owF9ebvcEWvUqRJLN8f5GFUuoy7OzoEzsrv19603fnCVgUcem8aVxNEZgf5Xo3Rzwq_70e2jHk9R7SeR7eyJhvw20yKdEo497c47ra-zB_XAsDdu",
+        "photo_reference": "AUacShjNMVFp-ZJxQk20Ve9H9_vGmiXX-POJbWvwF_9Hgm_FU2OYSHXPEXnXLT1XgTjcTkIHLzPoWxvBmN6qb6HDeK39r4V9_mUUhvVvN6yvuyvDTBCFDQ8eBjhvtwKDCTP_Xkl8b0NALblHaQcBOSmP7WOy4igki4r63ZVvRNGqtF-AVWKM",
         "width": 3096
       },
       {
@@ -3520,7 +3501,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/115309844364703050220\">Janek Männamaa</a>"
         ],
-        "photo_reference": "AUacShga-o4BRzrZ8a-ufxi7-N69bccQqW1-xzpOOl9UoC34mw3V7nQvatxflA09NM7Nozgam5FQc-wMuxRQsRlKRUjhtB-4_Y4K2VeRlN8179E-OVA0zOGirJxPTfb0H26c3JrOe8W5nZnrS42EcY2hvlPeQHCUUyyT-umJ6u2NJ9LLLpux",
+        "photo_reference": "AUacShhjrxkD2VF950VyWYsjlGL7Aj7O4koEVhPTQgNVcbHVjJGcA-qFiZjrU50_oE5v5Ka4zywHkF30RFwnWTqBtCX2erSCF67lOZ1OnQsH107JdemO4Ry-ZKERUcS7byiH3MS35o2j0TFVioj6X0pNmKOfF2VmOxh0L1wDjPHGFO5JULSv",
         "width": 3096
       },
       {
@@ -3528,7 +3509,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/115309844364703050220\">Janek Männamaa</a>"
         ],
-        "photo_reference": "AUacShjmpCZKY6-N-qBk-DLHIqrvANvH3cMR8aSkZ2-FZ37JtKASKl5adsGkqR4CumeNzytNy9paRRkTICHQw4J5ZuEu7djgcuGZ4NRG0qSh_h4r8XcHUUkkVVVZJfJGk1DMETFOkJk_ExAEOu7oVNJCRFvUVUVTOQb5qoBw2DyUxdDKAGtL",
+        "photo_reference": "AUacShgIdBRSuq6KjUGJ5CsByqY4Io4MsSBaMGC4X-ondMnOK_L8iHHL1MLb_5hi0mVR6SNY20TZXb6-ZBAE_Mmz_Iur0S8NLqsNqfVXXWC7jaLy5EL4vWkUam1mtGmPXU6Czt9wqoFU39TohmgwdHqA2DlG-FX9jHakKs3xfdtPI9kjF0TB",
         "width": 3096
       },
       {
@@ -3536,15 +3517,14 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/112179023598068288324\">Stephan Hobohm</a>"
         ],
-        "photo_reference": "AUacShgfYh_HfmRVf_BFMOHgYN-bpZLT7TBCnCu6561qJc3DJCokXdz2dA76jjDZSnHtCgj4Rhr8pRNa7uD6nz-vs6IqidWexVilifsTdcmjhaa5puGKigkMfHLwQUp2egOszuELxhrFEJheZOYO8sZeCCzrjquLE3bmclb0HkwIZj3iZ3el",
+        "photo_reference": "AUacShiBjNv-cAdzfq3Pz7zmqrDam2kRCo0OREp25Va611WeqUKvIeOWY74_hhHVdG_Ke9bpb6JX1m0RiUwMnN-xJj6gaWWR0hxcaivVL_el779n019ujL7llUvx85TyJIEg3SPCqGkx_mgA8YguG8y4gSSvJCFuYRadwvDFbppBHs4PLWN6",
         "width": 4608
       }
     ],
     "rating": 3.8,
     "website": "http://atelier5.mariaberg.de/",
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJta5HdFEfmkcRxPlT-4DoI4A",
-    "date_retrieved": "2023-08-15T00:05:52.557Z",
-    "placeId": "ChIJta5HdFEfmkcRxPlT-4DoI4A"
+    "date_retrieved": "2023-08-14T22:57:17.093Z"
   },
   {
     "address_components": [
@@ -3645,7 +3625,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/101329733490034223295\">Wolfgang K.</a>"
         ],
-        "photo_reference": "AUacShiJ8hEqQn2R4gZnXZUlAtvRpsRlMK8vsQreY9B9DVu0vfvShruMinoPpnFQ2OaspQkPY4wolajHiVfOKu3e0g51_8WbN72Lwmexrdc1phZiHlpfXWr0DuSSkeQfU6Ali2nYQzPddolFZYPtBzlQg7VINAX0-warwuCw_CGMx-TWXhhZ",
+        "photo_reference": "AUacShhROSxBhJHva0GC_khlJQPgN_9lSuEarbPOggdJkSUQdQYaH5tQMCvPtPc9FHq62Y6nx4XBpMlXrDmmzUF5ZwX9XQuI9sTiL4LTFKtLJ8WMKAFBMOuW7xcwQkJIkk-18RbXP0hUkFd_sRlaSTGZV73Onn9u1IlNllj4zBQfhCFYlK0h",
         "width": 4032
       },
       {
@@ -3653,7 +3633,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/117009520668398741278\">atef khaitou</a>"
         ],
-        "photo_reference": "AUacShhwEE-pSU8hTsaTWjQ3liPDWBdGpyuke4AoejBuYBOxBk-xfbXkvPOgMHzTo31l4D90903-DfZViOB1i5cuoa9ueN1XYiFe_5O0dJOFKGgOZ0IzEk1sS0fcvWxK9qpp5q-vPJ_Sw0wA06DJ4UBZuFu8zO7hIgya-k0BmGYu0O9BYj6t",
+        "photo_reference": "AUacShgTIXSDhHcM6GvqcINSDQ4bkbrpc1-Fq5wPMbsUo7DuvJN8Ywd0mIkAhCGsM9Cr7Y06klCSE0xM7OOL4w7ia7Wvc6xVfkq7l1Uc744NTBXE2xlMwCaVIJMLQj0T7mYON69zn8vhXKXfV6j0jmB5NP_thqRwQF5DKgqaqKysSBYE2fNc",
         "width": 2830
       },
       {
@@ -3661,7 +3641,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/117009520668398741278\">atef khaitou</a>"
         ],
-        "photo_reference": "AUacShgF1pf6C5XZkGXcYNdyyfJsviLAjWkbjGXom-EKh9wMvG9aXYpjjxc5NRNFZWVDelH2JZ-c2Ma_PTnT1Uu3AB_zErSkifiLtepxwYwVuviCPfi6SKJ17b-1lhOLeOSy4hHfMQN3Z3FW-ycPaJ4ieGtXO3oS-fXrGHHBtWEOaPJ69aSy",
+        "photo_reference": "AUacShjYyBC8FEwjmU1Sydt4M1qX8q_B6pFs7fTIVp_AtNThsN9N_FA8tJEpHzTsKrgy-gS_uQUg57HYHuiveouHKYHDgQWIn5IwDtHYOafKdl1LEnGchrepnq0PMgFv2tdVjr1oRKsbCLHj4Ji4RvWqo3iO98CmmdWrFxCOPxTw2ZN6T3hh",
         "width": 2828
       },
       {
@@ -3669,7 +3649,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/102434367371831102857\">KunstWerkstatt Marbachshöhe e.V.</a>"
         ],
-        "photo_reference": "AUacShiheF0yjHMOnaQeHJLyb3nvRzjk9M3hFzBCmiyKaRdByMlrI0kVaBJTYo8EUZgBOtT4yYWa7Nki53dVRFHDurb_wLXEN4BRDGI7wPJb4sBvpjbuJ_94JZUJOT5Pjh2RAeAlqO2TDFdEmytcNmQuqsol5ydtn70jzKsikat9LSihf080",
+        "photo_reference": "AUacShgr7Et0fJ5tgRqxFjzrSOPsXF4LpuBBaUiTD-KdDvtBi9aZvjUKivtIvrqMvv8O-xha0cH3OfVvLfHNs4mRMVgRjYNxnK5zvuXRxJM1NiteNWmksVQVz8mBY_WmO1UkoETMn1hxSA3Yrvaj3DyG6p0gYFWJirMaXhxxDhNAYXVACxD4",
         "width": 936
       },
       {
@@ -3677,7 +3657,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/101329733490034223295\">Wolfgang K.</a>"
         ],
-        "photo_reference": "AUacShh5pMzZT_V9OL6uQYEHt6XYXsIhgQ6RnoF0U8LsBYqK9hLz5s8NwUjR9AhOYqZQ-aD7n2_ObNyeoKaF-1ZcJcwWp7tZ2a9c4T-puiJ6yhRyNJJmge6ZnZq6RZx0kzOwlolxx2KWzTC_eEGqDRlidPvAemlLPOol2vqWUBKySdXpJmXm",
+        "photo_reference": "AUacShj29Uvd2p95QRjz2YfkOq8sie_X4V7jSigbZUCSjjsU8lNqnkON_xxsSPiDsGU0iPTCvx2ffmIYvK8yD9dNq00BUCg1jjyReyqwyxJS1SjQgKqW4eN42j8r9oxIGfyzvr03mS8giaSvh4KlYJFLMy2LJYdjd4TD4B7A-tML_QtKq_vn",
         "width": 4032
       },
       {
@@ -3685,7 +3665,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/109507142649478656139\">Sabine Roesink</a>"
         ],
-        "photo_reference": "AUacShgCDzpI3Y1BZs5kWGXYHgtEf3WnNOUmsoWRO5YcyAVUk4khvHJhcAFim-tQ3KY9q0F1Rnbgp_dqB8J9ukmWFW1Sx4dYtwgEhVm-t3a2B5D5-S0g8hHzmG2CPh3GG-VQdQ8eX-omxjyKugxeULbJbgu674VsI-g4rwTUoQcZXyAxPHM-",
+        "photo_reference": "AUacShgU95Wp05lQ7kjky087W7PeTUISEzOEcIgHqHUBpcqyqHdA3LQiXHQXxxfjm6ZdL5eQypg8f4uosU0DrC92Bq-FD7fC0GGjMRhK3NzmK8AlF-1eUA0Qe-T7sB63ZKUBwSPXzQgXnb_4JuIY-pW-3Cnob26uuDMtrNhWhT4In4TLuLj0",
         "width": 2322
       },
       {
@@ -3693,7 +3673,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/117009520668398741278\">atef khaitou</a>"
         ],
-        "photo_reference": "AUacShjoyyexlwfV5IJx8JYvCK6vEe5Oo-M2bOoUYzUHePllPZjxCkchDIeZhzrrFbVqPILEEknJcSKgWRI9t6QZdDja4WblziuIGS_YZKlM1zQggkw2JFPtx7Isq2lgDLoFBAvsmO0zZDA-WmE5UowM5_Of9YbAmjJdfsfkY0ZeTuLCi7Lf",
+        "photo_reference": "AUacShj0V8dE5iUzfEnqnH48yYNY2dvWo6mcSnMPw1IOO4MrD_nkJfzq3RQ02AGqdEnIG1uZG2toozUsXozxWeHD6IL-BMfbQFs7HH_0XrKwUut2sYVRh8_Cg0X0B5r64tFJBnAsKqH0JK_H7dgVERppwve7QTv-t-yCSJWyCAxixgz1Ouiw",
         "width": 3287
       },
       {
@@ -3701,7 +3681,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/102434367371831102857\">KunstWerkstatt Marbachshöhe e.V.</a>"
         ],
-        "photo_reference": "AUacShg0SHPUoG1nsExesHCfWGlBRjL-sp6qeHDnToOC5MnXO8Mr9I08ut2G2oS1CjTw0uq3bXx6GqMR4xmlxtBTq5xbQsLAxT-qGc6MCpCvgs-8B6_hijDvp7N60rIBtURoNuoo6XEiginf7EjuhtPV6MqkON6e5NJmWoyn7k5SLThjlRpH",
+        "photo_reference": "AUacShgDfqf46OGumK6Dupa4_u-_mEB2xcjI5wj9-zbLFYopp5K2eyiVN1LZN6mruQoIIhsqm6D5gsbWmyl8Jklfz927KWPi3BTO-fprKDDGvz-sm4mOuQXYp2tGaVI8LpmA6tGO6g6UeYf3ej_LvnrKVe5FpqmEmacqphNpW4sUIg-8Dp3_",
         "width": 500
       },
       {
@@ -3709,7 +3689,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/102434367371831102857\">KunstWerkstatt Marbachshöhe e.V.</a>"
         ],
-        "photo_reference": "AUacShiJtdLjWJeHoSr6BQg5kbl8tIqefw-W95LbbzKWEDk9r5evYbKpTsxyDM6J64fvSzBpQsuzCbJZLaAlFv9KxrHIVM5iv8TBCCLR8d_THxjdmyxQHWw1c9VKaaY5BahmpWFAhTtFWdbAal0D-GSO_hhs_5Ip3JZ9omvqpZBBQhg3d-GH",
+        "photo_reference": "AUacShg_pdt_N6X3VMXkhDE06UM-k0N0Z1TuaGzZT4CEfCMnEb1pVhOwV1ZvyEIeiBbrdAHzAP0K4DClLLKSWc6j9nQ-Ot4yFyasHYQZQw28hSBQruOGLNBLvW2QBtV6L6h1QSSuGJebWbTHs6dVpCCqzF1N1VJef3BpKPFbCg6vkZ79mJTG",
         "width": 1717
       }
     ],
@@ -3717,8 +3697,7 @@
     "website": "http://www.kunstwerkstatt-kassel.de/",
     "wheelchair_accessible_entrance": true,
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8VHOaH4_u0cRVNI95ATUyis",
-    "date_retrieved": "2023-08-15T00:05:52.668Z",
-    "placeId": "ChIJ8VHOaH4_u0cRVNI95ATUyis"
+    "date_retrieved": "2023-08-14T22:57:17.206Z"
   },
   {
     "address_components": [
@@ -3885,7 +3864,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/101816810726149715531\">Severin Bunse</a>"
         ],
-        "photo_reference": "AUacShiznp6QJoI3jhUJSCT70QcaXzWN3ID1nbLQh2QVnLyMGazGWB5DT9OyCu9UOAxpKSpokvcBkqXc8wlLpfUL3O_DjHPeBBSo_-5fqAST_AP-6IRGVfwjXTHfCn7pDDa8I2KJ7hXHd5q4bFVRKJjKgn2sA5AH6WaQcroArBhuLweWk0_h",
+        "photo_reference": "AUacShiiWuw2P-b0zar_ADe_x3_dBZwfXSEfLHfg3hSaR2GiJ-5lNpJQZSsL05eDNzjRA7Fh0Vq0fIXZKe9S2F9OYEZcYUe9ETyCQt9N2ywBvJII5uaNZ8BdQ1Wsf6_ObcLQyiXPsE9npankc5CnuTHTEb6EaMu6u6o3886AMjhakXtmLGO6",
         "width": 1440
       },
       {
@@ -3893,7 +3872,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/101816810726149715531\">Severin Bunse</a>"
         ],
-        "photo_reference": "AUacShipjJTQLjMWtpehrqoh61TlJxu37buJgM3mk5CCcnfgxkPiZwoQotpFWa0ZuisTNOHRoLQ5FCpbjSA-iVjqBWGFSRGNZI2tG7DuYVEG3MGIPdLck4Jd3IPXArP1GgivRUZ4ZgjFTUpae2HZFSqjOF0aTcRGNt60dNj6YfiYVw9dfW3L",
+        "photo_reference": "AUacShjdy2XPVO6aSiDp4im5IXcuZ4_Q9pR5z5jBmjwncyYqlfw2tNA5AbNZQGhgC94HLStTn2fkCaqEKx0Jd_gHr1lABst1vTPy2MjhbuVDSQw3hksu_d5tjzkrIGTvBJHqt9NPx29Ezh5MDp1GD7mM6HspKRcPrhZEuOXjnrgMdvDcVfx8",
         "width": 1440
       }
     ],
@@ -3901,8 +3880,7 @@
     "website": "http://www.os-hho.de/",
     "wheelchair_accessible_entrance": true,
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJs9urqhbvuUcRDOOxiA56p7E",
-    "date_retrieved": "2023-08-15T00:05:52.784Z",
-    "placeId": "ChIJs9urqhbvuUcRDOOxiA56p7E"
+    "date_retrieved": "2023-08-14T22:57:17.331Z"
   },
   {
     "address_components": [
@@ -4058,7 +4036,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/105032449838291583842\">Joachim Binkele</a>"
         ],
-        "photo_reference": "AUacShhGMYDoZnWQVm164SNMHzENR96VNLwDkNIbygDVDGg0Yyb7Fd93GEYRyi_tqu5E1C7llVkmuhMPmO-owJ7nBKVGRrukdxl3kj6GlsoSW6UX58Sfxh4eIq45xQasqF9CUaLkL5amkcMOFPUlP5tXa4lMVZxnWHQx-UJQrN_YL-dsC831",
+        "photo_reference": "AUacShjdi-hfnf5rEwyF-U6LUURa_tjGC9Dg1WLW5Fs1BNthmiZufDaVN-zONTOfk3TPLUdyqn6Ixlq0LrcvnBtzQ6O-1NKPBUI-n6yQad7hhdHki3IPaWlLLL8BM4F6N8DUpUgJykkb12lgxkd20GAWwwMc8j9ItZrd49V4lYAu0o555YLb",
         "width": 4128
       },
       {
@@ -4066,7 +4044,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/105032449838291583842\">Joachim Binkele</a>"
         ],
-        "photo_reference": "AUacShhXxxf_hFDhsnwuoQLI7nSpB8JpptgyObY3JMOXd5KEW501E8IbOeh_mnUkVy3xGbLggaiZTIrWLl4VpAlYCeo68Z5AzmJlyYR-edtM_WoF8onBI_gZcLrt22Yf5Ksy_8sUwI5XfTr5i0YLBR6tsDB58ljIhaqsfh2k4SQbBEwHNhTS",
+        "photo_reference": "AUacShjWjqF6s1bvFZ08CXZ5QULH8K682uwdJ213E7xQm_LFl264_6Z9S4E_MLXJ-Qz4rzHS5Bh_Py7IdS2jogt_muBQcgrVs5LaL7fcP9VU6AYgnw0BIeQYHeKUYZcOI1sS1YhgW51q9ZUJVrTTeK3tbyoS18SQKSwkRHVFwXqflggoC5Vf",
         "width": 3096
       },
       {
@@ -4074,7 +4052,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/105032449838291583842\">Joachim Binkele</a>"
         ],
-        "photo_reference": "AUacShgcltckJaDkENsHB7sUhRirr7ZFxOffC9v1dTo54a0w4qgHv9PpLnFIGumtRdW7GQFb7EYI-QUCAUmMGcfPTLLrn1gOSUbP3KN5V5GGJzgQLlTA40RnqKJrgnTLaZPMtBW_Wwg89rClIdXrPkjJtG4BrWbnW_YDS473p9fDPMWKKCqe",
+        "photo_reference": "AUacShgxK225MUxwJswDfAt3GUzr_J1mALDVAC8vK-Y3Dt58c3b9g1HswGk16apqYOQJ2zzDLS_C2zO9X0RAzp9gIw1L1EnNx1B8fFIWgO0LXzWk36QTCmUbOmeoXaW9OZGSDa_gfcPppGd5E8u9BKxUAwMP28Hj6_lnjhySVKrbrIvyRyKN",
         "width": 2322
       },
       {
@@ -4082,7 +4060,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/105032449838291583842\">Joachim Binkele</a>"
         ],
-        "photo_reference": "AUacShiSKN0FYfSdHjSOrlo4LWAyEpRvwtKPKxaeKJyS9zse7eUPTKCZ8ymijzmqxDMSroIOdJI3ZyTnGVa1yVewM0RiILV5tzsA7Inpba4e9GO5x-orIh4kNq7TGItDhRi_Qc3qOve2Ahf5stp0f3ZXG21qUM1m4LPeBqmptg0En_stR5LD",
+        "photo_reference": "AUacShgpCBMjo1iICQdN6RvVwWt20paFsLnPLQQxud1HynoYyacxY9WOue_GwUEK--D_2iOjY8ppWbMBjK9hgXaL7Cq7VKQwvXYiky2KZ_JA6bhgQpSTwDemYs0yFYWwDYWqe4Lh4k1SkhLMToXFEzfsJHxMUt_zodrh7lJBtJUe8nSg_IJR",
         "width": 3096
       }
     ],
@@ -4090,8 +4068,7 @@
     "website": "https://www.kraichgau-werkstatt.de/",
     "wheelchair_accessible_entrance": true,
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJu9osogqRl0cRDzYFfIY2lCQ",
-    "date_retrieved": "2023-08-15T00:05:52.895Z",
-    "placeId": "ChIJu9osogqRl0cRDzYFfIY2lCQ"
+    "date_retrieved": "2023-08-14T22:57:17.448Z"
   },
   {
     "address_components": [
@@ -4256,7 +4233,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/113006082088185741133\">Kunstwerkstatt willsosein</a>"
         ],
-        "photo_reference": "AUacShja5BZpLtYFiwWKGflVsdM9l6xBOIpTucPecy7LcWIS3QmIrpafURzwNd5WJvTamfBeVhfgMzSi2d-v3AGID7pJfL1nMjZ3wmBLSBCLAwlB_DNCCsRvX6_lPmtvkxoc452TRuCo1Q4CA_EuGiQQ-5qZwd4ysCJ_SiNPDsx-Uox92oYF",
+        "photo_reference": "AUacShhQrjS38fdStRcI4AWrPYSl7sRZrqaUiW4z6U1ytru3RkBIoJFcwYBYSlH2saGSJ-47pAIoWXnJ6kUGd4AyIqRGJnrZFeCOopDwFyw6Q0ooE_K6ssLdw5pFDsWkUVdR3e0LFg32KRwe5gYQ0e8AdoFu7UIl8k2h2QUwrstZOPaGsyCe",
         "width": 1280
       },
       {
@@ -4264,7 +4241,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/106956923635206158020\">J.A.C. G &amp; B</a>"
         ],
-        "photo_reference": "AUacShibFM8rtGSEcYihK6-MC4CQ-93aabPlQUcSScuhhox-SAHMMe7aoXWFVx45JZHT3v4jkjUf7iOhOXJWx3WAfhsxxAGvYs8HEYScrKBkaPr1cIUkdE1wHS47Otwj-jTBW38Y_i9Oz9NcJ9ZeoCxJd8Gf04bHo-3eyp7S8CAQM9O1QV0t",
+        "photo_reference": "AUacShjb2qVMNLZOKop4r7cHFuFk5ZqyVNJ90GsIot_9w53PFyTRP4JzHD2Fg1R1kXboA5yQRX5uQpJbaF6j_2AgHXo5j2BGAt5vzkVzTvWKTq5V2lbFlpZuaKugcQch79opexf3QAOuZYwWAE8B_A3BgoNB4YLbyNsXhL75f1pWnIH8ANE9",
         "width": 3542
       },
       {
@@ -4272,7 +4249,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/117364718962037097294\">Mariele Storms</a>"
         ],
-        "photo_reference": "AUacShjTXcYYWglr88fN3t2eoKbDUO5tXP5llOGvOxAmwS7OsGQjIrvPZGRIQlM9HCtFt5_CHJDuV0a9xkNZdWjm19p5q2Y5xcchvgAZAAJ8G5XKLylaMNPa_ev4QWRo04CFpseB2XA7FxVWdXWsIsQH6LA02OGRkxVu3Cpj15e46Sj2NxeH",
+        "photo_reference": "AUacShgFDZHLm8I6GrvZh332LOtMvil9SHwxcoRNU44T_YZuKCOSrDsG5w90yAhq-Szx5qQfvOQtGfSHHahM03KpS45XITlot2IviINTlZ4olRNk28vcHWzyHldYMwmP9RdB2pFzsCnhqXzeh-UTrcCuulJ1Lsce7E4UsSO9KmWnnuzcTjHn",
         "width": 3456
       },
       {
@@ -4280,7 +4257,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/106956923635206158020\">J.A.C. G &amp; B</a>"
         ],
-        "photo_reference": "AUacShjI3QjswPTNRYXGXV1y2p1qCQZsuXI3Q9twbrKV8hhoEIU9iuDlEBYUyOgb8gaiEzsuFRFD1awATACjQLvnWopSKb7WaSldG2vITj6wGvpgvHzeGEqvSAG0BAK8q2PZj0jrD-y36EhpE3CPjWSe57VXkXMvd4OVWg8iiji9RrBnuqXb",
+        "photo_reference": "AUacShi295fnKYFtyWz7LZIkUj8r29DNiFFcZF-AaI4O3KCAaS2SrebzFcZ5OCay8QP9BquZaHXAJP1VZjh4JmyPKUh_d4ClrJcwh-tlMBoLlRBPzFbkZMnacuL66htndyPefQHBg19VSJANMhBxKsqDia-LxQqKqJ0_tFtwYF97pObHYzI-",
         "width": 2451
       },
       {
@@ -4288,7 +4265,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/106956923635206158020\">J.A.C. G &amp; B</a>"
         ],
-        "photo_reference": "AUacShj_xDn2dC2abWsM1oJd36ehJjPYTdm4oY1on7rroXyPtbvKI4rjYI4KAkcn04LLbnrM4oVIVYlq1Ql2nL6Ze0RXFmFywJPBq9W8hObMQ_K4DXqCT2DfAxLfXyhMrcY9SklOHZyf3J-BpF4H6zu5eWVjZAYph1_WFI7-9zp4qPJS7wQl",
+        "photo_reference": "AUacShhLzR-7qF3SPgK2WFQKeUhqZB5a6WbWVojS3meimqHf1h7MsjLYwlCza_zT6xCEhyufLGBsfqAZBlCI25N76fpohri-l5Z4pGePj_83Aw8GzjJL9u4ZFzwf1dQXRXM_CEh9YeL4uYSBgTJsXZ5PGIBj_8yTtMtKaesqjyPzoXev71_J",
         "width": 2334
       },
       {
@@ -4296,7 +4273,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/106956923635206158020\">J.A.C. G &amp; B</a>"
         ],
-        "photo_reference": "AUacShjIBRe590A2cZeFNVcgWnvxpCs7SFaZGDa0Q2T4t8eU-GINaoGCgh8FE__7yNY-Thvih8_VIc0__6JhRH9JcJnCTZiUjhj-KEebP77eMPwYmcMlcz83OCgzhe24DSGSuT0rahcvOETpHVLxVe622Br6J-pcfxPCNZoeXQwaQdvkz3jz",
+        "photo_reference": "AUacShjUHpmOOhvAdoFbQ4CpfxXT6BpNil3MKEX7VUjHOYbfD-AfzrPEy-XpwK7qpxYEdXnN8q6TlCUZpmEc3F4RCeZbkpnttwMxtiDGR1Vw7GiqnadnIRuk6RALSZXWu1fZWCbojMWr1SCvqZHJxjqkiknGHFiaSJZMm1URG1ZkINDB4IVX",
         "width": 1400
       },
       {
@@ -4304,7 +4281,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/106956923635206158020\">J.A.C. G &amp; B</a>"
         ],
-        "photo_reference": "AUacShjir0Z-avpkDJYxYrGSTDaYFufNDmkSce7N5nNlLwthT-EwRLpRKOpQdtNhYPkBiGD1P39AqF5pXxQbTXjTazqxzk48stUCTC-a4GDSNpC84642darDo-AZ52t758LbOgVwZsUhvXpeUcct2fMMvOOuIV6Im-hZhUN0xmgZaiZBnkvJ",
+        "photo_reference": "AUacShiHalRS1FKSx0GuejEaQ9CiwJYxti5UCi67oHS7E0I_AQLz_c1EIZ-4YqmP6QjuqMS_xKOXUCjfpU-4h3qbfyuEGt7AK__Y3L-4NUVx4x5AFGXt80fk7uoLVAN_VdpvU_5QcN-KGL3e-6FBZBmHliTQ26Le7UecMNEl2O14psUByD6U",
         "width": 3024
       },
       {
@@ -4312,7 +4289,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/106956923635206158020\">J.A.C. G &amp; B</a>"
         ],
-        "photo_reference": "AUacShhtsJa-wiq5bNAb1wgLc8F55ilTmAYx01J-vzP0n8oTswhKH-ZI1fDTiwBBGuT8UqO77XKaCKDSwSUsf99VL4m7XbRT4eIaLfH_9_CnqgP8Khxq0PPB5iB0Yc4KlYpgzVoF8plG-2sXlGZdlxEceXRjdqvuiNIO5UKGYcRgXPppwY76",
+        "photo_reference": "AUacShjrgVog_yoHFbjeICs62rkVWWJMmGifL9XlIDN81f7TTW08Si9QeHCp-rI7VesREvuJgxvHh3mm5ww3V5qpvRWCxYxS7BzSlnHvsUCxVetvGc2eRoEi03iWtuoqDHRIazNe61OHAOtqu8f_sh1ujpFFy78xP-xoxfDQunlmUhWX_-Hg",
         "width": 2057
       },
       {
@@ -4320,7 +4297,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/106956923635206158020\">J.A.C. G &amp; B</a>"
         ],
-        "photo_reference": "AUacShivli6wE3c3xDkfHsnf94WzndcQHlLxoCHR3FKEFKvV3n4HvTIL8ZXt2H0eGnGq-6kec9-8jMKeCOI_9DzSZne1jM8jnmFfQzUfMCO45Sta2i8FBcZlKTGzce4t0_WdGFpft9QKQozyBig2BN2c7K3QzS4lstHM6E7g9_zEQLnrh5-u",
+        "photo_reference": "AUacShgof5eieT8nKBNPif4zyHqtggyCP9XLPOt1Lv8VUo4Kr11vp0x02yY6IWKLDKHpeL23XLYozln-rlVlTJDcNOZrvrWxk3du6pxxzE3FPu7sjCKPi-PhZe-Zd5OBou1m_cuuZ7PS2tiagYl8JUSLiYPQ2RyvF6WKMAE-zjVEAJya-0tJ",
         "width": 2448
       },
       {
@@ -4328,7 +4305,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/106956923635206158020\">J.A.C. G &amp; B</a>"
         ],
-        "photo_reference": "AUacShh58b1ZXm5dmU2x62jwr_FZi8KCBW18LkoouBH6oWFjHDdUVI8rAecR4WhZgHPLNHKi23Bf_s-Q2NQaYO_5772rhgr6jA4XIEuwDzAgviSNn3bKB3GRpiHoYfuPaS-VDeN2i37Ofj-U1QrjToqmwSuwhwHzxv04iY9hf3IREKC1ZX0h",
+        "photo_reference": "AUacShgRP67RL8xhlje1TbXNKHOYCu_xWttjYYeFv4no5D-L3iNoUAI-SzXXmQ-9d_V2UF3-8KMbIaysAXILZUPXHa87xTDoj7u_g9UaJ6fih7aT1F8spEuDrpr-zXzCtNkyCJQ63-vHiNlU10q-i1p4KBr9es5FV1GiAimyknDV4ZY248W9",
         "width": 1812
       }
     ],
@@ -4336,8 +4313,7 @@
     "website": "http://willsosein.de/",
     "wheelchair_accessible_entrance": true,
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJm7b4nTGZwEcRpVJiq_miFTg",
-    "date_retrieved": "2023-08-15T00:05:53.012Z",
-    "placeId": "ChIJm7b4nTGZwEcRpVJiq_miFTg"
+    "date_retrieved": "2023-08-14T22:57:17.572Z"
   },
   {
     "address_components": [
@@ -4428,7 +4404,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/101816810726149715531\">Severin Bunse</a>"
         ],
-        "photo_reference": "AUacShhRiF6eA-9A_5yrBnjbCfInYt5P1oxqam6335GaaY6Ddp2xk5GSvvn1-cwzAiPRpm8vlVi9o9mgnsq1WC0D01a7podz7-sg7U-fFNCLUmCgJtsgncOASj9IaQpqh_9r-g-S16l_Az8a4D7H1AQvldDzKWK4cF3cdiSkG54UcX-B4J43",
+        "photo_reference": "AUacShhFc90_UT1kFWzo0LSbYSVo8EUpW3VbyfIWm3KXoWBRQEJgLsNcOxBVmmHIJHARxox93VBcj4RtplzEP7wSR8UZLk6fnAU8Au1n1HWVYJiUjSfQSozX1qjWg-XE8Kvn1PO5J5-Ru3z_HM_F6B-e77gCJcy3YoEvfJ4oIlqLSMCz5lp7",
         "width": 800
       },
       {
@@ -4436,7 +4412,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/101816810726149715531\">Severin Bunse</a>"
         ],
-        "photo_reference": "AUacShgvh_7vKbs4ln1G2o3Lt7HM0YWYNgFMEHtOiFTejUb1XikHrrbA0ZB8UB2A72THz_1n78OcAavIKmND3wam23wr03Z_cD8hC2zQkyK1soJ1BuU8pbIkap2PftLxzdFAWF_VH7StYPJKQIlPMga0STzX3qW5wo7McEE2RJDNXxF0eCLk",
+        "photo_reference": "AUacShgP8YkSezxgy9yoZMelUaFF1AjdQXrEN_jfAnt8RBDXQ9km8vTSV2CBX19WiOcucX3hC3c78ogXZ3tCwNsb_ieLNdjMjpOfeQtywSNfkm-oh_1-Pfm4u4DesdEDUKg7mBvo9NNDlQDIA4J0cJKQLb7GaYPZ9lT5NRZzBqRfoHQE-cJw",
         "width": 600
       },
       {
@@ -4444,7 +4420,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/101816810726149715531\">Severin Bunse</a>"
         ],
-        "photo_reference": "AUacShhxxnuqN4zrSWMBYOCkcKh3hvjwi_dSH8P0iZTQVQLVcWuKglqQCVq0Xai0y-ExelYRxsF_dnUM7-gGYLgpWIBkfV_QgYWtoGmMwISU3lzs5UBURlCzi7-eaPHZlLpcaBPHAsqoAmZR_x3howq4egFUgmnxX32MoUoqyXvIsbMh-FLq",
+        "photo_reference": "AUacShj9QJCDn9KLXtI-3NsqFm3JGw1ZYixKKDeXrdUGBszEtSYg29Q4KNKt87P1P3MIeLASaITYFHmHTnTdn2jrNHEwQvUh06S-IQZRWQpw5tTwkJkoWXpgMWeQL3hP_uZropBoqm8FkbLYeHxwy6rpoGcKUB9KAMN436qgZ0dR20I3GAGd",
         "width": 800
       },
       {
@@ -4452,7 +4428,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/101816810726149715531\">Severin Bunse</a>"
         ],
-        "photo_reference": "AUacShhgSFo9NKn-m4XPEDgoQWnGZBByzHTeS4jVDTDqpdXwIrXPSD20fQ7N0IFXd15o_bo454KzOcZvpa8PWdPCzGuybmT2yLgujr7Y7GDG4trAUPRegRyCniWmBlZ1-iO4tPmUsVYKgIHBVT_jQQSzQjxH5XLRmy_2NzTbnVuaST814vXr",
+        "photo_reference": "AUacShhZrK_eyDwLfUwciLInJB0Fvg9PuzFw195i-yEp5wcshVHTxpGYHem_ZPil9Zuvx51doLr0HKTq9DcgwgOh-TIYmGXBtKdecW4jRwoKOfQk3V3WnTw-kDkmePqFCocLrDdrVqjyKmtnfTWaoESAX8Odnvk0GHZASS3EGcPq_SF-MYoo",
         "width": 2048
       },
       {
@@ -4460,14 +4436,13 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/101816810726149715531\">Severin Bunse</a>"
         ],
-        "photo_reference": "AUacShj_K-zRXsdrL8MCftqrM42XldTg31KCdr-iuU1g4lbVncajHxfZ7ROn47neGObxeay79EEAMpl1Al1AOFN3E6F9AU3_Y4e6Fx0okT4jxT2khFHQh_NvW6CDBB1eAzzVj1Z1TGW0B2qc2loBMEmCUVckedFNtFOycv8d08S1P6fo7S33",
+        "photo_reference": "AUacShh0tHw8OMQ9ydnPCWypystZXeddL6kaZJ_aJIRapzkzMGPz7Y6mHpant4ztPfN23nXE7kLN-zqzyYDy7AeBjBNksevdio5lqvrWc-kLdprrM9ApTJ237CJvXiCr7QCQrN3dj4y86C_879yq-qE798Nnpv8KoP-Dit9tzZHVX5wTsOTy",
         "width": 815
       }
     ],
     "website": "http://www.teatrolaribalta.it/",
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJO84SiL2fgkcRWZnaP5Hju5c",
-    "date_retrieved": "2023-08-15T00:05:53.101Z",
-    "placeId": "ChIJO84SiL2fgkcRWZnaP5Hju5c"
+    "date_retrieved": "2023-08-14T22:57:17.673Z"
   },
   {
     "address_components": [
@@ -4638,7 +4613,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/106704621919877558774\">Imagine That</a>"
         ],
-        "photo_reference": "AUacShh0no4Y236RnpTrQb92raP5xIEud4o9Fwu8aqkMl39VBa1WHYbzp4JOuDF_bJEblFE9LeYrs35RgZZLS6tMMU2gr1FQ0yFniu7oEk83R75gLap5Lc376ytW7aHpdpCgL4v16gkr8yqyo7MR_ruc5J68IKfZIc0n_ItAHFFZ6WE09gJa",
+        "photo_reference": "AUacShgE51ihBfDKigxjDWXsPkORX98_mPZcV8xslKIXpB5j1D20RZZzh2CW-0y0cGjBTKTJvYOMS325J78nALAepdBICZtZ8npYJCo1QQ4W9k_A_Tfpfqe5u3A_EBhtkCUq9h4mfAkQt7GSLymlPcp7SQDWaewrnWOgaUK7OpKhhBzsm9jB",
         "width": 1080
       },
       {
@@ -4646,7 +4621,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/106704621919877558774\">Imagine That</a>"
         ],
-        "photo_reference": "AUacShhnQ2mcpJk4XDH2S-9V9q74z0PlDuPUu2_eib1csvR7uM4xwJLsQCqJqrt5dpnZVGkfZKC8OX1UVwib8Fy9TXucConWlfpp1cLBvMY6r056o3yYP8CzxHif93femTLoQjiRiwNmjuUOt6xlwWFXFInTCAmXDAHkd-voA1sK5dj3D-RT",
+        "photo_reference": "AUacShjgn-Ce-kkQ51JZ1iJpw9VxSEINfT9BPMaosGjNk8EPMhHveB1P3ov-XoBqvrbswrp3lXgF40Ifwm4MmML7z45XZdaaj-n8gFQgIYgBbzMAt5UG5SNuMBwNppSi5uJesVJLuQ2Ds3zMZih0qlSdynkdw_SDtTg5XSpFIeWJ-UxI8cAY",
         "width": 2000
       },
       {
@@ -4654,7 +4629,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/106704621919877558774\">Imagine That</a>"
         ],
-        "photo_reference": "AUacShjT4bZPgBha1qT6RSTtVhLiQHDjV0ozIFUsr2TlhPuiefP7nprzHlhAjObh6UkgZ9DQ_rOjMNxAYW2J1W6r8pJHkks79fsVjP9HkH1VmqT0c7QYfYfMJIXTzYsx3otDbcmJA88DHTNCW8RLc-OKznt2gBEE6hOH3JF5AMnuExrrWgxJ",
+        "photo_reference": "AUacShiOY7TSzFra0jR4OOvdvN7s3UeAIk4BQZBhTMSVN6GFizaNzpLgkf_CBToX-7RCk7A7jNDRtNls2QjhARolyMWa7GtFhKcRuf46P2og82Yjis8lyzj8xlRfeI2QKPv9eC1sYePu9W8Yr1TYcBh-O70YSjyphcuVc97W_VVxMqIsVM9j",
         "width": 1080
       },
       {
@@ -4662,7 +4637,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/111359779633210004085\">Cory Stuehmer</a>"
         ],
-        "photo_reference": "AUacShggN2Uy9_4LyL1RcFikcpvCOX1ZkjQ1wr7TBzV9NFDWWbll5LFlUC9AcEY_5N3RI-ecJroSCRno2hboBdzvLs2l4py4q-QJZqRb_LBeks53g_y58o5NidkwE-yuHnFT6FQqEF90A9alih3eqLklrm6h4SeG9M9xI7Xjsqy3q0Ig6v_H",
+        "photo_reference": "AUacShihqPY7jCPKYTErb8BD7JE4GDXDNKgeFXsrHgv9gYDRFAObYvDGZLc7IdQqTiUNTxMb1sD3SsyQwJiE-e0HG0SNnrxjpSYf_a3byDfHvMD2BpQdTYfakrDGJEJ_H4Mbh7rNzBctbnhb98j2sO9KgckUXWW1ld7qm0ZwbsF65rHMAJnB",
         "width": 2268
       },
       {
@@ -4670,7 +4645,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/118095346576305645681\">Michael Stoufer</a>"
         ],
-        "photo_reference": "AUacShhx911AQow-7njTEbAPyvi2GjS6EbVLib5KY9QeljJIfY1hu-_ppWiai1SOxxRax-fF0NSixUxQwizLQUr7sdfjLJa4NEw1-ryesP7VZUwg_Orno74WtqLnSruUDIHOCQxbiK6ufl0KFKpYQL9zmmT8Q5XA5AfSnJjkN12C_KlYEOrQ",
+        "photo_reference": "AUacShgkpBnSF3WOj119u5ydPaqtxVdYByGm7JIMWuXjwDHhytv3QSzRVyEIzjJrFWDnalOMg_11ppfgFOz_Wt94JlNSoTzCPvK4KxVGe4DV5sgJt4UfK8TSbo7zmpZTYepaea1JPFpyxf-DPWGP2NwC4_UM2pGsNiHb3IwYgQBAhrEMIWwQ",
         "width": 4191
       },
       {
@@ -4678,7 +4653,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/102810417482381123874\">The Duke of Artz</a>"
         ],
-        "photo_reference": "AUacShjx8SJvpLh2z8CJIUWcNykkf1kmvV6jRhMf2Hnp12WZwiSF_j8RjRIVgO-OM4kX3EcDtUz59Rw9KzUAultmjHMGJe6aoUJmNt2ysdsj5oFIUcg_RDCvVsE8cd9mZcwAb4yiYRkQmxnqtw1zRPGHk8vWft0I7Cyxe9XdtfMonLpdNEVO",
+        "photo_reference": "AUacShim2CIwOFPje8PQrwowCyT3R-vRmTRM8CpFzGVq2DQ9Q7OCvAzoOG-mF_uO1cUDJC22PzMyO7cuCJkPx_tGLuoKqugrWExjkmr8dY4h04pLu5PMZi_pSfp2DeRvVdjsQWwjXyWRQxWCok5Dv8omXoLR0sdJjS1rBbdgQYZTbwuW5PcU",
         "width": 1944
       },
       {
@@ -4686,7 +4661,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/102810417482381123874\">The Duke of Artz</a>"
         ],
-        "photo_reference": "AUacShj22673Z4142HA_-Ew0p8B5Je0yHE5zhCktoybiSI9gK7vburv3Mpd_HvSG__oykR92O02xcyVd631sSXJ3x1RZC9QacrEYVT8O--X7r1HBImj4WUZ2EY1jA6ZPyHq-qQ-XYrBGeT1rPZ_WR4zV94_RQU9n--qxjukssbkrod31JxPV",
+        "photo_reference": "AUacShgIbbKKhHXeMZuBHypaQqKfl3WYJegCL8HhZK6h3XSiFlpBM1XcjxgdcQBWVTf0FsEYMudZ60x7xVZ-y6erY-Frg-tZfOPOaGdbw3DXDMlK6cdpFzdsHb7wD0XQLjBX3VWyADzhQnPlDpNejHBJtfPVV6psoaZxuQO8VlTKhAe8STZA",
         "width": 2560
       },
       {
@@ -4694,7 +4669,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/116756504527191608692\">Tara McCain</a>"
         ],
-        "photo_reference": "AUacShjFNv2d-H3-cccUyHuSt4qzalQTJV-YeNFAAqJ_ec5QSUqZFlsETKEfG5F91wA8wB1Tkt0A2CuF5nxhRh77sew6ndOSJ5KJhC1iuiTKKRembnr1H6qxFoPst4Xm9M57Y4VVlsPDEB0cOTxuVRPHPqdqQhThE28nfDZxHPNTyikIUwWR",
+        "photo_reference": "AUacShgUgaaHPYYXiDkrrH1loK0wVUqVVe5JaUVLkZvrvxaCiYwvfYWWRPV2L4CXCorNvVXhFQ7o6XjdDSEyHtgamhrb1yN9hmHIs2rwy076OF9GIgK4-sYcEs0s6N7ldNNXC3TTWMhemlJG89S1BpqSA9B0uOYR2Z_GOovdR4mTrFt68nhR",
         "width": 3000
       },
       {
@@ -4702,7 +4677,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/111612246255367357091\">Phillip Woodward</a>"
         ],
-        "photo_reference": "AUacShjhdzj6I_-Qf9FaSOdA2JBkkIYuGx6RSZ0mLMy_XltyCqAzAjjQWd1iCntHIPB-hq94yOnlrW9rXBVdNda_j1EKcUnHBvkky1pebgxSwSRxSrSWCEbgTcHIY3eiTh0m4fzYOwgLhZCuzWO7NZGouMdEiGguJVEHRtM0Nt2VH9MGXUtZ",
+        "photo_reference": "AUacShj2v1w38r4hR4yWg2EO9yQeSr33ohtKyX4bxU8gAob2hmUVgQ1S1B9D6uNIzOq6hjnow02KpHuXjgdCbtp78ZfTzj7VSbcP_X_U3uPquI_wIhcAV27cqDst7welaB065RJP1vhx54AgNuyo5m8XYsajES2kWKndlm1UsfWxUJg3blPY",
         "width": 2448
       },
       {
@@ -4710,7 +4685,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/108127324855791749638\">Andrea Wardlow</a>"
         ],
-        "photo_reference": "AUacShjuDj6yfk6gczoWwFgNYuDZvlR9p1NzJRTZm1-aMxmiCFaAIOKFSrIE7LCOJeEcp-wspKEdATNCS9ahOtYRtdSckCzFNyQCUOmAdCrDMoRFs29LP5pH5NrNFghU2dmK0oxvW-RPztIugpIKPA_SDKVXK5RH5rP482yTuMDpLpO6vYtJ",
+        "photo_reference": "AUacShiofMCX2H4n407tvYt_jU9SHwQnLabTvgevpxajfkZ3HbHG4thrDA4Xzq4U9bo5tRaHSUOQRUcdt5iHQfIveZG-6c2qFXvA0B1Ow0a3Q070ixgpjFOAlphbKsbragkP9Fl9TnR-7urKa4DLNB-gq4sahnA4SrP2Z8GX8NOpZmq5rfl9",
         "width": 1932
       }
     ],
@@ -4718,8 +4693,7 @@
     "website": "http://imaginethatkc.org/",
     "wheelchair_accessible_entrance": true,
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJS8F4KEHwwIcRfzAHmL468r4",
-    "date_retrieved": "2023-08-15T00:05:53.224Z",
-    "placeId": "ChIJS8F4KEHwwIcRfzAHmL468r4"
+    "date_retrieved": "2023-08-14T22:57:17.790Z"
   },
   {
     "address_components": [
@@ -4766,8 +4740,7 @@
     },
     "name": "Art to Heart",
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJd35JmMfhHBURheuCiOuV4fI",
-    "date_retrieved": "2023-08-15T00:05:53.307Z",
-    "placeId": "ChIJd35JmMfhHBURheuCiOuV4fI"
+    "date_retrieved": "2023-08-14T22:57:17.868Z"
   },
   {
     "address_components": [
@@ -4868,14 +4841,13 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/101816810726149715531\">Severin Bunse</a>"
         ],
-        "photo_reference": "AUacShgepSj0ayC26G7UpEQJK-1rLOlknkJOWJ9tiI41Gz5CcKlWfXnBJAi5XM1QF3rpAE19rw7tOX2qBMdyRdT7lelfwU9xjAL_m0Bh17PaSYGxrOKK3vUFO2P5bNCaKvKkFOcruaKM8P5GeWcpt69T6D3Lqn7hvp0qLJQ3LB_1NzcLUI6G",
+        "photo_reference": "AUacShiK7nJREy2POvTSM_Pg_Fo81rqUcC4jWWmewYpe2Idbp8yPIcKOVg9uHDtsf5IDlfAFYrODiIwtvWCpx8iZDfNLBnrqxvvZKq9k9Ll9tvCJfw_4tWpm-vTOv0Euhgs8kIqWmvTHjF6RX2BSy8iORzaPNq_hxC4GS0fJDeCEAEmBrVz0",
         "width": 900
       }
     ],
     "website": "http://kunstunddiakonie.de/",
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJi2L6CjBMkEcRZIOFQxunJ0U",
-    "date_retrieved": "2023-08-15T00:05:53.396Z",
-    "placeId": "ChIJi2L6CjBMkEcRZIOFQxunJ0U"
+    "date_retrieved": "2023-08-14T22:57:17.962Z"
   },
   {
     "address_components": [
@@ -5023,15 +4995,14 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/102211461845277697199\">From a Google User</a>"
         ],
-        "photo_reference": "AUacShgaMGwOQJZvIVpwYqOQJiHhCHxuJx9M6W89Uf85tbdL1GJFAsIt4-7zyHXEQ-egwo5oz5PYul4KWVXSXh-mscNOJ5Szhh39TBPucYXLJg3ld-yZ6hGJFRzXLnK2p_-ADXrUgaIbj76Fg_YuAgGQN-buwaPG9kvIREVUba311XVMYdNV",
+        "photo_reference": "AUacShgvp5KFGz4WEWrX-XDCtOwcA4XhklgZsk4uxAU0511npGBEVyhIdrXDaqwEnrzM7V8Gy1TQR79p_AU1HTMi-ax0-Kt71YAoKmIvi2IMnPAyN1AnxzG2MtprpqIfHJwmTlz0KPyVilWyxyQeVTzyd5NXoFgyhxJCFr84CHCXIQh1-7K8",
         "width": 940
       }
     ],
     "rating": 4.5,
     "website": "https://jaw.or.at/ueber-uns/standorte/einrichtung/s/malwerkstatt/",
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJVYiGvoY1bkcRJ2Cl-PFypDU",
-    "date_retrieved": "2023-08-15T00:05:53.506Z",
-    "placeId": "ChIJVYiGvoY1bkcRJ2Cl-PFypDU"
+    "date_retrieved": "2023-08-14T22:57:18.081Z"
   },
   {
     "address_components": [
@@ -5187,7 +5158,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/109792102689049011544\">Atelier Augustinum</a>"
         ],
-        "photo_reference": "AUacShjzLp3Gg-mFaW4tcD5jxkfsOF5IjNP-NvYbrhBz06w8ZFZeV32euAEg5lIyAOX35lW4S9YZO46bud_LL635KXGsHVQWU6IC7PtaIvDkzgnOu6i5x6MKLxkTtVgcjHHcGF-9jjYNhn7B024pBu7Gg7QpU_dcFXyHHgrTddwFuk3godSc",
+        "photo_reference": "AUacShgxrmE0j1U60MSg7SRGq1sQZcADv6gWlhgNyPzPS3EeYM0Jt1Y82z9feFt1B5XUOPBN4IlctMykMynHn_R9S4Gwrqp0NSc7oJGzhFThEhfjx2ZWKZD1p7wEuYa8G5Kp7GqrORgYQ1C_s5ijzpo4w9B2regIeKiDuR4z522g6SH80sMk",
         "width": 853
       },
       {
@@ -5195,7 +5166,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/109792102689049011544\">Atelier Augustinum</a>"
         ],
-        "photo_reference": "AUacShiZvKzPowqPo1oMpbh9sV2S7G0nGHw1h193OS0pSdqZ7i7dwLkOAOzLfklk6c--rEgH79svHXEDfk9o6iBsVV3s9LtHJXzmjfBSFOJqbVxfstGdBv4DFiz76qwUofm0KBe_C-YrPJm3-pWL74qrSipLs9aCMYj8ZbX-aQPmdxn_jZ69",
+        "photo_reference": "AUacShikijIXaKlNlVj3krrgIA-5l1_7e4YqIlMdJ2vlYA7mHqWgjn3JEGbyJEIp4O6CoPjmgJhB-9YKWPxSPviIp7l1LqFR-UvWBcIz_bVnkFYyhsvnqw3sPuqh2M-Irr4bcD4fRjWCD96HP9ACWX2_GYdN6ZPTXyI0eJCFWQAYM8tGjfu_",
         "width": 853
       },
       {
@@ -5203,7 +5174,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/109792102689049011544\">Atelier Augustinum</a>"
         ],
-        "photo_reference": "AUacShgaxA50QUsm5NdpylftUgwQif5kcjmerh_bpWxvCADU_gCZAK4AMXKskSf8ZpOJFVgUwSkReHjcyojZ4EMhD_RSxulUovjKn427zA6oS1vVtlOIU0cXvqtj5U2hp3nffsATyaVOoBdAFEICb7XuHe9Ig6RafYyN0px5CLLghFjXnulC",
+        "photo_reference": "AUacShgb5ZlEHoR_RZFwCSZK_6AdVTugsr0CfZ0k6mbUbISC7YMjplnuAMIOWRnYsz7YxIq33BM9Fyp6cc38tNLd0EzjtVajySz7enoY5I2zVvalu9jHu8OOAF9fGM3gm6QAz8ud9kTs5V2YJyOYVwpmEgWaKSEhk_R8p8c5ZFQabfu55egk",
         "width": 1280
       },
       {
@@ -5211,7 +5182,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/109792102689049011544\">Atelier Augustinum</a>"
         ],
-        "photo_reference": "AUacShgZAUON1MROwgPjbA3EII5ZjisNW_Zehnmpb5YO3NIrdDS4UCCcQr0uOxzXJnN1nay27CMAhbb0nw9lvfBDxM_KEbg6kMl5ia7HMjmAScYZ-qaZZ79Q16Oi8LM6EMuJG75QKamBPiTs1H6EeaOO3dUb0OnMc7PpUkZdT8_O_naA8bNB",
+        "photo_reference": "AUacShhOIATl6A_HwBOlkD0XkGOT6YplAr-C-usUDR9O3bumhsEIDZwebdHXi7ipaOQxRZlcT40SyLLr94RKS7W63Bz_G0m3uO8vkJQiOT1vsYW945EOm-dMHsd8CNZs9xcr6XHv3Y8FC21B9Rv_zGiZ-4-Epn6swLUrw275q3Bl3li8Pz46",
         "width": 1280
       },
       {
@@ -5219,14 +5190,13 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/109792102689049011544\">Atelier Augustinum</a>"
         ],
-        "photo_reference": "AUacShiPuv7V87n-XiJRw2u231NcIz499JDNl_ai5EXZK3zdzRzM6Dqw8hFvEtCjZA94G2k9LaUXQ6YWBL-Uipox0KlII1IG3yOCks5gI9YFr8nhAhv30AtZxmUWp0VebMYmRq2c4yTtBq-OMRrxj8opWQmj1LSGGn3AsVGQeLf4J-9SeBDk",
+        "photo_reference": "AUacShidWM-iCjoTaOc0OaMFXryVq10NmU-kzbGMlFZaHLzBGqvrWjp9FIjbrlAtibNpH6i8CHeH3XUvflP5zqYP3K7jJpYNO32DdGUVt-IPdWdtaVfm9lj2butp5gfwXs6OOJWZOqQD0G91bXjrvHPpv5iuUVI5IHoeEPk8hQnk42nTSb9N",
         "width": 762
       }
     ],
     "website": "https://augustinum.de/atelier/",
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6wk5MeBxnkcRmR3ioJw8QTY",
-    "date_retrieved": "2023-08-15T00:05:53.598Z",
-    "placeId": "ChIJ6wk5MeBxnkcRmR3ioJw8QTY"
+    "date_retrieved": "2023-08-14T22:57:18.181Z"
   },
   {
     "address_components": [
@@ -5403,7 +5373,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/108456558648774329120\">TheAnswer ToLife</a>"
         ],
-        "photo_reference": "AUacShgWwMOJORPAETkGpF4irOER0HyC4vqgsFKMtKK-cJAsFj5-lUocri1UMe1P6hsw6nHg1m6zPCDjm4cX4r3a5CTPlnxR7R4hYIhyiN6TmfvMspf81Wuapp4WDou24fHBZy15Aa74R_6JKxBMf5FXoo-sTBySyjlOXfVdwh4Hm7Iw-g73",
+        "photo_reference": "AUacShhhaFvEv4TstHi1l2zHvmGTS2kBms88RJ0cEtmIS15eSZpv2SKCplEiRm-5JMpK28Q0WZWR7aQHTeioSUVBmKmg7qOPswYQ92Cxr10ooFj1Ny0M5kxff7Pc-5kqvEuQq1wlHfefGhuP6plP_L-XO689mgP61Xj-s6mxvjayTBYdukmx",
         "width": 4640
       },
       {
@@ -5411,7 +5381,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/108456558648774329120\">TheAnswer ToLife</a>"
         ],
-        "photo_reference": "AUacShjNEKEYnEzWNztpMKYKq-NgL153BSdDTs5XyxXvLW4oImUrXVYsWHu5lSB4iq4R8jEN9t8_ORYaTw8Qm-8ou3eaBkNWipAd2yip53s5WI-mFVWC2hlByl-L10iTacjkLsuzfYCvbt0S50I-6rRMqJR_QzM_gfh1dPSHXwan8y_iGNem",
+        "photo_reference": "AUacShg7jbzirAYOmp07lWiJK2bHzT6GMKlqmEjFeNJ2EOitLg1RU8Tn5kmU6cTSS0xWnrXFMPwj0SoWApdSmio21JY33IyCdqM6REzgKPRNj0a8qc5bEfZOqPGBzM4H_e7FLx8OMftUrWLkpHLdNegQinKd3Z9AXHgwRXCqL_N3IQaIhitc",
         "width": 4640
       }
     ],
@@ -5419,8 +5389,7 @@
     "website": "http://atelier-freistil.de/",
     "wheelchair_accessible_entrance": true,
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJwXpjJAWRsUcR735CHIbq-gg",
-    "date_retrieved": "2023-08-15T00:05:53.710Z",
-    "placeId": "ChIJwXpjJAWRsUcR735CHIbq-gg"
+    "date_retrieved": "2023-08-14T22:57:18.294Z"
   },
   {
     "address_components": [
@@ -5513,7 +5482,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/117603762621881957529\">Tobi Nofre</a>"
         ],
-        "photo_reference": "AUacShhTKf8CCV3E6NSJhXyg8OAPe1fE2AUbPnslVAtSLjom3gKURRTx3JKt2O8Ak_8Qjq1tEPsGe6QO8WdcKTXtyIJYf3ZUiUBO7z3e3FY_UU8Bj4DVoTZtA6ILNA5Vc6UOH7M8ZUYWNqr6vnTkC3rI8GC3R2SwHo5V9iD_U2BmbplsTK7P",
+        "photo_reference": "AUacShiiWRdZgZVzK9GZxcl67FYL4KgEq8RdAlIjIGelfvt29YzRc09ZasJqS3jUVxtcA9WQjHzRmn3txlQeyRKzG9khtmZrboSPayE-YmwjjXOThLMplWNdKMydD2KCYqNPbLAV5SpbYSHj-8rscjIisPTG6oxV_ORsau-BDTG2pIuxvBDW",
         "width": 4128
       },
       {
@@ -5521,7 +5490,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/100793501981708013337\">Reiner Ovelgoenne</a>"
         ],
-        "photo_reference": "AUacShhTq6AI15tdL-9Rt8je4qAGif-h-vwK8Myn1adGwIMQO1fXBeoi5xRcXEBHtZnYkNg7DQEynBsDQ4YOocxJWDPEmm828ZTUaJDXeAl6c6nnML597nIc9hdIkl-cIf4Ec5MBbxAVReHPULdVYb8_ylXHPeL_VHgT2y72rXFd7yYIhxRp",
+        "photo_reference": "AUacShin5SZQt4S0lde3h8liywU9GiIfzZzEMQPbeqXvK18cXE-qOKKrYBbnFeEoYscrScUqskgRGBWFs0IAU6pu6wlxsYmG3s0G7lHMGpMybKX8UY07NDlL5yxpNWxToc6sX8JkFpU3XzDQhFAOfJcxL4mOgC4Ai1JRyJmpWb9735kXhFNC",
         "width": 1920
       },
       {
@@ -5529,7 +5498,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/117603762621881957529\">Tobi Nofre</a>"
         ],
-        "photo_reference": "AUacShgfYm_lfqvf8xT3K8kQ93zveOTntDHiTV1iXzZkNIZILYn0MngWYdtNcZW2ZFuJzDR4_je2zJKqQL4j_1c9JnoAn3HXfSHUTXhIWoAyn7a7yXxw2N2ECw4M70-rrpgw_cDeiXN8X5ZfODFgtBRahV41JT6eigXo-QQvEwuEATD5X_lB",
+        "photo_reference": "AUacShhp7tkp_ZCk_IGSU_-D8EBiVoHAAP5uqZ1rCQ3UT7_pGQMt2Nce-UByPW9RP-SLqDquO2SfAjykaoHNKiqiDlBHapr8imKkZasAGmpS_FLn3giERAmTyC1m-lnqX680utS2pEyDIWJ_KZLASjiNLNE1ruSbVfmowIb_ysbegbDOLPxy",
         "width": 3096
       },
       {
@@ -5537,7 +5506,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/115815195491977341374\">LaVie DaLoca</a>"
         ],
-        "photo_reference": "AUacShiHC3dGkH6haGZWm930SIhqLt0mhzrb2bYW2SPenYlLjGNR3k70w_wZUCFSKToqrcAia1IaOAI7S3t6uJbbEB9Uw7vGKW2zY1DHoYS62Rd_i5DZGshrDg-1uUh1RKxyBdMO-fVffQuU3VSwdXlBdRoiUmYVVyiPR-FXjHYj-3NdHHFM",
+        "photo_reference": "AUacShj_Ddqx4H3pV2yr4PoxCZEdq3xS4U6H0B7_XNCiUF5XJgaO3B2VMyjPqJLRz0myrAMAEgxTWLUPm07Z48Hz0Tz4QDn8QEoeO4qFeNtO8aK6ZxgRAsdT7X4KE_cXISng18D73bArPRozkvSujK9mWAmxXXEY9C9CvXScjMTaDqo6QD3G",
         "width": 3464
       },
       {
@@ -5545,7 +5514,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/117603762621881957529\">Tobi Nofre</a>"
         ],
-        "photo_reference": "AUacShgqlwgslh0EprcSV7VUH7x0OGj3Y-Jt4YBrymxpm6dz_LNnwuCzFnzkYisEO1Q4jIg13zm0iTnMjwybgXbW8c41Qemjz4cSuPC65cAzknFh_Hi8Yl5DGnk_A8SOOPTQ4L-bjd7wDSEYrgIv9YybkqkaDSRB85HhXAJW4bijdsb5DWZA",
+        "photo_reference": "AUacShi4t75lekVGjxcekkZSTIkIsk6HGbnsnpEvCVD6oix1DvLD6CBaefb6usycsxXFa-0Ff9pn2ATJefQz-h-lD8q8JJctohm8wgrwIAaEAkhmzr3HR5ZShSjmFUkRuwp1S62gBGsWyNZm_wam_zkN9S40fWwlw2xcR_dzMZC4QFoD3paO",
         "width": 3096
       },
       {
@@ -5553,7 +5522,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/117603762621881957529\">Tobi Nofre</a>"
         ],
-        "photo_reference": "AUacShjFN-RneHw-mfYHUUoq2Xh7C3wLUfek6U98Zl7DUlzDJvcYs2Hjw1VRTrnDXa6pwA26TFj2IdwUe2tDjshiAKTmPYIGMzHjxPIHoIiwtR_ZsucRIxjIVaD1ay1eHd0asVxVbwXcgfKS7YV4gTdMJY9k1wcaEqlH-X1Araj0_pA2WBrA",
+        "photo_reference": "AUacShgVOFxFC17jxGBzeJphx-6Kxj-2Ddr0NrXgCXiSwW69RFe14eXJq99z--JiGyDtK30H2om6ST9A-2sw1SpePqA5quf4vIjOAkjXqYfyO3AXz9p2-FdH0xBH7H82K5bHjTqm7RNFd93znbdCQH7ruCaRC7U27PZfzD4fctgO_kmUqLiw",
         "width": 4128
       }
     ],
@@ -5561,8 +5530,7 @@
     "website": "http://www.artegrale.de/",
     "wheelchair_accessible_entrance": true,
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-b6VSUdWskcRcBMOQKgDesM",
-    "date_retrieved": "2023-08-15T00:05:53.820Z",
-    "placeId": "ChIJ-b6VSUdWskcRcBMOQKgDesM"
+    "date_retrieved": "2023-08-14T22:57:18.412Z"
   },
   {
     "address_components": [
@@ -5718,7 +5686,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/110152275110668208828\">Open Door Art Studio &amp; Gallery</a>"
         ],
-        "photo_reference": "AUacShg9WsvFd5IXTG0TMgWDKguOqLtZzZwUfWSlGjG83HWJ1mD-qlmAyAK7oFdnD7dpYgMyfjC91ySIciCHk__ZAHb9Y_AUpp7HK5sShK3iudWhqHtdN5c7qS5AARwpAXUi9FvIi1TclHw081iei-g1Y0cSe7zudHmq6AnNADezan5X7F9z",
+        "photo_reference": "AUacShjROkQF91q_dSsE47KhOWjRHoDarFZYn-G3fnh96bRz1w-jmhcaO9KZe3YMibsrFMj7e5Zt2xLPvFZeMinJ7v6fe5iTGY90UBe3Gi3DB3nWhyvHneky21-r7amFteqWR82oKw5Mtn3cQR3suu4X8owFgu1hOV68hF43uxt8I6M3kERJ",
         "width": 3984
       },
       {
@@ -5726,7 +5694,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/110152275110668208828\">Open Door Art Studio &amp; Gallery</a>"
         ],
-        "photo_reference": "AUacShhfj2xQhvp4ZkNica5Esl73iTN88Mi5vJUxKFeGkiqx_So7kLax-NsTAtopdaJbtU4kIiRCb0KuXnvZTauiVQwav8SfrpNpFso410QoniqDW69SrijEmMCucQZzGtQInOYUx0s7xazWs0LFLWvqEdNAAT9-yhihwqPW0Keg4ZlJaFWp",
+        "photo_reference": "AUacShhvSU2z8ULSc0xHsnW-DccbdAtJhv93lSDgMwYWFn37WLRO3UbEEqCyEfpBnj9oV5qYdxwM8H3h7Ut2ZfRSQFMwUyRhd1rslSLqkUe7yhDsCxNIcxcjV--2rTMo52t0myM-dx7LiGxHm1lUwW4xg3DOx3mpYornBF5z0xEBUK86ZeHy",
         "width": 2472
       },
       {
@@ -5734,7 +5702,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/110152275110668208828\">Open Door Art Studio &amp; Gallery</a>"
         ],
-        "photo_reference": "AUacShjY_LsRF0PJFUYGncbrv9eaKmsqEpKZaxCXgxIJunIF6Cz4f7rwvIqAbYYgGtDX0DHW0RbI9oS8fsh59Dp3xfCs0_5G8MVcQetUsOhADJejd7Hc3AuZj45JSF0rK_aaZGHm9PIprXjriYvavvYWzEukQ-1DVaggjj7Ss_Y_kC9uAa-C",
+        "photo_reference": "AUacShjf2ZL6Z82K_7u_njhQYyh7U82QHbKTsoI5bCcoN5yLeZJfP6K21utOim7L0dJEh8UIBsc3l4mFuzKRUjM8ablbqa_6ulBRvlg9Dt_BveA71dXoJjMzwu1l77TIrLovLNSL_wci7m2CY8WAB_aLSDST1ucrCddZ0q_2TzK1_YZp0K0z",
         "width": 3885
       },
       {
@@ -5742,7 +5710,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/110152275110668208828\">Open Door Art Studio &amp; Gallery</a>"
         ],
-        "photo_reference": "AUacShgRFhRxmltVBaVXkT5i794Hg7Pbj98KldNQnfh7tKYV4mhOg3A4p4_kMZeL86MH81Ek11MKfuTvD85PR0GkJVPZpibVKTbWQhxIDJJi7Q60LxPf_GBoq3MRDH1cTabWpGV1esE8MK4Jdzmh8ycYaYwjY3HfBO4k3ViTCQ3sQMrwcOsP",
+        "photo_reference": "AUacShgcJBUlxl13urYzSwPJ9bznFyOePjSQU0TNXolE9OmE0v18TIPxHgaAbJC2uYdD1bJY4DaHFUkz-_TyIbXiPXAwOoJbTFQmKRfV0S2lLpOwn6Y9Gy3YlbqjZvXqSvf6orrbypdhrmqfIU9goCIp1PCba3r0LjoexAS3MzXn-skSmo42",
         "width": 995
       },
       {
@@ -5750,7 +5718,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/113024978531420690170\">Peggy Frank</a>"
         ],
-        "photo_reference": "AUacShjQ3nBiIQmCYG5MIfq54KP647scZaozJRZOSqGK0Hr1mSYpKMUnoAs8HtGoZQ8-ct656gfjhv-CeEON40Q7kPxQaARIzPPd7Hb7H8iBFTQUfS3pKOnFs-Dd1UY3EKt445YCrUduMByBlEIQXKWFDZ10HsfCtTfxrr9krlMjoXvLd__A",
+        "photo_reference": "AUacShjzltmReX8m4T9EqJNawJnitcwvKnWDnlJumKx1jTkAgn91EhVlNClkU44G_yEMn0dVMxcWhyYF8bDeO9DwOcphnPziZ4BOoBs3LyLc2cGIHcU28_0tuhwR8BC0iI0x-r9pUnFD6Q-JHTS6zXBJ3x4sxZrb8HfLUiocXCbXlQmWbBYH",
         "width": 1944
       },
       {
@@ -5758,7 +5726,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/113024978531420690170\">Peggy Frank</a>"
         ],
-        "photo_reference": "AUacShhb8IKxoJxGz1Fu0m_S3ebvG7N5IKPFHp1jt8w3Akb2A3yEZTSkOLyQR6KrM_n41ZVV9rbvBSVghnJcx0H9ux9TkjCy0KfqHTonjU6a_QdOOTjm6ueb0O8jDVYyTBnr449CHRi7QTG-Ppl_Ajm6fkZUgvez3GgwinURuD1Ixytt09Bp",
+        "photo_reference": "AUacShgSr0_fpCsXPG_DcibCkPwTmtWn0qtJyDhiyGsCNglV2R_uNlHcIEPLhs-zbUWGDDxnS6Rf2B5V_dnAEYLOokW3yoCG_rE9Rk-NB4xhaJ5J-t1Xh92gMxvcN6lllS1ZsWlpD7G1GD2XVA4Ak6UHM428kxvfmKs8LUgwtj1J5b7wH-Td",
         "width": 2592
       },
       {
@@ -5766,7 +5734,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/110152275110668208828\">Open Door Art Studio &amp; Gallery</a>"
         ],
-        "photo_reference": "AUacShgeSu_lPMiMGPxDVZZSCmloXXa4sUt_pIQyiEtQBhARQQggO-T5sCulaLdyXg3S-q32BngRV80UeQZOzIUSMJm36nmR4EVNzd5VyDZMEWS7x-XzANJVhHjzqx3_uzDYz1qyIf_fw5ZR43TT764_dHft-waQMcCNqNEvg3KJReXW6I38",
+        "photo_reference": "AUacShiPsc_k2LcOLjkwCHD0NyT7_f9FAujpboA4KMT7rP9AJ8MllNM8ZfwjyWcUu1Fi5MtaR4KlBdcG59-vlYVSPvcygWBkNk7l4cur0v9Y_nNsdjea0hRyj6s5nc8LQpA70fo3uOsANhMiiVmALRuUTiAXNzKa6G3b8V-HBm-kbw92UsIU",
         "width": 4608
       },
       {
@@ -5774,7 +5742,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/101916077879052349241\">Christopher Sanusi Cole</a>"
         ],
-        "photo_reference": "AUacShi1nLpo2tYyRIq9RctWR3O4pqT_EAvOB0OFZ69URhgzpculwaDYGplIzz29fBEncb6sMvJpgPXAOZqI0y0yVXDCchoGENUpqUJT87gjaLo7zh_9K18af9BmZVbnM3iY9Nvs4bj0dGicKJ-nqR_IewgQYqC3bQ2bfm_AOGbzbqan7-JZ",
+        "photo_reference": "AUacShhiWgBXCKx9iuEHKDMajGetpWyPX1RkhWsiyHAyAVVb4TeX5fflZfIEi6Wl5Wl1x3r6MQlQwY6AcvymsR8j_7aDXQ89Csp9EWJoeSxppMwypTQ04yoXQd-c778_iY8w0Cj4AZTcqbcaivLdzjktzF6BXVPTjD_m6SVHKW41EAFmsXuI",
         "width": 3120
       },
       {
@@ -5782,7 +5750,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/110152275110668208828\">Open Door Art Studio &amp; Gallery</a>"
         ],
-        "photo_reference": "AUacShi-gUbeeEEsxnd87qYfFklRiPRpK_QEISw9Va7mHsnnZ4gUgFHa26Oh5hZHMI3Qt1heFMM1xAAMCbL3ck_Ctc2fKBdqZHBpWQ2WPTjCaVc5bVf6Ecv9tXusTcORlIwn8Qyzk_3U6GXtygx44YJ1e9gNGvPqjAe8Y34rWvyN580FMyb8",
+        "photo_reference": "AUacShj-BM_U4pNSGeNtVGn88m3uZd6SajxDQtXX2IIMZkLPo4MPycQXtvgi3DiZLuVvVN12qg3JXCfwUmUaa1O-J9L_S8PGe201wspnDclZdxak3SKGEanDJkZleXi5OiUvXpAJ3EjZGZ7RPGGzrUMJpEsgYqMEeoTWXIPHLshXAqWuVdJM",
         "width": 1772
       },
       {
@@ -5790,7 +5758,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/110152275110668208828\">Open Door Art Studio &amp; Gallery</a>"
         ],
-        "photo_reference": "AUacShi39fSgaT9BwQlfbqo62RzNcB2c8BeptTXmKjbQZYyxSFFix-rukND1jM9I5ATC-tk7igij1yXk_MfEfgHx_re7N3Z6l0iOCGc4InKpMM2bOWEUYVetQSVqE-j26bEolvkkI79rcjQHjh2bANxW5UL41dnBI7xnHB_71nBNiyj7QZ43",
+        "photo_reference": "AUacShhtBwvBParP92l-MauV1UO51mxCvDcoztFd5aRgy0f7U4cA87vs5XRwT04fo3tcnSCWR7s_g8wYnHa7dfkXlQxfIlJcvYR3x9_4YJG1wzMw4aRmJ-9aldvxeJoFrCMX-azJsk3zvpTlKgbCQhMRTZoW_FCQnrxeDZ-yeA8tAp8fpvtA",
         "width": 2120
       }
     ],
@@ -5798,8 +5766,7 @@
     "website": "https://opendoorcolumbus.org/open-door-art-studio/",
     "wheelchair_accessible_entrance": true,
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJGWqgTlCOOIgRiJBxluadbe4",
-    "date_retrieved": "2023-08-15T00:05:53.944Z",
-    "placeId": "ChIJGWqgTlCOOIgRiJBxluadbe4"
+    "date_retrieved": "2023-08-14T22:57:18.529Z"
   },
   {
     "address_components": [
@@ -5898,7 +5865,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/105151791268197955609\">Artists Creating Together</a>"
         ],
-        "photo_reference": "AUacShjmqOUk66v-R9ukhYwYHFCybboJnlxnGChkUKAtc_zwn0MDAXs7IHGOGqgZHkYWhlPybknUPMtPm_fZR-MF3hPSdswhwrPtOEUnV4KkyWKT6H8e3ZjS-9QoP5ToCTnQAJw1J7gynR5OI2zX2YKLqsLuybEinwJsdMfSKBgPp029upXg",
+        "photo_reference": "AUacShhAM8CdtCLZKX7Rj5a-2BE3FwX05N_G0tG4sRzuXOH4l7nFlpI58KiOMvZRzcMDb-q4Q-ZF8okBXvlwTYt1Lma2D4kzuKgE7GRSI002BaqOcTT7iqLilfEaPQc1TmNG6AxoyXRoH3uMECKSxq7Hh5iD0E24qwCbvHZiLZ6lmzloMsTU",
         "width": 960
       },
       {
@@ -5906,7 +5873,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/105151791268197955609\">Artists Creating Together</a>"
         ],
-        "photo_reference": "AUacShgotNoyibJSWwE-aRl3nsO0OUUwvFceXqm4tF6MC8twhXSGsRAUfBRRdjOtF0JlsVicOspWTwkifKP6FUUtsVbO4wL9ZIVCALbt_XCiwYThnwxGi_MXSE5fm0y50tCHjQd_fiWIS2ufDC5r1RHPc-1TCrck6bBc1CFnNniGoIPMZ3Zc",
+        "photo_reference": "AUacShjA_i4gcbqhKEUjpSR-LvZqlbQVaWEGWi9Jr6nwCHvb7aNObDYglQ7EtBgAief5m80QO2u8lpBz-rOqrouZNyhwyNKESTx8PTpdgJm2JctC51FqPhI0tG_nPhX2JlONYew1w49RCDDaVwUaMXAZsVA7HEdnj3ZJUXMfpWomh9S50TeU",
         "width": 3888
       },
       {
@@ -5914,7 +5881,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/105151791268197955609\">Artists Creating Together</a>"
         ],
-        "photo_reference": "AUacShgRBeM_58oPsQewMybznGwCmkyHIp5YBVrm-tU_JIltg8wRClx7_WH4CAxjTAPaAevLntSMnRhh1zVfp1r7aL96Xvvfyvts8Ph8HJJ0a1wlBDzCq_o1F1EiMGF2EYKtWGERDU3J8atA89vxl6J0Po9hLhrDzuA8fL9MHTprpJ28aats",
+        "photo_reference": "AUacShgqiEeCMEisX9Gb3PEVC-ZSUp-kNGLxLGNjING_3OH1BaCs-pM_QdA20OaBQD3FP8i0Tfi30xzblamkuZLZXWk89Ly17PDNTsNQuZmHfBSdMedSr6K3o52h23Q5Ie5JOCX4dFVh3ZzrVs59ok_lgRXmBbW5EdstvkRAc3SAQmWF2QzO",
         "width": 4032
       },
       {
@@ -5922,7 +5889,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/102330258004303190814\">Sarah Kuzma</a>"
         ],
-        "photo_reference": "AUacShikObwrfZzbVvPfs3oCYUn_p3pkFNfgdyErGe-An4HXMx0aZjPvtHx28zV_RXccmloc-h1D6BrLc4dyNl3cYhI-5v7BhQw_7lPUu0rrewCje00pnE6BNh9Cc6JF8JpimAwALdNLN9HkTeb0DFgl9kzHlpBh3zo7yCmFwFGSu-iecjvF",
+        "photo_reference": "AUacShgREGK5IBR-O2rwZ43Bo_qzud5Ei8UkghV13zdS59ji5RnuJgOrc-ZvQbSEI1QkcbyRMtogzBGsKjSPPJOGqpObdyr_rnsa7h4tBllwMdKFePo5FKg20ofoGJxBy1poonAb91_zs1PzdTTqEdTwIMO_Itk1JV2W9baVs_IRz_YF7aec",
         "width": 3024
       },
       {
@@ -5930,7 +5897,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/104937507137351907454\">John Adams</a>"
         ],
-        "photo_reference": "AUacShhFaloE8jbLMnFAcyp5P_OLWFaYWkn9E-zkJ6_gOH8IST3dnPg_FsGYORxsFMbG9Raz05q_x3LdZ_32x5mJjVxUsvqNVXAr_AmVlmpn2F-MtyvDSI9kpciW2qrYmNhqJ3xr0Kb-Pq_4ENnfpGeWyguYp-DDICxr8Ba8qWgTxLdaAzd2",
+        "photo_reference": "AUacShgmKyTSz4Lz0c4lngwVhG5kwwzOlV39jptT576sSbG4WMPccEvyr6IZr004VNL0Ikm_y4v_PELKhSXCt-tKSjYYuDpJD-BJoNVHViYJgXBc1EM1CRwQTrJ_LegVHMjYtnsYaeA7uwZdnh1_s84LbBotJVXq-ZTPIR947KdOu4-GDVMY",
         "width": 5344
       },
       {
@@ -5938,7 +5905,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/117994278718339779754\">Emily Mann</a>"
         ],
-        "photo_reference": "AUacShiVFSFHyeOyphB1i9mCBzQhfHL-gJGaTCE91BVhb0NqJWWwQdbjYav_V-qRlCxxGkH5DSUE9AMmP43V-OFLWQNhQrsfM-nMFbllXDZDW6j_td5b41XkseIKxqzDyzVL1RCcegjpkdqyW_m-pE0ffsrCwHZtQR15QZ1wFuRtWfX4b8RF",
+        "photo_reference": "AUacShh4HgboIgTdpgRIbNJfp12g_qFo2BO72556eD9BLErFLt6Fn0gt-sM26ay648G0gQB0GyphACEhSdlC29G78U8pP19jx7vAi25O2883tdYEOgfJRJHIDdPPnSgGAp-6bcgtpD7VFSgsjHgABj5k4YfK73I5NTtcqXQ6208901BcIk9q",
         "width": 720
       },
       {
@@ -5946,7 +5913,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/115325933249455758068\">A S</a>"
         ],
-        "photo_reference": "AUacShgWvzpUsG1vMtxsv03YMnGZE6RKNMsN7V3wRjG6AGl1J3UlJlDW9H1d0oPaTWhYsXEmPd809RJMVkIJa_9yMHS5lqQCF_qsIjDhHwRs1nMltjKimDvA9z7kusKEG9AoAny27GN-nAz86HxsX2MAoB0Qx5kMcQT5w4TZccrjkNvaOScG",
+        "photo_reference": "AUacShhm7D79rn03WkI_rMj7ybTcDnJ3sNgiEWgaqfPGPZ6kU4pAmRHIdG7glB4y3N5ergUf9lP0FU3juwjF6vjkUb1Is0Rd1F46a2kdwgDjSy2X9yXihRW5pAWr55vjbwvOU4Wk4crOPNsrTBfnyqZjtiFQY_6a800PD-agARPaTm-42PzU",
         "width": 1080
       },
       {
@@ -5954,7 +5921,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/105151791268197955609\">Artists Creating Together</a>"
         ],
-        "photo_reference": "AUacShjfGd0nK3gkLwBqmCKr-xgzoZ4CKJlOQWsfgJMAHt2gkzNBLxkMdJzGtURJXojPoaYif3qa_2WoBTHIYknugzAgukb65jEWtdb15d8pRVkWT2SvomjhCfa2RilEhbA24OtvskwGgIIr6atu1ghXTYuxWLHZ-bezSqfCaw9numWm4H7d",
+        "photo_reference": "AUacShh9ebegQqV3ormJ12AzCGbZgFXeG5KD5cPC3HLB03ExL27kyJpSZA8NAOBGH0NEONbilwDThMpm_dSil_64Bgdt3nDUX1lMcCN3Bi-Nx6TTI8ybKlAlErTvOzQnbPiRkMt6r9rONh3BDwQYQBc0uVJa-MCfc7ZiyTDxAg3xpNthflAF",
         "width": 1024
       },
       {
@@ -5962,7 +5929,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/102330258004303190814\">Sarah Kuzma</a>"
         ],
-        "photo_reference": "AUacShhWcRY03btlfZfapHbnzW_YC0xzsujuE72rWUlQuJ_qKvkDV00eZNjx1lbaGQX-EkIpn93b8pb5T586wT1TrLwxMYfd8E5oZh1YYxnkMvYqgt8Gmoc38-ZQQF92Xu2l1lT5hoZw5TrNRgPuv6826pg5fHN61HHn53JEPwcFFTTJ_Kbn",
+        "photo_reference": "AUacShjzKcmSwoQpXbwdVohvEsQWHV6651KXGueYixhaf-nzHEeQzzs3po1p4PjnCxjyTFe4IacmTzz0QnlLpOzIVamxX9TAK__Xa5IT8KpT9sT9n7ri2gX-XULHqUKfmGWCNm2n1VSz3allLK3axtQpQUu-PakSsOw4KEos9ffrQ6uzBBP1",
         "width": 3024
       },
       {
@@ -5970,7 +5937,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/105151791268197955609\">Artists Creating Together</a>"
         ],
-        "photo_reference": "AUacShgtIVaJ9gnTbKhtPW3csKT3-7Jbqh7v6hwdYuPLOopCMcG03xEcf-3ji9IHqxYbfGh8EvB244qk6vJxAoja3Zd4P_JgRq6yuhaWh8_tUvaklzYmmt9ahOqlm0LbNSFa7PdonqHxIpjgBXUlCM5C06lLo5C9z6q7KMlMtYH3RMX_0TW6",
+        "photo_reference": "AUacShjOXTLgXVTuJTWTMRT8j4zpYF40tGU7GuM8uiyg9pCASkTyNUwMfjUUFPRXrM6zb6LvWPLNP3krfyt7R9eije9cB19sm1eIhNQ1r90PlAUWxiAPCxd7lKpVrYIIsrNOKQyTLmvoB7hMjgnjeSxXSOgv-WrmB3g05v72i3iJjdpLS4GO",
         "width": 1024
       }
     ],
@@ -5978,8 +5945,7 @@
     "website": "http://www.artistscreatingtogether.org/",
     "wheelchair_accessible_entrance": true,
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJF9RFJzGsGYgRBLTlCvUVG5Q",
-    "date_retrieved": "2023-08-15T00:05:54.055Z",
-    "placeId": "ChIJF9RFJzGsGYgRBLTlCvUVG5Q"
+    "date_retrieved": "2023-08-14T22:57:18.657Z"
   },
   {
     "address_components": [
@@ -6112,7 +6078,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/100160350573403796208\">NRGFN 69</a>"
         ],
-        "photo_reference": "AUacShiQxGuAG0ii800WkfbggLFKfUMp8mpQuNTCvY9c-v_YAqKWMvoYyf0gyGcTir5sDVCMtWyXQSmyZmMKyxahZqrjHQYxA_0TTDcDtk-vl8Uhd5_bMl87wXn22D6EZ0V5s4gvSWdpZ8TV1n9yV4fhAcfyvZM6NaKDHnYFLI0W_8GAAuaR",
+        "photo_reference": "AUacShhNZ9zjrsHEWyPrkEmnPZjnL_LaBT7cZIVXPCDf3nUgF7pstAn9S3Ds86ElT3fA_JclUNvAAkjU76hCQonJPxrHUQX9bRd_YvX5AZ5_n6s-9pX07AEs9AWRjtzFcPrPsxQ-6CLpiyiB2BMHt_kK85noC8EJx-j6G9odHEv9qfaEw7rh",
         "width": 3024
       }
     ],
@@ -6120,8 +6086,7 @@
     "website": "http://actionspace.org/",
     "wheelchair_accessible_entrance": true,
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJsX6dwUkbdkgRgoE2pcpUoI8",
-    "date_retrieved": "2023-08-15T00:05:54.175Z",
-    "placeId": "ChIJsX6dwUkbdkgRgoE2pcpUoI8"
+    "date_retrieved": "2023-08-14T22:57:18.783Z"
   },
   {
     "address_components": [
@@ -6292,7 +6257,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/104113738092281431916\">Holly Lalonde</a>"
         ],
-        "photo_reference": "AUacShgvp1sajqRgO9bPQ506_QAPpzeSY07Ebs2Z8gbtSDwWHy1cM014dnV1H94ybTyPWS8bFS2GXMUvp_BfF9jy8gw_SV2m151l-9T0SySjm4suMf7YkkAeVYNALuFKmzPGgHYF_37QOvXvZIaQIp7fFvihHiCYBgQlplrn919ScdF-RzwO",
+        "photo_reference": "AUacShg_eBQIVIVNBqoailFzHGPRDObyb-fPKUfZb8wMIkQavwATWv4ZT01FZQdrPqmS1sGsqHjImbMZsb1aiGAaVCQzFSdBRMsVMitQHAVNKYWgwpZKQ9InAw3kYetz-KLk3ir2HZs293OyjQp2jcnfgakU2bGzfgqae6ILQFqLXwrVtKU_",
         "width": 1440
       },
       {
@@ -6300,7 +6265,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/104113738092281431916\">Holly Lalonde</a>"
         ],
-        "photo_reference": "AUacShhjXiqrzUiBeYSOcpvvUaU9bfH6ZRvld0UTgGILazHRcwsOA_TfHUX9m09tlfh6HsM0nVukAh9LPsLi7TBtoUpbJ8EG_kBBGBSdJLO_FF4GutI5a0vcdOFIrEE-L_KV_oRQPmPc2TsIrBW_pRHT0CQhTBIObZ_suNetNB3yQvM6UnSB",
+        "photo_reference": "AUacShjalIANqq_O-3-pyT3FxsBR7Qm1e2MJKvCNl7TnT8HVRjNSjiBtKtc0Baos3VQ6O1XG4GBeT9rwqPVrmDxEx8vS-60QxBuH23Wx19gvR1Z5YBjoLMW0c0RvGlsHT1vmTMNfZ4q65XBhk5gg6KURot6-pevYR6YFxY9V_sSRlrmVT9Sm",
         "width": 1440
       },
       {
@@ -6308,7 +6273,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/104113738092281431916\">Holly Lalonde</a>"
         ],
-        "photo_reference": "AUacShgoy0aSYWeTgQ1S-EXs-HX93JliiG-Ok4YRX8lPKzJaMRbaacK9tQubBJVCbPD-Nwn3i4TDsSh1U2VWzglartPoS8v9R1bKY1WgWncEhbNupSfbcRYBsbHfsfkHNJ1pypm4T58O6rr314uq0WtNXKYKjU5cOqtCHPXaWvzZWMvntgqt",
+        "photo_reference": "AUacShio6Ky1PmfgCjWCs2BCn0n1erlB6gXRkYcJFrp62UMoTEDBwnJZnqT-oLj0v7D7O9CaMomx8FTEn69NyT0uqNkMmtQYAP6DBeDOYtDS0F8vRg4edmN0icNrnDmSeH_DqXlTeLH_aIfMRV5eKvOQ6zTP8YrOhWHElEFTJHXeQkkm1CKq",
         "width": 1440
       },
       {
@@ -6316,7 +6281,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/104113738092281431916\">Holly Lalonde</a>"
         ],
-        "photo_reference": "AUacShh7cuPCAVKMGQ5uKbVcci4Urtcm5aKMMm1Ms06IX4mAx1wHCS1Yz2_LkJbtpi9OP4UKR5KrkM9vXauF1aw_260uC4R0vnR_2RH7aKcp2bH8pfXKTC3Gc5-4hRPpN_q25jfds4NsokGTVOHt4fadgVU0hMQF2IPNCsd2spe7AjENjvN1",
+        "photo_reference": "AUacShh_s-kpP25QkXqAdqotxhX7v6Bn_mCjqGvTwZnCLsr0oQtwqNcSTTX2ntwg11Q9InD4qt8O5UBb3hUiS19fQUITYaYuN_XJ8jgdWyB-4VkNEw80ZXDBATP2HStxnhExmUQUTvTRleSaWtX5L2Qf0XUt6vqHkgm0TGmgC5XjhlntMo7s",
         "width": 1440
       },
       {
@@ -6324,7 +6289,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/104113738092281431916\">Holly Lalonde</a>"
         ],
-        "photo_reference": "AUacShhOwxYK0UysXf_1Pzo6sKc8VHQZfrl6ex55KFbg4Vog3GaT-34SpbEPCONc9GT0boebRpwIL7fNb1yLuRsg6VtAU_UAedELNtcCCeHLX1Gu8D7FEE7M0o5Q6y_c9q48y8V3zT9Z3zzAYKwe57NE0IQ3yrltdv0rk1hCrLxJ5f30g4ew",
+        "photo_reference": "AUacShg7KazZ6KcPzGEQAvPtv3pujA5OXM_b-TKCIxhT5cO9_rZD9yU8JstfDra8q1x_FtZvkdjskizBwVZZIiYXgf3ZzDdXJ1Dfgoiunqd_uQGzdCZGOFvtQ8IQFlWW60Nv5cM5WVYoDnEZCpeIqn4eTt_5xNHj86kfilVQtEWJqqe90awA",
         "width": 1440
       },
       {
@@ -6332,7 +6297,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/104113738092281431916\">Holly Lalonde</a>"
         ],
-        "photo_reference": "AUacShjDwEboqERQCC9aFdMzSCVXJelNcMds3JK1uMPRXybfcHcSK6eq2C382Z1mYYHk-_738X0W8leQLb4Iui3qW6Db5A_AyWaYqqgiXKdceYNjNT_-4RtL1UIzsYpI9yTbuOFo5-LQVPbGf9veFZ-zx40AndG2iUwvubRr50XBSQz8O_MJ",
+        "photo_reference": "AUacShi5lf6jTLBe91pL7WHnIUzlVlqgoGwgKQon5CozhDD76CcBtNWR8QCI6apViI_-Ywkr72fWDcYs7r2wkgv8zKHSjS9pcnQgf6MCE-hZ3UQkxStykLDae-x4ltjwIsNmO9VL6BXAxngwWj4dHScCr6YuAbUf_f1zV5lt27KXDfZAqfAg",
         "width": 960
       },
       {
@@ -6340,7 +6305,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/104113738092281431916\">Holly Lalonde</a>"
         ],
-        "photo_reference": "AUacShhLDwxC3uRgy3ApKPU32EieEq_dx73lBKmqA158qbf2NrcyhiB54vZfh6pHgGDeUkCRM3e0r3AkJD7E7Wpmm1Rc0ZWODqK8bdSHn8bpDnKlQtBalrlsnvukC9GOziUskgD4R5y-OEZI2oLVNS0BttI5i9SYrM20PrjG-hjL4YdL7G8M",
+        "photo_reference": "AUacShgZQeXUBZcwlivye7H8bR_ZnhcuoZPI9d89YUbQiN0Wb7WTR4QPKcBGCY7KpcXh8RbdSqNBGicKTYhZl89pf-_3mpwgmjfd22q3ZLblU1QR3R3VczJN_37ONmgWLYm-oSqFwsXBw9VjELyLL_W30rCPYtqvpS9NQMxuEeWdgDubZWGp",
         "width": 960
       }
     ],
@@ -6348,8 +6313,7 @@
     "website": "http://www.beingstudio.ca/",
     "wheelchair_accessible_entrance": true,
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJBZkY400EzkwRAO7io5U-twc",
-    "date_retrieved": "2023-08-15T00:05:54.297Z",
-    "placeId": "ChIJBZkY400EzkwRAO7io5U-twc"
+    "date_retrieved": "2023-08-14T22:57:18.898Z"
   },
   {
     "address_components": [
@@ -6448,7 +6412,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/110460803763379972265\">Interact Gallery</a>"
         ],
-        "photo_reference": "AUacShiV0VBg88NdhLo1CVI7NUunIqs-glA2yVJrwrfapwwQGsKc5wmUx-2qfve_uf_3xzF1OspPEnNdA2_sYtB2pksClB4g7SNb7OpLis12DZCqx3d9GZWZK2ZQdpyWQJIZ0asxazcX7_FOp71iSLqHnuEypdwEMlnDTsbKNxkEooWhEfgw",
+        "photo_reference": "AUacShiwB6fvxykLdSvxlGd3dsH5QNiVWTI7FgOPyDfZL40DIfmOowMpm8ImXT1Da8qT1Qt0hQo3UXrdAnOfLlJ5_wc_vMZkoUbmeQIwh5OXjy6yh3kWClfkCAo0KjXc2ECips4uF08-J3PzCH-prmUFQMGtNslrZQQPNb_jPkM865t9BwGn",
         "width": 2000
       },
       {
@@ -6456,7 +6420,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/110460803763379972265\">Interact Gallery</a>"
         ],
-        "photo_reference": "AUacShgjWTD3GEKonUC-JfiKVHFv8l3UQLVFbIrUOuTh4Iq887IRiSsdp_eXFIOL7xDNEVDeEIyzOGMWHBgdHj4rze-GSHbeg7UIrty0OgYFgYL2W9RqfQ4HA4I88xdzYGO_MVLLTMQt459x2hszy2eAeynpzPk1oFYdbGhO84lbbZbdqXDy",
+        "photo_reference": "AUacShhGULc1ZiGiFP4Wr5KZXlyBVdO2m6fagJLysIPnaZqDj37LDVExAJhzfGSO48gA0mSkEb_8lrAjGTC51EekWesikCXwmAI3KyeGTpE5zJ3mdvvNm53GUvTeZQP9YO4qFedvL2N8ssZhPuPnW9X_mLAA563mythWAY8IuNF3hRFth7BL",
         "width": 2000
       },
       {
@@ -6464,7 +6428,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/110460803763379972265\">Interact Gallery</a>"
         ],
-        "photo_reference": "AUacShiFOFDx6o2eyRHqjUyqhUS4I0PqB7saI35r0Hdq9ttHkJQMnmdC7qFfGtlFAkE8BRuR1EI8U8E7CDN3tYNEIs6w_CCAntom7fY-KVxcVdS4uQkMyWVIYDxquwVN5xeIQUn7xkGdm12BiDmmcmRsPjIgYImK0gva60tpNRxVcbkz0tEI",
+        "photo_reference": "AUacShhV8gbWdfp4iZufJLRSUEHmLtGMVuTAdZkYELBVYjbb3j_XLk5M7RIRyPja2AupfIOTSwaUQ_WUb_KbnRvyA2kRwMyGkrE968BRJY2w123VnzX3Qnso4Q7GjUVmSuO1ugC0473hWrTInnoFp2mStQojOTsPp1j9cYJ3tK1ZMPbFMyWZ",
         "width": 6000
       }
     ],
@@ -6472,8 +6436,7 @@
     "website": "http://gallery.interactcenter.org/",
     "wheelchair_accessible_entrance": true,
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2SPAyQEts1IROcZ72ttvxM0",
-    "date_retrieved": "2023-08-15T00:05:54.400Z",
-    "placeId": "ChIJ2SPAyQEts1IROcZ72ttvxM0"
+    "date_retrieved": "2023-08-14T22:57:19.008Z"
   },
   {
     "address_components": [
@@ -6629,7 +6592,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/106503067752043344759\">Aaron Van Dyke</a>"
         ],
-        "photo_reference": "AUacShgL-kjUuGyiwoAUkmPY-0zh8sTRqehHIlisUE4mZrcB5a9W63yQ_B0T0cOu_5sF8_BNWc449PQRpLEAZbSErLjjoA_NEbb6p2w3WjYaCqG-zV03_9AMom8teNIoecRwOJxuTlvsAWdZPQGK6pXED6a3a9E5Gv_nd4QtPNiv2i_juIKG",
+        "photo_reference": "AUacShjGNjpO0pDf2lPn6hgyGwwDQ7E0hJlNDmp0XrrB89gr15lYUhmM5LgmpzWqTkwvYoF1nGReBcAU0bCzUSdZoEuxJ59vr4pQlL5NZ-KXjHPL4bwUYy7pPPLgd6jXbx5vgbxG_1IVBeuzob3q6rHBSYVWXr_lgaRANWa7uZ2kXjJqMT2o",
         "width": 5333
       },
       {
@@ -6637,7 +6600,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/114323981899864069121\">Shawn Zak</a>"
         ],
-        "photo_reference": "AUacShjGcG3GVUW3QdmNSpXwyZODhhbf0yGQLSs-UtAAS0HCTuyz7OgZtdA3wYetR83HCkBv8qVWBxkJn5uxxcP2R5NMoUNzKZvPiBYhfapBXNrUNGEx59faib91Y5I-eoASEv96DAPT1nuRP56HQctCqUFIeS54LkW_9RcxM-1OvbiRag7g",
+        "photo_reference": "AUacShiMuQxWQr3ZOvsWgF3-KenEGTVo1YmX2kZQhuuivZcc82bdKsCTYkiejKvynLhveJRbngRM7sGtCYVgdNbpWmK3VIyHRQbYcM2JxV9eT4_2gvx3RHFNAQ5zbqZMR6ryLrcYH6R9bkY2IsoJ2kxlWVvX-OWaw0xBVj6yH30O_DZckZxb",
         "width": 5312
       },
       {
@@ -6645,7 +6608,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/111765577871376241250\">Heather LaFaye</a>"
         ],
-        "photo_reference": "AUacShjA0F6K1cZEU6cnDGOCaL0g__M97WnyUIuORfaxCM3iGzVCjSytgrC584kogrKPASsX1lxuGML4_ECCVzgg2ZtIt5MslETeLTguOnuBO3uKHpFY5DQHGYwuALk3gPwpIOzz4af4VTrrhOTMYsQUVHHJ855CRo6kcYLELpNJ3M3A16nV",
+        "photo_reference": "AUacShgt4akCfcBJcOu3k-S-_cqMer-EoAk5EqZyE9W1JOswssG1uURyW3QAj7wCcQdfKM-pDsJaIy-mGiFCSN7RQoMUMqaPS-Sk9ngi67p26exsmHy6o0UzxdLxfrGe1vLpSyspBL_kGZHUU7z5QzDclWsWL3QABq4hTYC1WrrPH-KKsbIo",
         "width": 4160
       },
       {
@@ -6653,7 +6616,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/111025017583436356256\">Wendy Johnson</a>"
         ],
-        "photo_reference": "AUacShgkPtu9sWuhKhopEqn3GVJXcVyQkA1v6Ms620w8wcKZxBNTK2BAV9F66LDL6kGwaB3sU9SWv_b_vsM7gKymqL61xyqgrKQSn1mflFyEb8oYkjgecw8oy0qcpAQfKqSa6brOvTYfls6f9LGMutnSPJR1XyjFF-yyeUfAMGHSW9n3iB8v",
+        "photo_reference": "AUacShhTMjRYY_6gU_q6tur7oSMl_nUFsXEw61VkENRKXBCw_TXD8Q788yeiOOdXhqEsZXMgnZl0rP2FubihcFvf4zY_auK1RIjmVqEDLG5CuG6BHCaOM_LPOa5f0aiP856obqoeu6cKbb1TkuG0io7uycJzow--S--FGczyCZWa87COOOt0",
         "width": 1440
       },
       {
@@ -6661,7 +6624,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/114699460918925418051\">Kimberly Miliner</a>"
         ],
-        "photo_reference": "AUacShhm-snZ8wBap43r1wgW2NdeoSRbRNB_RhviXnfR715FaR0UOq_Iesn6Kr4AULGAufXytpk7-Vg9tF7y2H0quE6jXDHq__2fzTNQAqN3IXsNpH1cqDHyb_JEhKkphTcL-NaxOyZl2li9JK_E7_dVz5D2AA4LOQdfb8WsBTuV7R79_6Hb",
+        "photo_reference": "AUacShhsJ-jqNB2aOnru8fTDjfwu-tMAUuMl4W5kaHEPf1WWq_mUYvEOWo2oDd65G-1N8ukOmYMXbFBJD3JV17lRyQnkUeo2oxMw-2942FX4Wz-XhXbEKYwFmhMb7SzdU4PCybK3VvRODO0YRIS_ej_AluHbc4_2nrYnkXmandGN8muOxpjV",
         "width": 2160
       },
       {
@@ -6669,7 +6632,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/100059573344731089481\">Victoria Smith</a>"
         ],
-        "photo_reference": "AUacShhGKYUkhARJElnjapG7Std37V1iPR71H8TflraQ5EOWYP10hR9xMzWYtHTUK1-8KQQ4PuwRkchX6y7_hVDhMEmZ5xZJearVdGAIH9i-VVekttilXRUsNlbiHN4B3tuSULAvMKQ482zSu-oR3HLgxPNXB3Kpdy-Y_pE4Y8GOXaNGANac",
+        "photo_reference": "AUacShgENKXDhYZOv7FLJ-Sl8j3tkWcCiiy4c-th0tj4B2TtlX69mBbIHVA-h9cd8hkkyONnITXVA8s49IM0Uju-OrvCFmRHoEIym1Vo4adtN-8jgoaoqrsotwBC45EhKNihZdF9MqklJ2L6qVu2mgfXjp3cd4Mz0l7X1tFqxLto3OHaM2Tq",
         "width": 2988
       },
       {
@@ -6677,7 +6640,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/114699460918925418051\">Kimberly Miliner</a>"
         ],
-        "photo_reference": "AUacShho-yyC0hliqvmKkzg4QkYjUK8I1jVvYz26vYee5VwnRz8jtGYVf2FvJS7XNTSA7Sc-txQSh5J6GL55OzcGm_X87YnHnDcO0WqzWdnGb6m1vQgJLPfQ982vzp26D2GAlcEbFB65FzkfWgJhG0Sff17QXHK-lS9WWrbLX5RXRAqC8bLe",
+        "photo_reference": "AUacShhC7cJQls46674Dc0usNcNltU9CT-H9dawwxBICZ4ynZuAKrMk3atR5lxJi2ENWmCCsETAmG5OoH4Cecp-dSNWlVfUNGL0wn6oBF4Nf5qOKgoe5RdgrWtNgHH3ywbtZea1SXR_Ew2qupRAqvna8CXX9KvEQfzCkoTYZyLCvWpcX6UFY",
         "width": 2160
       },
       {
@@ -6685,7 +6648,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/114699460918925418051\">Kimberly Miliner</a>"
         ],
-        "photo_reference": "AUacShj064cLq-rcXzuLjqM4-fX21K0dtqhCObo28gggDuWqSI1EEh28kJiiHc76JPvbGUzIei6fiCHAkzO9q9PMysInKkuTD3O4Cc6fW7QMW9bxxVAXDuChMXrrUk56vi-EAYxQ6ZQp0iYUalXo8pLcBnesNPIpRtDtezNyg5TZqow6qLQt",
+        "photo_reference": "AUacShi78KbVs21ZYpb6szBzwEHlilGQrCjIit1ZSMnXBmXx0SXp3UbzrTr2Q-gNZhFYwo2T1YGrtgepHLa20xx49K7B-WjbeDLwp91tsAFckdf70MWHndFrnVCbMaFhdcbo_LwATdFOchuuHU79eb-tPMGHR9KLBt-VQgJOFZZ304iz1CFn",
         "width": 2160
       },
       {
@@ -6693,7 +6656,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/111025017583436356256\">Wendy Johnson</a>"
         ],
-        "photo_reference": "AUacShjL47hXwoA1hy-iM7gcmFLcszXI_V8l2-9Yj77cZjOoXrB3nAgoFKoSkcRpklR6II9R03vfcKxaYrYxLpg-75y2jco2GFqMsy8j9h0jniBiHACcaJyYhS2BVOCw4b0pCKAQgN5Fu48-pLnl6wc4fX3heWTY-q36LzmKMbcdWMB3tZ3h",
+        "photo_reference": "AUacShhVOVvefSHf4kYzC6xRBuraZA9r9v7f_FLEcDMr6jr7Lj68g2VEtcqo3o-tII6R3OLW9HCpNVh2N-h5yGAGVTIQrn_7xN68Wc_7gHfSZ8R1PaYrya8ve5JB3rwidAKp5_9UO7gAUpAj74wQ40uGz_ILAGUhIuajet8-Q__9GC1w3Mfn",
         "width": 1440
       },
       {
@@ -6701,7 +6664,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/100059573344731089481\">Victoria Smith</a>"
         ],
-        "photo_reference": "AUacShjm0ae4ezo85Is_6aYMSF11pMc89zOD23ohb3S4XR2CTAtnwlueS9uSA5MWczI2D3ZJRtlbpBEfapV7rpt4o37CdkX_x4Ki6FTC9GyS4Pk9eYu5krFcbpGJQ4wLqUdOwIPQlOVBP8p5vhXL9-dhExHYlPJLc2DdgW1fXg2yxZK5w3su",
+        "photo_reference": "AUacShg2FQmodVMkGciFy4m29TiNnjbolhnPxSs4yc6ZNubvxRDSmcepGdBLHUUBr6Ku1XlQ5LiKs15Z-rLfq9e9VfkvvAkafZJw5xyOh2dhx0RZVOcxEL-FhBfBx7rknjmEi2Iyav2iWCa4K3iqPEq7d3-oCmH837fQUYbg5OXL8zc3gkxG",
         "width": 2988
       }
     ],
@@ -6709,8 +6672,7 @@
     "website": "https://gallery.interactcenterarts.org/",
     "wheelchair_accessible_entrance": true,
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJY2FBwGhUVEARBN-Ft6z18_k",
-    "date_retrieved": "2023-08-15T00:05:54.509Z",
-    "placeId": "ChIJY2FBwGhUVEARBN-Ft6z18_k"
+    "date_retrieved": "2023-08-14T22:57:19.131Z"
   },
   {
     "address_components": [
@@ -6858,7 +6820,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/106475063194718625960\">Friendship Circle: Farber Center: Soul Studio &amp; Gallery</a>"
         ],
-        "photo_reference": "AUacShhTNoqw2W9yQA3cVwsX6ggvzlxJG6lu4EUI_WHkj7oxmGogjYfoOppIzbYLCfs2PSJizMIzTqDYsC3ejNhZQvv34eB0HRDMmrPyUqTaCepte_dNXsZnRhmFd-f8v8Uz0xGpZNM83ElqLyzhk7OHC-JZPq7ywgsdeXr633mxTEYJ9xRM",
+        "photo_reference": "AUacShiWqpos2qkcV1wTvSWagOyRvNLlfsn3rF4adqJBDI354nnL5qwai6RA7IOtVI41ToscMfiolZvqye-W7M4H33_assbnoIckkZu14D6J2tSrVtduHYVA3BAiO_fl55PMG9lY1sxpm0Dnjhfbl8bhMg4joqXN49gOSzCpYd69Y12btpKh",
         "width": 1800
       },
       {
@@ -6866,7 +6828,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/106475063194718625960\">Friendship Circle: Farber Center: Soul Studio &amp; Gallery</a>"
         ],
-        "photo_reference": "AUacShiZqW_bHA-8xzWipDtcMfsMln0kstv3VwbN91xP7WKWVi-mp03yJoMqKHfMTT1gGfXMZiKgODcc1y0iH-jSp2JDbdKFO6bVk8TraJU5awps3Xb2owyfbeNFAT42Quj7g3NcT3sFN-NIq48EcZ6Xhsew3WZ5ym5c0WHnd214HI9Nl75K",
+        "photo_reference": "AUacShjuarQ4EqD7IenolGhEb5QxN2BgFXbDVVtY1SGvkBRUpDHRaN_Urjcfhxb67g8gh36cn14bBDyFLUCX6TVCCeWX6RiCV-J0g1TvjCGQZ5dII4kpgl6zWsGyogzz0_9mqqmfcrjH-o422ulmJ9Cl4bMP1OnxRPtvyGOWofqxqw0vYgCR",
         "width": 2048
       },
       {
@@ -6874,7 +6836,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/106475063194718625960\">Friendship Circle: Farber Center: Soul Studio &amp; Gallery</a>"
         ],
-        "photo_reference": "AUacShgVLlMGeDsvapEaStzW2-QWkmheOJEOujcP8Svj03XVFEQjp6pxnKJgES0ME9AEVzh7OLOqj4hJgTutLifh8Hi06k1SqTl6KJ9tX_rXhjVgVzrUeZdV3yqqhWJjpjJo_Y_iWnqMhttpetcPBuvsrvFrDdxwtDe5PUqorUsQgQA-AYu7",
+        "photo_reference": "AUacShiZIlflEM79D98jegYxTCdigSdzTG-iqNr0ZOgaBwojn8G5CY7BwwOgRRmi79isIXuLWmPvov4kquo6SiVzpKR7igDNphPv6QsXTPPiE1BLx0udZC2sZz82qC6nOs7_ffL3O_vmpbZDOpASfqajBlQXzPwu-97wxxx7mbitNT5wEgba",
         "width": 1800
       },
       {
@@ -6882,7 +6844,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/106475063194718625960\">Friendship Circle: Farber Center: Soul Studio &amp; Gallery</a>"
         ],
-        "photo_reference": "AUacShjHdXtwOFm65jPuf-PJHwfAsVlcV27sWxxAqPSxchWKH5VEzKkq8KPaV6zIfVYALzaJBfKDds5FUnWd3b_X35NtIi1qBD4vkNavvuap94sFC1-GhK_MbJbCcXkUQ4GibSjRMl4MLvo4GMOGGT72P2alHC4RzcWX7ya6Gf0I5Eq-V1wj",
+        "photo_reference": "AUacShhjGqtbCpV-g6zvShs0gsr5YCzZP-QdXLCSYpx1q0NoHYQHbo59fU8AiQz7qFfuSBrel9KXI2WJxQhAj7kucIuekEwYuJBW2BsUUxz81Es9TinD6qB3OKmwvPoVY_9E8RG0FJPQ3IyIjfvFun-uFs6NNopANSeDVTh2gIKAE4TDfwZH",
         "width": 1800
       },
       {
@@ -6890,7 +6852,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/106475063194718625960\">Friendship Circle: Farber Center: Soul Studio &amp; Gallery</a>"
         ],
-        "photo_reference": "AUacShh0Kktbwl80OCDLQqrPLlKeSKy1O5KBdt4mBTr_Rs_CQywVdXrSgaCGcLI9Lk1TtXUaoZ59cxhUcE7WCaCSN254WQwSiLxQFPxQ1V2_zpiHp5fG5jC2gOIyXzxlvANkWHyZNILTgbxhZRE4RFY9jFzt55bBmHkA7Hbt5O7ABUYkbvsd",
+        "photo_reference": "AUacShgKRevZKx2yLkeSQ6p_6s9rxm-bM7aukka-17d7erPfLC7YyXoifnRjdDt7nH4lydC_OpfI0rVfJLeKmqv8txV3p6Lr8Xi5E9XCq4cpOnTeB-C0SZ_qqrpQ8VRNTdaKOUY5glLNixcbDmLGM0EOx7xGyRzF9ZnwJAwqe9hmoL-jigcN",
         "width": 1920
       },
       {
@@ -6898,7 +6860,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/100949080210499855383\">Jamie Savalle</a>"
         ],
-        "photo_reference": "AUacShhYg-oqUolEHF7mso-Lo4_8k_rdXC1oluFdDzVs3cbCw9f9C1ae77jqQb21uEl00TqQytWI7Ur7kmdx3Q9cN_H9OA8KO5Qj93TYtUl7fHd01aS5RXH9sAJm5NODOKtGgeavSbdhzb1Em_-3LHxQ8mulwvAA6vXVTE496a44OGIeTnBi",
+        "photo_reference": "AUacShjelEm3nkLYdQ_Qmsq_WaJBfdtWDEla6xksGOqFHLlwvHhYD--a-g1uuDk3zaefyM3FO4cL0-w36eIblliLBccldfKXsDfseA-0F3fajXlFOmloSTOyBEhVpoSsj7l-LFtf6IxPp8kfHfifhCn_8VItPYBJfgI487yQ5ZwSJ6ICH9G3",
         "width": 3024
       },
       {
@@ -6906,7 +6868,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/106475063194718625960\">Friendship Circle: Farber Center: Soul Studio &amp; Gallery</a>"
         ],
-        "photo_reference": "AUacShiWt9yst1OYWsUdGkI860AheinQobm7urjU6kcHihXB7ohwtALoAkOwvxH78FDS2IS7twBXuUOMYCXelXiDUWWE9xFzvprixJt8AKq1uJi-owvhevAmD6TS7oAa3r4BfrDxuWVCQ1efePdPGNhbRMQQekD7Z5NsY4UqisLnSuOjUuyM",
+        "photo_reference": "AUacShh4JiB_atSD0noQNSSDYKHponmYUa6kjtFE0QOHHd0nFM0lA8A2iEtAiaTTEvUyCn8Df4Tq9iMQkPKuEVnpwOFBIKBoBK3OK_z957Mypynhgjm_NItuOk0LnRnXCPXFyIaV8u65n_8V14oMksAIai9eZ02gnr3XGCKJ0xnn72I3vfSr",
         "width": 1920
       },
       {
@@ -6914,7 +6876,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/106475063194718625960\">Friendship Circle: Farber Center: Soul Studio &amp; Gallery</a>"
         ],
-        "photo_reference": "AUacShiLSQYrExVz13oBljl8Zaru-ZkbFkgFns5LfQtuOtHppFIm8Vj_urs5NjA8hlAuu2ADbhvCuzVM3_5yzhrQkgUiPE02c2-c6iPbGfATAxUzt6dBB-EHUqvSIjpnMp-mvrNUuuOqFFuTLwn_TFQKh6jEl_BfFdwgcPtnKioexnlBWkvF",
+        "photo_reference": "AUacShhHqgkaz3a8ZhDlCQ9P0tekDlqu75czgPdvWfx7nDBYH2gPbHPoymUNEj_0d_OWtNs26e3CDmBeVtVLh1glGezzdOdahDNx9wD6-TsloRkiTt4ZouwTcsUSWSIiorvhs5EcXBZC0tEPOxAML5FR8LfzLHLp1UfpyxUsYVXONriEt_98",
         "width": 1920
       },
       {
@@ -6922,7 +6884,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/110939347059253851015\">Danielle Rahmoeller</a>"
         ],
-        "photo_reference": "AUacShhT7Rll4g9a2GdreUOQhjOw7f_7ebkedZKAjjH8Lv-1ZEmoNWPhS8M_oYqmNDsN6QmgejkM9JoZofd1SUOU8RMcLJvDyhG6jbJVilde1Qcu5FSD1Tac_VENJCbV4Qg7nV_vYO-KPUQLH-G-TDyh89xRfiaLzn8lXM1DAlYING5DFwem",
+        "photo_reference": "AUacShiejHFBLKa5q1g91XKQgTS9jImrzZPrYIF4dBFxOkFjMtd2q2JlbKHU10Rj1-kuMhxpbq8tt1NMYWswRcyw0iLYDBlAuWoyar00VQDoyXpJ8j6hsqndCiitYEeWpIdDW78DeWxEJor1RmzP0_far9PF-O464AUsa2Fh6P32qbO1xwvy",
         "width": 4032
       },
       {
@@ -6930,7 +6892,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/106034266345571420385\">Alan Rothstein</a>"
         ],
-        "photo_reference": "AUacShjmjw-xhLCnvZG5E3Ejc3WpgyuBAxqHDpsok2A9075coBZnUTNwyJkoJ_7PQMmIvQSvHNMEyy6b98piRaRkO64WaSTZmXzjiZ0xmz1byhiUng0hhlV1KWZUAMKrtgtxbbIhWmnv1zRZtAhZ6iFaRfv5W_swEhQP_kGqFWtuEIc6O4MQ",
+        "photo_reference": "AUacShjmmvFcvIRc5QKXx3Vhh82Sak0Gz1bkTszFPUIlReUzlcTqiwl5VxluPvRXVoFlrN6DJzE6JhLhunBKb7SDY1mkgiDh-X7u5lMdd6JY9tUHARD-N_N0kVm0rOSiRpGYUnHOelq3TJpLo-9q47HSVY2BGbZaEIXHpTyD2BwgvpTW036g",
         "width": 3024
       }
     ],
@@ -6938,8 +6900,7 @@
     "website": "https://friendshipcircle.org/locations/soul_gallery",
     "wheelchair_accessible_entrance": true,
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJDfFJy9-6JIgRtIloBHqjjfE",
-    "date_retrieved": "2023-08-15T00:05:54.642Z",
-    "placeId": "ChIJDfFJy9-6JIgRtIloBHqjjfE"
+    "date_retrieved": "2023-08-14T22:57:19.241Z"
   },
   {
     "address_components": [
@@ -7030,15 +6991,14 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/105603043612107743957\">Paint a Miracle</a>"
         ],
-        "photo_reference": "AUacShhjD-slRhl0EXdXm_P6C20NLT26ONEl8KuYfQA93Y6ulgClxiFg1Htd1ofU0OpdxrjMX5aPDn-5XUgC99ghDqHUAGjWsCGetnJWmC3AVRVNu4ftqK-RPNxCHSlFcTqsl-qNBTgVzLOjpXyYObIqBD4SPOa4mvUo-eqLwLS6-3b6sMCE",
+        "photo_reference": "AUacShgT5DnMaPAb-Z4eYJGebudDDPcxfTznxLUUu3BsqoQ7dj-UAaPYJUNoW_cupnlaeolYbgfuslkSJmcTIpagykVPkrwy8Ji5EImRcz72YAa66cZfLJDmdK82SElX1FR_OYKdZu-dfU4CFewbNLQsYslk8j6bSY4LrpR4PKJNXabZ0xij",
         "width": 980
       }
     ],
     "website": "http://www.paintamiracle.org/",
     "wheelchair_accessible_entrance": true,
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ73NRernpJIgRML4wSQvfEkw",
-    "date_retrieved": "2023-08-15T00:05:54.744Z",
-    "placeId": "ChIJ73NRernpJIgRML4wSQvfEkw"
+    "date_retrieved": "2023-08-14T22:57:19.348Z"
   },
   {
     "address_components": [
@@ -7199,8 +7159,7 @@
     "website": "https://www.otlstudio.org/",
     "wheelchair_accessible_entrance": true,
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7z_u8dt244kRbOyY14ClC2s",
-    "date_retrieved": "2023-08-15T00:05:54.846Z",
-    "placeId": "ChIJ7z_u8dt244kRbOyY14ClC2s"
+    "date_retrieved": "2023-08-14T22:57:19.458Z"
   },
   {
     "address_components": [
@@ -7353,8 +7312,7 @@
     "rating": 4.3,
     "wheelchair_accessible_entrance": true,
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJE6KqvQuOk4cRiJ-Tm08VxVw",
-    "date_retrieved": "2023-08-15T00:05:54.966Z",
-    "placeId": "ChIJE6KqvQuOk4cRiJ-Tm08VxVw"
+    "date_retrieved": "2023-08-14T22:57:19.590Z"
   },
   {
     "address_components": [
@@ -7502,7 +7460,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/101834419930287529197\">Andreana Morris</a>"
         ],
-        "photo_reference": "AUacShhl5kCkCH4D0UDgbVCtoUgPWfmkF4x726LMy72M-vO1HdVv3e-iC8e4xi2hsTDPYhTvRh4RWZ5AWJsmWxFZRUUK65I4WdC-0unUqsMGthbwDI2D523epW90jAXfLbb1g-INjd6by025gliwLabvhLLaE_ZALukuReo3fNfpSB2TSQSI",
+        "photo_reference": "AUacShhwvhM48qsiqsDehFVlphOdpG3IhBRPg6YGOuAiJ5GSbyI_af_4glmGTZt9vrQClmCSS2T9vQ-QpoJCkeDAvVmN--BysA21mZAfGlA6xPXhCuqvZAa9LbYqYDSvxlr_BmY84dQDB5mYrDzshQ9dJcmYNvtqUxHtZFVCzBwkbdhQKT96",
         "width": 4032
       },
       {
@@ -7510,7 +7468,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/112201419702538252870\">Josh Scroggins</a>"
         ],
-        "photo_reference": "AUacShjuC8Yn-36BUgzpnBXx_m3FE27CRvi87RpnL8v-sbtfNwag2IBW6XpytKT7NBk8kzYuz0BSyWGbzsgIxlzuH15x2hSjPt5bvLOOsctkoFLPhxWVUhV6zT9wNU_zGmXlJb-sUnH950xXR5QW48cz9siIP18Xqj2f_Q70EJERwNDtiTNJ",
+        "photo_reference": "AUacShipqV2I9l83FjV6e0bmeoFGe4H6jCEBWL6aHANygNw0tDnjDhUsEDQutrsPDTmgl-R4XFC0Mrf5_yRqH2_9seT8R-Ts8VSdhOiG2zttIm5c93Buo-RAcKf0-t6IH56ovBckJsGfMJejTg9uxdsy2NWFlyXQVwQFtXirHsWpLjTjOBt8",
         "width": 4032
       },
       {
@@ -7518,7 +7476,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/100776470018138713604\">Chris FJ (Cartoonist)</a>"
         ],
-        "photo_reference": "AUacShg22_t0BqUlp6EN_fwpxSPrCMfiIJSz1DPoNFgHyGrXKkj60BHmIGS5HSD9K1Xnkh0GguDI0L0cOyNBpdH7_sMHqE4Og8DzA4twe2gnP5VacrdBM-J09GNVlOTzU6OeYyZDTnzE3WPuxamm0UidL40uM4lpv75NCirbecUh0sU5DKqh",
+        "photo_reference": "AUacShiIHXhnIM8lhl0lmPJLSjbJELj2iNjYRKKmXpL4mllefcwcm7qRvRNVNywjbPq2Gr7fAyO18mE6pnwEvXFNaS_D8oS1w81X8XvPqBGTlQIrQ96aTugSuhHdYqHKFk7br77x2LmgEFmuW_U8IKutLVJXAp_MgjGgq2SRFKnDrxZqGyew",
         "width": 4032
       },
       {
@@ -7526,15 +7484,14 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/105924060020788172554\">Michele Golden</a>"
         ],
-        "photo_reference": "AUacShj2mBWDM5UNZvZrVLgUDveA6EeFgMMRMxMXMXRXgYW5gl5MLlvHnjjtcJ1euR--UzoaIa8JM2PgDws4fwHdX6WLFEw8wW864wxU_vdoYukiuZnR4Pseph_ZfNeWFLOtQP8RrpvEFx1uwPUsB-mqCSf4ovX14jeop2FFxopAZ_sc0Zie",
+        "photo_reference": "AUacShgGusCPqB4hKORB1WteL4MAF-9U2yG09_OwNSQs1QM9aw-bKkTeS7XHZLnKhjjJDyn77pdNg4min6ZINTYKgTZcbulIgqf-tpJZrCHH54lIMQQSuSQkDreUsMa9BsfKodIEfWNStFlcrPjFuckBPZoHcFFlk40fgzkoq8mprK1w2rHi",
         "width": 2048
       }
     ],
     "rating": 4.8,
     "website": "http://www.make-studio.org/",
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJCyQYS9gEyIkROrsU32NZbJ0",
-    "date_retrieved": "2023-08-15T00:05:55.076Z",
-    "placeId": "ChIJCyQYS9gEyIkROrsU32NZbJ0"
+    "date_retrieved": "2023-08-14T22:57:19.703Z"
   },
   {
     "address_components": [
@@ -7689,7 +7646,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/101060596598469513477\">Creative Works - Main Office</a>"
         ],
-        "photo_reference": "AUacShgQBq4FSmozLFYakIzdM62UElyAq90Y-E7qHnzhPWUPaktE2v3vSYv1_f2yE_lRKeZgrhiVXpy83U9Fb-OZ1ax1lkD8WaZp-kCOz0oAwDfq-50ALbaDpzuk_QWHCqIMHOWqjt1E_KooHe4plfor6qqC5yzfmcNhsVuJNvxv3iLQUmQN",
+        "photo_reference": "AUacShjaGEj9K4KWAmIfSV26XELsWfSYquVd-0Tc6w5SvG6Z7W9zALgYYn9lvk2mGjeOGXSCqP_eX8JiB05DGG4sMUNyfDxxbCn36i1LR_gG46uklKs860dPMDItD90thQB_HcofUrLLCH8oE0zgZG2LUSg_iK_bp_fB_U22jgIcfx50ESSi",
         "width": 628
       },
       {
@@ -7697,7 +7654,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/101060596598469513477\">Creative Works - Main Office</a>"
         ],
-        "photo_reference": "AUacShjr6EX2aolUPfkOnJ9A_jTrE_wIOajw6BJ8IzSAt1w4zfsXIFhaCpYGZo7zND-O3c5kNBoAog6zMeRWi47G-EMAwnNpTpmqJJdrVlEYaoVznFJAkwgXYvSXlnxg-z7_Ep4KTIWWBGjeDtfQkXv1gkcIkUybu7J2KEeqi2w2EnQm8Guq",
+        "photo_reference": "AUacShgJYVeg_QsoeHVbsnb3ltWkHzLiVL3bpfz4rzeeOk_VPQhAepnsG50eWGd-yRoZFdBZEhHt0p71vxE2DgVDlLYTwOEC71-OLg6ZZ3q1Vpz61nC79NqfT96sH-dfEUw8JAR2WEekBWBHi5a6-8aVE3YxmTF5jXRPDy14a1jdbFI3z-BJ",
         "width": 300
       },
       {
@@ -7705,7 +7662,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/101060596598469513477\">Creative Works - Main Office</a>"
         ],
-        "photo_reference": "AUacShi7wvBJ9k8gZRY5shb8v5VgtGK3d6S14C-hXIven17jKwq5ZMsQw7xRy7dMzEAbLu8w8qpwZn0Aj9Y9icUJVlug_xIch5Rbfaso1fkFGGCNKsrr_so_vL66L-d0PN8aY_PTEKn_DuSciniCXgh7_8NXdfOqWcaLUcro459vIG5Un_d0",
+        "photo_reference": "AUacShjNxVg3cLbBGNgTJYqJAQ3_6gizBWGD5_V0lJNDuLk8-TC7ZxuoctxqWCbKrlYmlhscTym0rKTRP6q1wb2nGpZ840paPSR2AZTcipC086qeDJb1AD5Mbiud6KwbuI-qolltvJb4drTyARoF57IA-xd93jY9x8LEhVqRpGud1_Hhhj7Z",
         "width": 600
       },
       {
@@ -7713,7 +7670,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/101060596598469513477\">Creative Works - Main Office</a>"
         ],
-        "photo_reference": "AUacShiOlqDAVLhpT1piUHfZvhpoj1rd4LTHshO3kGVLyyzFSN0aHuMpLwrWcjuI5XuCBb0zfqZqoL0pLLnNyaN2JjE7LEugxYxYtm_KPMu1IMcN55vmkS5Zej12KF0ZgK9gi6peGepQYbKAvtIa2m-sraYWH49Sui5sWUOVs-kgiQdkAIzZ",
+        "photo_reference": "AUacShguxUVk45zNGiBBrQc376m61cHcI7dAQfJkn_rmC-tpcpBRZNxx0q9a88teCs0dnfZc-YDlw9GIlb8WsRtWJ0dBkSk51H0hxlHV_NV-deBK5AXDe-xBcUJOF5zL8OP9-N7UOGQLwr6ddvBl_cGA2n6e6L_5GXqB77qH_xnYkK99PkD7",
         "width": 600
       },
       {
@@ -7721,7 +7678,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/101060596598469513477\">Creative Works - Main Office</a>"
         ],
-        "photo_reference": "AUacShjdFZ4LFLLBDJkQkn8ayjtjxhOjv5-2jtc-Zfx1zQRQnjmJRhgGcbyzewsVAYTKmjUechY7Tmg8CYarPvWv61HwaiDBXUPBJJRRyPlB_89rYB20-AQKh1bfm_yy4v4If1_r4AH-T-54n91smjdJOmxmTpXdxZ80mY9mVR-1XTuVdBdC",
+        "photo_reference": "AUacShgPyYDzkO_uxM1SPtsXn-1J8tRbC-EOVRjD3GR9oY3wGUjLwVa_WA5Dsqxj2QKrWnxFzSG0lDwsH3If7AcAFdQrMAonZZHKBJpWdmpg-QOD3m1aaefs0T4mh9IRK0Dy153kNPQKxmOT7F5SB1z9zXSpthLMgjUSya4oFdzeuUhB1MGZ",
         "width": 300
       },
       {
@@ -7729,7 +7686,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/101060596598469513477\">Creative Works - Main Office</a>"
         ],
-        "photo_reference": "AUacShhYLzL2_wGTCxkOFRa_hKuCjBhgXp5hFtrtbfxX1OZbDSFpOMoO1NvdweDeA4m-oyGnMb5_nRMe5EDFgjASh7bJyXPP893nvWZNiSDDntT69b2C7EpOePvrW2W4XQWtfzLF97j5D25iTvg4EBzd9jG5V9JUcn7zRRXc328Ltw0dMaKY",
+        "photo_reference": "AUacShgKN8oSPTU29SxyhZRByWOdoyeOGI5zygSm5Fiucsft6NSym-mU2F_IQQV3aISXmAgLfh37SkJeDAl1_-SH7jtfi0E0aifKVZEQoUfgKdsgbJ51EjyBb7nXs-mHWmY8_BnKo7IjNX230fS1SJE-ej1GR_GEI7ftSIblcvkbZmiLJasU",
         "width": 644
       },
       {
@@ -7737,7 +7694,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/101060596598469513477\">Creative Works - Main Office</a>"
         ],
-        "photo_reference": "AUacShig-EeOWtEGf1NW0tP5mRguu8p0xjmc2n1sDqtTpiAJVDwFQk_EF_11vN0mNf8qXvlAXtj7_sG34QI3NTvAgL2aChZ2WyA8P7eH-hnGxLK-c5u4IbPriSmPEm-opCGq2Nq9tJVjQ_j4XEA221V0GxaI_0RUNaWbHpZx_uedu35-IVPC",
+        "photo_reference": "AUacShiHhKsM2tZRVnetSXsvQ88ZIE1-v2KgMDv9589BQMsq6uKgsxYhJxbOnsla1EKRGtPRClHT49oaIpAKOEjEeowdR4att6usvnJF0MGXAPlEG5CJX4RAYXH7hxrIpq6zGQ2aoiChBY7rJVxpnH0Eu_-Xw0ppa54kFeIPdp5a-P1zYrzq",
         "width": 360
       },
       {
@@ -7745,7 +7702,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/101060596598469513477\">Creative Works - Main Office</a>"
         ],
-        "photo_reference": "AUacShiBQUfomTlKltHmUN6VyxPeqELNu1b_kW4s5ZaKOE3F3KUEmfiZOndh77i1j2P01cQ6K6YlhTBeR0DCrdb8ooxk5Eldf0TrxQSNZWj7L1TQlBYIzNROUOasbxvpbSadh7DgBqjqSxhqQWtvZbN0skybyMqtAPcMvNe2W4paSiOzRkXK",
+        "photo_reference": "AUacShjUi_4e5y6RGSPindJPoIbcf_KNYDDviIUWUUsFEMTf-RfuASD-BNHuV0T6ZHNeekWEN6eBLzVTyKnUW2fEYuwT_tM4tO6npIOkQFBV3xUGuYCKr9O6_LMyQR9hRC74PRyLHghrER6IPEXRUAMD09iB-FV08OwevJGkg3-51pjTmn9x",
         "width": 618
       },
       {
@@ -7753,7 +7710,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/101060596598469513477\">Creative Works - Main Office</a>"
         ],
-        "photo_reference": "AUacShiMilZmF0PMPZUcnCAYC6UHhBFrheAbsZ2LtT9IhXy44IFK99ZztuGtOC_gGx9bYO-K_VTlHS-WxQcM70fLSfoFoO_YpOCbFISllQvYVs2mIOQb8jalEhVUR-GA-b3tdJkkcFkeYJ9FGlmCyMFY7OAXH7oZvIa49fNierQv_vtNjh8I",
+        "photo_reference": "AUacShiOw2ltRQ6mhHyrxleYAltkEgyQ2XJ1jaC0xYHebczY8iFoFO6DrNpziMkm4Z0FXCVLiofOCm18bIIj7fSCxMVHjHvlhX3arDz9NSxcLcIxtsBZ5PM3jtU6GW-d-tDt8puG7N6-k2ZdGk6y8ynLTBwCYfsxZ26uo__aieCCR6fWS5-6",
         "width": 250
       },
       {
@@ -7761,7 +7718,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/101060596598469513477\">Creative Works - Main Office</a>"
         ],
-        "photo_reference": "AUacShhXfz_PgK3TtT_mF77mrf-_vOcSRCE68gYLcXyyRxGEzOSADf-1n8xl0Xuhs5hl3bYGB7SoKMjah0ZQEoSqX83rxEO18FAir5AyjOEsVO6KunYNGiWfSXvEz_8UZjfrbQ6WPMglktifhW3x0aJeFFpD_3rPnk7sfJW-dxTjpKh1vFRT",
+        "photo_reference": "AUacShgu-QrCgDX70MOyCj2UybNh3bRuWnMoiTyHHpjc3wgMyrB4Ojgp6yXWK0sxML2jSMaqquM2zAwnfJiBDbpjxbwz_dYjk0PrglS9rdeZ5ArENyyUqpTR421Gnd5RNE7p19IKU4VIbshidNyoLkZBwc4AKVOVaKhk2-rCp_ihnIbgzG3Z",
         "width": 1585
       }
     ],
@@ -7769,8 +7726,7 @@
     "website": "http://www.beingcreativeworks.org/",
     "wheelchair_accessible_entrance": true,
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJJUlD-r6bskwRNGeqwV1kD0g",
-    "date_retrieved": "2023-08-15T00:05:55.198Z",
-    "placeId": "ChIJJUlD-r6bskwRNGeqwV1kD0g"
+    "date_retrieved": "2023-08-14T22:57:19.828Z"
   },
   {
     "address_components": [
@@ -7940,14 +7896,13 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/104632425984197892146\">Amy Doucette</a>"
         ],
-        "photo_reference": "AUacShgUrq1kc1e1Dv-vtyDa4X0nM-1eR7xgL0Pf7LsZnSepAoqp9AecpZcUiZ1YtU8QvxL2tlQfsGiYqkLPICjOpEKLhtrswMLRlqBGhaD4PlyBYZxNY822rLjOOeDDxqJYN4yffIUhN187zzmENUaNk5ax46PWVEhZwHMdZAg9M3G5pNKZ",
+        "photo_reference": "AUacShg6jvQaBxLjvES4LCiMvRT-7WdJbj-XeL1gmAC5GMIcBEza40t5u0eVy1X750x9GXkkob5Yaal4MdCX8OEUpPeWTEk3Q4McZps5PDIDoWvj1Pdf1sAJwGa1ZJcGT9X5_2JH2WBKvhvse7gcKTQZPjHTupn4Ks1-r-kAwKNvMfZwLZ5K",
         "width": 3024
       }
     ],
     "rating": 4.6,
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJkb7-ShGcskwR-N-4FqHxZ2A",
-    "date_retrieved": "2023-08-15T00:05:55.306Z",
-    "placeId": "ChIJkb7-ShGcskwR-N-4FqHxZ2A"
+    "date_retrieved": "2023-08-14T22:57:19.948Z"
   },
   {
     "address_components": [
@@ -8118,7 +8073,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/117286687279666160265\">Spindleworks</a>"
         ],
-        "photo_reference": "AUacShil1kAMeKzZMazgftmNcqSwdRns43eUcZoVcjPToz1oHSsKRP1pWJgnKefeaeX3ZWCnIhxpWiJ_lkvc2e2_QBLE10KAT4eIWnTRh23xVmTtxgJyT__MHJaDoWcUN-NvsnBYnye3PNj0t1eP7MsUCYa7wgmKW64UVh64fl02_n7h9ogT",
+        "photo_reference": "AUacShj8lS7ayDRz9kpeCDYmHRljAhevxwK7e2NyDaAYIscHV1c3cjhyg427SeTe9mLKDleinlVDrN1yGMOdpDkElifXdPud0kZHRnUhRsPdiwevhqnsXEXlYg21kIt6jBET1ghmHuAfq6nkjvgA-Curd7OZO-Wg3swK7oujNJ4sRVN5GIgK",
         "width": 1000
       },
       {
@@ -8126,7 +8081,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/104969560449895898312\">Jamie Spier</a>"
         ],
-        "photo_reference": "AUacShjuL2rk6lgWNVH9v2IzfK1G1RxSpLonjnfXPIdrlRoj-zjWc1RaFPmD3RFNT6LJvwkIMm78jz0F3mAvwR2h_TyiGquMjr7bFVPeCnyhE-RIlg7OSTwIWhFPM7GmULagV3bw03Am4YFmO5uferphEzZwUsbMuuDBBtRmzh6yZvknSqtt",
+        "photo_reference": "AUacShiznTvND3kKAiQWRvIviZEXSuTh1tKw3ZdCb8qv0G6gIYZWvYNkhlSzY0t2gLiJcNKCklJGRWn8EEk9V0bvQ7qDcYC3zGgP4eg1oQlxnjVA3PmI_6vnl_MRvi4zQQ5oGoSBSmpfPOZ3g-Bx8xcpMKD5e1wY86EPx9B53D9pwHKSzkLW",
         "width": 1920
       },
       {
@@ -8134,7 +8089,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/117286687279666160265\">Spindleworks</a>"
         ],
-        "photo_reference": "AUacShhNd-1aGueKwl-63B-659LAVD3Sv0bmeGXJl2A1urXX1oCfLT39BI3SzpereJQI91M7_xUemccbBigMDWnnZew7bu63uDUb0br-5cC6sH3UtiPvllS7hz7oxTUaC_znLbUZo6PX4Z-Kyn8n76etg6PJQghCrSb9WWT6KfztsbayP8-u",
+        "photo_reference": "AUacShiklGzCObvBqsqrD_dE2oNP1RKQgdGfHofS8eRhtEitPvx5fEArTR7ihvEhczjwnh-m50astWzylIaLSF8_FMuiC9xgfElS4DTMjmsco6j4K-07elXkG35386krg7kEpSXlXfQOVh5CVvqHe7yg69UqRSkmZLJQRCAoXxyrpa-KK6ie",
         "width": 480
       },
       {
@@ -8142,7 +8097,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/110101033014336900922\">Jamie Spier</a>"
         ],
-        "photo_reference": "AUacShhhhnO-yLwaRMCb6-hMPaxWEGIGm5pAEEF-PjQ2S62QXwTz8ZrqGFbPkBViqdloj2rliTz-3gf2U1gQItvGOocx9E1mlnutO7rAZE_5jEo4qO23qLUjI6nBfmZht61Hr-vbttHvFk4LIn0q9u-IWBpSG0O93bETOC4ydGzaJwm6ocKz",
+        "photo_reference": "AUacShjBdrivlLK2CzOgJAd0ZWlcIH6F1WWcC4vb523aQWkzP28eCdNN6aplb1e_aF2deNzEMfk068Z0a6H41jb8mdEhvlI1pFSC0mhC-N8s3b8Z4QK5HriffpIg7ji7ru-R3whrx9UwhteHGzOeFV2k_YYWGHCgFGkqASGEH_Xxwju-7a_t",
         "width": 4160
       },
       {
@@ -8150,7 +8105,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/116207968429375235116\">Debora Norton</a>"
         ],
-        "photo_reference": "AUacShjh0PhXvq1I-BAn6Hug0VpJbXLYDDlNfh2zj8nQxcNQLWm5auYDrUTtkYIpIPOxzIS-hZK6dM3JoTdmBh_n61yQG-UDr4w9k1HFbjuuCNay3JEZR0CkgmBvS6OP4OFeBu3XvakcEGoN9RuGH_5v1wzwCWtz56xf--wgB-PcbloR70BZ",
+        "photo_reference": "AUacShj87m0cUNdEnWcLHHY0QA87VvdtfihE-vOBSXPB718MbGnmEdcOpVb3Am3bNU_6JDCqNk_a0L-66IfV0XId8m4jwJBdA9ryw-roObi2CEd_FUb-JjZE8m7rNATuHe2-aPmVwl9K8KRE4WlRCjygWPzcR85MMp9BW12HkfidKlcqMpYB",
         "width": 2268
       },
       {
@@ -8158,7 +8113,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/104969560449895898312\">Jamie Spier</a>"
         ],
-        "photo_reference": "AUacShihHkowmZzF3OqhlsdcopDwEI1eahhdkn5AMaURcwJ23OH0B2xxjVMxdHlK4hmgW7-oF5QxN7i4AKiIDRxs7dA3sAvJ-XWhABcMKeae1ldEtyscKUhYZ6zmCiGjBEOVHMGL3Eee-qd_W0Dxq4wg-OrIXALrL9bqr8omXXDWqdfW4fb9",
+        "photo_reference": "AUacShivdPX3KlopiEriYr9qz3fobBjuSyKvnP0RDTQFjYvht6IskaQK-12mJjPi7aASyBqXcv58AXVO4oUsZOSjulrqoEw2WoTsTXj3d4EGzs-fLnHYMfHfdQXIH-e97Q51-FHkh8_7kvI8DYKJ_PvcxNF3MPfxeY5aIrPOZuKTTQHu9F1K",
         "width": 1920
       },
       {
@@ -8166,7 +8121,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/112050787271550207943\">Trevor Geiger</a>"
         ],
-        "photo_reference": "AUacShhmU-lPf2XJykQpRviIKyQ0gJTlUkAHGTOpj875EIoDMyh2IF1hdTWCPraMFR1X6mfnHA_TC_SYMHZSzLUdirdtZ_xbB1OPcxliSZ8ICkYZwoGh4Kbo8HoGMv7rRWUPcPcpc8wy9Bhoj6-681aCkRarY98SL6pXK68l-pGNmqq56V-H",
+        "photo_reference": "AUacShiXfO3AIQJovn8016v8CMAq7XN1oty0hNFGPCQvmSorTIWEyQugXv_x9NhCQGCbHCv6FzLt9TMAdqwLvmoFHqYCLi22McI22kyTv7jFqJxQsw4HTMhFCDA54wBlEbL3eaMzw-Rsw0eDj3C9dvOMiRoPznmRxV9L0tMty3FJGn4xBLfJ",
         "width": 4592
       },
       {
@@ -8174,7 +8129,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/104969560449895898312\">Jamie Spier</a>"
         ],
-        "photo_reference": "AUacShhRVkGnjxSPMzwTLJAzZJweKHbnOouS3M3EWuT_gEj6O-NtuDN5b5DAPcH8v1ZnIqYuh0_SBQlMSSt1IsxemcULaSK6P4vgLadxIED2wz0G0y_IIROrDfw-zo6JLuiP1zuok7pxD6aEXrF2WWCKuzUQMO89ES4hQBQiEypeJ7IoLyTa",
+        "photo_reference": "AUacShjjEw2OjwHOwwLr7rRZb_dw1cEqQucvzQux8vGNCe6CIul4V22VT3akl2ElLBboRu4UDR6Q1Vg5Ek-we76QHmKknw-DIvRfi_5VVZgb5LQYBl6EZufAXkY2A_Mg6E1oWcKzp1TRH5rlCOdi77hhU6kOpOaeGZOtYXR8Hj0yGOM1KYM4",
         "width": 1536
       },
       {
@@ -8182,7 +8137,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/104969560449895898312\">Jamie Spier</a>"
         ],
-        "photo_reference": "AUacShg2v-7GCWf5sZoGZQOcEcuaNodeCm3ragRCYZKgFnsOFf9Jn5aiicbsCuhe0WgA2f8-SCTSp6rWAAZc0z4KKcHGydaDQjC36g6t_gRQq7eEG39ILP9ycED-vK3SySbQ9MfrFAqcxs9FVDiA-f_Hhm05qZjMlIjwIt2z_O6II3G13zN4",
+        "photo_reference": "AUacShjGFVOkLbEn4-dFRyzxVgMmmWQcm_YXk1myjpmzJRrZuDqwIMaMNyRMfp9pxszOhVL9nWcy5lnUeAQCRMKkcB4Q4pXjqcmF7JdLlzJGpqkcWX5CS8IT7iVSQ8ZZDd_w6osWFQ7jynkJZ_ybC6NdLtwWxuCLjjDjvx1coD2hRwtLNUh4",
         "width": 1920
       }
     ],
@@ -8190,8 +8145,7 @@
     "website": "http://spindleworks.independenceassociation.org/",
     "wheelchair_accessible_entrance": true,
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJW5IZMW6HrUwRgsAF66vBS8s",
-    "date_retrieved": "2023-08-15T00:05:55.436Z",
-    "placeId": "ChIJW5IZMW6HrUwRgsAF66vBS8s"
+    "date_retrieved": "2023-08-14T22:57:20.064Z"
   },
   {
     "address_components": [
@@ -8346,7 +8300,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/101348009985286580487\">Mary Sue Hurley</a>"
         ],
-        "photo_reference": "AUacShgvNdwiq9oRQuNPqxr265yozjsvJveIiq4MYhhd1qhJ4pcuKEis57gMgIzbrCxV9zsp6BUDuKaLD61rnxgtNU9tFL6bP-vrpCL9cZHuSplwOjkKJAsZw3BiZ0pPvmEYnzfp3MPUx0ZbtPe73UQPN8YHPPrXhwHGESyGSLbO9UN8Vws7",
+        "photo_reference": "AUacShjciFa8f9MqCNFq1pmmCuvucM-uu-Q6asEhkWbw-BJVG7QF0W6fuBAt54ju6i6QuD8NV0VT8l0orNzwonOyfZmoCWYV3h-PQqdNZ3avOw85fXkJtA2E4GT1Sx0PxqtqCdOoBLwUn65H2VZg1YIsOmW6pumKUxQKVb6pSMlRUFTa8fCe",
         "width": 3264
       },
       {
@@ -8354,7 +8308,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/103661880869998146049\">Emily Miller</a>"
         ],
-        "photo_reference": "AUacShgDQNXjFjHIK3PstFYu_tY7ZVY6A-IRDqeJILry00vTKxLEX5C5AqlIFnR6aXJ8LGZxjM7ceqypTbQCqYBnvCQBwkfp1ZM8GaxYQ-EY8PrOXaM7pwkZ1CPcWzVqpesNZ3HOVO3aWWNfr5PSYLxjhxfBPUMx65ILI6B3yl5tYT8pl687",
+        "photo_reference": "AUacShjjCf6iaoOCu43MQslf-pBZnyOdfgsEJANMTbsEECCmne3qmIx93RqM2xEaqpZ7OBhJOxeJ7VG5emngTmpWxq6OjteSqb2QZXDtChQ7ljP-hSwggW7Zu5vagOwNgR-5WTt1_sUlmAp52glr5DZOiKqYoie3oJbivDqi0aRdt-OUnlsq",
         "width": 4160
       },
       {
@@ -8362,7 +8316,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/101348009985286580487\">Mary Sue Hurley</a>"
         ],
-        "photo_reference": "AUacShgEp3ZJ0nRd-u5LtrBGrzw4larmHDPB2tN4Sfsof4Oz_wT6ua5bJJ5gUnTd84o4gWnX80tlUKOYR-xcarXP0BS4dg5O9nRTZ8pWZfLfpsTZtTcwhaOLnvXtXvAig7AF4ulAz2TrkO7QiQ8HHSeI1XskuGy0z4GdI8xRLW5JVt5qwNrJ",
+        "photo_reference": "AUacShg-o-j0dXaxvKHxXzVd5voNuoh6dGgNg7NJNxnkr02GTDj5k0Kj2PIHNxb26qVD131sxN-AU7zhd68bcaRTw1PnYSF-3UnhuO3c83GA4ynXdbnyTtAXr3SuHeMpQIYCXxGXC7NFh6qmzhqr5PEGlWYQsNHaK1QmfSjRoPCmjvTqRcWx",
         "width": 2448
       },
       {
@@ -8370,7 +8324,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/103661880869998146049\">Emily Miller</a>"
         ],
-        "photo_reference": "AUacShgxPexTscTqxtkIKyONuuVepJ0j9e3Gr-dmEaL5choli_0M8M1zYK_Zof9Bif704ZEfJ4FA_o0pPsaFTh-6BrlbBRFBVBiJ7hLuXRO-JjAUj2kDd92m3X30x1cYWbqBN2N34N62Rgo1P2J7Vlc0Mz2sMYpQf4mqIV0XK1BJE31gUHQp",
+        "photo_reference": "AUacShjuHvVu8jwdQ5e23bm3e0gp7HnnxtOeMWaG5yg_5fmtry5xXT5H-QekKuqX_llq4NwFcOM1i0ki_lCvoOq29XOmP8T48fV0D8D6XWlQo91dJtzmRortWk-BgTVGIb4rImah5e-fVTfWijnaF6CADgf7qTGgI0od3wjNmdm8zrZEIpf6",
         "width": 2340
       },
       {
@@ -8378,7 +8332,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/101348009985286580487\">Mary Sue Hurley</a>"
         ],
-        "photo_reference": "AUacShgx0DOgvn5wDmWrdSBTyZrmpSXOsrsdb6T4xsq3qEABNnLFqVvWH6ceCu_hgsgUCzE9nkoX9ICafqJsLKLXIK0SR8tObosbrrc8SqXbjTEQeFDkKVGo0Jie4Gcdj6NK__KV9PoeC2mcqw_A2_nV3Oz_ezw47QtVh-0xxVLngnUYBd51",
+        "photo_reference": "AUacShiNWF8AQCTq8QlbthNim4eLs14qSj4WsFFdUkoevYIoKJRvoObZ_qrHUVXjzBYee3sajoZ1Xa_XDn7j0_ccm65PBuNRul3JM40by8pCIG-TY04_HdniZ0Kd3giV1Cm6AbDEQAzBnNtJhMHR-3Vep0bgUO3KF9tmYLWHZqPIKGM3MLHc",
         "width": 1440
       },
       {
@@ -8386,7 +8340,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/101348009985286580487\">Mary Sue Hurley</a>"
         ],
-        "photo_reference": "AUacShhXIkTvESU44ScK85UmKIm0TwHIiknq72WbNNk3dcmka4n3XF6Qc__bBY3pxN7JQttPuh7ndO7bePwX7oly3_vxH9bNhq4h7L8EQ4Wi0S5r75vyNhybrTNAYxk0vLdUCSmBdvZqGqzcwxL-X5wW0_znWZ969-jLu3AHcEbxIeh7CWdy",
+        "photo_reference": "AUacShjD8_kjk7UKHG5g4uyJ7rG7KXFYFjx-qe3SiUVuqo06mY6NXvgOmGmPQf6rRzeEtlSNGwnL88DtK7THH928fbtJTULEkyeSgrnoLxeDunRJcmIlWcDiGyDDwuEC0D0RmpQAuWZpU26cverrMxgRDJOjne38JpAnjvO4yMNawHTsoU0s",
         "width": 3264
       },
       {
@@ -8394,7 +8348,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/101348009985286580487\">Mary Sue Hurley</a>"
         ],
-        "photo_reference": "AUacShi6ZyczoqL-CV8Bj1458CDhRBOCgbpim0U8vTT4J3hjCLSpBduLP9ySUp8xxcRHMbYsMDBzIRQ5EnS6NAMEOLtAgNPN2ZC_1XaV-2JJj613lmUZTlAGdCklsqnHb8RwO8vQHcRULY09CCjNRtg5jU9ppd50DUCkJoJt4VCZVd2LzlZV",
+        "photo_reference": "AUacShh-jn40SjdCCaDcZSbCTTg5aUn_uzZXj3nkSTXjh2aWEBb0ns8wzSqjEYcQ6Tu-J3vnIWtJHWeDIQI_Zs-CQhLWlsqn2Djof8PqEi69eVAFtcDCGnO3EkrB_WgLWQTyhX4dKLruUbVsjxKjNguXNOnGrquIzGt2Gnp9oj4NPxVIBCdZ",
         "width": 2448
       },
       {
@@ -8402,7 +8356,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/101348009985286580487\">Mary Sue Hurley</a>"
         ],
-        "photo_reference": "AUacShg32QlGbsfucbv9rBRUdGyFQpHj6G8QCi2sLYEjUQluu16xOyTimgfmOzY9huWlMgVDVshw2YIVhlWCDAJ_pQSmRIzmm7KPWca9i2KYOZNmPV0KAIHESMsBZHm3tuOn3Sa9Es5yyCoovVSwBtuxGw8FQmeANAjImYNCcUpbwkH_PeHk",
+        "photo_reference": "AUacShjofAdBzXQXtc3lAddrXNtUHyQICf8WjuMke-se7PuQI32UCDVFtDBx5ojhQnYKg5TrBIHlmabZzPOne-qNE-OLbYxRMQ771Rv8WeJh7G6OlmUqLeD9WhWlgZiDQc7XCkXKzwrNHS7I0YZ1EpEU6bhcIXccZjd_IMsz2SE2H-nttFcO",
         "width": 2448
       },
       {
@@ -8410,7 +8364,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/101348009985286580487\">Mary Sue Hurley</a>"
         ],
-        "photo_reference": "AUacShj7ucuVXxUqFy3jffTZrY4NBrjlEjU4Co8TIHj_FmtbHU80f6It89fR70mpzF83FZMreXfcby7k06yTXt3qaLFyRtzmvy_Gn-CNOo_f3ugE9f4Vw3aoWtPgWhNDDmgzOkzP2KWjZd9VCdZ0x8i128gLCMCCr3l09ELDw2CP17FfDAKx",
+        "photo_reference": "AUacShhBZgOmxTlpPESeNgi7uMSiN_-jHHNDtCUXzuFrpN-zigFmfjlUtrw4PHZbBQf5mR9VeDFgK9Q1fM6mt7Lkto1Dzggn45OxM9Jo-QmgQj3_ap0DU1rxSdOpZqURDJBGhmKeLPK_0-G60ux0vcV0d8eUQZLup4qKncgD_EJYWAPwjZkS",
         "width": 2448
       },
       {
@@ -8418,7 +8372,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/101348009985286580487\">Mary Sue Hurley</a>"
         ],
-        "photo_reference": "AUacShgPSFhLeTbtKR5zqO1zbpnzYy0nYOHDeU-nfXtPkm8QcYEZET0B72n6XSlk4TxXLR5yejxaijMwMwMe4rd-7nGtWdJyKPyOilBKGJ3s1T7OB8SeebtqtCCGiDkvoLMVqyRBb6IUwxIDpL_urBrnQVFE1FE0J7Ezzj7JPpcv0r4CJb2w",
+        "photo_reference": "AUacShjKa4A94psGfYX76ZByQpNwMdiEfu2ju6CT68KMJy3MnXGAoS3Uc6fD2wjxM97ifnayyyFzrPgv_737NM2VTHBfYzaMP5qAIlgrXdehfvd4Y0zbcUfITuFqF_iFZL6TjEMFuxOvD79AS_3SpEOhzPaIQYn-Vl6EWhRb7UTVt-snxBXa",
         "width": 1440
       }
     ],
@@ -8426,8 +8380,7 @@
     "website": "http://latitude-arts.com/",
     "wheelchair_accessible_entrance": true,
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJB7eJgx9FQogRh6Cqovc7TV8",
-    "date_retrieved": "2023-08-15T00:05:55.551Z",
-    "placeId": "ChIJB7eJgx9FQogRh6Cqovc7TV8"
+    "date_retrieved": "2023-08-14T22:57:20.185Z"
   },
   {
     "address_components": [
@@ -8590,7 +8543,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/117308028844114489926\">Project Onward</a>"
         ],
-        "photo_reference": "AUacShiz57uNSUTgg-_7a0rYvSyZyUhV_4hGZmD2_svy7ygwXEOGn6nmYk4oOwyHYRPTt0DNjt5wjOWeqcLVPWBIBEHoFJ2NwgsNwyg3lkrt0GVQCp8GBxefOSqGGKpTFaFgwXCYGmSX6GYeSwzhThkPKf7TKOs4bGFNVPZB0vGJnNIgCy8u",
+        "photo_reference": "AUacShiEM61uZ8zx1HC2a1AeTh8Q2QUreiuVuuSI8mM0Kro9LSNuNEHuIgiIrciqHhNK4scHQrvcbHBrWZBuD75unY-jkD_rxKR4rKKcLTV_XF3VghwsGXrOWrnWGyYyjs3e9I0qDDb9IiFcnYBsJFqV_Z35nNnisBpByOYgmeTu28hBxD9U",
         "width": 1000
       },
       {
@@ -8598,7 +8551,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/117308028844114489926\">Project Onward</a>"
         ],
-        "photo_reference": "AUacShgiIovF7VbaAxHX2g9bPLfhcsT6JKAKgQGEaTwbteNtGempJk6lvSfPXZBu0fcaD8eer5dZfOl9te3soyF4AFptrL4lKMVBaDdFwfgvGyVtBfMvgPLGBszk93zQv31L35MGaQpnUsGgQnIZd8lYLZnvD7Yy6nhDbl0paj-63Y3xfi_x",
+        "photo_reference": "AUacShhxVy5bluRTGqZCA1FLkTDzIJqE6flfZ6ep4azHxm0pgoIB9zyrPuDthg9AKz7s7GKmT_vA_YsWBh_N57rt3plk1Nufpg78mD50SLyYBd6ehw6sBTGawc794ZKGoN6ghTvrK18Z03yGhnFn6wbI3cagZbzNWpxP9kb6B4sW4x3-sxdB",
         "width": 1000
       },
       {
@@ -8606,7 +8559,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/117308028844114489926\">Project Onward</a>"
         ],
-        "photo_reference": "AUacShgDHk-aB8FSko7u6AtTcxPIfIfBFvrQDjKOsxErfPul9bYZXrsevy3fef3c9dBVFteYDbyIKiAhzoLuVkW1CnLRFh5x-7ycTNPsb_29HIybgf-APRNW9gZNMKfrlLJ83-t6Tc7_73cuqal-YHOwYTlZWYIpWjiUN5LDCH5For1hYIOQ",
+        "photo_reference": "AUacShiprlLu1dhwrBTGt-9CZEBKgqtxAlFknuqy6C7guffGo3Jw6e88QV-hR8MwZegDjdWW9uWH3Oy7-7vhKP7f_nf6aQYgKwQzN5fiYPsCkKoYOgEoNdFiIHY2In6E8LZDOb7-d_EzSWzC82msOFu6TDedaTxCSgdGDBVASW4uhpBosCKD",
         "width": 4032
       },
       {
@@ -8614,7 +8567,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/117308028844114489926\">Project Onward</a>"
         ],
-        "photo_reference": "AUacShicOL4Z0rDU6Q7JSfVWeTcSoFbsbcUWzjz4VSjMaOTs-YiQdvJeKV0n4LknVCet615V09zLVdEff1IUduQM0DFvp5qosvOfr4VdCoMWiq89avznCY5WC5gzZTRB1OvNUOWxuFuJxscPOK7onteFaPa5Ig8Z4d27lvQjOoXKM--LgNB6",
+        "photo_reference": "AUacShj3Sbe6AgpXNRE3iaazv1uup-VWw-L55eRd9Lg49B3B2xSZnUVHYUsboN_j8zCxo7VMhuPLJ24w_BQGLLPmS1Bg3Mwd7g5pvuhidXxFScrY7rV3iX7QXK4dZBYJSuEWEyRy3hnn34_yfS3QXWZCU59Eq19yjVqlA1EZvblLtFN-0LVf",
         "width": 1001
       },
       {
@@ -8622,7 +8575,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/117308028844114489926\">Project Onward</a>"
         ],
-        "photo_reference": "AUacShiEA6099wVPqKCTycZk73zyOI0CH2pVrYc9whpzZnGCkNlq3Z50a0YZTV9QL6ZABx-QFkwbNWGUuwRUf-sqFPLB6ayUCmyGGucm1Fn7fX_HRU-_-2nlCIFKm4QLkGn2Y0Cx_xEPQMtJXdBWnGbYEOiEdLGvgwl9l2r2Zk0CTf50GKza",
+        "photo_reference": "AUacShjHpK1as0RZfIuLqF2R750RB-xlDQNfAE7yZQnoDrOXIr21bKhKkjZLFsJvlEC0fjdCq5SkCVaKlacxFQ9OnwSzDNpdWaGn4o9GLrU7ffaqknOoucr1tTUS6b063IV7vS1QGsPYOmErFX6RUQ8aQ8Nm22LIofTRmjRiNKVH1iSH3Ldj",
         "width": 1000
       },
       {
@@ -8630,7 +8583,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/105008076695465676127\">Fahmeeda Hameed (Sister Z)</a>"
         ],
-        "photo_reference": "AUacShiJ40KdROU-Y4_4heVw5VmnwUOvD6Jz741M6wjF8nkCWZvPxyQiQIRLGpu-TThEP2GWS5kTqJgqEbArllah1g0gxwTrRpxkpFps1qiGQ2ozj1uLt9kffcgJigi_Eq8cEjyu748wuuGvkfO1oGRpuGO9_dAB0d72k7XtISuvdhTbs8dH",
+        "photo_reference": "AUacShiXV4OPwrmGrncnv70EG6Lve-c_9F7L5zFF1S8Jessp7x13GU0-3pgMwh73i8fdwmQNoylPgB8JdWm31WiAER9HpTk0-Xip68dPJ6BltYc0EX8Ot7U7f47D-Ry8t5LP1-YLh_ni5gRWHunCxtXZXWHt8IFry6AO1NDNX6AyU83qn28f",
         "width": 3000
       },
       {
@@ -8638,7 +8591,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/116041206913001268964\">Chris Cantele</a>"
         ],
-        "photo_reference": "AUacShjiTGPr7Xa8t_fUcLhGxPVL5Tb6e-Yp13XBkzBcM5uijuWuo82J5hsTI3iIVUsXlJyH0v_JvGJB37N-btQm7txn3UmflnPwSgNfrYkS5xqViQPRWdmyaUvVY5gzNkIqcgvIW7dL4QNLzJQ9RFdGiuUKdYqs3iTd--dc-Kf_ztkXfdrF",
+        "photo_reference": "AUacShg47gYc1OwucSA686EnlrGG9q9FguK6cVyiLTNpTq3aVLljygsQqIKmfLejq06eWbfPdROf5nmcpjIAYD0W-Q6wumPZBwhzdy1O8MNC51NCyQ7x4n6Fso-GvVL8y09RCwbJ8fwhu_YIvT8DTE8X8rHoR0JJeKpSA2yjYHKxchSSq9XC",
         "width": 4032
       },
       {
@@ -8646,7 +8599,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/104585374614721394448\">Danielle Kees</a>"
         ],
-        "photo_reference": "AUacShjrh5Qf7_oJb0PyjbTwVqWmBvEXu7kTs3smAYQvTSsihT288c-bai2FpIwyF25g5aiElZG1YmtNfgKwVZY1BXEvVELI21bcWkaww3ikOykBvVImRMPTUTqA4VGI-TVWhn-AnEfRKJ1GrSweRFs4gdg-ogvRG4vlBcjklAJsNLxnEqwM",
+        "photo_reference": "AUacShhVwJtnE7GdJBBhGYYWlN2_IrqU3wxF9WzSRWXlxsZFonaKTz9Oiu420p2aSLNKttKUvnC8qdkP2rmaGvWiqTO1dZWEpwSWU6rWR31S-OP8jZKwgmDTN_4JO5HZOSeriQpY0o6e9DBZJTa9wglBbPqHIwsqTRNXvJsGIjUJOvWoOHcw",
         "width": 4032
       },
       {
@@ -8654,7 +8607,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/105008076695465676127\">Fahmeeda Hameed (Sister Z)</a>"
         ],
-        "photo_reference": "AUacShglWtNO7YPcPCsRn9ImJAI7mm9KkwK4DGQM3UJ3XFADIjuWQYsRm6DMz7B0G4Opg1cwZ3Rz9Kf1F8lVbktP_MO_bwhVgYZ8fHSA_V7LUG6b_ECaIWX6Di4pBe8VEsbqOA2rL-ilXv2KmiTbVAz393y9Z34hOwwGqXB1DNeiJz3lgc_G",
+        "photo_reference": "AUacShgDKif7RKD7rLx0WkinEcih5xJ8KOY4B20Hlc7H-p82klriqbhTk0bG0lAFPMfAR_mTGNbUfqE2f-zib_hr87Q4wfHnPTOtDNw8jEE2-M4OSafr9yBBMLy5VHNdZhErACtp5wsLqoymBgNs8UTX6BVsTfShlxaEuDSXieps7tU6QyVz",
         "width": 4160
       },
       {
@@ -8662,7 +8615,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/117308028844114489926\">Project Onward</a>"
         ],
-        "photo_reference": "AUacShiAk_eW4lsPfFWzdkZzmq72pQZ0181da82kfmk7x90cqFQth_LtKcGtavJti8qJBAHP_ywGO1dAy0vy0kuA66VeeLyAuTaCGWvEiEAq74L0Ug6Qp2woYOhVKrJ8w2Rt6UwG7R7cMnY3sdTamLCZFPNqZBVycxCQUwalIN8g7e025Mox",
+        "photo_reference": "AUacShgHzR-VfRSVVrcAo1TjtWMTR-BmG1UNkdZwbGNS6Jx4ZXpTXA6aP455EALpxGKNose-DstxLNu59C4qVlt4JUMJeyDMG4r8YOTfkOtWvs-zs52T4lGmBsyDVpAZ52uT_EgCxeZRB-thOAFJRneAHpOI0KwCQ8-zKDBdwI5nCoc_It3H",
         "width": 2048
       }
     ],
@@ -8670,8 +8623,7 @@
     "website": "https://projectonward.org/",
     "wheelchair_accessible_entrance": true,
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJEylrvKUsDogRBIVQu1unp5s",
-    "date_retrieved": "2023-08-15T00:05:55.679Z",
-    "placeId": "ChIJEylrvKUsDogRBIVQu1unp5s"
+    "date_retrieved": "2023-08-14T22:57:20.329Z"
   },
   {
     "address_components": [
@@ -8765,7 +8717,7 @@
     },
     "name": "Neighborhood Center of the Arts",
     "opening_hours": {
-      "open_now": false,
+      "open_now": true,
       "periods": [
         {
           "close": {
@@ -8834,7 +8786,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/102945575265286143667\">Girl Gang</a>"
         ],
-        "photo_reference": "AUacShjQnjNNjF4R_JIOijPtrXyXPWxaHbpLDU1O-58Sq_E8FDWYoo6TP1EuS16sVZs0_JRzWnrgoV2Ncm5fh4mxCIkGQXeYIl6FYOEIPpwSWopSpA-wvYrStltaRt8rNoq7EVODL1yhME8J1rH-vFqZiiwd99bOJTTiiyesIGtYvr03IUSh",
+        "photo_reference": "AUacShjJQ__3gKW_DWyGqkplTpbKv_cB5S8qb5geRveQgiakRBRAEIaKaRc6fMlOu61jQKDeH-4CkReoUOCqQTdjEbsGt7k8kIQQg79WCFqsjUbU4LKgq93WauhwgjjSO8j4O1jy_z6bhI-DyFo6mzFF0KEx_uaIoUKuEna4ordiPwlXghRP",
         "width": 3036
       },
       {
@@ -8842,7 +8794,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/102945575265286143667\">Girl Gang</a>"
         ],
-        "photo_reference": "AUacShjY2WBKrGc_mHt2_kScu41DpfrQjO5JJ8zwcQe_lHdzAcdwi9WrZaU2SIiRAN8QdhS3Y_ybESCDkodwk5EgANmzaDNVIKgsMut9g7RJy4rdFdz7C13tRFv5fgy-fJ35qOrGX4tUnxvxgYwvzHJufSm-kSrhNkwvGKq6skJYopA9cQU4",
+        "photo_reference": "AUacShh_6RAgctpdXP8vnOND13Qz_Y9Ib2EmseC4mh5LfSuYkHznEYgFCtwTt8w1i6YObEoMLRn4MBFVzBp7hFmeZ3HYOv_5AYH0JPvd3zoSq4Lcy9ZeSSkzEv427fCEUNf0OSkvJeEGUvehorWZju6ZtA_i1uskVN82eyhJGRvqPvjSx0LZ",
         "width": 3036
       },
       {
@@ -8850,7 +8802,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/115429239695322863789\">Susan Lobb-Porter</a>"
         ],
-        "photo_reference": "AUacShiPoIwyt5V1uqQ5V61cbfk5iTUeeSfVPU5xR_4IBDM8cXRPkUz5AoydK_Q07apZ5OjNNDwIw40uSzxcKVJ083DvWp0tXhe5uDAuE2GzCJ5QDiQWx-KsD7AoPDOKFKHvpP38I3_znrTAc5eCwSr15xWqOyWs3g9_Qfr-Ney33YlA-Zb-",
+        "photo_reference": "AUacShi_ovWliSVbVBNe-WF5TJbvg-BJGlhm6-JC2h5OMcWio_tYYuM3lbTVCn0VSy3esBwO6e_4n0KVnuLcmUXBn6r-usLUZ4FXw_JMJZf8_4e8r3kcKwwaymwnuTThVqbLfhN4DgqWWT540avIha7pnBgfi-SUUgmVLk21ka1-bSG3JDZm",
         "width": 960
       },
       {
@@ -8858,7 +8810,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/102945575265286143667\">Girl Gang</a>"
         ],
-        "photo_reference": "AUacShi2OrEQLzTNsiRz0F-IF3B0-_E66VfowiXPgN1a4-OtyyjHawXKtdIkJb0B5vjnR305EYNqEjxTNQMOmIUlBHZrKyWR16R-5MxnOujKp8n-XrnsF4xpF8aSM5ogUMKeg5TsdgI8xsMPFyR4XeeUjHi5cAaHlR6pRm1R_rQT5bexfUpK",
+        "photo_reference": "AUacShhWAPBBlTlXwhfoogkfuIIJN1f54gbaO6_QnOgAm34bA8tmCHAq8gMuu3A6dL2nd6K0npp2F5RZHmu9rZZFfYLDlmHib70G_bZeDU2595D5rPr0pOXxPXo2kdq8LOuYCclWDEL6dlwtNGW6Eq_HQ7I1e7-yxQ4nhs-WEfQZyDoTjF0h",
         "width": 3036
       },
       {
@@ -8866,7 +8818,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/115429239695322863789\">Susan Lobb-Porter</a>"
         ],
-        "photo_reference": "AUacShhTTTHzxmXpBYJvtIm90OaYEAiNd1ocgx8ucfT5t8fk-9NeXRdvibfzbJ5wpV7B7jpW2rotteQWTa74qpbp-1TjhetsM_EZmMFrMQJOQSJbfQ4adT0yv9YYtNt47ZbTG6VkcFgylMzX-6Y05oQCwaVsyxjv-ao2Jxs8VH11-J__5bnO",
+        "photo_reference": "AUacShiwfkYPejUJz8HpHdEpA3Iim2FeapiwjQstZXVIbEJpSecWfO13irQ0Gg8jy2-NIMNV2n3R5UlZW8RnxQ9GVBY0yeLjN3LEu00yogSLeSHwn7SrFO8jeVQaGiF-FHZ0fsU-eAdh7QbS4ZTXHVC49_93-Hccq735T-pqFYlQre28UYcR",
         "width": 720
       },
       {
@@ -8874,7 +8826,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/102945575265286143667\">Girl Gang</a>"
         ],
-        "photo_reference": "AUacShjz3o56VFv5c6JwpEYaxPTvzZBbI50ioZUcXEzrsJDV_6OY9VR7YoQvbJkt606ng4RFgO1Y42gLGVjzZbiXPk1MLRPihdZ_PizAiSP0uxoMA0IhoTT5l2N10zcrS6v5iXPr62Cq7SOVUE5iM_6NJarGbavOjoS-pdrfwAx2LnwTTJm2",
+        "photo_reference": "AUacShhkUIOC3_0en6QBRCLCVJAuMXhURiX9hG71bzwtm7gM5vWZqIY4UoE--zkEGPKuVl210voMZla7v398K_UR59xGIDyUf_wioVmnP4isDApg9drp2hD9qOdo_9MZU_hsshjbKDY-oW4BcmNQrsrzYCEt5LYUjBrn_KA1jaTZps_9juKa",
         "width": 3036
       },
       {
@@ -8882,7 +8834,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/102945575265286143667\">Girl Gang</a>"
         ],
-        "photo_reference": "AUacShgx14PD3Kum49lv4mCSi32_WwH2NL-BAUA1XR0w02y68xFvYPrDy6j4jdI0jBXTdTtj9wMtu7pReBOsfebEcRIKa4FwfKPja-VjJ5D58MyoqJD3xGmThIoRSCqW5YU2v6lVFpHwO9tzGheCiWrOcSlMztwMLpaLeyjRLO1lsRkVldgw",
+        "photo_reference": "AUacShh6TKp0d_Ot_VxAVTVFn5smzdkig7jvevcym3H4bfrlImR2CIa79WBjF7btObLRDdG86-lCLsBGxb1OpfH5CWsMhzMVrCyE-fqokBPSonEke3zeARgoE4FIhtwanPtidvDM-tcMe61M4N9kqUKj_lD5VtGPXMJM1bwGC_8_bWEgUrtI",
         "width": 3036
       },
       {
@@ -8890,7 +8842,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/102945575265286143667\">Girl Gang</a>"
         ],
-        "photo_reference": "AUacShi0dbRVANHktgNgOfFTZ64D4ytaeESzu632Nd7Va9QF9mXxcCunmZR08Q2gsMc5056izdrRoO7EK-bY5HFj1doLl-x_Dj02L4LDzufYzJH-ivo67Fw2l7LIcusJP0gP8tA3oEjBrVVaDzPl0vDk85vvSlKIkd1uIMIPqCSPryPnfA6w",
+        "photo_reference": "AUacShjWjgPKHTpxiKOfJeNwuHtIN4Qao4WLaqvO94l7ttFa3y-PEkxs4jvz4-xAk7CJyBWwnAXc5EWobpqzH3CeZMPI_Yvm30AJ-7NyooAj2_4cq75BHGr5hR0o_2SV_HBXf4dqpcM_qRgnMrtNlxmOq6frsyaxQcw46UjjyIGFkXgUUZ9L",
         "width": 3036
       },
       {
@@ -8898,7 +8850,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/102945575265286143667\">Girl Gang</a>"
         ],
-        "photo_reference": "AUacShilI9-KnxaNjg6iplWgXvLcM93U4uXoupFjwfO-n_qetCJPFq56Z4N1zE2kJqLJXNnwBkOiQXcxSoULIPxeaxAedlyYlQOznYc1TItePk7VQsHwa0uczB-GTM-1HtkePatOVzv2cX7--Po4GGFmqaLYasB0vzMaNnYx0zOq0-4Z6oIf",
+        "photo_reference": "AUacShixyCzWjdhMPrU3pIUPIVj2YDBiFtfS2z5QxTVZYoaZHn-uSxEjlirIIVoqAj8san9KPN99l0l9e4Cl4mTN0aM3xvTh8q2_4OKdxITCE3iig7kljcxz-WKF8sbGVxZYN7vLp1mhUQTFrVr3EnSdDRta9-toZJWreWGLrGMcZXQEX7q6",
         "width": 3036
       },
       {
@@ -8906,7 +8858,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/102945575265286143667\">Girl Gang</a>"
         ],
-        "photo_reference": "AUacShiO4Qbw5NR673U3q9V57NlagFe2FUYh6qqhiLn5h9il0eBVM1wprsbTiPVywdBaqRIQjkQEOpWji_Yy34nZ241Uv_rgsKk7X3BrzYi4doBUXveT4r0gyMwAguwjil3il6UJ7uRPpRzNNfO_ab6D08OdBoZunyePKl39Kps8d5EYbhUv",
+        "photo_reference": "AUacShhs4m2mJ5xynwCUYn0q7oT8A5SK8jTFVoxPswCmMrkhNxgHkxuG00Bo3PY-BECknr5ZFQqkC4EtJJrhXqNPoWmoibab8Em-HB7ACXUcQ2A_ZxMH5yXFg2HIduSqZF0NXHDCHcko_uCrmeZVdbuEhkJGA3av3WKGxYU0dbiPRRPgqQ1Z",
         "width": 3036
       }
     ],
@@ -8914,8 +8866,7 @@
     "website": "http://www.ncagrassvalley.org/",
     "wheelchair_accessible_entrance": true,
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJPdtfUG1wm4ARXHHSZvW1h4w",
-    "date_retrieved": "2023-08-15T00:05:55.787Z",
-    "placeId": "ChIJPdtfUG1wm4ARXHHSZvW1h4w"
+    "date_retrieved": "2023-08-14T22:57:20.465Z"
   },
   {
     "address_components": [
@@ -9069,8 +9020,7 @@
     "website": "http://www.hope4arts.org/",
     "wheelchair_accessible_entrance": true,
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJh3LsFCfW3IARmxDMCClcYfk",
-    "date_retrieved": "2023-08-15T00:05:55.894Z",
-    "placeId": "ChIJh3LsFCfW3IARmxDMCClcYfk"
+    "date_retrieved": "2023-08-14T22:57:20.586Z"
   },
   {
     "address_components": [
@@ -9216,8 +9166,7 @@
     "website": "https://www.tierradelsol.org/tierras-upland-art-center-first-street-gallery/",
     "wheelchair_accessible_entrance": true,
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7fIZfUkxw4ARd78k5ns2LCQ",
-    "date_retrieved": "2023-08-15T00:05:56.018Z",
-    "placeId": "ChIJ7fIZfUkxw4ARd78k5ns2LCQ"
+    "date_retrieved": "2023-08-14T22:57:20.714Z"
   },
   {
     "address_components": [
@@ -9363,7 +9312,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/111589464907759888748\">Lior Chatow</a>"
         ],
-        "photo_reference": "AUacShhB3e6n_95ksyOu2QZbB115pOwnkPTGxyNoHGvWvnhfdlsMn_0mz_E8h6Ne3ZT6UUxDG_p6bI-AlDjyS80KQT5FjO4EOThg6FQoUOY9GTdhobbZar4-U8CTbaVonZDgNXyT1hJX7NCiRFkig-rE5U2kvyx4tiC5susranSZRU7nD6H8",
+        "photo_reference": "AUacShhSmmwFfH7hQZCcC7y52bf8W7vZZhS8bDH0CgaYGS-LNZXbPNcKrAh1iH6y_d8FfSXIbUObfHVir9X7Okt60Jlb049PTN9CbcA4G_in2f1rWiGkGxE-nmuw7yvN8lbtQV4ZwVOMsPwbOG4GMv48CVyFwHpwoDhiT--OPBrAEfr3XJNS",
         "width": 4032
       },
       {
@@ -9371,7 +9320,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/104215680846378234071\">Notorious Nicolette</a>"
         ],
-        "photo_reference": "AUacShj0shC5mvSl09wXMc001poO41paOx5g1gxYG4CH-h33WFTOsJJroXrr5VMFdsr4H8YpM8o4HA8p16ADjpoFBoqDuig-3aGUOovNOeucEPmvIHeFNGaopEhzDAaQwEHmnQFPXkAcpI_Np0pzvZO9Y7c9YNDP5pffkboZqBGCo0tG4DQa",
+        "photo_reference": "AUacShi5hYCAMHvnXA3_BdHo8k25isypj4qAD0STqNi7C9jHtyuYKjC5XGeor_qDuy9HtxOg42SP9JQlYFJcGnYKnpw6Ixfh1z4J3dM79lIbRinIg1f4ekaBjOzY6UblmXYRyohFfkoS8ti7XoMRLWwAJlAiX_ifJYwXRphY6aErcdhholHx",
         "width": 3372
       },
       {
@@ -9379,7 +9328,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/113519541829160448352\">Joe Zaldivar</a>"
         ],
-        "photo_reference": "AUacShgzWnRnDzZY3ibDqQa0pJK_8O4zd9SDljWBjINWIjsQkRMLepFSAWbI9O3kwF2Vs6dvnQFqLVshP8Z5iPinFQDPEm2sZUZPT9LCuwzK_ULwo9Yj-_UxSWSuMD26Y6iFje6x6lysFzr8rhQq4P09UHTD_C4bhbAe5j17sBgvh91T2IQi",
+        "photo_reference": "AUacShh3ZuUIBoJeQ-F2XoTKGMGeO2um6paFbOknro6mJIbU17Za5XeOXca8YL609IckRjbZEYtfZ8TMa6UkFxqYaRDY71BYvHgorCmSOj94ouVw3gYZkbcW55F_GSvqzzd2VHhoJFYL3ieEjHAK81BSwyV082Q7khJ_w1JUl8FBC9hzCN2P",
         "width": 2663
       },
       {
@@ -9387,7 +9336,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/111589464907759888748\">Lior Chatow</a>"
         ],
-        "photo_reference": "AUacShhVaaagoFqrM9Uh00ZjEcJzggJ-SUSQ754qmPuqka1qIFSGFnCpGcbJdWNlIES5lX96ahJYkr5wIXgglbVj1slYwXLejlcbnsSKo1wz4sMowck5zIJ8xM5OfDnGVbkKFm6lRV_CPOXCyz5WPFegLcuUt6Ist_YCU25f2_fBqG-hA_gm",
+        "photo_reference": "AUacShgW8BIHyaVQuKft02ZR5q1QtEcbUzy95-0pBxTo7VyD7qKYjq1LK_PwtYIYvXwGdXzQ05HWImzoaG-LS8VqovXOpgEonn3DWE0bxxcPrTzWluRkKfuMk66qlBcSY3zp_iI-TObqzZiC7rbGuJe91EepYD6VqYdzifbyisOrFFGa-5IF",
         "width": 3024
       },
       {
@@ -9395,7 +9344,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/113519541829160448352\">Joe Zaldivar</a>"
         ],
-        "photo_reference": "AUacShgom0jHnWyAXosic-cxvj3XoFkDKpB1Q5oqbPDot8DQchfIaAkx3xpI_oIh1jMlleKAtHgXOZ9ynzEcJaCxkB0uZUni_OJ1cyrXjeAmgBm0Bag37U8zicowMlMYLN3wrc6OC5xuP1L6sae4-VDrd1V34U4x_mOolGiW9O2CPJeGZbB6",
+        "photo_reference": "AUacShiItMsFLwM6C9HCVBhP7-K5k1mHOnF5yUA0V7hM0wc0rHsK3tHQmDb3UovTwj45gy3EUprFNmZZGKykw8lN5H3ZbaOHua34KfllrfV6XIHY-CDzIHc81kp6cs8rIRvqM5x8hYbH6_P3IsWL8iqmD1qJ0t_6vg0He46GkpDZUv3gxhCU",
         "width": 3024
       },
       {
@@ -9403,7 +9352,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/109407870193358455581\">Jorge Vismara</a>"
         ],
-        "photo_reference": "AUacShiU6PDGJpFsQaZQRdeEToNpuyoRtjZvpStUp4gTYCxSBjjNjF-g-85plFNdCD5s7DAXBORPbnQG8-6nuNMays0yleOYX_NgrVqm36EEQDj5X6CxTz3XAF1PYEuhAwE2xg-FGD_KYhAOihx56yInobkeQ5Lu3U7x-j-IwxgtZfxAqmHG",
+        "photo_reference": "AUacShifXFAx1gTLXZpFpEi8UQecB2nPG1g_0bQrSBYzVtKiU9KEUryI9MtG9LzbgS0-JxfSp3bSX2_xiJGOPPZHlwgOchRUn-HcNCp0q6BudOznoMzeQhxIN8jqdrNqGCUxfUGRvEYD4PuuoVSADARM8PSRgW7ZLUUZgJw2UhbvnU7zHMAt",
         "width": 776
       }
     ],
@@ -9411,8 +9360,7 @@
     "website": "http://tierradelsolgallery.org/",
     "wheelchair_accessible_entrance": true,
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJnen_SDTHwoARrJt8IiKpxR8",
-    "date_retrieved": "2023-08-15T00:05:56.126Z",
-    "placeId": "ChIJnen_SDTHwoARrJt8IiKpxR8"
+    "date_retrieved": "2023-08-14T22:57:20.820Z"
   },
   {
     "address_components": [
@@ -9498,7 +9446,7 @@
     },
     "name": "Hozhoni Foundation",
     "opening_hours": {
-      "open_now": false,
+      "open_now": true,
       "periods": [
         {
           "close": {
@@ -9567,7 +9515,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/104418662948674748260\">Hozhoni Foundation Inc</a>"
         ],
-        "photo_reference": "AUacShgEGeS7xR1HwwdWX9NHAXE7EhH6nPpStoBVWwbczrMC-McvGTQ9TiTWKDvcs2LJQ0HbspazY9RZwPimlbrrEvxFFx7PMPVbyczAUxZFeVGUFC8dd7Os1fXSzfOVD6GvS9m2JRXnlnYZJ70IYIe5Qz9_cErZZRLB3nQkC8TWpqM-x7MY",
+        "photo_reference": "AUacShjOiNRsJt_gYatQVCPWFQZtJPiPaOCLc4shIN8WsqxyrllxSIfWrFWcQZC0ATk4TqsWUwUTWRzrGNL4nfHffd46sl2RXPbdYHcC5hn3IrccXORvQD5fsrqVycjsGTJ75uNIxFeIc15gB6lTJSmGJ-ixV7fy7FNlyNPVt-RlR7AbHhIM",
         "width": 4288
       }
     ],
@@ -9575,8 +9523,7 @@
     "website": "http://www.hozhoni.com/",
     "wheelchair_accessible_entrance": true,
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ08mtWMOOLYcR35it9yIsf-0",
-    "date_retrieved": "2023-08-15T00:05:56.238Z",
-    "placeId": "ChIJ08mtWMOOLYcR35it9yIsf-0"
+    "date_retrieved": "2023-08-14T22:57:20.947Z"
   },
   {
     "address_components": [
@@ -9655,7 +9602,7 @@
     },
     "name": "Studio A",
     "opening_hours": {
-      "open_now": true,
+      "open_now": false,
       "periods": [
         {
           "close": {
@@ -9724,7 +9671,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/108569507264004358915\">Studio A</a>"
         ],
-        "photo_reference": "AUacShi_BSytbhdd5_fLqxXG-OzAyk16Oyqj8UbpQpCG13cDTqyOrv4IDhKD2ExCwYINyd3RB5aP6PyxQNPes6fAJRMuJGd82t6NasNXWd3GGh-TSzb1LI4DkBTcaSfZZGlRe9DsNovebr1fZV4HKBwXnf9I9YNe2-uSP1HpFwMRsiFFGYDD",
+        "photo_reference": "AUacShhCarMzT2oZshRfkUMBdCtuTD2lx1Mf6HUdyS_WNyTtpZeD9bN_ML6Ijt2hrJuMIT0xWGxTujhV9pkGxmFP5NT7xh0E2fkr2KURQxXr8EeIetbP_RA5-a4OMdRN2y_qacy29CtBMJhel16oTRlj08XuJVv5v0VNtzmjjzrPVb0GQTmZ",
         "width": 6386
       },
       {
@@ -9732,7 +9679,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/108569507264004358915\">Studio A</a>"
         ],
-        "photo_reference": "AUacShjj6aJH3LP2taw0FzAGd34h4gejnbTBEdyMilM1ds3F6tTbCOQBbgucAjMLl60qbMrGyY1YGwQwrAlHpgRvrAEcm1YqHqRxJUW-BS6W12EmEPnWm8Q07lUoc3SahDrtz8jLC1F8Pe9T3wq3jo77RWcX8DRg8royKmYgSwQFAEX6cDWw",
+        "photo_reference": "AUacShhCVNFAZHCSTk3wa5EPzN1ZGF_tUDd8VdNpOBJzXzbYJhQQE-DgL6fgTlRqwCiYv_zrqXBCFma9gA90Wp5bRtlg1TsugRWfqPJtFf59x2E58O2bralR4Bu09p8bKebM_gLYmR14yGQVMWhsGzFgbojMBZALHLrfL_x-XxJNQPE81EuJ",
         "width": 6720
       },
       {
@@ -9740,7 +9687,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/108569507264004358915\">Studio A</a>"
         ],
-        "photo_reference": "AUacShimnOySM8TIL8-vNjuTZOfzGWZVpx-mIKuCIQok-vzKr1NEtXMaBBP2oTUHbW524pHxC_Tee8llieIgqd34s9ImL7S_gjAz_cALQcBepdEhs33sNqcJt5bCaS8lfowqwJeR0Aa0tE2tKOhV5De40_3MYZzIU8LLgzAMJ37IiY-MgqqX",
+        "photo_reference": "AUacShh409uRCUWhQRDAaWJccc6ylIfYZWMuSKAVFlx5-uJIGayTi9tmpbmBE0sE0irMb4Eus_H36K4bRMfucaE7Z69_4N0LfuiklkdXrjLdsjnxnIQJ7JIWoJ8I4D3ymDHPt-qqcJfNKNgY4dhdziuAnmUNRg7w1NhBsVNTJOrGpItYjAT6",
         "width": 3000
       },
       {
@@ -9748,7 +9695,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/108569507264004358915\">Studio A</a>"
         ],
-        "photo_reference": "AUacShijwOR8aAq-BJ1Rnruu_g7nNIc9HmncI4fBWlwsGZtf4nxJF1xtGlPNQC6LOjgekCkJAO_Q3ouKjusSsbX6tfIY7PfLMfyDUfqMm_q0KK_gFJ9kmX6ZC_yqZbzYMbAHY6xLkA3Hfj-LLBCS4Q87Alas2oP8NahRlly_W_hvoZ6y4ZCA",
+        "photo_reference": "AUacShg1yQzXD6bbc4sfR1SRpUAPTrZiS8emF_pLwKk3wURkNs58QMuLlrrmxf8ytpEIs9MFjaiULpGF7mHm9IrLOUpN7MmmS1u-QlJLnN2HScsMsmmaPdH28p13_eEDj9lldQoVsFemrw5xpDHFRlC0pG44qTvik4BPlcZsZ-XflnwdGi6Z",
         "width": 3000
       },
       {
@@ -9756,7 +9703,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/108569507264004358915\">Studio A</a>"
         ],
-        "photo_reference": "AUacShhg9kATFN__0rAQT0Vh8RMsL6kxBNCRxKyfvc9ViG-fo15uMoKeSL25zmHUXNe0-Ocg4SoDVPOIw0X39ZEBCQ-KHSjmd8Akv0P_REvM_8MgddWKZ94bXOPcRRbQsSQLtwHyYetMK8Se1_iBChuaFCqDHea-lzu2JaMAb0fD3DVWWcj2",
+        "photo_reference": "AUacShjh2nAn5mv7nV7NpOijb13onfg6DdqQfhDHBq-ZsJr5YdiO6nVaVCfUuDPDtyYB3PJZ7reRI4ElmpymeQs-TrcrtsKTmdUwfgpgffQqy1WoY03_YMXwunqQpopqpctxYQfkS8CF9LGFCxVy_rMVVkcL_Ht0ZtvqLdKwUClVvOMBnMgL",
         "width": 1512
       },
       {
@@ -9764,7 +9711,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/108569507264004358915\">Studio A</a>"
         ],
-        "photo_reference": "AUacShj6WowM1xuOag0afnXxRLeV4HlGDZuFegtL-QqJvsv02kL-7ZJPL2TNTkKaoEeuw-78Pwtztscplubya3MAZu0P1l5iD1z5HG4lcYjjjk78u-wl3RPrseu6jnmTu5pXEuzhV4WiwEgDt7Bhrou3Qk-YAHQdyHVG_7jd40YOqIf0xKDv",
+        "photo_reference": "AUacShghXq6YIJrN0IGAp6q3YTQ9d6ZwPzVI-ycRV3fykI3VBiOe-ec9T-hzK8j1MlC5SRqYO4S49NOGCkyxQrQV458hFtW3B0t3XRgS6NqG01G_qdJF0aio_vTNX07RXrx4BILD6Mo1v4uCqqv6HoyyerMuA-0ymlzm35CCu5kjPQQGY4Tw",
         "width": 1333
       },
       {
@@ -9772,7 +9719,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/108569507264004358915\">Studio A</a>"
         ],
-        "photo_reference": "AUacShgPcr3i35lafEShF7hqaHDr-y_l9p-oBWNjsUIseKZuZAGWNyBLb08PdHqhOWLdRj94ceHPunVz16Ez5thXdiMrmZKQAsNUMTHstKXwRuTP-wlY4aejSTTmFJ3O04RI06D9inL7V9cTcnPmCE5Z5xLZuXs2z9SQ4mwz4veReMLsAxqZ",
+        "photo_reference": "AUacShhR6tTdx-VfJUr3cptHS6KN-auIrNK_zDBV9OtHrJbYwnKL6aky1G_F-ySioimvw_ewRHEimR6ofqqK5CyEoaSUsdQd9mDbOIJ6NLjWEaeaG141NDHcLkIVOO-KQ2tX8jPDlLDLe6JCKk5XqBjx-pLGAnOuG0aK9U4VDjeBYUWuXeeS",
         "width": 6245
       },
       {
@@ -9780,7 +9727,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/108569507264004358915\">Studio A</a>"
         ],
-        "photo_reference": "AUacShicXdV0WLNt6TRWvtuolXC5Wh6QwAx3vOlPHCTnQmYOe9cHi0P5axd9orAF1wejhYWpGBuUlosVgO_dBwuUd-Ur6U7pom6Z-QVWvVl58buAHxMPqeidGdeTxl8mOXzpfrLMWjXE7pvQ-5VwPSWFXfUps2RTIX06LfLFW9663TGNekwD",
+        "photo_reference": "AUacShgIZTi-r9Hp1mD1e31ecsSzRdWm0D338jn2c6Nqj5IOJ15TIbkQqSL8Ya-G6Y28fD8vJiEBfqYu4smsSwrpgC3CYNGMJl35x0duKWn76LPdongIAB4qzaX_Is6RalloNUJFhD7jRwrFiZjABJ1al0n14tKRcHfzbgAhr-lgNndM09um",
         "width": 6720
       },
       {
@@ -9788,7 +9735,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/108569507264004358915\">Studio A</a>"
         ],
-        "photo_reference": "AUacShgTwe_M54KqhwTca2BWgG8MbUzP4lcDMAK6a_rGp2Pam9lG9BUII65sRX3rGImvWWeqT7s9i8qYmIiNh-Hn0gXQkv9J9k_TxMeQ_LFof2zET9g4W6WpfxnPmWUGsyWs-fDiCCD6nMEL6CDSAnLN2HtVTCV6FwSQJrVP3n7tRtaExK74",
+        "photo_reference": "AUacShgW85uezjTVsww6oO5Dec-U0qZtBY33FmhH-JSMs_Arqy6KYEX1MM7ggQdCyIoo2RV_-ffwcmr6PnzkybiTeTAQum4BqTyZgKt-2eOAUWTBcNrpzkpDe-_GQyT3ktz5V7L-aw6St8dqQZyGy-seg_UKVqLYnCFCn1ti00f8EZRZj5-N",
         "width": 3000
       },
       {
@@ -9796,7 +9743,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/108569507264004358915\">Studio A</a>"
         ],
-        "photo_reference": "AUacShg54GEj0HT9Vr4VTctDn8XMoUTZbic_Pp6GU1rYLsZgbFH8xP5lOlXZjSoaKKNRftFif28SPZQkcFapm83cY1PC9dLP8_CeVCtX-xoaGxBwNlf3A4vW8qKR_TkTku_a--sdfiwV1OISSQ8K6eb866LaDcBsDMGvDEsB3GVrdKulBjGC",
+        "photo_reference": "AUacShgFTHuVYdJFRMRF8X1g_MbeRVvlR2i_l6llzwkOZ7LvURjGTKWyUqgehnzBwdgdHw10LjRfd-EZGfCUY2tzkFqxVe678xcZj8Exr7ZhW5f-6USpgfMJUcrZ6NQQEUjmnN0pFIP-w_J5_8AZmEu-LJnq7mneVJ0WEQhMPdC8pXmtZBMQ",
         "width": 3000
       }
     ],
@@ -9804,8 +9751,7 @@
     "website": "http://www.studioa.org.au/",
     "wheelchair_accessible_entrance": true,
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJf0SxfcKuEmsRxcPlqyQxZCk",
-    "date_retrieved": "2023-08-15T00:05:56.362Z",
-    "placeId": "ChIJf0SxfcKuEmsRxcPlqyQxZCk"
+    "date_retrieved": "2023-08-14T22:57:21.071Z"
   },
   {
     "address_components": [
@@ -9884,7 +9830,7 @@
     },
     "name": "Arts Access Victoria",
     "opening_hours": {
-      "open_now": true,
+      "open_now": false,
       "periods": [
         {
           "close": {
@@ -9953,7 +9899,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/107641786522726227807\">Arts Access Victoria</a>"
         ],
-        "photo_reference": "AUacShjf0F6gWwgrg7vX56O59HFv3cmiu8C23ZEBiRIpTMRwdKqDCx6fBOU22zzATeuDPLc6DuqZujls_zd87ZVckHmi9xlRts6gTvrgsSpTeCuRQqBZiErV5AivLIX744DEEMs58eDejDbvRvedeuDJCf8boBLdgpppxek06Ih2jSMJaE_Y",
+        "photo_reference": "AUacShhIr5-uywvbHMiPIGLIidVLGi96FnwE2wWA66_Buv3bfCqSNKl_VH5GxCtdj-Vk8rKqVd4fP5TGN48oq9lIAgIy9u7vFv4_4czScbzKraEIU7SoUhVxMpHCaV8NjR8r1qaB-uOJpWykiaICWUzpdbufaST0nvn3us2tkw4ZieJVnVRl",
         "width": 2048
       },
       {
@@ -9961,7 +9907,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/116624072862940724204\">Laura Hook</a>"
         ],
-        "photo_reference": "AUacShh9IZY7zoxgzr1hHXKwk_b-xLDq-6tBGNhBd3UkGBxr3z1V89Uz3urLp9yIuZs4rCVLd6fCMAOwjqe2LLqoRdygQdo2wSkj6VZbBeGGeOh-stsrxo6a4kl15MLlnBUfw6u2c1kGcQCn6UZgdiNGa8TLQ1kBfa65jggQeDtNMCfiCoDA",
+        "photo_reference": "AUacShjbZHD_L7btWOK3R2mlGXNkoOks7IUDoWGsrgytf-WzYaLj0qmYoRDz1V0Tw4q12FjXCzZyikJRcLTT3bsDc6apPJSne_v7ZyumXKc2KNX6HYSJyk-HgKezW46Ov3KddgSthI_YQBU6ttHx2RrFMJEvUZpVGM4zFCoKxWm0xQiTKiV6",
         "width": 4032
       },
       {
@@ -9969,7 +9915,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/100268266272395825144\">Devotion For Krishna</a>"
         ],
-        "photo_reference": "AUacShi_XfPyhICUAHtzIVxFH0NLtw8pdSqQSlMLAYaEu2AFWiZUmhUGZks-GbG3SWlUefO1QtczctGj_OEHsQw9aUllN8fvLQ-Gs2TqAnyjWiCDvUwLdxTdSsOtkXiZ-rU3eSqfEeFmbgiVg27Z290934bWZC5gOJ7bMAySU5NeH4vCLpuw",
+        "photo_reference": "AUacShgvdT3mIK28C9QLHmxHKkW0jl0k6m0Xf5j6tqUvqWloF5TgWuWoRmMYImlZfz9xGWw1KJiJtvPoxP7bKXxTG7fbg61hkCMqLwz5kIww8inqJXALFoSKlOjpNvLRFw1_hrJ0XpsvwfMw2dKAXALstqD1DFApg8oKhnPLBsQi_4IZqIAw",
         "width": 2048
       },
       {
@@ -9977,7 +9923,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/109963678128929831953\">David Jobling</a>"
         ],
-        "photo_reference": "AUacShiTxYLh9vcUDiGChJIbg_fCzZIBAiDJnIA9uiIQdC4I10SzSw6ft9yR09OV3o_xPcoBulZsIr0sYFLuNZ7AYvQaYqgYY5s5jbOT16YE4YqDGJpQAdBWZyhXQoADPopAelUlbKj-kHh_D4WYec1kRbhKEvIu4QuD_jWzGkDqtlx9jK7l",
+        "photo_reference": "AUacShhcenJ6AV1ENIGBWyvJ5IYjD3XbhLy0HfwwwX53mS8OZPYNtYbJL-5pd2RoH0Ig9jVeFuEMOEtPdkyBYs4eEC8j7TYooWxV8yxDMEMdphdgC67q2xZylTbutoLkDqVIT-AoouwAcYOhA1YfqXNG4_tDO3sk4rXYwyzvNVtbU2zYN8c4",
         "width": 4096
       },
       {
@@ -9985,7 +9931,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/116624072862940724204\">Laura Hook</a>"
         ],
-        "photo_reference": "AUacShgSBdmuxk5eKwbxfbH7PRTwOgDP1ljSrF-9blYO7l302f3ksNcec9ni_iQOAL0Mmt4nzeadJ0Dc5uodhXuO3BtgoizlH9850OdciEFogIOAwpWj5IrvOCToN3KCkGV1laoqu1s1K2ZIVollX92JzBDp9lW_FNHB4s4oW5FBZ0SrI5Hr",
+        "photo_reference": "AUacShhjOgOR4U7tkA4FKFZ4vdIvK7dfVUpPLmMpnseAoPAmZgdBcb379fQcK3rp1mDSFdRLpZDrq_H5oJsSzjGXMItdv9qJtXB2rnf4HNgatgH4cGuF9-kWQwXu9hocaUK8j5iIwmufa8nZ0-w3LQf-I8iIzxf7FmMkcdOjiAPKHxDnUS0m",
         "width": 4032
       },
       {
@@ -9993,7 +9939,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/116624072862940724204\">Laura Hook</a>"
         ],
-        "photo_reference": "AUacShhB4G6a1KWMYtaHYP08l4jxnRLuNWcOj_5ohhdSu0ljrptDB7S-1f9laKz6NPowCp0CSxj2lZ0smxTB7tgR56vuQrOpPvBf_ZcDEDMNjZ9Ha7hPXwP2pwkcqEaOTO61S2fTp6VPsSBMV9ooutYWznihRvnxp_FZWFnwRxJULv_2hiT1",
+        "photo_reference": "AUacShhY4ErHCAGmvsvvRxf5-l_nOGlriOnRTYbmnP44DjI3MPMlwJ8CHxjAYuQbcoUwF9oQDf-ww7PQSqFIrDeCbKs5uI3GXluDk1VUUzNXMinxYCQlVhSGqnkyswl_u3tl9jCgIJb2JRWJqVSfdYnfmq3CWY54YT2-X-Ux4FkdbTxVGGF_",
         "width": 4032
       }
     ],
@@ -10001,8 +9947,7 @@
     "website": "https://www.artsaccess.com.au/",
     "wheelchair_accessible_entrance": true,
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJEwwU2QFo1moRBPzD99glu7U",
-    "date_retrieved": "2023-08-15T00:05:56.488Z",
-    "placeId": "ChIJEwwU2QFo1moRBPzD99glu7U"
+    "date_retrieved": "2023-08-14T22:57:21.198Z"
   },
   {
     "address_components": [
@@ -10150,7 +10095,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/104779430950849337338\">Antoine Jamar</a>"
         ],
-        "photo_reference": "AUacShhgpX7gXiw3_G-MdwmVxHUjsJVnwR-FRa3XVObDWpPHkP3hziRgRvU8Ubbp1wMv2GOlkZEcw_6_HcjMVteUIZaSnCTxKw1a-fl9YPc7VHYONilZdKDI58YeKMFE60tWIjcBqz4LLgsJB_7Rf4kVrLV2qIEOsmiCopfyZ_WJSt0wEn_f",
+        "photo_reference": "AUacShirxHd4S3nLazJyBxvxv3v3zDJ-EuC8kUv7-dWYrYzr-qzMyr7QhPChb2xr--J4lIYG2Qi-zjBKNn6gceN6CBJlWTSX_34IBCp5sK0A61uU_khtN9VYtfefstvhqUIOHrzA201jfPbUBC5lEGyk8ffRDKy3WMO96OtlzLM1APB9F_-V",
         "width": 1920
       },
       {
@@ -10158,7 +10103,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/104779430950849337338\">Antoine Jamar</a>"
         ],
-        "photo_reference": "AUacShgUsT5HMh3c0DT_JgA5kSdPImAUfN8ShAurKKSKe1mzRzR6mODKGYX2qWs-jnhLWYpsSGlG1AaOIunyTZ0rS3l1XdGLanXwK7C8793hu2TsLH-KnGuxBVBAXdXFbccpmg5bH9pum6sxP2qoREryW006q85wKud_ZTbBoiOMXOLOTF6H",
+        "photo_reference": "AUacShixFXzVk9xaXcHEqaT5W7ZWae7GgD01WZ33p4IhjJsQmUr4I6R07TzvTFfjUUwMufg0H_Zx3i7WvcNfiKG0eBNv6RTQhaSpZisjl2R8hAmRAkJoMR-t-Wu7TKRfsN283OnsP6uMgTSA3csWJmRIAOsrnp9sMaAcws7zeJlONQaKp6Mh",
         "width": 1920
       },
       {
@@ -10166,15 +10111,14 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/113573465029197811875\">Créahm région wallonne asbl</a>"
         ],
-        "photo_reference": "AUacShhteZ6jHIG7i3gQi_LjOw8M7OS_JsePjgyyCzDRG81fPaf-lqEV6DO-e8l4VKwQ9eTLfXRb__3B3Y6u5i9MLLvCXFCSaV4tLz848xismeujADYoN96ORX2D9ySYsCxOu_zOWtkDo6_NMyFJ4oBCyZuffQriK0Dy5oyspNwkFWCazAJ2",
+        "photo_reference": "AUacShiD_noMfco-DMKeQxMTCUH3m3DM7zyAw-s381RpNsHFX1LplYKAQa3ZWeQe6FZrZ5kJZCKh_wKH7JvmbggwzT0LRvSFKZr8takQnTf_g-PmtAaLnVgW2NwjVUipBcnZu8XzWtxdjTKeZK9VLe1ICSXgKoVGekJLvQG5YK9Tw0SS1mOo",
         "width": 1000
       }
     ],
     "rating": 4.5,
     "website": "https://www.creahm.be/",
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0XbkVqDwwEcRYvryrJ6QlmE",
-    "date_retrieved": "2023-08-15T00:05:56.596Z",
-    "placeId": "ChIJ0XbkVqDwwEcRYvryrJ6QlmE"
+    "date_retrieved": "2023-08-14T22:57:21.312Z"
   },
   {
     "address_components": [
@@ -10257,7 +10201,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/117006665229261595871\">Léon VONLANTHEN</a>"
         ],
-        "photo_reference": "AUacShjpiJDLxf4fxJDz_392I23QctKg7jNie6AH-ZnHzIpO0UVh5LdiU16Rttg074qMa1quALt_u7OkqEKI53wmk08MhuN-szMSz2YwJWYXrv1yGcq1qTzR9APFyTneQSU6tmcdIU88ll_b_BJscTzusN4UW9HS8R-J3qu-bxBN22Qtk-r9",
+        "photo_reference": "AUacShi5LGGQm-JnV20KyoY4LZlghORTWy1_l_Sn8I3lCXN00zUOQfp7pWWQee1Nq22H23qNSKpyBbLwU1A3A-Tb2vu8ZL8ICvVHflvikTK6jdvuka-rnm1X1IBMoJaXds7ZktrC1rpbeWrEevKbcr_UxgPBGytKthROs9w6X5L4_kpu-D2V",
         "width": 4208
       }
     ],
@@ -10265,8 +10209,7 @@
     "website": "http://www.creahm.ch/",
     "wheelchair_accessible_entrance": true,
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_00gaG1vjkcRb1U8K5MRins",
-    "date_retrieved": "2023-08-15T00:05:56.700Z",
-    "placeId": "ChIJ_00gaG1vjkcRb1U8K5MRins"
+    "date_retrieved": "2023-08-14T22:57:21.423Z"
   },
   {
     "address_components": [
@@ -10343,7 +10286,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/102888363694792131577\">Hr Iversen</a>"
         ],
-        "photo_reference": "AUacShhTnQEjAwTNL6ZQGTbXffWfBmvhlbnc0JZvCDU7c1H_xcUvEeKH9arMTZ44Pwwll5ypcRAFU6pz1Gr24DGJhJOTCPFF7ALuQceFH0pIrxfDXEJxSLuNX_6rDMFG9T7WzdutDkURCgZW_uYemc8afSuVilZbIxFKFiTEDVcs57kkqc0a",
+        "photo_reference": "AUacShiXC_VAi04YqDaIAT8YKifxSdLcDG09UT_iPEQNI-AgMwQf5TYy0_ErRR0NMu6JFfay0yzETJ2XVPWOjzz0Zc7M6FFJA8OWStPXm9KZJtiHQAH-ZsLY2XFg7Gr4GMXdwdeZ0lOLuv0ntp1dnbbRmemk3xzQxdq4wwrmc9jiCHe71THO",
         "width": 4000
       },
       {
@@ -10351,7 +10294,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/101194983551491988417\">Erik Meistrup</a>"
         ],
-        "photo_reference": "AUacShg5cK4zb0kHVp_geM88ysRpQUJFAZWGpSe3xGsO_II9vIXJPfVznCEbwimI_n9AFQ82xYHGHQ23CtBMYwaP58vTk5fTrhpQNyuIHPZhsCoJsm2dZQNVhg2vU21BgSB-blimgxRzGKNsJm_oeB7KSntZm2Sy64zNaD3D1hMCkOiKrkiT",
+        "photo_reference": "AUacShhVJy8VB2w6AmJuhCkSicZPaLyQnVTIRGuUjjpAi90ynYbUkciX4JFuAZCBT77faGecjr4AyP5I_P-IE6JsWSi_jNBYe5TMeALBc3RZgSNHdyrd6VamIn3zdO4DMhULvnh_2CpggAe_Kd2tyw9T9O4bAtExE2gpPRpTlXZeiRb3ooxw",
         "width": 2439
       },
       {
@@ -10359,7 +10302,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/102888363694792131577\">Hr Iversen</a>"
         ],
-        "photo_reference": "AUacShhlbBQd9mtGzDyjY0CkiYbRzvR-qBHXH2WlxZ-4K2mR_sikSfS_vPpjpuzOry1jWLKPN0KifY5Rv3MxiDJBVHuza50ZU6EtWxyur0wrxzJfOKCKHnRb42dbQ5xoQLuXOI34IW0EoGpduRvDxqvLhNGOdcnjMRr86Xmk2WrniPpSWZ8o",
+        "photo_reference": "AUacShiRfY9Z7qGUjkcJ-WsaP7-LOAKoUnf4a_h5V25LFNSnYicT8EiFQf3R4Zn1MZCgYbtEsGC1iihUdBtsKCFQKtur7Wlk2kHDuln0Iq3Pq-QvN3Nh5w-N1DUhmb8y6AGJCOtybEEUPDHQZQmHepowcGCjNZrFUkIjBAbhS27ChKN6FMv5",
         "width": 2128
       },
       {
@@ -10367,7 +10310,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/101194983551491988417\">Erik Meistrup</a>"
         ],
-        "photo_reference": "AUacShiLVyxe74BNVEzrpaF722xelzRDQDMWib4SleSn6KfB1y9KqC4lt6_Q9s44wQLPpSfOC_3Bp1ExWSxfJW6rQUn5u11DLoSWg2wVUeGLdKSgslnDgpd6sUbSkAK0N03yZd9bQVIJdlEPXHx2ZB2Ucg-ppjKJH0HcXfIVjNl_eTyCKxNi",
+        "photo_reference": "AUacShhI13ExKyo6waE1IG-d8-2n0I2hyc3Xx3Q3N7Y-tR3eYqf4za1PnTBmYc0DhHQqKTvQA7UI9pqcoy0BvLe4u80ONkw5ok1wVjrKL6Xm6Xp4kC4RnIWlbUySUA75dCSPN_3VAcANVRxMGNYlY5S5tpEFeq1XMj-_4cHmho6fi4YkePUo",
         "width": 3000
       },
       {
@@ -10375,7 +10318,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/101194983551491988417\">Erik Meistrup</a>"
         ],
-        "photo_reference": "AUacShgIRna2p1qLZ3o2OLRysC_6M130hxelBbIdfhfSx9srOUgNUwgCMXp3wlMPA234mwr9n01nQaFGC2gqHPpGVAhjAMZys57UTXDN6wA3BqJD4WgX8XrO4NRWzlFuU_mJU1-vgNan95Zk2itRwuYDLLBM2EYnMH1CPPC5jWodclDnhZKn",
+        "photo_reference": "AUacShg6hlD14Yovw7R7PXhhlVyiAWh9z6x_crEaprc9Y2GjEFmu42UzmJeP76cVbBn-b14-ymaMFM1AvemwzBPTAMKGUuEcCgFY9B5gPe-ZWPEVxo8UBjPnvBoD4hBsihNLcZvL0bvOgeyIxDsxjjGyrRYwDH5X9-loAkP81NfEBsMWf7Z1",
         "width": 3000
       },
       {
@@ -10383,7 +10326,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/101194983551491988417\">Erik Meistrup</a>"
         ],
-        "photo_reference": "AUacShhUCe0ewVH_7-sreckKdcEScbiz0e21-fOAX8tiBQpK4uca4zSF-PJlfd4_PR-2v49ThRHwGbI6iKlDBJZNrPthttJ2BRLWy9H3fOmwV87SmouXH8Y5tkuG7NB32hOAsUrI-Xpkztb7P6yNuQtR6i7E1GhY_6WHIQd4tafD_na8ZM_v",
+        "photo_reference": "AUacShhRx97Z5OmNeZHr3Jfo0PQG_XaPNcS2KX-8IBpuor4dYuNT3PT_JcMdNTzTTivFRu6y43YdrohyaTmpEL_dMMVK_1gCzwYGsUiY7Zul7OzsqqgqTDXfOY6ruInGSl4stcsf4AnseBmAiisoR7SEc4DQBX6-sSpgB3YpoatBhICqEmLn",
         "width": 3000
       },
       {
@@ -10391,7 +10334,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/101194983551491988417\">Erik Meistrup</a>"
         ],
-        "photo_reference": "AUacShjnMoGqUMjh6Y8GpMMy4PM2QnYRCuBZvBJtzYNr18aL7eUnt9lxNqwVWFYr7QpEUgcu0xiPiZRcnKfdTZehP2NohlTuMZmQaaN0Lx58Yr-b8XyQhUhrZP5UrPeE7FL2K5H3i30rMH4i-Ip4cu-0BSQD91uGtBjI9G8RV7ZGEw-xT4kI",
+        "photo_reference": "AUacShhz8etks2im4torhovgicyL2NN_zhO37Vml_UaSoR5nqa5VsRhh4Erv-WHVR7IdA98ttAlTd2Vk8CjROi6M6oj7aPQpJxnUulDRM68fTZuKGXq6YFVeENbXHvdtio6DcoZfmHA72nuDz56_aZGbuR5wu6FQhlYrSfblA6ro0QhEIp0p",
         "width": 2149
       },
       {
@@ -10399,7 +10342,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/102888363694792131577\">Hr Iversen</a>"
         ],
-        "photo_reference": "AUacShhze-1k8zrYiX9NwwUBPkFnAJTE3vIAxrS79_16zd8vfciR3i9BrcYDOM9l_WlXcJXOOA9d-O260v8Eh5KnUmV2ZVmwNJ5JGskpcZEN7xgZ3Jo9A-pA1O33Lo9CZrGmEaRuMoZo9S-uFmFTPOyQrxTVFEKgZhlqvYM2Bl6FV6HIdZBI",
+        "photo_reference": "AUacShgQsDoMJqeiZd_kRqQrtRGCSwFJLyXhpCIhPI0lglkE8iPrD_7B0wIVQyxoBO7kS6LLXqY5R-_hxsyUgvgniujNxCk-yjcOGOrtevvcp9BWgkwuoSTEaJoOeOfqNMpCijEknB50Gy8zl4yizlPrqZTgAfrNUsRxCcF6AqfKenfjXArN",
         "width": 4000
       },
       {
@@ -10407,7 +10350,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/102888363694792131577\">Hr Iversen</a>"
         ],
-        "photo_reference": "AUacShjWU_boAuJ12QbUrwJ8Q5st_v3ETaTXdS7LR2Zrzn2rgfgLdfVcZIXboPo0ikIg9WlG_pDvXxpTV0T_AtGSgwLfswQUYZNGSmjmV7ttsIBbmZ8s36IU2v03fbzYQky7LzK4AzjSNuwy2QVQcGaCxQjQrt6w0aAbOSzR-RnaNwEsSt19",
+        "photo_reference": "AUacShgJypDjiLgVyQ-PD1cVFn9BtWeK3W2VH11yzI87otcVAeJrqMerCCaKByrJ8MifzvpccaBSylfW35T6eDFwzd2o_A4ANXeDak578bYHVauSXHeVL13-NqwUcHSQt69kHkKb6ljqv83C2FCnQqZh0B9rQDF3AIhZuFjibq-mZpeLGhQZ",
         "width": 2194
       },
       {
@@ -10415,15 +10358,14 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/101194983551491988417\">Erik Meistrup</a>"
         ],
-        "photo_reference": "AUacShhvJYhoBJ8yHSX3TzXw1mf-6esip2HNGJ3neWec1V9F6_bmbDFxwuxN8d213ujaWMVVjt5sJF3VF2-2x6cF1WQgNgDwOAwPVzc_2rI2FFKenXoiIbB389nQkt5eADvp49SCyvLTfZJLfZj2OvPQPwBFkoXNvrYGCyzQVJ7DZwgOXlI9",
+        "photo_reference": "AUacShgKU1GOO9mO-zG1jUMg2-Gf3TrQpH7lblQ8Xwrx6RV78omPaalqGkSCAkIBz3X_GW1fet7f6VZ2jfMMbSuoo_dl-XmggBRbfQK0PRPeD7ZeV-a1WXQ5t-sUzeurPDzo1vrN1qswbCDc9nuT4P9NC9Q-bgMCTEDc_slEyYBgX4guYvWS",
         "width": 3000
       }
     ],
     "rating": 5,
     "website": "https://www.bifrostart.dk/kontakt-2",
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJg-ru2d0cTEYREuRmvWerHvI",
-    "date_retrieved": "2023-08-15T00:05:56.805Z",
-    "placeId": "ChIJg-ru2d0cTEYREuRmvWerHvI"
+    "date_retrieved": "2023-08-14T22:57:21.539Z"
   },
   {
     "address_components": [
@@ -10515,7 +10457,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/103793384424029566566\">Kettuki ry</a>"
         ],
-        "photo_reference": "AUacShiivu2F1L1n_BivPKyNOCOAchGDJJSUH4chfsfzyzIfEDc4WzFc198yReTzri2YwnLy3sMVatE2ZGPwshblHUbTEk3WqlDFlvU1H9Jc4pJt6ruDKM6BFNx9Fi2KdMUlgLQDitQs1yy2jQbjlhghBMUXPza6pOtweNmJS4OcUDdLj-wU",
+        "photo_reference": "AUacShiBmqungbmzvwS7KtRpK7rvVYNbIBCXviFuD5Rr7sA8DM3KcbrLIkvCvj_OKc-sXDdnLcGXJTlLOyYWkWXqBA50VDtTW-sUSbGsyrUHbrOWEsPGZPhvCNrHD4239-SfHImQUeFCaugNIBYNlhxwDNm97_vaG2uVPMxhRINqIyQmbxG6",
         "width": 1382
       },
       {
@@ -10523,15 +10465,14 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/103793384424029566566\">Kettuki ry</a>"
         ],
-        "photo_reference": "AUacShhaaGREn-4KTBoO0T2DSGobYi9HPTWjaRTGKJW5PG2KrUn4r4hPGf_48D4auc6f-83D-NPtqU-1So7gG6y5u4NhAlFEA5eUP62D2yPoFmH2AWeqz6xM11epC5SeB5qwUYHNpGQEKCxrYHzM-M4OQPCENloLz9iE2DLVjruZJFVrWX4d",
+        "photo_reference": "AUacShi5KGvZcBjh3Ako68D-If8XjnWEDGesiEfaLdtKN_i3xogtzbMauOKCd5zTmTaJ1eu91STdakOU0ERxSQXy_MB_4X1SIRqgNl9hEy0G9fdFKA_AvR5PgTxwnphNVQ7weVHu44yN18m-QSvDYd6ukl6Z4OKs2cGrGMQ4TkDNWrjoAOON",
         "width": 778
       }
     ],
     "rating": 5,
     "website": "http://kettuki.fi/",
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5c26Q6JdjkYRHl29Mj2VK8o",
-    "date_retrieved": "2023-08-15T00:05:56.914Z",
-    "placeId": "ChIJ5c26Q6JdjkYRHl29Mj2VK8o"
+    "date_retrieved": "2023-08-14T22:57:21.640Z"
   },
   {
     "address_components": [
@@ -10637,8 +10578,7 @@
     "name": "エイブル・アート・ジャパン",
     "website": "http://ableart.org/",
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJXUPQrR-MGGARRPjAV0gu5mM",
-    "date_retrieved": "2023-08-15T00:05:57.016Z",
-    "placeId": "ChIJXUPQrR-MGGARRPjAV0gu5mM"
+    "date_retrieved": "2023-08-14T22:57:21.738Z"
   },
   {
     "address_components": [
@@ -10715,15 +10655,14 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/110031574649810968608\">Alexandra Hertog po</a>"
         ],
-        "photo_reference": "AUacShho2KaHD0w-evsPWYd6Z3jH9CIHacU8Xg0TVmHDWF1y4AxR4HS3PdtQa-L1L1A08R0fJlY7PtuGg_4TIheKCsA8iQO8Ua1LzcO6OP-zLXzrLgEzC0-Ntz_ZBmh_lFGiwKugNElKj4A6oNpPWmJPyawKA66Es85zxjM0ja2bZwnxyQxr",
+        "photo_reference": "AUacShjTo_aowoxxEhjs0oPu5Dp8lmfQkM6giNBZg9mtE5Vkt0mR0yr8aleNoSQOne1TvvGWLiXCTw-LdBsD3XGU--Nr5qlrDIhfTAkYpcCIPv99n5OTIIm80lw6Y4ZqhG5HDC3F3s0a_29KCRjvhVeJjRQx8O6v8ulc9SMS0J8YgzB7U_Cy",
         "width": 2576
       }
     ],
     "rating": 5,
     "website": "http://kunstvliegwerk.nl/kunstuitleen/",
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6ZwfYzvExUcRqxw-mOStBFA",
-    "date_retrieved": "2023-08-15T00:05:57.133Z",
-    "placeId": "ChIJ6ZwfYzvExUcRqxw-mOStBFA"
+    "date_retrieved": "2023-08-14T22:57:21.852Z"
   },
   {
     "address_components": [
@@ -10880,7 +10819,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/114123517052310000369\">James Ozzie Osborne</a>"
         ],
-        "photo_reference": "AUacShhUb_BtFbFqMoe_XnjEwVY9JtNmGmPsZFIrX5vxHTjD0TQpQtobpbYp7MNmkgozbmDkvwOMQ6lV6ZJRAvb_kNv-3D1952xOJCE-JVkcveVNAflCe_qui_FiS5-zSJVlzAdiF1c8cs8ug_gVZk9mW6wXucThPzMNlFuRkxFowjvk_Nbr",
+        "photo_reference": "AUacShiCPqkxXLIIzxPllaEOIzPwMOyqh9UhPSiOLPsyw39VRXX5UoTfPQ-bUK1icLpwPRzBwruP3oJQrcuUJvKj3DlVdNduHMPLFbzhBIzFMY6o0mle_kn4NwSG-ukogmkcw-tcLQNJr3CsBR9_9BSo_6M8xUVJHJ49MSKbd5VU3T27sxsh",
         "width": 4032
       },
       {
@@ -10888,7 +10827,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/103938335009057081233\">Karen Bryan</a>"
         ],
-        "photo_reference": "AUacShiJOVxoYV_D9n16sN88LLMVFg70Fa1CfotFfkwpctSp3YRu9afTaufFb6toueFczuI2EaTH2-Hon_pJSnpm7U4rggAr7JXLjXP1rtoSRNQEqZ0oWOgZnGKV_MlSZLizcoYfh1Rzsy8ZP-xI4vWlSIigY94MwfJLM7sBWLUTLNAb83u_",
+        "photo_reference": "AUacShiBqbHG1Vg3_DjLM9Pf2ic8XRMy57l-9BpnuSNKpSULhua2yXb7nl65m19XeV46QfC-0UIW78fETg_Xr_A5rwo3ZSjzR4_iT5tIcgQPb1L1Zmj2n8XiLvbqsC4VsrAa3d9Sp7m83e5UORoMt4cnl0yd60MU6HVtUxSpruRLuIuPyK4b",
         "width": 2160
       },
       {
@@ -10896,7 +10835,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/114123517052310000369\">James Ozzie Osborne</a>"
         ],
-        "photo_reference": "AUacShgtX-xBf6mrr_OhtL5n_AB38BHosbVfNNjAcr6P-9Wl0m77JH5SHCLBRYwSE9o5XdDC6MsdBstMlPy4adogW9mprSSidcEDMR1kHZFF3Xbth9KXSXZLGa4Y5cPxVNdhk7JpHuU03SJxamQQZtV9DTZXxkQZry2dxa-4u-Ttz44iqhR-",
+        "photo_reference": "AUacShjIzQb6-FSiWKq3p-MRMuQqEw5_hpsgQ16Tyl3yfLOYRns912X_wiaPh1dJTHMw55o_nptDvgfQKV8FwOUbVS785wcfg-K1YJujpX_mWVJZ0I-_Ut4qpNUuGD2Qnu5OPrMDeQGe-qSauXODYKw0129WzwJyIcfKAn3vFNPi7Zfm1Awo",
         "width": 3024
       },
       {
@@ -10904,7 +10843,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/105793795956264837378\">Kenneth Gordon</a>"
         ],
-        "photo_reference": "AUacShjMouuBFHHdxKs3N6TEtggc5F54QIsU-XARJ-3CaBXT_KwNtccY791UeKmo7UXt_dUil5-cWqRjUVaMM23_YKBZOCEzgCrLK4nDD-7oQ_Vl1CQqjfioOrlIiFzkS36a49Z2_GumkYZY-m10ScATVV9f47ghHrz3kc82scitjdmIdWMc",
+        "photo_reference": "AUacShjxeOWiZORUw9BBJhvWirnt6vBEKMOxrVdtvjXrWu9Smb9Ju5kdiugJmd-wtABStQzfK59wvN_e-YejAP6WbH3z7o9_ha-gKJ2pX7aFNu__mK55Oy52GedjtNt5cOs0wGby3MMhSkpV-C_bzSOlUeHPK9ia7cfAYXihWBlMbeMBJwzT",
         "width": 4032
       },
       {
@@ -10912,7 +10851,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/103938335009057081233\">Karen Bryan</a>"
         ],
-        "photo_reference": "AUacShhdRJeN01pfxL17ej9jcBdChLAo-5fAyvqMSuz1VMXgaOV2uc65La-RazJJDZ-VLulNFgT6Kc60acz5IxfrE-ypjZpDcQ1dx-3xHbxVyqwmElTbLKt9yANW5GoJFwM_xfx7Y4Hr_SrAdczIFzVNzd4xGY2gvUAPYfHNqlsQPF6u0QGf",
+        "photo_reference": "AUacShhwe6FqeEuwcdirWGSv7g6rYWM8jWAOSt1qNXQO1_PZlZ5bz6OXh8LSAUFIqxDIfUYyOFVl2ueFV_5hW-oFQ84P9xOBnNuQdmeEf1HZTyu4XX-PrxQu4Axpy8HuYE3VCE3xLTbC95yLEVEdfzBcKt6CTjBNj2GOuAXHpa-dayxuBPi1",
         "width": 2160
       },
       {
@@ -10920,7 +10859,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/114123517052310000369\">James Ozzie Osborne</a>"
         ],
-        "photo_reference": "AUacShhIqNdEfQ38-ztt6IUkGWCN2x3_fgHzl-sQhUGC_iIHydfq97Awc_pf5gJ3Pl4C_CcqN3TNz-AZw4FLbgPY_nBTPddKPLpZobBDsJdY-rQrNlSSK-e_QLAwKCCwA0MbBvDUun5rXUmAC2DAqSzHITkxwB1vV0GGugGwRwtVmwzyOcE2",
+        "photo_reference": "AUacShgEXT5HxKiSfoa-TSyNob8diE90dmk_7nSxiQg9pSF3Ms6UiD3MLt7K-GM-F3-eVTde1REAPefTAtvaJuDSchdO2K6u2VdDa2dmNwEgrs-FA10-q8pm0VP_Ex4L8AQfO9RRF547i64L3zL7yWmNyWyukA0ckGRypsZEfoWGZpylKWbJ",
         "width": 4032
       },
       {
@@ -10928,7 +10867,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/103938335009057081233\">Karen Bryan</a>"
         ],
-        "photo_reference": "AUacShjxZ3O2Zoye5SGGgbi3NihZ78CefCMGRHVW5nARL8I_jGdcNcz6u_zVfG48RuiAAmzyAiC9lTMvVulz6Pum9Wvah9ZdHetWqJzgs6rGKaY9w7wt3JhmSGyq3y3vB1FrztKAsYmjjhuOG_9zBZZRayGmOuWXy6S3JECxTPihxeykQy_w",
+        "photo_reference": "AUacShiRxPxeXmbm-jHWtzn2JvTLWh3xw4qviP0uoKsghr9-I0D4o_C_lFRME_Jul606sA2RDZp2SlTfvfKpRaIZlTF00zuVIgHiP3wee8Zr_P3tmwo7Tgg6VpbsZG9O3jdS1-WH_HNrZz01uQ-msoo74THgFF9Rg0jlP_9zFxQqWA2KxjIR",
         "width": 2160
       },
       {
@@ -10936,7 +10875,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/114123517052310000369\">James Ozzie Osborne</a>"
         ],
-        "photo_reference": "AUacShhr_YAyctX--3m7jc5eFUGErjpWbD3LgeiOT_Y8eUqPNjoXNjWNeKoaAzdIUxD0hN16s9XsPjsgEnuT7r7e1CqDfomlZdomBV159JCvbOHiKepcAgoKGXuo_HG8NE_LCzRfhNllA4liSm7MteoaCCvCg33wi6m-onbHSir7f7niQzeJ",
+        "photo_reference": "AUacShgJWxYcIYIOU9NWIZ11wUu5RZ2xwK5BQcFLsgrtO7RQCztShrczmrsf70vukX7cY-BDNNCR4JeiepdSvulFobMLFJIaBy53ilsKqiISsb5nBK7Gj25WD5TokA8m8-tSJLylrOHIbcC5OL_576UEYA9gh4Tu8cHJLJIq-UMCGdjiYW-e",
         "width": 3024
       },
       {
@@ -10944,7 +10883,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/103938335009057081233\">Karen Bryan</a>"
         ],
-        "photo_reference": "AUacShj3NvRs2xya-ukHSU-0jmg36EvzgJtAXTOCIZ2D-YTpII7DYKm1L2Zk_yt2pwvQNpOMoWjzZli3ZK00B53EzCgWg1oAHffjGf8SWk2qxJhWfVmXC-Lybe6Z-Xs2ksFmED41mQktACDzAVEq_ob02UqD-ygwT07tkL9B-ffXGkT4SHYA",
+        "photo_reference": "AUacShikB1EjgzWbmWSWr0kfRw2lwgbv9PIe-wOpH3IRhMWxFyuffA5dhUuNtFTg-KxzPGCat-47bTk8PmAPIWMbqBcz_Oj6RWZBI8OjDHqjdmryMFGrMtz8t2Jk__rhce1aZYYXTJlSQe_hpMAfHhoBiju-IKZYeTOoaMMiIURsvP4wx-s4",
         "width": 2160
       },
       {
@@ -10952,7 +10891,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/108329423874998286208\">Riccardo Margiotta</a>"
         ],
-        "photo_reference": "AUacShg99dHntrBLRC5pfIouAJPSXk1O9vzpsDD3KgJjq0yQ1IfH9QyeTkngyOULwWOW4sSkY5W3LNEun_x5T7pRktioJtwumETP44GuauKOHwOEwr5kjvDST5Iit9pBNXxHTpenF0LqpOPa1Ju4BJHppabMJIZ_KblrAsQTlnoO67Mz8-DU",
+        "photo_reference": "AUacShhDvvbVwsQwdzDoVkkSwKrRZtxf6gztIkrDp-uTxSRCg-snFVafKRb4rqJkGmcHHIftR02sEjowMnRG8bqOgeQR5RAaXrjocdXYmGOyyavDN1qjBXiIBdGubs6YCO3xfV948fwkK_nT8J-U0Vjo2rKnGB_73snetjXLCOxElW3Nx3cm",
         "width": 3024
       }
     ],
@@ -10960,8 +10899,7 @@
     "website": "http://www.project-ability.co.uk/",
     "wheelchair_accessible_entrance": true,
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJI3M21KNGiEgRVxDXIC7aCvY",
-    "date_retrieved": "2023-08-15T00:05:57.243Z",
-    "placeId": "ChIJI3M21KNGiEgRVxDXIC7aCvY"
+    "date_retrieved": "2023-08-14T22:57:21.978Z"
   },
   {
     "address_components": [
@@ -11117,7 +11055,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/102321008647632748358\">eschool librarian</a>"
         ],
-        "photo_reference": "AUacShhIINedK7EhkwtNlhoaF5IZu8pahXTtns-EaCpM79ssD7TZERWgsSm5U0Chh1mbq366J-HtUONl9kIVV9O4UCzzTUXDIArMy7QhQEfj48i1is5eobJf93iPbQ5Qr_DmIio-1ONSe4f6iXOho8K1aVjzNjkHVRSKitJNZFZdCP6zZtbT",
+        "photo_reference": "AUacShgJVk_c63K8EV_zR06MHMHVYH-eoYmCbhWlrSCf4asBe4-w9YtUIWm5iOXweyyw3Y2PS9aaa5IXmp4kbZEe8Y0usbRGS8Yl30SkRS6P9LzaWUuAIzQp4mVfZLeELomemCgg38VEYF7Hk7uX5GtmToa9nqsMVdFHgk6jMoR8Rxo-FjlS",
         "width": 3024
       },
       {
@@ -11125,7 +11063,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/102321008647632748358\">eschool librarian</a>"
         ],
-        "photo_reference": "AUacShj9-jceTPYQhqpEAuwDtyMz6lEwZ8d3gcf65JGsxwtm4cwBkXHsfEY5VXg_rvhwVfV3zKOBxBdU9tbqOlyo4hd9xGxexFIt2voeuUaLdOKbYHv5UezIFCR4AxpuaE4h-KbZqi7V6bKy9nmzJR7SILgX_0KsWaY7tfi_rV-bOlXrAEqM",
+        "photo_reference": "AUacShiARK-XjCjNtd0CN_o-YBtRsDduku3ghAPrD5Qf7l5lHGVXwK5jg77f54mkkIZFfgEPCGK_fKPC6jqb0K61sBM6uGNF3usZI3PirTHU-oozzdPmcRH74bzO0vTtLLbrSMOCiVE_Mpd8S975PxFfHoqHlyJ_FL1VKg-P8n1RZqMA6Z5u",
         "width": 3024
       },
       {
@@ -11133,7 +11071,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/102321008647632748358\">eschool librarian</a>"
         ],
-        "photo_reference": "AUacShg4hWeF_hKX8voAFy2YGjl8bAtcqEoLwEeF0ZU48iO5hd-XjcNHQgibjez-eptqWPgfY9a0XSKK9D6RvTh0hIlh5AWmSUvuOou1WYubPgnzFkri0YqjeCgPn43D18xB2iZkyWaikGYyPlUrQ0z7tr2301Ggi29SWAb4B3AAnfNJZft4",
+        "photo_reference": "AUacShgD-7S679zYSwA7MHNRR9j3ud7xBsB8XMnjsX2p_N4RWx-j6pRXEIiKUOhkYOeZnOadKtzpV0epUD2TNQppE31KOK64LXlit7w0tkGq-nYEpBlXO4isV0KmanEdM36pnrvEJRaNfAEKp6TbhOBatGFl5HqVoM21eKtyZhSR377WQEi9",
         "width": 3024
       },
       {
@@ -11141,7 +11079,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/101435781758912039679\">Tracey M</a>"
         ],
-        "photo_reference": "AUacShhdxBjwVNbiEhMjWDdOrygT1h7o7tisJM8u-An8gpsuUe7TTPwfWG_M6bS3cy9GSQoR3REv-mGqchRiCE5q_inzaNq9eW1aChH6ElUi8HivjMF1n_M9HdYbk6n7Q3IFzyOzfQyQOGVZ6aaBl8s6LhWCgBpCsAX3SO_iYZ5UkiYxj1fg",
+        "photo_reference": "AUacShiqPBWReArzEO8vxPi1N7FKHUOcYlTZanDGxEGLF-ImyPBacERR_TCdiWz3cUW51NCmrh6jtAKRaicvKZzj16mQMfpLxgWS__xqwr4uzCHfXTwRSKBp5zToxqV1Nu9KKnF2YBBiO83TJxjj1KpUTttuJ9vXiA4tcsc32vIeMCtYftjc",
         "width": 4160
       }
     ],
@@ -11149,8 +11087,7 @@
     "website": "http://www.centerforcreativeworks.org/",
     "wheelchair_accessible_entrance": true,
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJsdmGHpDAxokRvPlofs0uLAo",
-    "date_retrieved": "2023-08-15T00:05:57.360Z",
-    "placeId": "ChIJsdmGHpDAxokRvPlofs0uLAo"
+    "date_retrieved": "2023-08-14T22:57:22.092Z"
   },
   {
     "address_components": [
@@ -11313,7 +11250,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/103621374908928178349\">Jimmy Richards</a>"
         ],
-        "photo_reference": "AUacShgDE4EZnuvKuZeqscPVpH-e4oVtNRBOiDuxnhKLuNXqtVP2j1D9hev7-tEudvxCAX9_nB728dXgktX5tE86mLaYGRMjOCGlzfGdiztQ6JfDO75wcsRsWqGMFppLgIFB-8R9zlicdqOM7joOnnzZz_iZ4ldIq56RYWymzkI3biWc8xQ",
+        "photo_reference": "AUacShjkcGi5SOGdz1f6-ljpeUoIiTAkCBZEImyUpPciktgQUB-p1V4TXDz56mcpdwRtL1t_va58JB1DbnfRablp6Nn2s_iB5HubBrtEKR0LjnLJ-NRjrSpLXFkRxuLfIWUao7boRA4gpNPSMlDHSdJj1vchpxSevb_eQpZQBd5o1ekxh3A",
         "width": 4032
       },
       {
@@ -11321,7 +11258,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/114646749405155197055\">howard bynum</a>"
         ],
-        "photo_reference": "AUacShgdXtia0io0KNdnelvubsq69ImTy8-iUIHMoCOv7O0VGBKMpy4rM9Wg5BJ_CBJWrCHDI8s4dffmNfO6kvBbfJCXA9hL7x77eV5WqTolbQj0oJrV9jzVZctIJyiSrA3u3zcpE0OZwf5Olj0HGXfF0Pxlelgstj-RWXuGRRNhUgcSrpvO",
+        "photo_reference": "AUacShhgnwOfukTsvBtx1wnrWl7sWQzmzWUtiGQfdzYKM4ubXiQS9heN8T85tz1SBmFObITSgzqUc2UFxFBDbdMHScRgjGafNBFb3mpN1p32bBk9WYPJ6H9LeTq0mU-tMcdaKr_8Kc0JT06J7aGOZ1-F-3MdyK14UvCqbGAb0TssGrV8679-",
         "width": 5312
       }
     ],
@@ -11329,8 +11266,7 @@
     "website": "http://www.littlecity.org/",
     "wheelchair_accessible_entrance": true,
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJWRmkEd6lD4gRz9IgG_58yNo",
-    "date_retrieved": "2023-08-15T00:05:57.475Z",
-    "placeId": "ChIJWRmkEd6lD4gRz9IgG_58yNo"
+    "date_retrieved": "2023-08-14T22:57:22.218Z"
   },
   {
     "address_components": [
@@ -11485,8 +11421,7 @@
     "website": "http://idn.org.pl/fson/",
     "wheelchair_accessible_entrance": true,
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJkyjPV7BbFkcRaG8TVp0ockU",
-    "date_retrieved": "2023-08-15T00:05:57.589Z",
-    "placeId": "ChIJkyjPV7BbFkcRaG8TVp0ockU"
+    "date_retrieved": "2023-08-14T22:57:22.333Z"
   },
   {
     "address_components": [
@@ -11578,7 +11513,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/112715569367315366158\">Mariusz Klasa</a>"
         ],
-        "photo_reference": "AUacShgJKfjLNpp8H9g5jSSl_XWTQlt73iOh0xr3eSzwgxCpyaarfrG_E_M1pfEu2BwWsny6fyIIrvQBe6J9wS-hJlrA7H5kbgrydd3UjosbVBdqkQyKoOcK2UW2oppIqvXbIeXWS9FZvwmCHDL5nijdATiSpeZsd5k9ZJfiCkRbGMny2V8w",
+        "photo_reference": "AUacShgLYCmDRm73m1emNMG4qV5AoR4m5YO4kqTIUaNuNvTnF6GR1vc0KBSGa8PaqDLeWIWgxFI9RbsHs8B--uB6D8l2LpeE3EaAJxpamL2TC6gsTPZKz2VkFTLF9VE21iYJ8sKsaCFqWR8oTnGQ7I4lAzfwkLejw2P5bNhJNI3NiU3b7YAm",
         "width": 4032
       },
       {
@@ -11586,7 +11521,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/112715569367315366158\">Mariusz Klasa</a>"
         ],
-        "photo_reference": "AUacShjbGWRhnbk9VB15qb81cWBKLn3wUt7m0iEY0QsALqTJVXy8asyxw0BlNpbnEd2NDD-6_FoT9U-jc7w_L53gc3-m4P2ChzE1GNueygj7jaEWoCWUABERwhkguVUbiJZ2vXVbGfcivNxuCNwoyDA-Uu7lNzkctiI-cxF7IVCufvDimR9E",
+        "photo_reference": "AUacShh9vKYRNTsBdoX1xunvZuGTaWE0S0A_o4uqHA0MNfzjMGf2-wqkOnldTAt_Z_BPNjWeIgkQDM4IyZYiIuj7CY7JUC7j0A8yrCTk73jz_cuDscp1I7m6f8GfqJ2DBDk69pvGfGqKXFjGjf4aCc7D8sU17KxyceX3kv1OoYW-5yLl_cFx",
         "width": 4032
       },
       {
@@ -11594,7 +11529,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/112715569367315366158\">Mariusz Klasa</a>"
         ],
-        "photo_reference": "AUacShhsaGhYvUThM2BDwloxU6_OGQqHqFMcQ4_7SnykldDcG0c9WtNvWfVre_eY_N7I-O39L6OGtd9CoVJ5T-7xlF6Fzb3aCC-APJqsef8_l7BeDLDoPSuXzB7sZiuyJa5afxZBiqq4l0KhRn4Qb4tZPXa_O9XFz0BvT4uyF1RmURsAN8XG",
+        "photo_reference": "AUacShhlREwiGRQmxeOIyKh349-07TA4HcaZDZlT29jJfpDBiKeCKmxfRyneZrBvJ-VFG8AYwtZG1-DCw0xki1Qa574FpipaASPDeKUnf5IND9JqR_U4hvwv6R3uXoNyfw7mFoRlYv6s9y6lC6uYvbZZxMa4dDx73T-bywoMLgcAByWAkpIQ",
         "width": 4032
       },
       {
@@ -11602,7 +11537,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/112715569367315366158\">Mariusz Klasa</a>"
         ],
-        "photo_reference": "AUacShgrcsnHXnTsu7JhZ47rObkMaV8q1bxfa_OoTeD_1RAOwvrjITKqKpvaqpwmoBMao_pOG1kWfB4Q6Gk83lcgMfeu21gMnzZw5joYxH5WkN2ddPp3Hu522kr8deOWYF58CM1Pv09SIAWxqh-9vQo_4gh8yOiVMEhUhk3i2zmXL23NyLbT",
+        "photo_reference": "AUacShhtbEsxnjJ3IBnS_4c_wZE4tFMJRdD5Z2fjMciSFAX0wWVAf20g8WmDCzLsF-mKhavVLPRtfq0SO4vPHpYW67WkbM0rt1itifBtfRXpXMKX9N8KcUzSwKMv-hnG14fQHsIzA8Ue2dir3wXn_SS40aLqpKKda7CuzMc9xwgxot03erfc",
         "width": 4032
       },
       {
@@ -11610,7 +11545,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/112715569367315366158\">Mariusz Klasa</a>"
         ],
-        "photo_reference": "AUacShgTUlwj0wAsx8WrO8HTHIH7i1f1OKL6ocpZyPkTvxTnIAnbesyZ8XfixpuGlOxmihe483BESeCPk4h6Y-I34Si4GmEZgM5kggfEXDiTmw-Wm8FuvnWtmvP1hCnL-U-YyznHar7o_vY-lkO1f12Br0DouAhuT2SXkvlLBU7PrO3frKvv",
+        "photo_reference": "AUacShhZ59yMkVLQqZ6cBN4oeuktuF5N_8QHJAplonYUIFKPzYxWTSuI4KitHpEcMIJJq2ls7eZMMJpED3-fRfVFgqG3V1TV_KisPAiKL5lCRRVV5dYCQ-ZztnVqCcwims3q31zeuVv-JiYhvM2G1WPmIR0esK_QWbZG-VsKKQmm8wzwkdo0",
         "width": 4032
       },
       {
@@ -11618,7 +11553,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/100236219854753200848\">Lukas Paulo</a>"
         ],
-        "photo_reference": "AUacShj4ik2G5-2VwEXgyIQ9NI4yu1a652KuUFpyYKttB7R56e5DnXPFPfwQ-RHWRL56yHNnul3NZTODSmk6kJRK_asC4fDvxWnffRh_q97oVhd4yHji7TCEX6a_Qr06q_cSAjixjRCdSkGR1K4IyI7IBxESFZK3oRqlk1kKKzcWy4mAtxAB",
+        "photo_reference": "AUacShjXTWG46sYo-p5H-Hjxcet7TSuQqfh1BG6UttRcSA6mKXbZohTHtr4jYXcY7TnsbL6CFBm7-v0Aqm6JEyGEAcc9mZW_uNYPfUSQLr9MswSTod1NePWo19PHO35yWVKlIYx20l-CKvJe8-G3yjwAxj8w-6DIvE6LanRCHZh5ecKR_DSo",
         "width": 3968
       },
       {
@@ -11626,7 +11561,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/100236219854753200848\">Lukas Paulo</a>"
         ],
-        "photo_reference": "AUacShgGtFR66bjf5EJAmgmrXKuPCzEmET3DtOgxx-P24vNcjLopURVx-c1kBzYe4KdKnOeZ_31WmaYcsKfxgOp5Z6X_mC3wxqXRtyJJtjDtg0egnnVrQXpbEJQIL9giTLiSABsuTz2NaT7FsstgloucmycmOpAWSO0VAuYCI176gKSUs28g",
+        "photo_reference": "AUacShh4WxxIZR9-Dk9OVEkHFH1Ejhy5j7NVXYqP0j8UpyUdE2CEuhD930LEB4qfo49K2s7wZsUmzh0ysDBS_rpcNvzhVju_0TT-eh_j7Qiw2Cxz0qUxfWw06I613idX03ndkLrr-OQU2ZtsU2SndQJqHlYgkBhNC663JIqKlgcYKTSB-c1T",
         "width": 3968
       },
       {
@@ -11634,7 +11569,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/100236219854753200848\">Lukas Paulo</a>"
         ],
-        "photo_reference": "AUacShgGW5DCg1c8R3_rQo2yISvEo3-y3LeY03lDucjvfI_zqoPQM6mCxbAaV6IrFLgZPShvcP-Lj76_QnFwqV0p4IzyfASTwxVcmWbz1dtre8SLc5KpEJUwVDDPo4JVGGVfNpKJDNqDzaVHMj_gpx91OJX9YWQxIJniGMyddSXGPmC3QjQi",
+        "photo_reference": "AUacShiYO3fRISGscJGzWNLEPsiOa7lhbnLxa5hmBv93t_k-FDznvyPTR8Xl8vRyWBmh1MVRBzCkANacm_q31cacyBSN4kwWAzrqeke7Hz6pCP4uIOYYyCl90cU7fKM3xQXbGVHgFs9m69OPPpSKxsO2EzYKkodXEaSmGyMY8QpwBfw1rZed",
         "width": 3968
       },
       {
@@ -11642,7 +11577,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/100236219854753200848\">Lukas Paulo</a>"
         ],
-        "photo_reference": "AUacShiZjv2O_WCSy8EfAwiOCELkC3tUvizDvrhGvDxDU1rjrb_Htab60E1PF3KbpsXSq6Ql_8D86RMdr6MhORBT_uXQcuPjAHLodBBvaCjoRxVK5d-JpxEWLGRFDkK3-l1Aro1fYUIwwPbjMOIbmzg7-Ws9Qma8_ntAZTAqv_lgOG0lZN8e",
+        "photo_reference": "AUacShhEfzt0N5rsCRYaXBSDpJSz68m3WY4Mkk0Jj1p2zvKxxgBCJWO3iftjK5ZY0Rh8cI_PbQg6p-8dLPfy6lN5IHYv26Fl3r899Dhy3w5KDSFI2xZ7gPVO6k9_C6UPhdc-FVpo0gjTVSR6qm25EAN99ku_f78r5P1w05hBN2zdJAWZydwt",
         "width": 2976
       },
       {
@@ -11650,15 +11585,14 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/100236219854753200848\">Lukas Paulo</a>"
         ],
-        "photo_reference": "AUacShhFgejcVvNrzT2nJA-DOGPuNzd5uT1oD_QrZriDqHw9_szEcsyKqijrwvWg9cHr7V82kEGpGzPzsbLwQebW0gUcUg43YQKGmLTGjrK_1hq3RaYGCTQSSgc_h7N7mNbmxB4pQKYzMJde4rKPwdaXgnD4D8ldcSpxNwvu7l2Z2BmYKPM6",
+        "photo_reference": "AUacShg9PFOQKTHas37hR7WE7_WD2uxKUZlmHs0k9xMV_8Mbdl8Gy9KrCZMaBA1sWsk6-k3W-3LQ6pjGCTrM2hdXMo9k4GuyQHxri1EHwVD3iLemOP-H2a_m10K9A_H5PdbD9TzGn1XUynUPXqj_bBE4fdX9AJ1QDHW3N_vKfjNttesGbE__",
         "width": 3968
       }
     ],
     "rating": 5,
     "wheelchair_accessible_entrance": true,
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJk3tz9mpbFkcRvqRQk7501xk",
-    "date_retrieved": "2023-08-15T00:05:57.702Z",
-    "placeId": "ChIJk3tz9mpbFkcRvqRQk7501xk"
+    "date_retrieved": "2023-08-14T22:57:22.442Z"
   },
   {
     "address_components": [
@@ -11751,13 +11685,12 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/113259359280334953133\">Dorota Walek</a>"
         ],
-        "photo_reference": "AUacShhqOkb727s0Sl56QkBZcvD1a6b8VikgdsrjE0ojS9L9wOqZMvwYsjHGJJ-f4QrIWO9PTzZ9tXmhkuKw-Nad-C2wTbNPgeul_L7Wzb5vhNWRIXiZAD5OrBsSUvpPZ2kB-g8CWnBTyX-ZJ9tGVM0SO80JQaviTh29Pv6rhpi_7ZfhpKG-",
+        "photo_reference": "AUacShjEVUqeNyQhSROU9gAdyglad_LBcUp1Lo08AAAtcwdWZDzQRNXeoKc85mUZPsOZczyHdwx4SMyPBW96rul923Ttw1l1hVyZNdO-nlwm-KuE_WjrZxw6_RdKmBaHVdbFaHcm3tiKyP_knizm0Gu31_I_0uIsloPfcinh-9k6ZAUCm-Kr",
         "width": 1080
       }
     ],
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJRTDPV7BbFkcRRm2Ebd8Zmus",
-    "date_retrieved": "2023-08-15T00:05:57.805Z",
-    "placeId": "ChIJRTDPV7BbFkcRRm2Ebd8Zmus"
+    "date_retrieved": "2023-08-14T22:57:22.550Z"
   },
   {
     "address_components": [
@@ -11927,7 +11860,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/103906749677510539272\">Hamilton Hayes</a>"
         ],
-        "photo_reference": "AUacShjnafHljgI-xUq8gQX561WUb1v7IBajFpvKXpHzreYzUCkVXSPgthPAjXttKrSRwPRmr6OTsMCaYHkreKPTtbKS3hNS9vaAW9N2XeL0OXT47pG52sSWfx-rPwTBUC5XSzS94oycwbEuJJAkZTEqqte6jtKH_MUwKDky1cZWsrto4XGE",
+        "photo_reference": "AUacShjIXIXwJVce3Y6tZ1qRxy8oHcx5GQTlR9qTUnxSp9Os_3v646O2uYJKyurEgn6o-9FrUfLILAoaPl51kO5W9PdVzK6wZPVp_QAwoS0o9nUuzBGqBKcK6icbjxPFZfkk4xrbJYTjgcMWGap-frIEZQ4KWKsYoqnfMUilRMtmXarEzcw-",
         "width": 2336
       },
       {
@@ -11935,7 +11868,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/103906749677510539272\">Hamilton Hayes</a>"
         ],
-        "photo_reference": "AUacShiKxhgsh7j8r_68HFsHhGUcHMVY4ewBJWYd-EZ5TQ0H8Yosv4rdslclHD9cQdkNYcyEAqmtqTatJXj-sy9mfRmkPK-kStxGOkvsTAqkhoFjH35Ndlyon5XlW8iBsS0qXORs81qZZO_eeQ4dxvG_ur8JZGrF5iyWBEcTiV1PS0BeU6EJ",
+        "photo_reference": "AUacShhyhIQlphrigDPPIhZgSgpbP9FRcY-sRaMw2ITiZ5mLp2-VBr51LDyLWWUBxD3CV2iixwWvt_no_EC6MN6CoAyhJ3z_3S_tJNviDhZ_VqqSh_-ar6JI6jC4VwU2XGLmqPV-9dXNGoPi6y54vghI7su7_k4NNj2q54626mNpuI8OGTk_",
         "width": 4160
       },
       {
@@ -11943,7 +11876,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/114000145658129220290\">Alexander Hernandez</a>"
         ],
-        "photo_reference": "AUacShhV65ITpPwrITLRrj8y9kaQ9_MEIRWrlmFomuWr3DkqwMf8br_xD4L-Wde6uKyxxbOYug-fLO6iH_9FWCjf5vm8WMaDTSrLFxnO_PQ_UG8hvxFAl1mCL3NGGC6UP2i515l_pwJF0TZ34VE_Tq0p575PCtEV3oTDdHnscOTVk-53q4wA",
+        "photo_reference": "AUacShjYqZ8kbmNC3oAtUesHsS9ryiU_4JDVSsIrb7xjwAeBxIzDExEXn-pALIZUoihctXgAh79KeusRAiFD3hJ3vrMyWH5tKUVFd2JdGhy63b68Is4eYWVZzsWaW6-CSD7SlPXEoLkcAmNOLhu61aL0x9zvSxRQMeSUejXz_k7-crp9he_J",
         "width": 3024
       },
       {
@@ -11951,7 +11884,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/103906749677510539272\">Hamilton Hayes</a>"
         ],
-        "photo_reference": "AUacShiwlJPVninfJ7uzXtQ1Byd0wxqPTJjDHJpeJNCfmHDt7to3M9gZ9hS8xKT6Le6-Aw6Dlj5x-jcRweQuFuVadUWmH4fuX4TsNekOsC60gphgVfH_q4PTLQMDQgj6jtrxRw8pqob4YCnNT2yLrdjTT4iVsMCE7qMmg5FwwVAyECZT2vyd",
+        "photo_reference": "AUacShhIGs-ENmzItFqc3VX0yDt1gChBkMRcbv2TRWQv03UKZqlBJyGqqfR8TXBtWEw5GLMAnehoDy-PTEFXuMhpmigbe9tSRQeRlLnh4DxfofH3Yg4TV2hhQ-6wYZbwHrndQcIl042SQ4kfo-bVLWX9kUDd4gJgl2Pd8iqBj3-UvY49mJM-",
         "width": 4160
       },
       {
@@ -11959,7 +11892,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/103906749677510539272\">Hamilton Hayes</a>"
         ],
-        "photo_reference": "AUacShgi-ViJfl5gviC--rrVfH99j9NXbJv4syGHv6WsUgPZKsZDZDIedOYRIfK5t_UhDOzAxcmiudTJbC32hDxqmG9WeX2dxYafOSSfyGOW6qmKifqHT3qPocX_TJ0IUuSUuYhAqV0MUHh98u7pYUv1T1T-P7FM6TXQBq_JTOW2HELSptoI",
+        "photo_reference": "AUacShghSMiGQRShTqt7ZHsblaIJshvb4eKSpWnNagRDq1aihaoO9XT64EBIUQ0z5wp1MortjphpJNlGGBq0HIORJolxXAfd4IgGvroGV4T999dJp_rOVYg_eboPCp8xqhZxpSPOB4CRn63-frauQy_1j8FKUrZ9eF--81a4aeQsVuL8O7Et",
         "width": 1944
       },
       {
@@ -11967,7 +11900,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/103906749677510539272\">Hamilton Hayes</a>"
         ],
-        "photo_reference": "AUacShiayVDEfSbHJNwuy7nS9CxPYgyuwpoZbKnHkWBUB9o_KKYtwoqBLpqRRhn1nUgrCc-h83Kzc3XJL67PIB39l0dV2-O3WzJ53fZMESX6tcdQSIx8McEuh7Ip2oSBLUaM17O68Wzfpl08QYOD3m_ntv2G-SzYsMwmDpOHJ2QjsDRIQ_QO",
+        "photo_reference": "AUacShgk5CQOpIYM5Tm783b-MB7X_rduCUgndtwmx3RTllhYcFWDqyQxDfUdO9jh29rx3lg9IMG6X_W6EPxc-OEiLCxcnzntbBBsnDmqKQsbAy5IfJBSzM3u_tKChG46xjHMM0wmVfB_QEx2S0CGkvWYNOldLvi9zuHkBjA6ju5Yx385raeJ",
         "width": 2048
       },
       {
@@ -11975,7 +11908,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/103906749677510539272\">Hamilton Hayes</a>"
         ],
-        "photo_reference": "AUacShj87UVqxDzAZqj5ZiJjsoM4L_5887UU5_cxAZa6nAUu7n8vI0Fp29jJzGcjaZCXYWh2pxJ6PK5n6aPiPILWNf3_FMxVhQw3SIClPmJvUKa9SVcBPIRRAZJOXWcDcDk9QquNAbJLEoYA0DcsKbyyWlbUByxJdYJaVRkxwltS70UitOJP",
+        "photo_reference": "AUacShiVsc8e2uThJJtGhkoWMCcUqtgGFmV5ebwQoCu8xK4tL7r88LZ-mo64zGdoscZlqm8E_Rswh9oqJIsLCGNcoJ8qLUpSVix_TXHQq-TbaKL1Ck0k7PoFVD1TubEXHQSIu1JTVq47zsbF4PPYQ1299U23EFrXHqjqjTs07Dbck1DaY9kG",
         "width": 1944
       },
       {
@@ -11983,7 +11916,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/103906749677510539272\">Hamilton Hayes</a>"
         ],
-        "photo_reference": "AUacShh7ehhB6kZMLb-WZNlwfG1nWxYILxwe0F4HFwK36nVcpU-a60agIZimtlzW6fhtb8dOGs3OqPuL745kYSKqFzpxRKwU5ecQnWH9Dg6NRCDSyiHdWRnaKHkrexBS4FCTrtnJ9Q2yYB6G82TooplS7UgenN6-CHcaG4_EUE3KGnI7EBS2",
+        "photo_reference": "AUacShjmBeZOTfNH8tPIyx8HYtUYAB-DXLW-FWwvMwBsLaRJ27RYcY-3eljxWR4okqDAfsGDIaqxXBbUlKkaVrl3ClcpxiE8aLvBX5JzEs55QnufmeeUyNwp59mHHxEjUR_cPPzzfwA0IOBVcZ1JldUrAsNUsH21BiBzI6RaPMZbopwY4ZHR",
         "width": 2336
       },
       {
@@ -11991,7 +11924,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/103906749677510539272\">Hamilton Hayes</a>"
         ],
-        "photo_reference": "AUacShi256x62GCUWsHgRWkh-zr0NEhKUnKhYi9VSvVl09FdbTfosjyOsBczinXi2d4tQuVXr9oMe5Y-8cBe1xxv-arUOjLWl8Bw7T1_dObNGeyenNcrI2L8LSt9SDTTKo7Dxrtd1Ady3WukDCkQS076ECVcyJNAkUGlcTBGPF-pJST221Az",
+        "photo_reference": "AUacShgDB_CmLvecWIqN6mNHVlmqDpsJVAtkDi_0juldiu3AC09jFWH1jhMgkSljFE-RNqYcwYOFA8zuVl7avRrCuQq7aOUSLwtPYdWAW4Ooi2GhYK1wMWxu1yEa0O2JV8kl32EBofU7mm0zH7InQ2BGSYFbxRHO9KJzzIrTS-ZqnCYCAhCY",
         "width": 1944
       },
       {
@@ -11999,7 +11932,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/103906749677510539272\">Hamilton Hayes</a>"
         ],
-        "photo_reference": "AUacShgOeRI4LPYIj_HR0Vy27nqYIfbsHoIiCk-TVtZMcQvS7Eweoh_UnZNoU30ZjJkfdsM2t1vYO5fL03gVt50LqMMcbfKVxJlme9I8ZVnpptDrN-URVWsMFsuNxe3CUcC05uLsESW3tjiGNdfyGFq89pXqCR3ebHmHaQWdHeaLYku2i5Ho",
+        "photo_reference": "AUacShg7ie98dOMeZueVaGNMs3mtqCQCEIZn0gk_M572tbctQdgHsgvJFSTdH2JzUzOf4lgxR_djBl_UJSVpSm430ayHs8fyQEPsG0EZhUSAXHOfRIaa0-C93DqFkNOG-q44Ja6wOJenWnxAV8ZxaxQfkVEhTCP7BKtoiX8N6cs7GB4BwdIT",
         "width": 2336
       }
     ],
@@ -12007,8 +11940,7 @@
     "website": "http://www.creativityexplored.org/",
     "wheelchair_accessible_entrance": true,
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJFRcX-Mx_j4ARzUVNUM21vMA",
-    "date_retrieved": "2023-08-15T00:05:57.922Z",
-    "placeId": "ChIJFRcX-Mx_j4ARzUVNUM21vMA"
+    "date_retrieved": "2023-08-14T22:57:22.674Z"
   },
   {
     "address_components": [
@@ -12151,7 +12083,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/110250230467121439820\">Creativity Explored</a>"
         ],
-        "photo_reference": "AUacShjiLxHcZSvU72rmAAwplpw2G5LcA3ht7RMjAIVoJEgJhgjJ-kOH7N_66RMB3ziCIOSCRnupr--M9lchv1b5i3Uw2re3ietSADiRP48tscOtLe-igJ8l2wReFh3zBiozTa2QMIZr0ly2XDvO17JAvSt8OwnG0qvzhbwvd1Gg0E5GnRC_",
+        "photo_reference": "AUacShh6SBH70JezCuwD6yDcF2qW2Lv6Kd9kODQTGmdhX3WfF6I1-uidkS2KEHBH1QPtbB7qYUGreYywh4aIO1ADOV5gycTlxpV-DgXmkDEUeL5smjzROyM-nLuXrfYP0iaSnY9jz9sRUCY-kKmfDUYYQfOYVxMWA5v62vR_oYVdxmZRhM1o",
         "width": 5760
       },
       {
@@ -12159,7 +12091,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/117308318304307697766\">Gina Mariko Rosales</a>"
         ],
-        "photo_reference": "AUacShg05yThP_4cwodAZDIvLYK2QO4OxhkcFMAQ5WpGiUnwbLZJzmRi41OjAbR8l3w5jr6HUxCueQ4LQg9rVzgaJBdcrwQuxQNa1LPBkfub9asqwd8_xMEv1EbklDZLSxMmBbVEWnC0FH5OanOCIKS_mXoAJR8LOMUQqLaJmaTncS2f-on6",
+        "photo_reference": "AUacShhBCsPcBtuTMtl9U0Svc_O9JgOZMvRkUjB7Op_NviHmPhOq5KYEbiSC6jhzLQVvvr7w2q6ByRiqxiXqCITh7jNkqyDwIm7Pvr8tK7ZCFEfnIf2TR3uEKxiYXwPLSoBY708GOqbA7_eioOgrtdAGx7Sv5YB258SmNq-XuWdyfe8ETyro",
         "width": 4032
       },
       {
@@ -12167,7 +12099,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/110250230467121439820\">Creativity Explored</a>"
         ],
-        "photo_reference": "AUacShjRfS7gicyypRd-KoMdrOacY7gMqrgryiRdsownE2XgOq3Z8UTW4YCtYuIZZVh3mH2rULKP6nukaajiYXq5jBTm7CCXqjUCZXO-_iuu5rrKDtyEU42WTrq24aZRTLugARyPnOnWLSsTLQdpmE2EuproZFe_c-TESs5ZTi1z-QI6b9Qp",
+        "photo_reference": "AUacShgwbDJpnlB3DGEhMjJ7SSHFtnLduM5noL5ISNDM4Dn7YNz4bInq36B0GhWodPZLKdgvwwLevY3YCbLWPOpP82bLP3UkXfG1f4bPtV4jcixgvJcq1caHoN2Wd_T4_kTVLC1-K9XhB41ua8QUNInRwtUVj4CS6SkATqZOM2m1QCV8baGV",
         "width": 2100
       },
       {
@@ -12175,7 +12107,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/103906749677510539272\">Hamilton Hayes</a>"
         ],
-        "photo_reference": "AUacShiIz719bDsARRYwwAwY5t273Wp6SQDGsXybfuYcVJL-CoX_unf2gIpCRUl6-CMg-DkYvZmXkVluj83dO1D3XAMz0w43LRBjHEWSVIW5sm9MFwROtro1dgDhNw9h1jFmddsHwK-Iv4KKabpqFa3A6yz1rVBaFeDenTVQ8fyLq9VJVSH4",
+        "photo_reference": "AUacShhM8J9ofFaVsqYF-W97sp9LLaxX65-1Gp6YCFFfMV9mM42-TG3Td_JJ3TdR3a7lxxzfX_4NHFtm2n43dWdKaZiqZK2szDZH3X2_zivDNV6awxEHw_R_1N-8vXowd4sZGQdtFy8iOTB54jRkJ13h1r_h7gYUKzOw4fNW14I8vnpSWbos",
         "width": 2336
       },
       {
@@ -12183,7 +12115,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/110250230467121439820\">Creativity Explored</a>"
         ],
-        "photo_reference": "AUacShjhtBcMBypz1XUl0c7n-YfGfjZVLPoAFHMkm-no4HTn4GN4odw--gbHpFT8G8Qrab7g49K4KAh82Cg9R29sVVjpZg3y43bWITNB6j3rgkye5QY_FDMX6yYNviYKljkePjZPK8zf-XdSbIDIVeo6oAQU3h2ObaMqrJ-3mAfbL3O91u8l",
+        "photo_reference": "AUacShhm_MfAAZp51pneBUfpWANDIMf_oT4u-N7EMdcSdBETXQnpJ_wYo3iZTs0ycWepVYwqnyrcpwEq5G5sTuS85qXDt0TmFfWwN8ZyU53HJV_Zeczz7lJyXqFZd82TbXwoaUYkGP4HUA_aHtTrJCACKT5sZEGRasxGWYLT_xELY-bZPJus",
         "width": 2100
       },
       {
@@ -12191,7 +12123,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/110250230467121439820\">Creativity Explored</a>"
         ],
-        "photo_reference": "AUacShg6nI2MPwbnIk_YlvofkoCamMyXH_2ciyAIgqRQT2BiQ8_cWEahaBNaHWjKqCn4jLCtHfIAHrTqrerfZvU_QR45xMlUuFfDC9emZ-4SaPOwNy544FcBmYr_9ugLmthfasZ0JVyYvMUASivejEh7z1F5UBjwvadHRpedvhsk-D748Fan",
+        "photo_reference": "AUacShiLyJFx2YO5Xr5v9MNSbomBDp714ZxAt_hLb5Z1aUgMgoaRMQDCU3X4qaLisLPqYjd04e1FeuTxMWuqvQB4o14u6gSWzGZAXGVDhGgdc1ExP8DbtNZ6gybaKxq2tJ3yHF2VuJd0wgU7DzrT9rInWaO0k4nzznw6e4wL91DXNE3wcf2_",
         "width": 1920
       },
       {
@@ -12199,7 +12131,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/103906749677510539272\">Hamilton Hayes</a>"
         ],
-        "photo_reference": "AUacShjzHNKuFr63eKJbBC6ngEBUCHol8PlHEBrzRCeh6GouMTMS509VIc3I14wWB7wqFBfWEjTfE2mptZWTGhWjXkbJexNmVfOyZZlxYqHuqAb_FHbdCBkQg1evlX4NZBxqOqeHuyDJW_J7FJnS624J6Ev3LeC9yR1N3rS_FIv9jubq6Ivh",
+        "photo_reference": "AUacShhLyPJQGgluTXdDJ-rSkYF3A-uXF5YM4eG9GpEhPXa4BZ_pe9T2AIbpIVwy038MFf77TyvCw0sESbC2esiAKFBKVzFpHu9-OGJClnyXo6CAVEOSQ5VkMXKeb9VGL3_EiBWFiC6DEcVVaDHKMJUef0lFmlxUpIuG9rQQUBXT7RcvYBF_",
         "width": 2336
       },
       {
@@ -12207,7 +12139,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/110250230467121439820\">Creativity Explored</a>"
         ],
-        "photo_reference": "AUacShjOxkuqGC3EaBDa-xIZjBRKY5NVYqD6wi4O0IOY4A22xy8Vc24iDk4MNOXtMQEF7D3Y-YBua4LANoFb_YgkdBj9b0_QwDlnpXFBFv_yrdEI63OhIibFCESA0EAszVk1kWVCQGweaYvfIJr9KDb4HCtWMrUW6LwxvS1LkcHy1GDSWuxN",
+        "photo_reference": "AUacShjQfcN7HgAbMIaN2ng19Nd6u3gEqWFdyn_GPZOIR1Y_n_FgesE1QPMc_mdwP35YyUwm8CEBblP5YWHmJ9AH5Le9Y78tyjPiWWKxkfxgfQrOV3-VpR72JmM1wE0s9aK-iq2wPn_nsZ3EPTLSJfPx_1gglOBgSg-pH6ejecOif9UzukrV",
         "width": 2100
       },
       {
@@ -12215,7 +12147,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/107721404123505875377\">Trap Speed 1320</a>"
         ],
-        "photo_reference": "AUacShgWAGQDl5O1osGVNrkvk0drpHu9aABVMoYwO3bEZO8zG_Yrxn3YG0XcZJWveMxmI9QWOHEtvsEI99Qi8UuWuC34tHQ0u4OXkjdzpqys0UXg8mSwBFxcLvvdOmlVcuLDeggxUrrflUWzAc2FLOynSQguE-xiLZMkHQfQ8FI2zV9DRDph",
+        "photo_reference": "AUacShjorPGU7rad0Dzs3KB2H8ddw6pfQK2FLQTNDZFvkSIoFHee5yteAvwaZoCn7IU-kOk9PyxJ1j72qGhcTJoWtZ4LsARdz1Bfe1O5hbuh8V5cpFaJ3pSOfelyFbu_v4OoSuIsnNfDtAGnPxrv7llya5FoKZw12DLmzHmhWum8MKZJjuvQ",
         "width": 3032
       },
       {
@@ -12223,7 +12155,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/101914927410313536501\">Mika&#39;ele Keni&#39;</a>"
         ],
-        "photo_reference": "AUacShjiyHPtm9X1y7U7kmYNGwLAN--_ygH_soawYMo4zum-ofXfMvx6sYpyWetQNvFX7Mw_W12qV0MqDHluD7oxUa41CjPHx9nhyM_LhLmsByOda2V4EdkNlhDis-5oy19JSLY50IMztoSez7iScgnx-WRXUaAbrueDfu75F81WrnCaV9gL",
+        "photo_reference": "AUacShiKR-dMEPlpmmAah83dCDP-OQ4jyKmjG8wIPhikT28NpDP-6gOtX__-M_zENecnVGX9d8Qonb58mwhksPtTTrRr42IlXATHjLWtra6o4LL0tGBfAcTDlE0GQaj7tdjJu2FIj2TJFAQ0Ft3vRtbdz2kc3glELZDqMFng3LtI6qacYU3r",
         "width": 4032
       }
     ],
@@ -12231,8 +12163,7 @@
     "website": "https://creativityexplored.org/",
     "wheelchair_accessible_entrance": true,
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJETb4uxh-j4ARfgbt8jno8H8",
-    "date_retrieved": "2023-08-15T00:05:58.027Z",
-    "placeId": "ChIJETb4uxh-j4ARfgbt8jno8H8"
+    "date_retrieved": "2023-08-14T22:57:22.795Z"
   },
   {
     "address_components": [
@@ -12318,7 +12249,7 @@
     },
     "name": "Hozhoni Art Gallery and Studios",
     "opening_hours": {
-      "open_now": false,
+      "open_now": true,
       "periods": [
         {
           "close": {
@@ -12387,7 +12318,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/107200078020352728755\">Hozhoni Art Gallery and Studios</a>"
         ],
-        "photo_reference": "AUacShhRq3JAyQlfgdKZRckZA3fzVmyVpRBYrIOc7PsWrL8W_IA9M3MLTcLI3M5Y__DyCDEJGrJxGe0umhJj9_apctLRxjoK2DP2DBQ9YuX3SX17qpUBQsz70nma2ZKz9hutOfPEvR8aYzb5V8yn9b44zK1KIt4Aj-M5o0qzzyBvOOQNZIaa",
+        "photo_reference": "AUacShgooKfw0Fv8rFfV4Cjij5ybEAxil3LcA0_M1FYJmP2v11gRg6i6OoEaY0wVvDf_bS7a_7ksX55ex1RXzoiGW5NhdikQsR0c9xmHj2a8HIhgi8MOF-DIsb9ETuc4qpzR0222JOvLo7NCCN0JGsYrQJtulhb4qYr-ExffsfIcZU_lA8yJ",
         "width": 4032
       },
       {
@@ -12395,7 +12326,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/107200078020352728755\">Hozhoni Art Gallery and Studios</a>"
         ],
-        "photo_reference": "AUacShh9z4DGoLk6ErEmLRPHtdssBM_pnZxUQrEzDDOJTWRoKp5v1JKhJ_aexXnMzrMzLmQ-7NSVgASaWAzJKXBjLddw_odVP17-LvFxDzPdeQbTcOI33BcePebeh_7gTGnFCpBbClWbGAIeFD4ATm6iagUVVS1qXaWAyUI9q3V9lrpCor7c",
+        "photo_reference": "AUacShjAuPbioMXMpzoYE6dEeF54x_qLQ7zhDLcG7i64mOsiU6yJQqCSQ1IOBKSxbBkj2dVMLFMlB7B3_TN5sLaKfHuasjbTcY-BOKenPONbDVvwzOL5_z2q5NXKjlHxMl0CyW9bxkJ4C1bMT6ErgNX9P-E596lwtZMph9D7xfu_-LY7RAqk",
         "width": 4032
       },
       {
@@ -12403,7 +12334,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/110536380014917910368\">Gallery Attendant</a>"
         ],
-        "photo_reference": "AUacShhCPAljjOuSmSy-Wnk1tlIxcuh-oHkQfx0i_2XtkBrQaPJJjqPiNeW-jrRUn3IKQQDANWUmCd3RUO49Y22jGJ6GSzYQTXKFDwvNr89ZBq_0YXMrWwnG2Es9axx8XPYsejxVKrjdirCRdoEmZqt4iiz3IhlYdykI_gSCfNac6SaMymIt",
+        "photo_reference": "AUacShiEPpxPr4p_-UjmlmZBDpZhuqNAglqk1k-6EfmBBZ1bYaLtKYvK5wAWo3KgGAEnGmEmSxpkAbPf5Sqz1JUVfHHp8KK_nAbMu8qGKeR6o_QBSHmoF7to7K2DQOoNHLhuBTBnJNuv3uGGojdci1G-aKO3uNaP1sLbh0t2aEm_G24FdqwU",
         "width": 1020
       },
       {
@@ -12411,7 +12342,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/107200078020352728755\">Hozhoni Art Gallery and Studios</a>"
         ],
-        "photo_reference": "AUacShg1cdAjJe5PkkcTIPj0cZh69aLxuEr_iRPsduRPu4ywTpZZLZp3yFC4yLPwdckXQvJGy9NU64b0NIKaHXLhVq3wR8UcDH6_rz1lgwl1GfB-gybanSUZ-CdF6ZjVbDNFxvBtWZwmKrsUM19CzCQYCaejBHGPzjqACs5J4VcTbd5jDtOc",
+        "photo_reference": "AUacShh_lf5X4yeuoacq9u8L0fp2HJq2qKfMP4moxvIHaJ6VIe8X8d-wkiBt4GB3HtzF707_Py7799gV5GjGfBomYT3My7g1q4OQ6CrewPrCjXqaKVnLAXgNNBoduwQHBbBJS0vP52dH-ti_PaP_Rk2B6_bMxzMB4mV0W-S7UdQEWvqS2hsO",
         "width": 1440
       },
       {
@@ -12419,14 +12350,13 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/107200078020352728755\">Hozhoni Art Gallery and Studios</a>"
         ],
-        "photo_reference": "AUacShj1sQynWYfKt2TKdtnxabC-Iuq8jT7bVi47v88cMTkyWlx6AifIPdevUzGIut0_aFU4K3YeB66dYSzkKJOYwEen2VNiF05unLKPnaJRsdefkSPq7UbWFWuR-IzHTIvvNKrcWTQt8IBd8kWiLHusEcJBs_JqqEMoEBLws_f3zSxtSPSV",
+        "photo_reference": "AUacShitb8EQAuLyrF_p3tfJ6dXiNHxdKTu_ZjyfBKgNRxUndUctn0agnP6666HEULTC_2Wz8AfBoYfFSiEC2-6_afmtrv5jHW5LfYpBskWt8GVp-Ug_jds0Pe9p9SjdN-BxrFDVDsHVKCZ0OEXIRdMANjk2tPUVClmG5ORaoMaXxtYL9uqQ",
         "width": 1020
       }
     ],
     "website": "https://www.hozhoni.com/services/art-gallery-studio/",
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ08mtWMOOLYcRfaSEPuMGVjo",
-    "date_retrieved": "2023-08-15T00:05:58.126Z",
-    "placeId": "ChIJ08mtWMOOLYcRfaSEPuMGVjo"
+    "date_retrieved": "2023-08-14T22:57:22.904Z"
   },
   {
     "address_components": [
@@ -12589,7 +12519,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/116325087252084431267\">Hope Community Resources - Lesko Discovery Center</a>"
         ],
-        "photo_reference": "AUacShiYjGQ0DyFRkYhFWxWWrsCo8r_bdq_1ELC-HJDpkRaqWXjHEARaYukKDmj0AgQW19sRvXtx9OM3943KUmvHrT_ySJQbbkP5WwvGqniAGB6K1SddRVkapVubc0ISyJA4zbWhQXP61TcU5sXWyuMjaurdnV_zTpWvMxHsmtkimB90wsqA",
+        "photo_reference": "AUacShiNVT1wscP4RvuRf0suxrcVH24Xpmnx9y_3qoTaSQ03QXRyetwUdz-wdqcSg4Gdd6JQFCHRfLHRcyD2ceJpiVEGeUr1F-GiWN8jPiKKUDfkPuetMZfEVGA9k6FhfGYMydgWjfuyrGmAD1EBYqL-eL1dVF0kgZbv3fOTUqikBHuOGCGd",
         "width": 900
       },
       {
@@ -12597,7 +12527,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/116325087252084431267\">Hope Community Resources - Lesko Discovery Center</a>"
         ],
-        "photo_reference": "AUacShhWpHHvrTyG8UUSEjbqYowGDRHYmX7iMKUYAdOmFuTMvULj-JNc7Vx4HmCJ5qt_04AetJmWVvGaUlJRw3QUUqYwlc_AElYGvADoGVNk0vt_vUeu4zYuszXRxaTr5UYhnPZwImHcjez2Y1HuJZyh3-b4c8tAAmIVt4ur7hkaCiZIF1ke",
+        "photo_reference": "AUacShjFllyL637RI7gy6EK5nXiqbOV_hqgVl2sAOboJIv_ANCoeD8X45QNH1TTUvGWfvKq2gUDAwjPtfqN29hQfmdWoFJxP7GZMsIseo3HjQBePBmvdIECtweVo2A92pD4phFwfBzb3Dgc8ECEvLIALcIa4gG2v0m3BFpPzv77rk2PtE7LJ",
         "width": 540
       },
       {
@@ -12605,7 +12535,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/116325087252084431267\">Hope Community Resources - Lesko Discovery Center</a>"
         ],
-        "photo_reference": "AUacShj1yhFzkccuUCuAfGnemFkxdoMt5PrY7_-L7aCbGCRI55EYXz2-43J_2E4qMqmPO0QQBFVcwDZkSPc6SCX4shhqvBDQtB4_l7PzBzzXLo0Sc03grXZC53XdtGKUyuCW6-5vY6x9k2iO26nzTpEmPP9fWd-oYfusl8i6YzEreqxNYXoM",
+        "photo_reference": "AUacShhR9RkI5VWlzOyKIddVUq0vVeCyelYzdDG4EDU_75B4k85FQkecwVMtXWytpwsmq_eTK3xeStvtmB2ALyfYogu4DOML9dvkiQlRXxNvw9vTx_NlABkvm-VQ_xIH3sRcpdYPnNp5kQm39ahQ9iKm1Quk9jAIO1G-wQeFakVEfXdaKFZJ",
         "width": 2147
       }
     ],
@@ -12613,8 +12543,7 @@
     "website": "https://www.hopealaska.org/community-engagement-center",
     "wheelchair_accessible_entrance": true,
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJLe_kk5KXyFYR_Dx6zCvXHmY",
-    "date_retrieved": "2023-08-15T00:05:58.252Z",
-    "placeId": "ChIJLe_kk5KXyFYR_Dx6zCvXHmY"
+    "date_retrieved": "2023-08-14T22:57:23.029Z"
   },
   {
     "address_components": [
@@ -12701,7 +12630,7 @@
     },
     "name": "Hope Studios",
     "opening_hours": {
-      "open_now": false,
+      "open_now": true,
       "periods": [
         {
           "close": {
@@ -12770,7 +12699,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/101816810726149715531\">Severin Bunse</a>"
         ],
-        "photo_reference": "AUacShgFXdqXwcyM6T4kgfZFZJVeZH-XN0whXepfE9GAMb6zM4LsAuDUYekcOUz_RkPnUauCVRalcsYFFXzxUfYJRIoFSimADZ_Dz84oJnO8-mwLP0KhhXmVsmiz8SCk-JxR4Gd1kZW-0IESwYf_5EBr71dd53n8wloEsootBuz4hMGsCxwY",
+        "photo_reference": "AUacShhxI95AK2uXpBprB06c2viMVUSPDAjmOga285xMSCJfxyA4VdWPG4z3HWkSiEY5Km1eG_Ytio7yI3hpCC9gF15Lh5hawLmRxxTzRoT4oOpFwPA-xrY7gBLu0Tlq-E6epo0n78U1DWLVA_40Dk8WRfQc23XUhERc8Zl0beq-EK7HDkd_",
         "width": 1536
       },
       {
@@ -12778,7 +12707,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/101816810726149715531\">Severin Bunse</a>"
         ],
-        "photo_reference": "AUacShiL5P08wWLsy1x27d21sRc053bFJdIyETaTYpK0wqEQOsC6caylsvjWIMagC4D4fpegvE8ygguUVfepPrsqk0EVu1Wy1-1Wo1P5ktKwHisUtYPWGAJrUqGY7qsadFrKto6br5pCjwls9Ds-D-0jQD-fU-eI13Zce0-M2ahcgNkqfkg_",
+        "photo_reference": "AUacShh1JKgRUepcMOvPIMmv2iVMWcPrRWhXAplvmcqc1KWMcg9iRkB8JD0LvN9W7z4IQRym7OCjuUCM9woQjEnAE9snrw9g97QxHv5PtYWQsojIRWwzKaA2t8bKEA2UDfVEFL69J23UHqCTs7k5vLsXHKHvBROq2sWQ9N8ndU3nRpIA_f3B",
         "width": 623
       },
       {
@@ -12786,15 +12715,14 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/101816810726149715531\">Severin Bunse</a>"
         ],
-        "photo_reference": "AUacShiRHqQKNDp57MbjYxxfN4KUx-xQTYq2HYONzmvtScUaGd4YnlFDNgWBkzTFKk63TCeiz7CJevqHLf5zJyF2zrOC6AuJtzRV4T0I7GW4iKSsy4Evechmzg2-xVH5r4jOvLB1yIaGnokmybn8s0feUDfAQUR4vXzVe-dozcE4HUTGqlv0",
+        "photo_reference": "AUacShjUXgKdSdNW6ddzh3O9RM84Nj0fPMoUbBrciImY---y4aZnKUdM-kAB1eVA9GKN3_U2mY--7lZX9mqZVt7VFUDk7p3-PTZkhyf6VGFBKZlMxOHLefl0cc3X0hashwF93xwdXOZcXhi1jfLBirkdriN5HmGBMrnkXGO-I1wzM5qMedGw",
         "width": 2048
       }
     ],
     "website": "http://www.hopealaska.org/",
     "wheelchair_accessible_entrance": true,
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJkbK4e1CXyFYRNga9uICL4zY",
-    "date_retrieved": "2023-08-15T00:05:58.383Z",
-    "placeId": "ChIJkbK4e1CXyFYRNga9uICL4zY"
+    "date_retrieved": "2023-08-14T22:57:23.224Z"
   },
   {
     "address_components": [
@@ -12957,7 +12885,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/104775950820350122394\">vernon t. ollenberger</a>"
         ],
-        "photo_reference": "AUacShjN13Z6Q7TdV5zNv0AXjf34BzeVnWkItZbTtIEl2ll4miEUNJz6KpNPx1i-q7H1RqqdAsn9AVO1HReNUrrHMskJN5ycJLjlDWqWmIDYO6rJ3d4l2PuhE4Iq30hC6m_QEd5wuvLQYVi6RDwwEP_I8pkq9Z4YhnnY1hbvOu6OWNjZxWUA",
+        "photo_reference": "AUacShhYibE5J60XWsPGPLXvNHHWHIWHL2X0bWNLvjdALX4QeW-Xf2oMVe5oCr4wx5zQZUdGtplvceglsbqNGWQGFXrK4sxo4pdj185edqm6DJpEsZjxbi1Xa8R12asRe-Zgm0rwIHHMJmQ34gsEb1klazmnjYZvqEK7iyjvf0Ex67knkXH1",
         "width": 4032
       },
       {
@@ -12965,7 +12893,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/104775950820350122394\">vernon t. ollenberger</a>"
         ],
-        "photo_reference": "AUacShgAwO2TlSbheXSn_EtFrEBUdCZyVTc7p6tckVBUCaRiaD3wMYsd7eU6CIxIoW2d0Zk9CPiwMAHnTn3XrMJ2bvi6gyvnf0_XMowyVeMeY3t2P8ReanAfsXfe9-B74Wixg3sj-Lr3ejiqey1fQ2lU2kxOIXVkNliR9GD4kinDmmbSAhWo",
+        "photo_reference": "AUacShjFHhsfYT2XA6Ra6Eq36jm63_NpP4qKOQW0oghdS8fRGuxBPm6xYhqTN5cBOoF75-9xs-hb1VSy8mC_tfZ_vH-1Nq4pa9cffYuhe8OZjXDe2OShPc_CWkDyS7Tc0Fpt0BGzqXqoKxwLRmERvtE7Vw1wc6V4-HhZIOFx2ZSxPWFQpm8N",
         "width": 4032
       },
       {
@@ -12973,7 +12901,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/101650331441285878014\">Heather Warden</a>"
         ],
-        "photo_reference": "AUacShgj2sRKKJY25YEP7UnBMGaiciSMcJNc6H134bUGbhyu1C6VMqdjsqAfd-davT6AUZehyOoj-JJj-URhH4SgPKFIO-a4jb7goeN7M0Fie2m6hbSC5EvRCRC-x3Ir7rqeto7EGzFETBGFaZsKtMAHm6bT-5RgMZ_oxJeurD0WIP0fon52",
+        "photo_reference": "AUacShiiwAKCH2jnhOJ2sHIrAMNr4qFrDmA-GeyAbTF2v8_EwltLljVt9ICpzOTuPEXKm-IcEMwFSR3bsOQYWL89iW0TE5cnevvcEJruaQCRgHvPL2Rg6wXrSFgTo8xcieSA3ZfY-fq542XXdIgfxd8Umt8ubmIMG3l0KpxdJZwXGBtK45iG",
         "width": 3120
       },
       {
@@ -12981,7 +12909,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/104775950820350122394\">vernon t. ollenberger</a>"
         ],
-        "photo_reference": "AUacShjDRXAqyEIey6nRpi103nP6zW9Oz6eg_h9vewpcsD87JNnG3IhScK54UlOMrdlyAFQ3qTuhKvvRIlKnnL0BE_YbdL9ZpKZReu4Wj9PjocYmf4_Y2iLTuXUfg2286X7Q-nnaM7z2eVHdKXdl0RJjB34lH3xWfCQtruOe387Fgjzau_jy",
+        "photo_reference": "AUacShgGPPTBDFHc7Dw7Evv81nvhQz_qmHEleIGR5LBprfDZBLV8saqhyCUD4tjrWLcKSbZXPaZiaiPq1o_Bp2hr6K5_pcB4r9aP3KZKp_0aE0A27YjUgDZFis3_Dn9KtjYnsaGNJ5Cy7QINCS3cojrhvQjEfquoK11-fBat2396zld_9hd9",
         "width": 3024
       },
       {
@@ -12989,7 +12917,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/104775950820350122394\">vernon t. ollenberger</a>"
         ],
-        "photo_reference": "AUacShg22dyF1cDj6ScY6sAUEv64-epSAal3X3iwf6kREUTPI9T0xxLpQuYWEr4SROQHZ6oDLQLHLyJRkmsul-I1mZUA9fQlm91DgPweW2srisxw5bJ0Hu_ec4C7NrMrQ6_EwOOEbrMCMksESqRzTEvHIoNgJCGhOsFpuhhMnhj7qQAKZ6M-",
+        "photo_reference": "AUacShh_xh6DVPePjP7Hu-x7DGVJWUUEXXlUmYBd24Sl3Geo8sHRAg7Cg19RSaD-Fr4hLre6I0FCPhK5RPqPh7O25AFLU7aVJrsLw1G8T2T61T1tnoDDckl3vw-BtcbfLN1cYD0OKp6XgYoW5zZCg-d1NTqxHA9NtLbh7gbf3B9dA-cm6yqB",
         "width": 4032
       },
       {
@@ -12997,7 +12925,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/104775950820350122394\">vernon t. ollenberger</a>"
         ],
-        "photo_reference": "AUacShgx7ugr8vJrORYZsmMa2tUHvPs0v_8S_CPOK5b7qm3nXMzzOASwvCEjGc0vLMTwey-pyGA9tqdP371qP7CK8rD1rrOITL8ravdG12RC-NE4PvSQc9J3V6O9cmWbDR8esV2FmWxxMO-UYwJjDa1pW1fJqYItK4ULoRLeSiaouYRA42Ko",
+        "photo_reference": "AUacShjyyqVqSdilMYs-gOnDfda7DxC2HFl5MhpxHpnF1mhWWnL0B0SzqvzCF_8jW1U3T5ENTeOtefJgIA6qvibk5piIT33WMVaM6tzSoU3EK2TIXdOGmkDKwJRp9NyYJ-gwB_mQNgnwLGB-rql5Ok6EUfzBW03O9wp2OaJXoLdrC74mkGg2",
         "width": 3024
       },
       {
@@ -13005,7 +12933,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/104775950820350122394\">vernon t. ollenberger</a>"
         ],
-        "photo_reference": "AUacShjIMkgBjRAilPA0e9_sM6EWywXPhpcBHKfstIPiTakBWRtohi__BaZvzu0oSG9YsJxP8_Xn3_b159nwBvkuVCNrA53UX3gaFzFebaTnxnfa3XQdqFft4zxhSd_XsaR6-13G1mOey_TE_NOf1HFnQyUoYtbOw7HtjD9hcsPvUwIMQMIg",
+        "photo_reference": "AUacShiqb8AhPyMgDoR0q9JhdPb6eM0RR_gneV0iSYPu7HZ38zs-52nKkkZYr_fQdHZfAAyQkKy5RD1jcAbjeZ0pYBBSgs9Wp58oQVmSMZPMz1_3rPQRbzdBjFrBClZpX4IRrRdjEbdBiKYggsVb6nApUF91vvpibrMg0BNptARh_BzVxpd-",
         "width": 4032
       },
       {
@@ -13013,7 +12941,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/104775950820350122394\">vernon t. ollenberger</a>"
         ],
-        "photo_reference": "AUacShi6xpff_zcPW-dXy0BVppXF9NM45rtsBpmwIHRah2j5T8ohrTQrKC0dGN0WbIckpwk-Gj8-pOcbLzqujvGlUR30l0WMpgtQ7DcugiRvZKF-JPp2EsRJXhZ36Eb9Yrx9hN6BaDfUzZcvKqcVrN2rc1AqtWVP7-FNaS7IXXCprfYr5Zr_",
+        "photo_reference": "AUacShi8PGqxhtbm7bHc3mA95EZpgNOiBWpvz_ZxWE3h0AUuuZumlJVtHBwSg2Ch8Mgyz4PuMHcuWhIqgbfXG3LyJLYjskXOePMi86OEYR9Dxt6jHWuQTCUodLdtJjD83N1relw-8HuWvxCY-ZRUxvPLL1bx3Q89YoidfLDi-0BUHDOPRMV0",
         "width": 3024
       },
       {
@@ -13021,7 +12949,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/104775950820350122394\">vernon t. ollenberger</a>"
         ],
-        "photo_reference": "AUacShjUTBYUqD3RPfc2Nl3lInQFIA9qdTW4ldSqGHdkKhuuHZsSWSgSFjLhr052skTB2-tnYhE5ueWhblwiClbrutQaTxPjQW2-c0vZBcOGceMJvEjbY1EBsM3mMA-4NeD8Km78-uKIMQSoVdcV90-u1WdtOP-DLRtvoH0y2iD9A8gjMx7b",
+        "photo_reference": "AUacShheyI3305ll_xw59yHfMp99HBC7H8NfLtHxciQ_1d-hTc2YW7-iWxnGCOtGmlOxg6E5rSDD4qzVTHzdzzoQQEnz8df5-_-P-MuFGmD5Gg-NIVOUX4eSIRBiCZl49-mf3bSmLiKuPyztwD40glzSWTsddSsNozQEgWzcmL_SgOLTvCsz",
         "width": 3024
       },
       {
@@ -13029,7 +12957,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/101650331441285878014\">Heather Warden</a>"
         ],
-        "photo_reference": "AUacShipivdhwFGiLhxMJD_UjgtIa8fMO2HHIp3dE19f3kjJpg_LbS5aLNUjTvIXbfwTNCQmoJqFWd5R0GMFLKPWAHd8-A3Z176rCZ5Cmpye8VooLRHJBHjn4FtGN_VQ5YdqXj3XqQsvF7Z6317ZKVtNs5ax-cJuhoZi3EKk6CC6CnMrHdkm",
+        "photo_reference": "AUacShibWAo5MvHjI8z0xdF5A_YOtgUfl1QmfwNjN0eWZ0Wak4YBLgTyxCbrVQzae9a5n1STlnvbif8PT7slKFM-oRqopVfohffocq2lX7Ah8dufa9CDAla1ZzKXupZp6x9SKOZHCkmXZps-DjQ3OB_dc426EXkLdj1F8AltVw0OD6Px70mO",
         "width": 2706
       }
     ],
@@ -13037,8 +12965,7 @@
     "website": "https://reachak.org/",
     "wheelchair_accessible_entrance": true,
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJs659QoPfAFQRqJXihX_yp9o",
-    "date_retrieved": "2023-08-15T00:05:58.492Z",
-    "placeId": "ChIJs659QoPfAFQRqJXihX_yp9o"
+    "date_retrieved": "2023-08-14T22:57:23.348Z"
   },
   {
     "address_components": [
@@ -13132,7 +13059,7 @@
     },
     "name": "NIAD Art Center",
     "opening_hours": {
-      "open_now": false,
+      "open_now": true,
       "periods": [
         {
           "close": {
@@ -13211,7 +13138,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/118120278060187372730\">K. T.</a>"
         ],
-        "photo_reference": "AUacShhCcsQrxGTrRn4NFov1AwgjtB8_dCkh9f6cQaDzenBA6TFDcpscjEGa-MP_Wtqr8BPnW1SF2rGFpbnArSVHFH__3UlRGFRdiuZ-8nuPvFwAJpuM2_LNkKqXmgNrKRBec3a6X0g-PuRdePm8vkiW_gU_8Z1Nqx2W5RAIzVD_Rwd6sEMv",
+        "photo_reference": "AUacShgnnB76jDwFiluX3x2otasKYQ0jLcebZ-6SarG9RGiHWOCyguVnx9RQ9qidEW5N2SU-6jYQPdt-KX9OhXvepy23BZt9_Ph02qwH0cFjyjaQlxnGI1Ae4paHdHgqwKPZb0J4vOSDez6jpRo3vR8j8yyc-J27WOwdnrB8rTCOeYXNfY3b",
         "width": 3024
       },
       {
@@ -13219,7 +13146,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/118120278060187372730\">K. T.</a>"
         ],
-        "photo_reference": "AUacShgHktOxHQnHEYIXvvd0Mrb2X41NOjBoaM-5AJz_YIrZCSO0slxJl7wB2zCf6IY21GzV0SiXn-NVKy1xjPxlAfapNsqyo9fdbz1-MXV6MC4EI9dmJakqU6uIVbyTghyVBNiG-sMyM0Xj3QlnKP7hGfWL-TcKvQ99wj6RCWhmEGiLUA-G",
+        "photo_reference": "AUacShikiaLlTEL1IKhmYeHTEfW0HrzNpzFfdtmnkLgFYMsS-HsPAtjtxwmuLjmGdpJzP2DFRLnPJehLruYMzETgBY1Nm8c23_6yhQIqzHf99KQzDN9TIOn8tSks1eFgLjIFSaE4-dcLRol9OVXePAE5u1d0O3rVCWYq1B24QLfdNmcr65Ve",
         "width": 4032
       },
       {
@@ -13227,7 +13154,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/114092517194559757265\">Chrissie Bradley</a>"
         ],
-        "photo_reference": "AUacShjBdC55-MuuPCE4iEeMnUTA9qEZgJYRKOaiJufrRCpNawFkLgqEHRsIUuO44HAUiELXBzuDXnjsJee9cu0BfJtXphL3koAJCQeUeczegAznvD5wZD2efqrAl3ZiDov7x2CuClfhC05VUccJMMwtN-ruXx8GkYb4dq0kn7QAGEWXMt8I",
+        "photo_reference": "AUacShjTZVUewGf_8fKvmaCj3b2Uhb2S_SKdABe-VQKtdHKDr9xMgCBguawW0GSN_yJNEnMKokYGKilwtfBZA_kBocjePX9eYvNhFUw9LVkKxLQLaPH8-elitk4Me1RmFpsmI29apXy0jq3cM9v-LezH6d9XJ4XysLBAb94lqX5AF295sHit",
         "width": 4288
       },
       {
@@ -13235,7 +13162,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/118120278060187372730\">K. T.</a>"
         ],
-        "photo_reference": "AUacShjGLUKAlWUTuEUjK8n8nYN5McgYsZKHmGhQ7A_67wPqrbqyYE_rw2WOlAqQnbi_QJ-ely_VLL2WuyvISEzdgNHJ377_Zjah5AVdyY5r1v0qB1nFQqtQ07Jpr4mYlabj7Qs-Dz6TZPF1GqrX2AOqFL1Coc6K18qp10mpvC4akYR1thxv",
+        "photo_reference": "AUacShjJlCmGyJQq9TguFbiOT2wtZDNYUZFYyxcYU2Dvch29ppE2dz_PdjMkbKQ1vD2PK9Sv4UWb_MEoJWuxZpyDklXEA-jhL_W81rbzibEm4WnrlZTlp4z3dvAFzkpPAkTz95wMNt-OZxCr3GCK5rDGc78oFbOvPbZukcxs-P0vMZVTQ6mX",
         "width": 3024
       },
       {
@@ -13243,7 +13170,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/114092517194559757265\">Chrissie Bradley</a>"
         ],
-        "photo_reference": "AUacShjO66xrgzAKtDkgct8WDxadxC9wL729oR9diTMKC5aFPca4AHHvNhTgvdezdXSP2N0fZDqsVX1ySlzkGMCTl95yUIwiqKQXsLX6Kt8_YDDsXeSSNR9cWXKMqmiNI_81fHrigWO1ME-E2N_4AIN1Hk8qWowqc_J_0aaDgNqRE2mkRPF7",
+        "photo_reference": "AUacShj0GNP39isOy6JZRXDhyBzqdNWvo8gluzWK0gYu0bJQsj0AhWcWdvOhwhubvagYGnOucKtUb0_JDMYSaHKjwAgSZJ2gBOSMFapfgu9KwCluEXL_xqNr7u_kh202iG7nEa4tXmKtx7uWZkQZ5pbdU7ct1pfaS3DloQkG_Zy_kWcCLmda",
         "width": 1792
       },
       {
@@ -13251,7 +13178,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/114092517194559757265\">Chrissie Bradley</a>"
         ],
-        "photo_reference": "AUacShjW_hk4on_DiZhedo1ehqy9-FA0Tn1NHnUNUCnhW86fzI9cD-hdEzBtMjlAvPVCAjZH8BKYmldEkU9thkelnCX3yB6d-_djFmXhxj2SEHi3EKCSXl3M_4DEo8RPtnFMnGvREPtrAuJAbsUAl-NhjObgOEUcfptLW2xa3hktnterBc1B",
+        "photo_reference": "AUacShjdUXRmR8Xz-m2h7XjpD0W0RARrzpjbADu1onUhglVEHQuA3C8NyNHWVin7A1FJkcnBI0Eag6aQG2Dhig52RkQAiGpYTj2QYajI_CD5DgKwx6fKGjIZo7OI9cn7npNf5GVGSChUoiazluB6O9Lkx3-TskvyO3lY2fAYB16NBK_7c2E_",
         "width": 800
       },
       {
@@ -13259,7 +13186,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/105522336844853963960\">Danny Thach</a>"
         ],
-        "photo_reference": "AUacShj19h7DA-uFoZaO8EHWmzyiwbUlsB4_uix3m_0_lBjTXYGOpp2Y3cIGz7kFKwLJZ_-YJAaeoddPsaN4Q8LZWJqVD6nwon7XOJx5WtyCvhhU6sTr5EDWUg1-pK2ZIrpB1bAlo7mZxWY7IhFzBmrcQrfM4mxb8QZCHcncmT7_D-Ykjf17",
+        "photo_reference": "AUacShjUNHCX9kIBijHuAB3tfUvazuMK9qDmwcD3NYpzdCMxMjN-pHwznPYPvYORw1z2QakDydMzMGldon0Ab8ojLND85m6ISAnkkuI7w9H3i9nlDZpeSbLv9f4Kd-7U-AFlO-Sl8ipoyAX_JsGGZFIV9OD9xkwqFdHMzJnN--ho6Xb8_Ao2",
         "width": 1536
       },
       {
@@ -13267,7 +13194,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/117677768107730774179\">Danny Thach</a>"
         ],
-        "photo_reference": "AUacShgzZlFXcl7B2yBcGqhNaK0mXE5RGsYZfFcukkIX0Q5R0r7KXLjci7Nt7ouXJHBcPQuF-AIbMoLyMtpJcunvF6mkCScjhH72fnAPES390zpLavTaFlr3LfoZvIGK6ffqr-1CBds0qWjCxnFH6vZLAkox_ddFZh_5iKwuaebUHViI-szf",
+        "photo_reference": "AUacShhL3gzJp9ubbswzKBjWYqep_xqZkfvuCYrxctJSO7wPBPUIvKmGSoaRkyuQKtPUzPwUglhRA2Ce5Jp4LGTZzr5hDMWjXq4IQcabKjiQ-ZxTMwLP-Oleh4rqPCnNBO0LFR6aDdDUKnlsVCKUpgfcB4UETZVtxnAsaYOn1cOJzBhwp5fA",
         "width": 2560
       },
       {
@@ -13275,7 +13202,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/105522336844853963960\">Danny Thach</a>"
         ],
-        "photo_reference": "AUacShgCLRWQvDQFPVT_GDaNn1QOLNAOQMJ3pn5VPNccPWdycdY38zBARM--ZRraKWHmA7L5N67NCSR8kfwFLhZl0BYPqvZ6qKmZa3Cgn49KepUZfGWBlnz9PPUZYjT-xNVRgnDfUDb3UvpLVi34OqLdXYDOmjZkCjZUQel7IsBEl4_wbeBJ",
+        "photo_reference": "AUacShgLsCxkCg9qii5bWImiq_VNfq8OLRMT1uXwVBwjm8VrdOIe6vvO9MwnCQegi0c_zS9bPtu6NXNaj1ynEFwICjUniP-Fny98Ju9da7DArB000sOd6KZTM-i99bdT_PEtbYUGvZ8dOi6l52KNg48TRpEDxyzbxaVtVl9B6wAt2GEksatG",
         "width": 1536
       },
       {
@@ -13283,7 +13210,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/105522336844853963960\">Danny Thach</a>"
         ],
-        "photo_reference": "AUacShhVUOYCdZPqB_AgWBMwXSu7YcfJM6UKFv--V78127X_6_35u9nn4EfwaT7otcAvQflOtr-FnMyRS3zKcmrrf5H2d3k5sbeVlMRp2c2oObLCyuBhlc_qy9f7kBMmpI9Og4WFEpqtFXcobI7RkgpM8woMSNpkALlBKI7iddakdG4cicPo",
+        "photo_reference": "AUacShhwhisGf3iO4u4aFrwrBrmOZkGyjG-oHG-geKTs3kAMLSeCdIDVLA64yi4X8dXeyCt5b8r4MZgQLG2duQEoX9Kpo_TtMhFiS_wb2IPdTxE8zGZ1i-oRL_bi-Z1CtLmGzNrEvxUaniCms0WGNuGTwguDwskup6YOcMvhEZ4Hpgwl6Cl4",
         "width": 1536
       }
     ],
@@ -13291,8 +13218,7 @@
     "website": "http://www.niadart.org/",
     "wheelchair_accessible_entrance": true,
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJDfLoVAR4hYARONrCv_bvnfo",
-    "date_retrieved": "2023-08-15T00:05:58.612Z",
-    "placeId": "ChIJDfLoVAR4hYARONrCv_bvnfo"
+    "date_retrieved": "2023-08-14T22:57:23.462Z"
   },
   {
     "address_components": [
@@ -13440,7 +13366,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/109137120136082309157\">Alfred Brock</a>"
         ],
-        "photo_reference": "AUacShg-EsAeYi63yC0Ce7Rp7c85uXw7PA0e68hGZ3pU4Ff4mtPw__5U5CST_gaEbEaiuaKrhlpp7n914ZxiRZP4Z3vg8fpilkT05xW_OoajEVWb-OZOxdtmZZM7DDwYuLKdldVewsTeNbMxbpzb47YIPVXOWCmTA_5Cc0mNunFLpAZBHbLw",
+        "photo_reference": "AUacShg53bf5Dj6haMS2RoDb8Xt-lW60cUHACSuN5SGVl6m9C4z-GF7h1_i6v7ZaFRDNQnHjA_4a7DROUS1ZlrztG-SnIO2uT8yfsj5GV6AMGZEIeMIFIiSek0VeC-izCruqnM3bw_9SD0qKPEeBMKK3Xc_vCF78AoG0pQy6JLTa480h1THA",
         "width": 3195
       },
       {
@@ -13448,7 +13374,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/109137120136082309157\">Alfred Brock</a>"
         ],
-        "photo_reference": "AUacShg3kQ9yiCy7RAqyS_zSQonrqdr_ls0eFcPtWuZZNXxWPhDQF0m8iLikHRWgND4P4XjQ1fLdkchYio_sZ9ksZ4Wo_y2-fd3DDwbn8pqcQVqHGwPiMZaHsgD4EWwm9JtJRcAapi0ilBUoaDQA23v6FQtiQi-_QuvhaWvOHAFVVoZ3I8Gd",
+        "photo_reference": "AUacShjl-y8EICtOyxpvUZdP-ZHC3GHDe3v8QhToDHeMcMi-zjfrfYYhfMnxL82vwUyEEQVBYwtA02DPrM-PGDTFMSCRov1za7PchdnAv6TlKfQLx_RAnThPoJw4lRecFBUp5WUdZgpPVVIlewk6XyUdwTfk_d1n6EFLPjjL5F-I_YYRkNxk",
         "width": 3049
       },
       {
@@ -13456,7 +13382,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/109137120136082309157\">Alfred Brock</a>"
         ],
-        "photo_reference": "AUacShhyjK-JN8nnjhW6SoaCVvOzkUCPHSSgbXxTeUipiKFZbXmGHugTRRldDkA2xktCSPzL8ANVypDXDbyWvk4YA3sLSKIxmSEDrbqHmb2ZzTj72h36dWpV4tsa8arHB7ZjWWs7VBX2Ce5vRB9pMRU1U2aJyzq1oCBCfFsIP29JOgRM9hnB",
+        "photo_reference": "AUacShi0bI7heoKrJnRdA6QWAJ45oStQUKA5KwbKQVxr3gBekFAoDxXu1DgF52KIHzjBTZ-A_mV5Vff6NYvl-fzkzdX5ot5EVD2t_kP8uEvYFgiBzRq7WjwHeWqpEUqnBxc7-gGFYx782KNnozoTRgpF3-rXvTyYY8ooCYgWk-E4-mzJvISE",
         "width": 3264
       },
       {
@@ -13464,7 +13390,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/109137120136082309157\">Alfred Brock</a>"
         ],
-        "photo_reference": "AUacShiqpVUjS7ZVVNMHu-x4taMFr6QSqvSBdmN6eyP8GjYWtj2Ea0W0CKa_OYLK1Q5VYfj5RCCQ_jcTFQwhM0BrpQd8L9_VPgoShClco8Xo1j0sNaJSeYrG5Wcv7mW_ndzwUhpQjDqandXc9D4S2gYZ4gbyiC9G2ntaNUk10Rc9RBITxXQI",
+        "photo_reference": "AUacShiFvcGvvOHXDeDNxmTAVXGtfRRny50oO2k7xwZldhPA6TImZY4PvvX7Q6IAGwHkEQcLtqlhPddORLi5REF4Se0FqxdoNLg7-V1jEYcr87mHt63Lp18z88AjtfpIOwz6raxBKHiXFCDzfAxisvOdtJ9mX2tzfdXEfcULGCxGQ69DOnZu",
         "width": 3264
       },
       {
@@ -13472,7 +13398,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/109137120136082309157\">Alfred Brock</a>"
         ],
-        "photo_reference": "AUacShhFldKdWyzzPzW-h3juGtZnlEI4sEN_twrmyhxljeqkrrWBHf3JPEqxOaVLBohJiPpCuNcoIQXNrsFWUhAklVGHeFX3yNp1S84soz7BSKJbc8hrQGz3Kg_eg9wYBDTooOEYToPw6Nd8C-oKqCDMqX9TuQrf6wPjq8tlHGRKRlJGlrxL",
+        "photo_reference": "AUacShjGJkxcqdeQpg4scrKylLutd68sFC4x6xwUY6WQuyasd1bd-fZDV2yTCkveWG3HvQGWUvO72BKV5UZA-RWJzqw2ta6cTG3h3zgrV3OnBod4gnTczQzlK4beMwYsZ-95PoKSVB0yRkCtGPrwtOF3El3An30AdjdlwBIwfdrp5BoRQfEI",
         "width": 3264
       },
       {
@@ -13480,7 +13406,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/110674950816368918287\">Gary Y</a>"
         ],
-        "photo_reference": "AUacShiVYewUIiPnupDf9RHgpbrz5DeSr25_kPl0ez-JKXDjSVT6kqe4czdwUs0lR56f_41HlMpMJ9DduEpktQoPliHgsJIuf4aULJzZ6YWmE5b8nyp80COWyG-tSMx3V9GqpFfbyFwtz8FpNlN0j2QNuCsWBSUXfetKAYzqj9g6xljCf6h8",
+        "photo_reference": "AUacShiuRrMlxchCTWZGV3xlLmBxohlp0H8bAGbVMIIE0naiUYpYKUbciVgcUql5xV7v8CJYKIlcx8yq2bFVSIbdhKkw14XwUt9IcLKNt2s7SrPCo4ltu4nRvFU7s22LLaPotihkoh40LYDbIQ470dz92QWlgsaH16_g0qg-gxvUC1wfj1oG",
         "width": 2448
       },
       {
@@ -13488,7 +13414,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/109380649820542960888\">Lauren Samuels</a>"
         ],
-        "photo_reference": "AUacShhG797ix6Gxcu5crmyfn83tC6bsceZQDsuvG-4ie133ENNfOxJW7F9XMraCyMTe_VzjBIhbGpdj8MHlg2NQXVcPwC8X2NG58E5GM3nkfo7GIt2IdpF7WmG5twsGJZBy11HKEBzLrhuz1WABW5Lec5XXe6nXvX7ocicm5EBByPyjd1d_",
+        "photo_reference": "AUacShhbHb4H6a8dHyNm_DfP68iLCzVY7_7-MlHcrm4AoYpUXjqIaD8JKnqobpg9DIhiD_b2KDhPliBrlRJhIfWAekKjJ6B_RvFOMX2LnUsFu5HpzSnH-xPT1rg_PVi0eQ6PTeXdE6uFqcQQDqL8lhVgICSEmjS4a88pcseWIv4t-LZyk3IU",
         "width": 2448
       },
       {
@@ -13496,7 +13422,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/109137120136082309157\">Alfred Brock</a>"
         ],
-        "photo_reference": "AUacShh0vLlLM4SVkED5AZaRRQOMsIqda1h6I7QGPkRPUH8gNqAvZu2dMzilW1furwEWKdy2FKeCpOuW75OI-GOMehVVPgWsIQhZR093gtcUAX_rNVu0Tx5uxFqCLi6AwQdPK7Rfwk4GV9QWANhcUx-q0BriX6TB6AW1BjH585oifXU2aQ4M",
+        "photo_reference": "AUacShjCxkhSRApkEpT6fj0kJ1aMctLQdHT5jNMD3iykWrSvg9pH5kNGFvZ09kK31IvzGA6lmeFtLzq1Dj1UlzIbYN1zToy46KLCPGFd4acBQ9Fg--FZRojQ50bZZGITP2wOKfe707FflhHY2s5Sga7UaqdRJZLC7uHRpy_gvMY19_8qwhQK",
         "width": 2448
       }
     ],
@@ -13504,8 +13430,7 @@
     "website": "http://stepcentral.org/",
     "wheelchair_accessible_entrance": true,
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJwS7L3GNOO4gRWC0cfJMoIJI",
-    "date_retrieved": "2023-08-15T00:05:58.728Z",
-    "placeId": "ChIJwS7L3GNOO4gRWC0cfJMoIJI"
+    "date_retrieved": "2023-08-14T22:57:23.596Z"
   },
   {
     "address_components": [
@@ -13588,7 +13513,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/109137120136082309157\">Alfred Brock</a>"
         ],
-        "photo_reference": "AUacShgs1yo6kvbAv8x9y1nY2y0r30BaEVMwSiA3mYXgYaNwiL7bDYNXQvQy_EA2vZBXcNIzGf_KtmmzE47p7buYtXyGmGd4qpdABDetTiOmSKf4wQlV1acvYumjsR4MpQ7m-LfkDbdKHMS5heBSSgb0Ll5g8eq-h6QLxuYwMUHCjEZsIyNk",
+        "photo_reference": "AUacShiLMshuAm-i4cLdZHOV7M4AWORmmIQ7OwNoj_wxLufM9Huwqj9sKv-mc6iIgMUVZ7b_XXUkQbWUQ06VlD121M7lFdyw6-GwzZciibZsOT7piuk7mNXawHd-qUQoaow6xSlvmZ2Hj-FG6G103-ETwCAWzE3zeoFwLOYj7fADlqqyybgW",
         "width": 4000
       },
       {
@@ -13596,7 +13521,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/109137120136082309157\">Alfred Brock</a>"
         ],
-        "photo_reference": "AUacShhdh4H1AJMDJAtt24SzSqZd6oy_YoClHvU2dJ1HxEZh614RtYm7tinOJnAnCsIaeA1lqKm4pJGT8Et0ukh2puuT4kjrOTsDugsgbczmhx0IY3qn1xYgkwO37juoO21NCnZrxdvVVNO947ym2GB2TENsF7OwBzTASQJK2xT9huos34yL",
+        "photo_reference": "AUacShiZ3op8RiJR2QZmfG1sGBX34qIPbcdHi-gTszEQZ2huRTns2tIig1hGIDJhiHF74Uxs2tv1Nx0Md-opxLI909oTNsfGh8WxuMCMjI5FNZUYEyA4sQO0eUAq8Yn8zhIU95NYGeq3NzLQ1mLckTejKJrmzL_q64Qqrl4nCdx2A61wp24g",
         "width": 4000
       },
       {
@@ -13604,7 +13529,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/112587540887159862553\">Anthony Marcellini</a>"
         ],
-        "photo_reference": "AUacShgKscq4wq7VaE09V1ZZaeKyjl3ExLoP_CFCeKgpn_dUPcYkz9XBuhqBFYzsQ8CPqwKf9DBxJM_nyn-aj-TZ2NWnCwASmRuJ91u_eg_pbdjIoG1SBgR4g6ncesJ2RgV55VCdTE4uEqrzJ4SJB2q9tTGmSFmWEqSQ72X_pxQItS9iuUpb",
+        "photo_reference": "AUacShgQ8Lfo3RXfrryQBPiHlTVE_ELsUOSopYhyomD3z1J1hWJpCPFLOoRHapxYHFHeyL9qMk-6rKwH_5TU8tTz8bu7gxnVlJYCcw4CnxuW1Epz29R3W59jzWZNmNfAgYrguHYRBeJX8LmLOyxfnuYJ6iQN7yVPXsoWEHMEF_IiamDfRrbb",
         "width": 3300
       },
       {
@@ -13612,7 +13537,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/109137120136082309157\">Alfred Brock</a>"
         ],
-        "photo_reference": "AUacShjrA_UqS4h_wLJdHYxi6ONej86JH_WZ4o7hAd-t-sOTxyXVaVGMgO3SvQpHWut-xJ24EEGaoVQjZg3KzGYdbjU21SfY5mrweod7rG4g7kwzmdzn6PDMJX2KNH-D3l_xpFgRaSt6kwAsXRt3_IV0_Bhmhjv-5ul8I0qJMUs5y2ZoX8Jv",
+        "photo_reference": "AUacShgUnwCoAN6tGJLsiWZHTwG-pHU4xsOZzXLgObqTCHxSxeMc_vrg0jPpQgLzWfM7X5h-fJSdLv4-INtS5Z4X9MFrIju0iTtR37UrquF0Y99S15Igi9xHpxhfT1oa8m9xg24vsflhN7CH0nX4GmX-8YS4QQCWaDSLFs4YPOhvQeqCXX5h",
         "width": 3000
       },
       {
@@ -13620,7 +13545,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/109137120136082309157\">Alfred Brock</a>"
         ],
-        "photo_reference": "AUacShjdVyx6NuN2JxX64U0Xv4fPGB2GJ3-ncvL-f_EACioJDcVOIYWkhqJ1Q_QGQpCctV9Uf1VbREIG_iBcDQihMbmUGoZmFw4_suJY3F_sunbQCdGvZ5DSwcWc9iQFGBZg_jTdPWC79ggovk4c1WyMWNOLtczjmQC0XYZcf8TaN0vdLUXY",
+        "photo_reference": "AUacShhmf-xe1weQO2NhkLGnBY_thO2UKrPX8ZhegdE97CU7OHfrIgR3HsLhrQy_Bhx_hiHYw1-KYjoDAkIJoCAWxzLZhRUuF-TiSNajDKZ4pJnu5cXxQ3pisSPM23yEzeSVm0HXF3q5xos9j-YWg4eofbzH-z0LMeyybN15mN9z0OTV0RJE",
         "width": 4000
       },
       {
@@ -13628,7 +13553,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/109137120136082309157\">Alfred Brock</a>"
         ],
-        "photo_reference": "AUacShjudwv3xphgiN6ywS-n7u6GNOwfGARXEWORwr5fItJ8R38us-afsP2uypC-_R1YJ1bi62FtzOLb26Ppc5JD9agZDKAshtYiAcyE2_TyNTLeXYHQnqTAEiNezJCJR_RoDafMviApbd8nBA0DfOTKY36DfeTOndRWU4aAoCZOeSDerl4w",
+        "photo_reference": "AUacShhsL8fpvgbK0fH5mtiAj6zO47adqIdP3R_1TWCZRJkfvG1WL0BivJqXkPjug0lQ-yyJhr_fg00ZJjL6-p2k6sIDwrUrw9Jhbqa4EqTCpdj5GYXG_oypItQf25Osoq4Ee8Pw0ANZVnVEmKtH2OPKYM9GafiKsxTlbQd_ZQc1ivg3gRKk",
         "width": 4000
       }
     ],
@@ -13636,8 +13561,7 @@
     "website": "http://www.progressiveartstudiocollective.org/",
     "wheelchair_accessible_entrance": true,
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJPRFMGRc3O4gR565e-gaEgFM",
-    "date_retrieved": "2023-08-15T00:05:58.865Z",
-    "placeId": "ChIJPRFMGRc3O4gR565e-gaEgFM"
+    "date_retrieved": "2023-08-14T22:57:23.706Z"
   },
   {
     "address_components": [
@@ -13736,7 +13660,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/114449107627014123131\">Nadelle Payne</a>"
         ],
-        "photo_reference": "AUacShh3s3OSh7A3ljPVEZtncbaWZQXU2jVkbGpFdh7CPJoGPU36CkpI_eksGyRszfq8JScgVLDHDiM-67shvutuMUlN-0OGYLipJPKWnzZsPoYRol1SfptP3YjlJMPk3c_O1Mn-86NTjySDREne8VgpToEJ1iUFafLURjG_ao0jhs6hgIsc",
+        "photo_reference": "AUacShhbf-JzPzMX3Fu_OLR_LjVHnwh38JseH3VP25V7NkaIKrk6x3IvuY5X3cSGlZEFvfW5zSFm17PjG2JWiZPknThOcuX3gWMXxIu3AoV-STQk8FXC1_TOEe5D8KgQVSvPOgPKi47ctK0r93VNUTXE9wNjXH73NiFnfSKoX0CePBMfegZ1",
         "width": 4032
       },
       {
@@ -13744,7 +13668,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/100726915532117426719\">B Johnson Photos Brenda Johnson</a>"
         ],
-        "photo_reference": "AUacShjdRQyfO2WogW3R44xQ8e-3SZLHgDOZVvOQVeqO6NqFCaIWDFBjwXEUT4F-hHVSE--qEQJbUsTbyiFQ5M_-bUsW9trX-aHbR4pnppef3ng7p7fXBAEtALp53LVITv_y-sAsW6W__-tWv6Vyz9vtzK3jD5dJ9t9f8nozw_b4_7JW1J5j",
+        "photo_reference": "AUacShibOMhD7TaPjS6W2rvt0Bl5x9DJxRC4XRU_BVaO9XYkQrXRrCYmmlwCLxfAGs6xS4y7RMdRKGSc0LAIrV2A-sJKZ60AxVwaPakuyko1ZnACRuqvFUqCSdVmHEPfoLCrQZypfPjRjis9Tpvzn8zj4yb8byjD4AnEnuqLnd1sLSq2xZBI",
         "width": 4032
       },
       {
@@ -13752,7 +13676,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/102074576689669887127\">Sarah Male</a>"
         ],
-        "photo_reference": "AUacShhPp_JlJ8JfpHfLxoXYBCeev7lgP_RQ_MJVOg9sCA4JCjw3ywPW-5i7u7sRwKPQMykUT-nigeayW0mnOy9O-tLWTXiUHxRGlD7vIwM6KN9NB_lygVP9-35lyhhLAovw6xKzEeQKFKI5nlKB00HGSrza3kchRbO3eAc6PrrsoBoCng0z",
+        "photo_reference": "AUacShgysCwqtf73Rdsg3wBu4bS5UGJ_Y3_rIORYAfemddA3rodI4ANGHKcX1c7e3hZJVY0bEXsuQTtypaFLOZ9UE8XJBzmt4doZp_oHFEAmnjCZshXEAouOB31-sR_Fs00SnB6Uezyd3kk6nVUFl0LLaut1aG6WotI2wQvXMclP835YFv0E",
         "width": 2891
       },
       {
@@ -13760,7 +13684,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/100726915532117426719\">B Johnson Photos Brenda Johnson</a>"
         ],
-        "photo_reference": "AUacShhuK990n5ta9jR0ndpEK1g662ZaJO7h2Mibz9_ifnJjJ1942PVQnC129Mgkehl9UTR3rZDfQanaP6wOrEWAqJRknRKQctOCstgPPt8v8Hxecqdiau2NUahPa6lXfXitFFj9RuifsYRk1ueFyWV3J7eLR1aeJ1s8gfHx5GzuoTxozaVG",
+        "photo_reference": "AUacShghvyBCdfzJVyNQT9pRAwJYcMgrr-g2VfVEEA9NL9GM2LZk5i4FWCF0frdB14FdmdgLiFZLCNOu1Mc_8f7IOdLiv9E9S73Dov_Y3YSwvGOMF7n8Lr3i5O8Q3HgrW6MB9sok0rnLHI_nEb01N9862wHSx64DbrttDYb46q9a5MViPkKR",
         "width": 3024
       },
       {
@@ -13768,7 +13692,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/110253544182328206908\">Jeff Anders</a>"
         ],
-        "photo_reference": "AUacShhqS4iC_zRj8Ru0Vl1_21JW9UqMgDVcQ9ByjM3QP5jtFIKITj1KLDOMZzEln5m0lzvTa8CbUDlPWUDolj-doCOcMkQgMSGUTM3oD_pjLKKXXQpZoBKntjxlTcMTtYm9lOpSziB4uVZEeP4VYVpFIJbl29XrIagZVO4BdDlbVYCK88-x",
+        "photo_reference": "AUacShjmGkS-oShSNS3OKbArxAKkeFs2ihmx9qs2w36HS8mffwj1iFumOS5FmodQmTY0L95HHkiv5HzoU8lrr3lIfUpYG_1oG_4USiwGjddHT7kzuap_jl32IV-3wUPG9Camjbzs4EGfYLr4YVYhddz8AoComhT0D9Ezt2UxNwKMFqWcrQ8K",
         "width": 4032
       },
       {
@@ -13776,7 +13700,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/102074576689669887127\">Sarah Male</a>"
         ],
-        "photo_reference": "AUacShiWVd85YCKoWhfeW_1hj8rTj1CBSFUMuUrOICIZhBqhcP0kDSuCqNpuCx6vErzexZRmz2Z-ALa58RKnTwUyQMbKALIoBMGGV5h5eaTyq4CmFgBgC9iN44TS4bO3lvBBjoocv0Lz1J054F52MSpLBg33wMPpU-8c18dlJUT25EMsJMQe",
+        "photo_reference": "AUacShgl7bPCy_ilrs0UYW6lV4n863LCpaQrj3yyt44U3yDSzvvDdZ6--YaODT0ExDk_8ZQndjmWomIww791llDjomoWQsW8jsX-ZP3GPF7_Bg9dvW7JRBlaybNRA9R4uwe2EmWYH_Nc7tZioODDA-XNBvSU6X6mUTan0LH81rvEZQDymobh",
         "width": 1555
       },
       {
@@ -13784,7 +13708,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/100726915532117426719\">B Johnson Photos Brenda Johnson</a>"
         ],
-        "photo_reference": "AUacShjKcZOluW-D_oVr65FObpB_LGN4rSc3_a0AdSfd1TX0x2romkHMsYtA3ZZ0ikLUKC1HtCnU-LUHYtvZJSOOnytZAY1clWna6HUDew5tPoYyQzj6U9jXPxsiH5D98IkXD6rqLRz-MGCE9RwFr4SNi2lQ5aBPKeyiFQmXaP8J3b4rLuYJ",
+        "photo_reference": "AUacShiiOTed5ws8BT6no7UnTgi9suUiPlJKnApI45D3D4qEr6JFzuueusH5CWTaqYqoknyxAiaiTNmv5QuiFRKjwaxazsQPAtWiSY_vI5stVK_g_Whz3xWWt3-FBDjGhzJusWDg1Bfy36b43Ej9J9uSOC6gZVAvqOqfpIw5Ayf6dPltw1u-",
         "width": 3024
       },
       {
@@ -13792,7 +13716,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/100726915532117426719\">B Johnson Photos Brenda Johnson</a>"
         ],
-        "photo_reference": "AUacShgVei9H3fj5VF10ZJdLXb1gm3yZBTem508U8vQIg_klUkVJvXSGhH1rcUqKF-0LJC46lAgUNw95_GwEgiagHXrFqlLWtUTY330OQePDNIslmlkRkbstIwpJAHgSBE5N_xsDdoGzqZuEpviYYfvNDaUFwxg01LhTUcjq2Xu48mVWvEVd",
+        "photo_reference": "AUacShhRPDvfMBpNmC7SVEwYIhgQZOR0GPQ9TJWQRkzokYoAstFwyl29sJj09Jt_O48PiHMQR4df6LZsLipFzJU3Erjjv5iPAlu9yFDBaWQy521MHETJgEGhRj-LGWnsXWJ-oaj8nToE4vw37t4nkhfnjLS2yFSAeASuGfJFpNY1r5V0jSC7",
         "width": 3024
       },
       {
@@ -13800,7 +13724,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/102074576689669887127\">Sarah Male</a>"
         ],
-        "photo_reference": "AUacShgLSuHHwS_48UpugbuMb3f8ld14KA_ubB8H0zbKEgIh50GYLVyZBuXw-C0zNa356YwNbvUw3SWYFFdjEnUkX3RQyqYQGPZMB4kguyXf94fJxTV3wqCYD-_6xYynmAUT_9Aplb7TbHZbOQWIvA6x8DLgApWcgou1j0NglPRrWN6d9RoF",
+        "photo_reference": "AUacShhWO7frwl4leiawp_ku4cW08dUkWU-bvjF4ygYpcfo5768LTRCbyFUc5_WD25zYBeCUPDyKsl_HHJ6ilFeaJtw8gtoDVG448VS5TTISNOFk_D9LPO3HMbh6u7qCMIq7CV52i6CFud6gjLBB6PLjntqnDk9_R9XlK35RTcBicD0ed7Ao",
         "width": 3024
       },
       {
@@ -13808,7 +13732,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/118156073960093870881\">Erika Righter</a>"
         ],
-        "photo_reference": "AUacShjfmoOVcZbSHYQOTtRjNyIqN_jE0oTgTrq5hPhSHkUGaxVHWkXTiQQ43vgd0RSWiaZPsQ1mznjKTQPKemYk_rxnjt-W7QbQ5rk0qSTn-wgljw-NYKMAbPRjxe7tpCI37hkEgwods_C2vIjfRmf6NExcKgPNh5J2HggD3UyVWbyjvGnL",
+        "photo_reference": "AUacShhsOMWDJrgWj8_fvXhs0JLstmdhAKi7O4LCw5hn38bpJ8HdseTCJBR2lozBU8Rcmw287FZuDDJqNx0tew8J_HwYmRMv5fwIOXciBor6CDHjFl3qYlZ9YO8zPzakPgNYlToaRENMKtrxgQ1Ssotfqv7enSxTkZfEZM0--q89HbU1NcPI",
         "width": 960
       }
     ],
@@ -13816,8 +13740,7 @@
     "website": "http://www.accessgallery.org/",
     "wheelchair_accessible_entrance": true,
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJuT3L7DF_bIcR5rFtSZeMEFs",
-    "date_retrieved": "2023-08-15T00:05:58.969Z",
-    "placeId": "ChIJuT3L7DF_bIcR5rFtSZeMEFs"
+    "date_retrieved": "2023-08-14T22:57:23.817Z"
   },
   {
     "address_components": [
@@ -13980,7 +13903,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/103147573521714516543\">Starlight Studio and Art Gallery</a>"
         ],
-        "photo_reference": "AUacShh-SMF8HuFYqMy3o3Vd96YSARnaxj3EkEe8KC-4j8PMibKqGP2cZYPWvXR923yK0VxSYL7oOxddsAgzNq8jRNtuBD6faGqabBBH9HLRIkppP-drHkrvxzSaByJ8bWwGbwWEM1W4kO_-n6UaLluCFHuPvviiXRgW9nnAWPJDPdse0XlO",
+        "photo_reference": "AUacShhgoGNf254tniyuC1tbSdU3oDlTGDFQlv-9R_1tg0PN0bgVTxNjm5yAxCQ7jJkzV8wAPSpsNp9kWYMptPoahvCV7mgl8DsQZHSFpk3BeqrZEp0OHgNIbNTtr9Bru9lixYER9c1yGNJ0QTld7XlaCEZubbRbVU3ZgKOur-qYopl7Mfn_",
         "width": 1388
       },
       {
@@ -13988,7 +13911,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/103147573521714516543\">Starlight Studio and Art Gallery</a>"
         ],
-        "photo_reference": "AUacShhNnvkaYd5NisBhv1MCUYHJy0mlncwOVTmFd2qLp1fngAW_5EzgQi9bDl4Uh_m48SD0qjFOiH7eoPQlPa5S8mMomPoPvHi8NoW8wKUQ4PJTN4A_vqmhWCd5ApNEIRCUSDxxKyQC3ETDAD2BN_DT_OczpPcuRr5dQJYVvcHKJ424ltL_",
+        "photo_reference": "AUacShhKmWtwCEi_5eeMmQ90qTPmDT1-cNxeJ-YqsId-71jux8DYIffFve8x3A8D-JqGRLm5eHgEc1jvggGl0jT41fFpKN5c61d8rDpbMtP2IuDD517RlmC6PTjVgaXWdAkznbTgU4yiPfBSi3BV9a1ZmEVHSGfS7Ky7rFyjNlPxWuIAjitA",
         "width": 1270
       },
       {
@@ -13996,7 +13919,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/111207483459455199564\">maggie parks</a>"
         ],
-        "photo_reference": "AUacShjrpKQW49skWa52UfgaDqR2cpWajSpDhMgAR7KAGl7j-xyTVd1erp8XQhsH79J9ElgkREuH64pS-f6FkK9lW4mTUzPMz71mJ4F7s4D58nr6pWb7xgcXG_H82oFJJMlDe_r1tM9vWn-nvwU2hOmTxLFH7BgQiqwmOzS2NbxRsfqOaa4t",
+        "photo_reference": "AUacShgOFz5x6zg7IN5pfmuubOjCh4GeeHBqvX3Kufsjvyxjk-QcqQLqQ6drnajKv0tcMfpeWK1M8rHhCvib9B5qRGDbRRTDMOaMveNfVhVlCm0835Vs3QxEQn9UAtaQmlJAU-Ckpl_Fn_2NXt809hgROZwWeSrGD8tJyTjok5Ju3PYDf_1Y",
         "width": 2560
       },
       {
@@ -14004,7 +13927,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/103147573521714516543\">Starlight Studio and Art Gallery</a>"
         ],
-        "photo_reference": "AUacShg8j0voJEEpBvRUnCmUPhrAmYFPa8IGfBW7T8lGF-hU0_toTJhJA5LbcAPZGvq-weEjj0anOG8brw-3UB4n7JX35I9H9Voz06DP2Ay45LuVdgsnEzDpczZc5q0DZoaFbxqIrf3ePUWcD4ajt_RmrTU1W-BMFrTMAVEqYd7Z5nEmyczP",
+        "photo_reference": "AUacShgoPIA6gXz5vsE_q60hhIBPy9-pmeQhedlfFQI72t7CMjSW_-8b0wtSCxGxQEIOwoHr5DImjAkafTTzQfo-npFIqdSZCWxJt7Jda53mWLyuqTD0a3-tTL9Z3rdom0rGf8gaJoEVsrneZcQZLM-J-CzKT1tbgAtcrF00tHjFQ85dTgoq",
         "width": 2016
       },
       {
@@ -14012,7 +13935,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/102063455552983048370\">larellpierre potter</a>"
         ],
-        "photo_reference": "AUacShjt9oFgZXg8Nqx0hfDaQp48LP_ECGWGGD4Ajl36fJadxaBmluFKSncxamVSjv9HdBgYlR_pm_ntCKxxxQvdv0ExsX8ZdClfK5I-kPddLr2hP_xtYiTLAqu3Sb6hAd85um-9rLJk-T3Z5Ira2hDZerIARDpciRZSZloGiRPcalTP9f8C",
+        "photo_reference": "AUacShg8-ppHxyU1lUG_-1PwHHlmdjWfgL4vDqhFFvly9xRFWguTlIsY-sGz3u0RTGdi7l8Mhxj6m7oY9XAAPPeIIJXbHkdRM0i72DhVM9Wieqo9S431Gd-TjWb3XlqcT70F286OV85A3GU2UZLVI9cm4Q5u74x5-20Dak04Xm2n9hZicThm",
         "width": 2592
       },
       {
@@ -14020,7 +13943,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/109326343618530290535\">Shirley French</a>"
         ],
-        "photo_reference": "AUacShjngbeyIapM4r18wY6zFOBmmptGWuu8Sp9nAHwFf0Y-fwZmpNCwrDTLyC0T-TL3hEHK69eNMs-uv8sz2Rbb03GauBqm3IuX9Of3oiWWvRKPZHNZchX-f4K4m1zuj4gdf3M8jqiVcEE-v77IOkuaXfL9lIop5SnYXlDjPDWNUAqIE46q",
+        "photo_reference": "AUacShjdxhKWHHTEIkP2i2jCkIzmwVon1MfUKkXp53QqEKt-piO5QkxQDmvtpYzip81WfgVjOlqz0pP0U-hKoeov9_J1V7fbqM3nSYw8RoZLGHsfFesdKQEpCnGFvVUJxFJQlUz74_EyfcQ6FcFfqQKxri2odbV5ubIac5alW318VyO88k7-",
         "width": 2560
       },
       {
@@ -14028,7 +13951,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/102063455552983048370\">larellpierre potter</a>"
         ],
-        "photo_reference": "AUacShhS8x0q38HQwoyoRQjhl6Y-GynKbh97PYVwPkajGr6qLuWsmfFwy-B911tRR5Cfo5uuPiCQjjHCQYLSNmk8hHKeOK3ttYpOdVfFN1t4ZMYn437qZ7qKREpphRys0tmqfPJju7VCuOwczKcQVIle99QqvEIuopYh-gtRm2NwEYb9TUS5",
+        "photo_reference": "AUacShi1ebe3Iw01xL2a7uTSHtuTIle97KPvehG4eryXyyhCqv_BoAeMjheVXU4wXNF9jgkECzbdwgsCEE5-VjufZiMhBbE-nVFO-2lNqYzdP9cK3JwY8PGmTFN37GwowlwUtIRrkjf5PGwe7vkOrn5JNkOgbfdzYLcf7L_Yu8wmX0T2Xp6U",
         "width": 539
       },
       {
@@ -14036,7 +13959,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/101223571879238331845\">Soe Wai Htun</a>"
         ],
-        "photo_reference": "AUacShhsI9lptPrTKEGgIABdTGbt3Ecz2REbtnriUqlUEvUpI1aDuztg0hCfkST1wEdbSJH2ZItlCf5iQ8nG6Us9mAHtIhxdAabAdDU5gCT2GUv1QC--An7RKJNrEjel5-z0B5w6Q7l_2ZDfQXSl7tzXKk8VZoFLGMTNLlcIGZHsBDaqh6s",
+        "photo_reference": "AUacShiBUB6NLEMCFckoaELylPMQ5UTDoKZGwIXO1QQdqQBLFmG3fTh1ZokBt3tqzVn908JDhijZC4sCNZvDwcLNDTQnFDqMxVzOjXhABKz-JxQSs8qEgTfuCxBxKBY73jC2HwWmTdK4MuGDmCUD85jPQCRCG28OwL9KSV4rhWmeLL1ecRg",
         "width": 4032
       },
       {
@@ -14044,7 +13967,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/102063455552983048370\">larellpierre potter</a>"
         ],
-        "photo_reference": "AUacShi5K-gszZbRqWR9sDIGkmZOs2Nqo9jHXkFziEdAPmycbWM5xx6_nt874-EG0Iw2UYLLQl5EiJiV-zfqjKE6jje3XMPHLrgdS0OXm52hVlX0gTdl4lO7sAs723i7tmpKwecP7HPVg2kabTgSp1qpnncsZDNNmAPTI-p6NJahZ6MuVAUC",
+        "photo_reference": "AUacShiCydeEq3omFBWvak5ieGdfPQF0a0w4UJ55auJ0f6yW7Lnyxmb4UzrESGyjXHl7Przknu3NP6u3uFinX9khBJyN2ai5lYQXLzLOLDvpxjbWng_A8WcxGBROZ4c_BmXrO6S0PHZB_CLCnxn31v61CvOr6njbwcXPh3oz3AgNog2jmDFD",
         "width": 1456
       },
       {
@@ -14052,7 +13975,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/109326343618530290535\">Shirley French</a>"
         ],
-        "photo_reference": "AUacShhdz9UIsDEh81PZC6zmkiLYb1P7HMEKQCX1ZCMuMGsa4WtoojBYOBGFYDuMha9ppLrXpHXezHuLG8gY1MNbcqrEF-QXL-qu5drbr0FqMvbYu7Op_LeBgirQobEZDeB8XKAjTxD0PzDM0S4BThZW78POuVia0nlMn6p1O4poTDHTy9Sz",
+        "photo_reference": "AUacShhXNxHb8MpdzXPcESSl-fPW0_EREjMqvvcyvlg_Znd0K4ymcrCfYpGlKbOwLjPZOtoPCLUvCcjYjeGPQymf4GgAD0IhnsElZBvHn80HkNJwGExG1fRHBBgFTJPLxchmCl2kNzYUwYcRQoW2jv33M1KluoxT2KzLdL2-jRcHuwYBc2_8",
         "width": 2560
       }
     ],
@@ -14060,8 +13983,7 @@
     "website": "https://www.starlightstudio.org/",
     "wheelchair_accessible_entrance": true,
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJezUm3FES04kRfy6E5RrEYAQ",
-    "date_retrieved": "2023-08-15T00:05:59.082Z",
-    "placeId": "ChIJezUm3FES04kRfy6E5RrEYAQ"
+    "date_retrieved": "2023-08-14T22:57:23.934Z"
   },
   {
     "address_components": [
@@ -14151,8 +14073,7 @@
     "website": "https://www.blankcanvasartstudio.org/contact",
     "wheelchair_accessible_entrance": true,
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJpSD0svMo34cRFluIQZ6hHP0",
-    "date_retrieved": "2023-08-15T00:05:59.187Z",
-    "placeId": "ChIJpSD0svMo34cRFluIQZ6hHP0"
+    "date_retrieved": "2023-08-14T22:57:24.044Z"
   },
   {
     "address_components": [
@@ -14307,7 +14228,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/117257706399698695705\">Miss La</a>"
         ],
-        "photo_reference": "AUacShjkskiH8R29vgFov0QLuAS64UCpoglkbGjJyKVxjPEciLUZFgTf8rvYWa3OoC5hQvhN8Yy40SbdRJ_GKUnAyoeVFM_MRdTzCyZa4NRGOhMD1j8ldGvnwbzNEzM5G-MXZdf5yfG77_qMx3eerKrR7zt2W1BYdVH1Vqqxp0xhIop9QIMz",
+        "photo_reference": "AUacShiw6sZjdDbgfjN4WvPtbLgzUmNs4D7BEU6E8Bm7x9H3LJJUT7T0F-snmZ-DeSUd6myvoAev5HaEHScemciWsdRQfluPjUjfq2xaN3cO9O8LEsyGxElkImET-qtwFxEwJLf8iCHRYRBiPYzVLjXfCE9INK9opvAai2h4WcB1FyeqBy-E",
         "width": 2592
       }
     ],
@@ -14315,8 +14236,7 @@
     "website": "http://www.doallinc.org/",
     "wheelchair_accessible_entrance": true,
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJn4VvVRDhI4gRkpaWDoJqgsg",
-    "date_retrieved": "2023-08-15T00:05:59.303Z",
-    "placeId": "ChIJn4VvVRDhI4gRkpaWDoJqgsg"
+    "date_retrieved": "2023-08-14T22:57:24.154Z"
   },
   {
     "address_components": [
@@ -14482,7 +14402,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/107384512154949107894\">Rob Delach</a>"
         ],
-        "photo_reference": "AUacShhk8jH7v18K5gfQ7CTg5I91NPJekpEPwecxfQ6AET2BZ7dlx5mXbWXrAWTUDI7pgLa9SPVjPi3b1ccYkoll5D8kxDeCarmC5qwzBcYtn-2ZuXfMHKXmnOUuXHV7mEbOwIOlO5rUehMWHq0TnDGsNz4LI0aw-B2GpfPMCrmb1Ud90SWH",
+        "photo_reference": "AUacShiMxGZ5c-5dDrqY14eek0c9bQ7tVkoVgqa2Gt08pfJlIQ4q6FTCvlK3xoJGPeSupuqJM2Yy6dHCvEUylx697qRk-1GiRkBtzemexbQQRZdbwvDn4ym7ZmgV6gohSY6llA3ASexRTHBSaB07V0BQidWpUUEg4kfgey9FEzpu6xJ0prsi",
         "width": 4032
       },
       {
@@ -14490,7 +14410,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/113740273664772458462\">Sarah Shumaker</a>"
         ],
-        "photo_reference": "AUacShjPhvnnsc9g8UeufRyZpydd_mD_sb39rE3e-WgMRlGEyBB9frzGjOH3-nUfk23S8HPgqLsQOdVs6NKmlxdR2Gu7SotOahcnM1vTWyiMZi1TOkdlPf7m9YIKfNMrOTXXJK-JFStYJe8QrQo1p45bKEooCGAHUheIzeQtVXrW93coAALl",
+        "photo_reference": "AUacShj3p8-ER4Lf3FQ3eLivt6katDrp8CZTnMYttjHyo3Au1G2v3gLXNTIP36xk-hKcmrfjrljIcEI4iz_qg8KvDiRMBLc_KxHsYH6jyXek3G4PSop55M3A1gme4G_olMXAkMl555ciYddQqwJ-qbvrX5WkjFFaA5O5nccud19WLxzqbFDF",
         "width": 2627
       },
       {
@@ -14498,7 +14418,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/102839964374689056685\">Passion Works Studio</a>"
         ],
-        "photo_reference": "AUacShhxsJafRgkgnB88nPKqowbNkBYUFz_y1h07fousGh7Ga1SVdXT6VaTnGKz67bbtvuk8hFDXVau6nRvZKzE0qGuDJnM1TIN927Pb9pIsUmQW1SzgDqhmNQfq7df-9g3ZcfYOd83YRDRFrgApncee4lqtlNSK9K6KjaHQO0PzicOPoA_0",
+        "photo_reference": "AUacShhRbzyT7q6De9D0VmRTZfDsmWtCUJggl__uRwQ3k14kuwWfPMP2nCrtQGUuHkZvElhXCx7Y0MTdulCQGC2u_iXyhMQDHIJ_xhjxkRvtsBXms4bTQY_UQ_sxBsOZNBkniMeRJ4bb1f2ekv0VN2slfgAnTEAy-uN18_IG7ZZY6wEAz1jh",
         "width": 2048
       },
       {
@@ -14506,7 +14426,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/102839964374689056685\">Passion Works Studio</a>"
         ],
-        "photo_reference": "AUacShhirlHTOeQlC_BgEZ4mT70J1DpfwSF2v2CYpHKip_mGdbj837je2byFgScv-NFaOWNVwDWexuYoxlAAm7AGfU6iU0W_CFb2wBpwqOSH4uuGnPLBqmS2e0xX-wqPdyPcl5sIxMEr42luYGe2CtdDkFCsibIx67Gsr5XTQfxJ5EU4v0Ue",
+        "photo_reference": "AUacShh6nOcdO6WAWXdk9cpfzNDDsex7_CmOembdfzjnjyJCSTLJFrL28sIFpew1dUFPchzXZi5f_eKePTiR_HUqDrhF7Ty7oor_6cxs5P8PFHGGjhcHq1TR0orV-ggCyR_Ay43YDXFMWoCVeHQL62BvnkaKPtedgCZp-TnVvsBAqRpw0Su8",
         "width": 600
       },
       {
@@ -14514,7 +14434,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/102839964374689056685\">Passion Works Studio</a>"
         ],
-        "photo_reference": "AUacShjo8jKm-8Yuhpa1IFo1ISINxhGEXG201er_WVTknK34Tc3cUcajW8oHTI0eXEoUkWXXuOzXY2-ddJI2CztHNSnIydw1zte8BPvOWO2srxn6cCmO_0xusC8PcmmB6l8KvoTH0XF8tPoEarX8vFs4WdNMfUOgbVVIyTRyJjZ4BgCOSG-A",
+        "photo_reference": "AUacShgOE7e1bnCphTiGg0hmOHyvQZSforKLNXRi7BQbunmEbk-qVuim3QPy9iE8xIzRgQnAm8hyxtKiNfxS_SjEej8DlJ5FEPgvzMeyflwDQ34silrtomv3MItZXriDSXPs6xH34kL0HV4yx7MkWwCxgVhJE4JyTt6GDhzx3tnUQX-BzbqQ",
         "width": 3024
       },
       {
@@ -14522,7 +14442,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/102839964374689056685\">Passion Works Studio</a>"
         ],
-        "photo_reference": "AUacShiMUMaVZgbCqvMrozOT5_mcixoqooV_eCykfAcSOZR6Rtzzwu3HvtErNA9tVnfB3BX5JfIQUeaoLEacj_FAngAMJptGzKqJkzx0Uk5U993nw6blvmvxUMgFqU1Im2Aez6Ij6Yk0-BoyDmMAZWTFSTRqgOw0Y2zUTe9No5heQaD1Ep3X",
+        "photo_reference": "AUacShhXWeC1BL1YwGmsFi_rjqAGMMAKZ7iYuLz9Q6mi45saAQ1XAzAM_VlLijwwy9lFT65XpI9i1fuWgofHOyhvda5iGWustPrG0NgI8GSFauv9AMZnpewSi0lVrClaKa-v0hjYXx8Lr31I91AdCF_xH-_5t5nZXxTREOdBsEK6woCvPolX",
         "width": 2048
       },
       {
@@ -14530,7 +14450,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/107799905422297822320\">Sylvia Sanchez</a>"
         ],
-        "photo_reference": "AUacShjRxlFql7l4I1QJs0wWfYQ2meHS7GjOa7blTYb3bV-kGgL8Ud8BdI39nCggDui7MXw9d2QWHTWs8E-P8iS5n3Tt2FK5sRgyU6B4Hxz306Q2O3afPR9szU8rPPMJEM18z40EiRHPmpfNDp8JUAHf82OtiMk9503wf_7QEfpbo9lsdmHn",
+        "photo_reference": "AUacShhe1k-2Ww1keYpCUqz9qbIHeQ-gWw7G0VsbWA1QXeLlM75rve8iswhEmngME0nt05RLnbGAcJgmr8AjNOxRQX_j750YmFh7bpZbZtzzuoobNNcLIS6fBDFSfVtWQkQhas6QgZV41P22Jyz2vpFQoUSTMeYAOMpzUSw7buNxSpXjX8T1",
         "width": 3024
       },
       {
@@ -14538,7 +14458,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/111787520370225203795\">Marufa Marium</a>"
         ],
-        "photo_reference": "AUacShgJ2EzQjnmI6RwYFXFfRSbUDE9ZcUsXiw9PJmTo1Bj16tV3QsOm4-pmR98C3nCZnx8Nsii49UMYxSoRrMFc48nr5f8zaf1uaoYPzphQavQ3PrJFoX4IHnS86HmbBwmqbJDp3-RqI-s-RtLCkgN-No9b5phWB1yGUTUy0P2fEgXkb8K1",
+        "photo_reference": "AUacShj8DJtOH4hXB47bN3ZYsNjcy2UAp71F4jtCPG3-Bm5K3l1AT1Ysl1TxNHsdwhZ_rW3qj94JvpeItvIDxFFsW0db6W2o1ITIiIhoTXrCpbveqrHmphUiK4KKanLOu60u2yztksBrX5H0PjJFhdSL6KA7dIzQYcs5rWDn7KKmocdoFgMp",
         "width": 4208
       },
       {
@@ -14546,7 +14466,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/107384512154949107894\">Rob Delach</a>"
         ],
-        "photo_reference": "AUacShh2nuRxM6Xx2Z2tfZ9Won8fAgEmENrGCO-cMULiaD2CLMKYXwtDmvfoTGcVNU2vvmKzEIkDRBsqtLyNeRbyOHNkqdOF9f9fqu4WsY-E2TMEaJAPPn5lboTyHGUk8ne6tkwS_sV3bISEzg-dFgZOQEAf2nzuq4_2j8Ee8XwIFXf1pww2",
+        "photo_reference": "AUacShihGjhM4tEIT0u_7CZLOGF2CCwkjkS5-rmXPAA8g7VJ3lZ8xYgZCPJb1FLwhCKoo7cfWgjrUD5bcnIhz9QHuOwoeKCijqoUuQVp7zvlMQj7aGQPIbk6eNZZ9Nb93hqEcTU4iORd3ULmt-5QRN8Um17mlzlvFZoaYBrbh2PQAzChHFn9",
         "width": 2268
       },
       {
@@ -14554,7 +14474,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/102839964374689056685\">Passion Works Studio</a>"
         ],
-        "photo_reference": "AUacShjiJm4vug6IEEABwFYoQVZ2aVBsDKu-S_LfFz3x-9vzeSJQL3g1rnN-ftD-0zYVUtc8L-DuXz-DyU1k5Ad-ET6FP44vCTcjRrgX8SNqsmoJbqFbixhMK-C5CaUqRrwAzaGj9BjBgnBQhwi9iP8VDCzIATQw2BYeKgCUmlD65-Ii7d9T",
+        "photo_reference": "AUacShj5fF3kwJ-MIdjUon2nhG0ak9-1q-AAUotLgGD2bMvfoGC_p_8irYC38kQ-mdq31UJbQchMIuXUHAjIit-ONd8ymE7dJOCbL-J7kUiBWYlifclgue30XA3uSmcJHo7Rr-UUYzr-s3bFlReXXa5RjAWwMl_Qk1HgScV3R_zvjc281Z5t",
         "width": 2048
       }
     ],
@@ -14562,8 +14482,7 @@
     "website": "http://passionworks.org/",
     "wheelchair_accessible_entrance": true,
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJBZN9XbtzSIgRq5NCxpR695s",
-    "date_retrieved": "2023-08-15T00:05:59.414Z",
-    "placeId": "ChIJBZN9XbtzSIgRq5NCxpR695s"
+    "date_retrieved": "2023-08-14T22:57:24.265Z"
   },
   {
     "address_components": [
@@ -14663,7 +14582,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/117177248433034337820\">Pure Vision Arts</a>"
         ],
-        "photo_reference": "AUacShhXJAMjZAM7G8lahd2ITuQHjsn9jtX8JiR6dRXOYbt-4zF9vcc4vWo72G8Ju85fjf_NyzATy_HUmlS_u60swQdORKHF2ak7bljc5qAe9FNiTXvzsG02MUIXTAZIgoCt5eTyOg6vN5rvttNIpceBqU_nfO0J8ukbFtHk-fCF2gBydsLH",
+        "photo_reference": "AUacShjY5viG4tq268ZaSpa6ewQ6hDTVQy_blF3JqcZzZqHcfmeZNL4etTpe3wwJ5NheRNXESSdc99y66QRoC0pRKSCDCIqhqY0M0OIzVMkVh5cxm28d8N4T75DYolJh8J90nae4qghj9pkTd3Lzk0FcD5y7BKbN3LBdUM6j2DtTGfPBCr-C",
         "width": 467
       },
       {
@@ -14671,7 +14590,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/107637546303736686175\">Huberman Project</a>"
         ],
-        "photo_reference": "AUacShgKuppBnZcygcemFC6YOspGLjMGLtgHq4DGAsK_u8KkyE6lCG9nUjGY2oHSPfpnPOvS7h0hGO0a6ZRELSQZDCETC8hm7PtRpT6JymRrO5lCRvP7hDZim4XkpfpUZXqIBU7mPt3-k3rcIku-pdfeymeTJxhL65TM-bW1gYDs7AS5u93f",
+        "photo_reference": "AUacShgrk1-mi_AfiJsLy9t4InfL6Zw42HZeuUz7gtOP95KaBwtQert-1cgoc9_PlPgKhCaBUiRmKFiR2EwvYWfAjpEyAlsEvfs3NeixNrxHXd44NDzWD4DOQ5eSo9nVyNhHmMq-Nr6JaKQY1mn146X432P-AJWdflkMHnQnz7NBh78gyXby",
         "width": 4608
       },
       {
@@ -14679,7 +14598,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/107637546303736686175\">Huberman Project</a>"
         ],
-        "photo_reference": "AUacShjxEBcf1liD7dxjRE4aTMJqxnlu041C0YOIUvO2z7iISGVay5t3FFJ5jTprM6e2U80K1VQWWzBOWjBM1Z69Pr5HWoNYEz1BFo5JSySZp9q4hJf2XtyuV7cU0FgdgXFE8LN20y-drrO835t1MY-EjFWOx70ouFPRaAMldsxg9-0Ni1ZA",
+        "photo_reference": "AUacShj504w2IDYYti2auLcAfYFlCeMWALY4iPf3gf1m1XL_RzivG8xYdQnixOUL823Qcs9F3WMVHzS3AQPA3qt6iFn3yoVXqEr-BAXgpfbqAjETCK975Gha0yN5WQE3QTzCk5vnkZ7NLG3cmQjTi1GCbiXs3nrgX9tcnYqoRC_TcQIBDYzt",
         "width": 4032
       },
       {
@@ -14687,7 +14606,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/107637546303736686175\">Huberman Project</a>"
         ],
-        "photo_reference": "AUacShi6Re7tAemE3-T9FZIT9SBh_U9D_j5K1VSFvIYFh0zco-4wOs_Nj42PxXYBimcTwb2T_2mrg7T6VAfeddkXmTaTxIunHmM7T6GoU98ai-79ScoBRCG-jU_pvZm8MZgIGjsFEX5ABsMk8GcJYGSLyB7-sKJYvwIaFydvvtretaI1IKSb",
+        "photo_reference": "AUacShjQUBIE9rMujHWJQrnzhPsJdiVnoH5z_Aje_Xb6OY_GudedHkDcdmAai2xf5Rgew_npY8WRSmXtgxDPmRlaDPBRaDopHRNhita80UsKj19epVNZxWlc2CTSXFBSerijFeXWi4FriaOGzZ7vfGgBDqzjD0Tz0LaXXCr9lKwhzvsqJQ1m",
         "width": 4032
       },
       {
@@ -14695,7 +14614,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/107637546303736686175\">Huberman Project</a>"
         ],
-        "photo_reference": "AUacShjzPgxTa8JRGj7yjv4mX9oUJArelImh9eMBvOeZcX6l6ScP1G3SRAovDY86BhKzezq7Lq_Oi-0CT0fXdg6LRR6E0tLMcS543TlW6IIUfW82_OTc98x5GRFfcGZdu3UfwLhPZVU6xTbzNXXaBCDFcRy8cjyfT4rK21wghw1Qt0_gzOBH",
+        "photo_reference": "AUacShiyxVJvc2fsSzukPzTW_Y5NoO2Tb1B1GVvSKpEcTWAPRVizOvK5FsGVukD1xw46zV6H40rLPvhAj7a7CF9ipq3xH0xliX3Jk27GMBgkpvZb9TpWRbkkjaDreXoG6jugbhbI5oDe1kcQO7DONT6FEN2X5Wzw9omonmRy32AMoKffat8O",
         "width": 3024
       },
       {
@@ -14703,7 +14622,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/117177248433034337820\">Pure Vision Arts</a>"
         ],
-        "photo_reference": "AUacShiNJNrQ8Nf1J8O0SGUtYfaoImvVxCLluzolatH9xiGeC_Zs2QdHUEbJBTAaVqH2Vd6EzJ5jIrqV_klRUNb2218YNiVWQRG2IKiF0xfVG1nE1QAbE9cChq2MiB0th6ULvdgXje5mhGh6DzEHgQcwnDQiod7ElJrylud3iTC_ji4ZZ66G",
+        "photo_reference": "AUacShjkvhgdDIwjKMs2o2GDhqtwvkKqvm9bmsWeKrUecuENP2O5YSAiDnuiAGUNei9GwcZ4T7mUEO_ZtxBu_LCQNswGj-0uceUskwFT8_Vce3mHUoT1UUORLo9ncUzyI9gQ8qD2BNqyWsWFgOvH_3yJCO8qd9lRYMbtUk0PK-QwBjG_Ud0-",
         "width": 465
       },
       {
@@ -14711,7 +14630,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/104794658113374253923\">Elisa Huberman</a>"
         ],
-        "photo_reference": "AUacShgIeP8hcCAHsaIR0FQP7PaZNg-r0Vb_bsD2zMlqWyKXBHIFQqscx1E1Mm10dFILj9VU3qeK4c_NnwEequ6H9W10rCFFrx1L_I9oRcLk4rHjTOhKgQeSeAiyPgMfjDGvGH6a86rzwco6Pw5PmQtBTZt3GXy6Mgya0UahQARxBSmSx5nj",
+        "photo_reference": "AUacShgKHChjmhyQRabN89nYBACyl_LjN-aa4WAanG0Y33_Cp8aY9ejHVMlUzrmRA-OnhsZlYZ_KbUAlfwmUxj52Uuj9tOnJRn7i1tSv87dkhWWsYXvx__7pbGy0Dp4gm4Ol-tyZD1WmAdFqbSW5_1oaP0GVOyjBlTtFUxUFS-eFtm5yAXYt",
         "width": 4320
       },
       {
@@ -14719,7 +14638,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/104794658113374253923\">Elisa Huberman</a>"
         ],
-        "photo_reference": "AUacShhkBHGkysvso9GcreJGCuyQeHpeaB2KKB-iOgItRLaetjP53I4aFZzdLTgWzz_aIQbz8hY2oNw3oJB8jhmU7TX-Y7pXa8TFNK0FD3eUpqifHE4P4aHA6s4DJ7I7AQw9_iCHzHxgwBoDBIP67dVqE6mo6OU9SW55-plr_gsGH9OcPDVp",
+        "photo_reference": "AUacShhTKPbHGBNyQJ3sDwvdUNL4IxZGY0vbTeT2uapFltS_gq7ErWJbQOYtkIPi4J8LfllfvlQyzR4aNmRtj9MYMb9IgOAdaXYGy4uHWT62aXQaPDxuUVHnX4LJ3Xw99xKzIz19QRL8oVJb8jOIKjECXyXlYxOqdoGqoKZrtcNEpILn4vcu",
         "width": 4320
       },
       {
@@ -14727,7 +14646,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/107637546303736686175\">Huberman Project</a>"
         ],
-        "photo_reference": "AUacShh2qPVU5Y52cd-b1nPIs0lCS3uhiDSSUa4LvaOmmI_ojlG71G5BHBM8XVq_DIpm2p95P5rnoYyzeK3TjXmSqmzbM0rPh_J3dcLpe_AZlz04nLjlZV9FzDacfbmnYKUvQuM6VtoRTuVFu6OsfY1KECh2jk6skan6kBsketiphiklB-tm",
+        "photo_reference": "AUacShiihl8vgLogFcj5PbMy9mg6LYw-pD4HJ3ml6Y6DgfvViVKbZQyJoQd-Vt2Oob_fxFdUMBbnteB4PA03ernfj_Af-jl0eXpaRatBAGUfgAeu8NqKQVfJu9HflGH_2O4_SlY7zPiM9TBWttWvcrAMWnhpy9Fzsuzl_no6aKQQIWte69BO",
         "width": 4032
       },
       {
@@ -14735,7 +14654,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/104794658113374253923\">Elisa Huberman</a>"
         ],
-        "photo_reference": "AUacShgjN5MJxNuf4rAJbmjV0x2gZ0aMXLXTGEK5giil4fnqnkkkFaflIJVdmv0-wPZnmLFZRm_SQXbRhLtyCmIwekMchpxWa07BiT8QuSVDy-08g7BlH2SZz_-tfjEsHIakpBsTNO0j2E9_w8_TxeSbyDRzkukiGW2DP0u40RUtcfns6FIS",
+        "photo_reference": "AUacShius3X1oBL1ejgFQMpD8qcAf6LWbiZn7chsQZFbkH1UwxqpmwdY2R3LbB5rfwhW6hTkM7ueJjatC8W_90EhpyAEI1JBnLSTp1meQQnoQnj75uwHNVpMJAoyHOfkfaBebXbRasN1icLwI4IOSE4wb3PjVH7McRFeZYTlC6zYydMZblKN",
         "width": 4320
       }
     ],
@@ -14743,8 +14662,7 @@
     "website": "http://www.shield.org/activities/",
     "wheelchair_accessible_entrance": true,
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQwUHL1ZwokRmzeLa0djIw4",
-    "date_retrieved": "2023-08-15T00:05:59.540Z",
-    "placeId": "ChIJAQwUHL1ZwokRmzeLa0djIw4"
+    "date_retrieved": "2023-08-14T22:57:24.381Z"
   },
   {
     "address_components": [
@@ -14899,7 +14817,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/106860055864302078628\">Studio By the Tracks</a>"
         ],
-        "photo_reference": "AUacShjAnI_T-TmJdcDZgn2CM17U1aetuA8jmZnq6pp2eUEacd7bPCpQ3n5KtjkteNyZo62zGsiKTB4cKmaWDo5DuWab80G-MFZLbWZ6d0Ffo7vB1B_nGOerKUgZl71N0BCVmeq0_IMnLJPhidmHHjz5VABxdoqEYy08MvfqOesbcQImeRco",
+        "photo_reference": "AUacShiIgPTa5Gi59B6ne2tH39VL4-4YA-ItXduLNMwnAeXmqsH3E7_r8eAtTJ02bQqRp8Nz3VxmPD7LvUezHXrW2oqxvaij9SktKFIrTc-XhB3C-pRokYRKakTsgza__lrBrz3AKHAsM4WI2QR9fq4a9_rz-HO9o6rum90oLiZefzEmFYPx",
         "width": 2048
       },
       {
@@ -14907,7 +14825,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/111375102607026920050\">Gabriel Bailey</a>"
         ],
-        "photo_reference": "AUacShjElqvPDfdxXWNWo2OzKgOWpY6tFrYT3jzvlGzuUY30kkUe3qKdKWP7C0yZTi7zOx8jcZw11yv7Tr1GOUD5xj7iLajyNDqOl3zP4v14jbyNo3FzeEJqYr7hz2rX74zuURwzbJY_2U_Y7vilTHBQfMkf-u-zf9zA8K-MI_m9gHXGVPoa",
+        "photo_reference": "AUacShhqHVGb40RE9NpITeTz4x9dMxcKoRsQc1dJvSdNeMO908_QMd84zCxRbgBBvEYgO_SO4a9Pl3vFSIUGBwETL8WrdAMGpvzAaMcI0YlcqRjSrMxNM_fBByRRh2GTaJT2Fbl8TlwBhu_Zf12vX68ThnF6of94LXqjlQWnL_0IYkAzqAB4",
         "width": 3024
       },
       {
@@ -14915,7 +14833,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/106860055864302078628\">Studio By the Tracks</a>"
         ],
-        "photo_reference": "AUacShil9AeBLSsf7wl3XpJSvOJ51PuWyv8C_xyYUvUHefQ6kAwKwLKdHKWxhtEG6ciGKlgJl9eRsar7fb6qHfU2zpa4-De6XDAEx5l3MOiVySgr0WyOgNcVE968B7fjuG_08egaztAmz8Qj0cbtAphrX34lWnI1i1C8s8gTth31gCpS_npk",
+        "photo_reference": "AUacShgqhLw2uJukviVm3aCyzlirYj7Z1KbCx4YWNCP3UGU9G1aX32i20tuwwM0bYdIi3bBf47_hfXnaodBMB-qN8E24vYV_6MFVKUJ7bKtRU95raulVCcwLlu1ijIBth24s8bZ9U8O3PPIgZXeTqmEsS33QjDzoTxrVKg9n7Nj6SA4jdY-2",
         "width": 2048
       },
       {
@@ -14923,7 +14841,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/111375102607026920050\">Gabriel Bailey</a>"
         ],
-        "photo_reference": "AUacShip4yWoAAMbZqGMtWKoXH_9gf03lwl3lbmIcrqqK57Y4_9N765Hb4Gekhwmi9BBr-AsONH8IAUFaP8d15CnYEg-9mD674i2nBDJCUGV68p3W41g8yT5xc6q3Yr3UpsqRiHa4z-ojTUslFakldrxbUWB_jJj6lpYxYqjsJOYgrkIdlq5",
+        "photo_reference": "AUacShiuYmnjP2rmiWxcvJY2W6xwTpOOPCPB2gNmWuSp0P-T08KxScDxUbjTCfBSCi8y0CSF1apzKHc0PpTS5WvugUoS7rCh9qj-bzT_d2wQzmEFrfP8Iz7PqThzy6E80muaPhCur4jQ3Bc8Rop-bt-VaZwYVpGMAn08BbwC3uKDqg8Y7hDy",
         "width": 4032
       },
       {
@@ -14931,7 +14849,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/106860055864302078628\">Studio By the Tracks</a>"
         ],
-        "photo_reference": "AUacShhh-6H-QwiTk8_Lm55JeoJBgyIneqdMg3syhDAJmJm5Q8SkB-tDirPKLjnkNzKGbNNjEr3y0fUKrRynE77q3_RqL2toKlEDCC2h4JCba9Ea4InsULFhTwacJkuCMkWiwNe8woeMScgziVGp1FKaeNGfaXUakhv_CwKUwv-bjUn7k3sW",
+        "photo_reference": "AUacShj1cT3UP1M8RbUv3w9HwZuWlW7IwcDlI2e_jtROvkci1SCLFYN8n9zlqlOS71zWSPDKbV1oA3SXpL9yX-7fwzlkz9Boa2kS1v2z_tvXY4j0KnSUwSuXmTjTDPJQ66Orw2pYBeuxBWz_hmXHzkohxmda7z4XzQHTYaMKVlpoG1vpYTr7",
         "width": 2048
       },
       {
@@ -14939,7 +14857,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/111375102607026920050\">Gabriel Bailey</a>"
         ],
-        "photo_reference": "AUacShhyQei_Y-0NcRJA1JSa26o2D9jnL203ppwTDIqx8jI61ULE9nDy244GhRW-ea-dbrywnvtO6980NRki5DvSbyJmufX_CnTtieaS2B4IbYQC32RvvVw17pFwZSaK4vW-nQMEQGLkxb8xxnA5Xn9qR_elKOCWGPJvJMqI416Th76TPwC6",
+        "photo_reference": "AUacShiblyePaHekdJ7pLql1yxa3kQxJGhFie0SV_Vl5nQ6tEEqavr4Ek3eGCRrwcE0abGDcG-bHn62fEQ4h2pgTZU9atwDV_w9R5wZ2adPlzIFb38o3sxc1Q2vpaYIYBe-syOHyTOJ2qn26CHNbREdzk292N9nch_dsWLU2yXzlfgwvC_uX",
         "width": 3024
       },
       {
@@ -14947,7 +14865,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/111375102607026920050\">Gabriel Bailey</a>"
         ],
-        "photo_reference": "AUacShhc3m1bYWRAVOpWS0iBaSgH3o4krQBndm8BYb8XNB0LcleuzY95lKQhu64JO9H5ZLHhHrpKG_JUcG1qZdYO2tG6pRUztK0EPtUp723H-Fh4SOkkCaK6d6HWAYdhrzFPf-xSCJBk5mApgbGEUlCn4nnsm9wXW-K843gY54ZBGn-KJon2",
+        "photo_reference": "AUacShjyCNzku1N2EIkypAc_IS-9bMwRmxI6gHwzZVq1GW6yz_2SHd3S339GQBVYZHWA8J8br2ihkBHUtc99rryuKkR8e0k4wbrL0C9IkaYmxis3-qSEMsbD2VjQoVc_LYH0xQnZLzDZwNfjoiwjHdpNRVcwQFH11KZf2ZlGXXIq0WGWR4Cb",
         "width": 2727
       },
       {
@@ -14955,7 +14873,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/106860055864302078628\">Studio By the Tracks</a>"
         ],
-        "photo_reference": "AUacShhfP65Rz7fB7phWbHxZWXbe3N3tliudfBCAyeSyq10oazplhpXG3wNE2wCVcLRFsatnbYj2kd_t1feAdvuO6NOKFAIaH6v_9LSxjqoF3aXLOCrnD1BVoaqx_WCwDspYy8LXXlzBdVNyv7jA01ZwQ6i0KEVWEvhBQ17DS0eeg1fBhERO",
+        "photo_reference": "AUacShiIqhCuqfkrgZX-jl026mMaKZyWSpkrP-oB7fZ-cK-KjfwG4Mj_YERHoSYvO-Wqz7yKB3d5DDScNdgdgCxItut0tmKGPMqxo0Bul4gP_YgM2E5mx_RO0El2Dd9ul92VVarbxjzGLAxNTM0TgcRyMyig59mHOue4sfjPaXvAV3bIUNS-",
         "width": 2048
       },
       {
@@ -14963,7 +14881,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/111375102607026920050\">Gabriel Bailey</a>"
         ],
-        "photo_reference": "AUacShgUtVnJW_Tgu49Yu7u9pAbWyBRFS524yAxry6ssYKSJfAQysUkLVux_C7GB8bSYX-ehhPlCR99-xRZhpcCJhlRbLEWOP_r2AhyJhRJTzMGGQEdbPTMNAfV5thZDha0B0nBlyUMQrxD6bJBtArbAvoTXbjoyzxH5_nPheat_YXXjy3Z5",
+        "photo_reference": "AUacShi1nFl46T-VZtsu1Km4DrjubQJYUJMo8F8xTttYNcluWnuTKoK7z_O5YVkJ9eXqPI7iHbzsgqhv_edi1mpVMX6Mg832tSktr5QWilM94nLuguAk6IyWMqUrW5zQCLA29kEc27CCf2T79GXK44vdYn4JIZ1xvDOvwFUp9U-TzK1uRWbu",
         "width": 4032
       },
       {
@@ -14971,7 +14889,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/106860055864302078628\">Studio By the Tracks</a>"
         ],
-        "photo_reference": "AUacShiG26JohDwVZDAUko8IuIdnQ82SHEXXqU7uCkjVTMM7N6b8dyTXZGQs1DjkCBefYmyM3vHczwMiGglobCeVRPFc7Vve1tH0sL7K2ug39k2p-33JOEzfAPd-ABwEZIwOd5pE75ffw-Y1sEHKTQZ6lldul8wF7Yr1avu_4NuLQdXSyZND",
+        "photo_reference": "AUacShjhPmonqAO0JEmI-EjkF5SMkLvAr8MHGt9kCmY9qBjwP7oBOc7FYNf9ITRXeCIuSnaIEgL5-haGEqigPEZMye35ZHIMgqYUwNXp_SjvA6HkzXDjTrsGG4vxyEUuTvtI6L7ORgsMAuB2uIakj8aFVEsMGOUN8fWbEvDAT-NCyvjvXur_",
         "width": 2048
       }
     ],
@@ -14979,8 +14897,7 @@
     "website": "https://studiobythetracks.org/",
     "wheelchair_accessible_entrance": true,
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJtwpRxlMQiYgRrnaKkD--UrE",
-    "date_retrieved": "2023-08-15T00:05:59.656Z",
-    "placeId": "ChIJtwpRxlMQiYgRrnaKkD--UrE"
+    "date_retrieved": "2023-08-14T22:57:24.493Z"
   },
   {
     "address_components": [
@@ -15137,7 +15054,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/114112614518124306311\">LAND Studio &amp; Gallery</a>"
         ],
-        "photo_reference": "AUacShjGq9vP2HAGG54Q-_weaiohk5kZfMjXIgqpwcd41saafXLo5X-HyT023mlfHEQar6_k4P8YS80P95xK9WvHfo3o7mN83WY13Ovkcb8pI7-uXaKXhACdXDmpwoo6mFN-3uNjW8NjlAUw6HPN5VkrWbmMpZ4LJb1qw2L98gUGmUu830qk",
+        "photo_reference": "AUacShgSaaW5sA_TceylHUhB14RlpBDuOvLfsnM4kr-FLd2XHlQbv1xUZX8dHesXoWuOOmY5jagNaKNs-a5HGpeTpd1WC0-jyK8JRw2oWcQfEEWz6Twwf_4A5QQLcMMFygHZg_BP_Mq9Clro9uOCvtpp2QH_VNuXNWtBWKnSyzJGFQZq1HjX",
         "width": 2426
       },
       {
@@ -15145,7 +15062,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/114112614518124306311\">LAND Studio &amp; Gallery</a>"
         ],
-        "photo_reference": "AUacShj-NtR3-MvSx63sZ0WnncJgqSzF2VGIjU3HtMZxuSpkwjv4GzrWAKxdB9D-Ewln7n_6eaFvs02nDnkGUVNl0R8uQPWp70PMseR3wL4L4glu633NW8ZIQbDuZRUPG6K9lTZ7VDjIulFisF432TX5L7sb8phtp4q8IesbacenpdaNnLd_",
+        "photo_reference": "AUacShhtzELDaIqQ077muF4VF7n5oQndNVwOGJfUrwRTzGCvaGtfxs2e1Nfxe_AE0FoXbdZ7jCu9Zcu1Jyl_z_GYqwCoir32QogS59Yk__iwiPygnAqvG0DCdRpycd-oLQx85bIGfo5KNn0SLsYqI81BaqZhmJHaDvkIcSV_8Iqrw7-lqc5_",
         "width": 1758
       },
       {
@@ -15153,7 +15070,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/114112614518124306311\">LAND Studio &amp; Gallery</a>"
         ],
-        "photo_reference": "AUacShjYfZGHCzSLxz5WlIJkqLxe79VF4LvoFxnvtVNBCLE292M-WnRFU14I6iFpVAnV-wRl01aEoBC6ZOs427rCbuv5UVUFjWvNfXVabV5aZy6Mvwwp2cZhjenpoVQzrqFhUTjgPdZb4RgZdOTKXBt3RZcIwDxhclvyzn2tRKJxHUjSHXDT",
+        "photo_reference": "AUacShgCEmzyBEvSkY5KTUnRnGX_oTIXx5fpNtD6NeBGUtWb2xZkAcBZHYn3ijxtXgobUrlSi_a7QgKcTbgWnLEilqFkbh5hYZL0h_t05XYCSiCLUxYqmbSmKNE70EUmuG9IzZ33frLpx9brZpcI0quT-7J8eGWjQs9BAmRBj05UL0zFG_5_",
         "width": 3471
       },
       {
@@ -15161,7 +15078,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/114112614518124306311\">LAND Studio &amp; Gallery</a>"
         ],
-        "photo_reference": "AUacShiQo19weh6MBXNpm7oVm1TmbnlIxVKhG-0oO6Pz4tcIW9AH0gMtgQRs1URtrmQeZAG0iyku3IXbSwwtWuhcrCRax7dWVuhI3_-CTha56bIu1eKvKbjkE8FHiQ_IKgSoiWZPMiJDf3_-8uSTGz_mQ2pUs9K0WF1mlOKfGX0ny6qsgkDc",
+        "photo_reference": "AUacShi61Qc5YyklP6_6y8YLX-JQxL-k-uwSMfZxmLVuFmYqoDc2sSJEHeiy2hSUW_ihTi1MLDzNIXHBeooEs6DneqA5cXOijrOJPlif4TqSUJCu6dfMfKN3UtmynfaXZS40pvVEm6UfHdXgFXwGIldMnVK2qghgBKJ9IprPGKXot2B23O3z",
         "width": 2828
       },
       {
@@ -15169,7 +15086,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/114112614518124306311\">LAND Studio &amp; Gallery</a>"
         ],
-        "photo_reference": "AUacShiUu41XbFsuaWwK6igzn959OE5-jugf3gwwBqel-czXc-QSXtR8gFEbuMXygtRaF7GnWL_XYYceyZODzLRxpi7OUAzKnfLRyVv7GgZoITDyi0iHMUHg_EWNOSm5H3cMosYlh02VLUKQYUxDYdVFZhlYojuZq_oKIOaNFTryhmDCh-0X",
+        "photo_reference": "AUacShi70JigUT8NPboWXMVLSHIEj_5CUri0ZCESeui32BpFZcAqm1_Y3YvLOoz6oHWtgNahUFS3DQaRIRAt_e4RVq8VTWNTGNtsqotaVdl1jSD9iEG3ICiTgrowaC28OQLeeUB7I3F19SmIX7MOfNCGabPCOr-Af9RzA4X93V-ZYUBRn9q-",
         "width": 2955
       },
       {
@@ -15177,7 +15094,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/114112614518124306311\">LAND Studio &amp; Gallery</a>"
         ],
-        "photo_reference": "AUacShie9xYYiO3-4unp9zxvvk2x8S0REH0rIvWh_jrrpPQgp8Kf2ZvyVqTRMV6ri53VnhufmE80RiI3LxYtER1F4mm3BXXVA8C1r_PJc84oPqHvUfv7t-fIhemYQbERmO-vHbMe_N74_7EiuXoMxIML06vab19S7zkltCIqeOcAGMxnxl3K",
+        "photo_reference": "AUacShiQF2I3kBH4z_u2Yimv6WWHIAqcpS7IKbBP7mByAhXTgm08ola39ULqlLqrjYFxHg9vTiW8FXMu_rm4c2QnZyg6XXU-3_dBOORPxiuN0xflk_Fs2a1wsrNKrqOyqVRE3gG68z2hIFu_aP35XGNjNhfI72Oxj0zP3NwKqpVMCXgDx93d",
         "width": 2026
       },
       {
@@ -15185,7 +15102,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/114112614518124306311\">LAND Studio &amp; Gallery</a>"
         ],
-        "photo_reference": "AUacShiVjDUcmr0m31jG6RjDF_ZtYucnYhTUL7DfZ6ZOVgONIHYJgvtO9e9ZHhuHesIA8V55dRwHgyvkdnWEyKY1EolEQfw7SL0nE2vPKnUJXCwHAhvrJxabABkDMfyKxRdpJ_33kZ03_fiN5Qfw0q15VB1C-92nDLn-75gzlv3OhCNQdYcn",
+        "photo_reference": "AUacShirdUuYa1_HQWjAvIIUWXObgN7AdzfeYdUaYlggnoFWU5kvJ6AXlX-xoIoOlZMKVncBb_jyVMunjrw1QnKUobap9M-eNLruPJ8U7aEF3XP2kP9D9GOEMzm90eNDSEEEJzGFUV0zNwlL19uZCKV4HKC9wBjdptxFv6pDuSgUVKTZxBFT",
         "width": 1144
       },
       {
@@ -15193,7 +15110,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/114112614518124306311\">LAND Studio &amp; Gallery</a>"
         ],
-        "photo_reference": "AUacShiDBKOtKDbGbelyktHG1XEAg9svBtoFvNM0yn0OqJlGpaI5hu41y3sJOsDkCIuU8edl2buXYgATaoMC5PCDK98s44EiGG0PUkUF3WQxOHT7BMdFP9AYCJxKZfUvqdMfPDL-SMfrogrHSlp6miliPyCfjvAILkg-YcK-9jPV94bC16BZ",
+        "photo_reference": "AUacShhKlKj7CJBF8lTBuXvvFp0SzfiJlIzOh4Zvbqzq376b2uCvsIXKHp1bgO8iW-seKiXNpA0brUAN8r5ZCd0pNwByXNnk-M1JiWDte8uQy3bdgSZmbUXmlb9HWQHIKKdDuZTR2kL5xkk5wQ6i05zbt_z_kVsA11fVzRbq9M7d6p4RPHN1",
         "width": 3754
       },
       {
@@ -15201,7 +15118,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/114112614518124306311\">LAND Studio &amp; Gallery</a>"
         ],
-        "photo_reference": "AUacShgLaGt29_jpFIjPKELjMuZM6jgfUIXmXCXo3QpuLs8VH3325Jo1AFGdMpNJ84nfpzSIpAXIAAjJF6E9uiTaC7o98USpGc_p3tdFoMlPrGMuqcZjyRlIb1Bx7ehxc4EXU9ncFPlNd4OFAE2zT-diAbnzhTMkPak0gW6QlKoOf_jIWX0b",
+        "photo_reference": "AUacShgXda08vNMzBd71ajQ1n9pGjtu38CnYB-MWc_w4UvIz8HEJYXb59uNpUAEiQKE4Zziiwa8MMV6DeKj3KmMe2SuWY73gRWRm3pu8-UXqgyCA4l8BbQh0YHQ8cB7V61r0aYWf5DLGsxAxhO9NhDr8Q0kPuyF8WWrdhwPJUrXsSEvjXmYV",
         "width": 2698
       },
       {
@@ -15209,7 +15126,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/114112614518124306311\">LAND Studio &amp; Gallery</a>"
         ],
-        "photo_reference": "AUacShhCYL9ZdFBosv6VlAlReeUoxBGkSz-Ebl3vTZs2qYHc_kWd2D3p1LKOw3riINJ1bcOA7UdFTyrmy6N1WZMobwjEcMnJOg-e8R8IDaRl10UIfB-PPNWTvSxHw5u7-NVnu2vE7S0oGGOFfmNglltVZ0-tN2GHv-7kN72lIsn_R8G4kgS9",
+        "photo_reference": "AUacShiZthrK5mMRCB7_yMcCzi6r5akS5t3eOtl7Dou2AwF_bcrFS7CNPXoOne53oI9_DZiQKnmfz1be_IEYwKRMfEXxi8b6JDeQNB6fcK-Sfa24TLgXlDr0ar5iI35RTjP2irQ7Q_xaJ1V5WbXvNvSGTdaj9zcfNJPASKIcwBkkan3f3ipR",
         "width": 2716
       }
     ],
@@ -15217,8 +15134,7 @@
     "website": "http://landgallery.org/",
     "wheelchair_accessible_entrance": true,
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ62EYOzFawokRAipnryCcnCc",
-    "date_retrieved": "2023-08-15T00:05:59.766Z",
-    "placeId": "ChIJ62EYOzFawokRAipnryCcnCc"
+    "date_retrieved": "2023-08-14T22:57:24.613Z"
   },
   {
     "address_components": [
@@ -15374,7 +15290,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/113726749225852579746\">Gateway Arts - Studio Art Center, Gallery, and Store</a>"
         ],
-        "photo_reference": "AUacShg-k0mgHM5J6fPgC5b_xyPYTKy70dNTD6O6-fdyNuulOuHO1aPCLdLQUcH5H3yS9db-E9m7OJzm74u4Y73sKtyO65QR5TcZDkpm5KLBO5WXJUfX3Hk761t9RrEE0Rq-73lSD8xfm9mib1ue3ZBYsgmCv9kRpAONggQt_-uFtCB3mk9p",
+        "photo_reference": "AUacShjVgtepiqc-r7cvBl4TLYrTHV9NUA_trCcwSSdG_wos7kMybmg0Ob12qRONvSwENdIqWYeaY_BKifgy_yD-1sa0l0fwg3Sj3avlLV6EULghI7EU1Vl30CRucOHCPbq4_moflZjv9ZMa-GTAaVwJ0goQH2cAFdN_9BmNfnctHlVIhlQS",
         "width": 6000
       },
       {
@@ -15382,7 +15298,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/113726749225852579746\">Gateway Arts - Studio Art Center, Gallery, and Store</a>"
         ],
-        "photo_reference": "AUacShhTtciHB62BS3qbzZmbRmxh7678kVvCplbYgKjadccX8IMc_4CCIWZqgd0k3PL09RKajRBmALyYTh07KZ1UjeZysJkigYDYdwGKPdvxYH4xpP4PE4pBglAsIdQ060LUVcS9WrGCZvj8tUy_DyTAXvw7n0n0qliJkB7KIPkTHp9SOWUe",
+        "photo_reference": "AUacShj6UVkDzJqIP_IooUp5iBcoGJawjIzEyFpzdfG4ZJz4Kek3sNVr-zJVjXmLTEfMjepGoCKylEO-dnCw2LYWw92PwfZEnd24XcWRdUMgTnZgdYdqJGkx6qwS0SJ0ZgdvAnmwQAgDWTfzO02Giwn2Q2UEzI2Y4TzQNfzY5oco0Kz_KqYr",
         "width": 3063
       },
       {
@@ -15390,7 +15306,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/113726749225852579746\">Gateway Arts - Studio Art Center, Gallery, and Store</a>"
         ],
-        "photo_reference": "AUacShigrZB1rPfXk4sdGPh4fIOml1BX_pDfKafl3YlccFXoEl6mJYMEfHNOvGNVrbcKnkASzsAHJWNSQxloaxCsYjCf8iga9p8RY9-YhNgb6y8dk88MzKlQ1e6B9R3wzGHjgHsqP2TegVjdXQMY9Tb7yF2w4WvzsvW-wGLlnINgkoNtF8pI",
+        "photo_reference": "AUacShifW8pizsjjn-bJPKxCVAVSwUeKy-Ia6fErvzNfRUAlVAXOtN82OX15_zbMVcrbgaKz2VLyIyMkIY7PtTv9584dE8uIjaXrTTUku4kw-CaV9xT9fHvLk4pOsLySBTZdoRENF4hp9EmJtLzjz53MzvBa6NhUFC0hjT8qlqfeBaADwAHc",
         "width": 3696
       },
       {
@@ -15398,7 +15314,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/116514185743323795934\">Israel Barber (TwinsanityMultiverse)</a>"
         ],
-        "photo_reference": "AUacShhmxEqHsw8HP0fLm4Dbd2IqbrU5It4zBoIQ4OiUDptgD_ZREmBBEKjuGD5sr-sP0tet6VMQlWu79rQPtAgZrB3saLe_DjZi_Xv8olTFOnoVfwx2T45Zv_E_UO_zS1Lx2Qq9LAIj-SheGY6rxxw59nxRA2pTKV7mJWym2D3RJPqmBFOZ",
+        "photo_reference": "AUacShjhafl33jf0WfbmhJcQux6D900v6mwEShldDMXscqsYIsxuKHhEHC5xAIl_w2OnRyk7oZ29awpQA1kjN64UDXlJTLmDDW_jR47tgwy9eQYHLgeE2bsZWdUEYkSTJ9sldcG0DvkOEDBU2Cj_9BW_MaXJV7KVciEtYGGnXCubzxMcSEnJ",
         "width": 2981
       },
       {
@@ -15406,7 +15322,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/116514185743323795934\">Israel Barber (TwinsanityMultiverse)</a>"
         ],
-        "photo_reference": "AUacShhsmBlzM8gC4wx12U6IOUpwjE15X5-GntKZlIQ1Q3Yd-xDmsx7zCNl-XLzu65BIf3oEYDYVqmeBFYghIJT88WFD6RKltqViuP2IEWprfyWr-X3GHn8uYqIT9BguOactE3a4uK6ctesDHJazmJQQnjxhVdM47sQ0pV8q_k8sePN57yrN",
+        "photo_reference": "AUacShiEdKo6bPNt4aG5QXGRgG7meNHSreOngcvSCkLhJxMsx1cN0lTaKwc3Z0QLttdLVnqaRsmdRLEXtP2qK6RYMth81OKGtaeHr8vYD3lc7t0zfLDSbReI3X9R8I9tL04ZKmfpBcsAUNqsOt5kC81vLy-Dg5ee9rfFil2XYa-FHnD4jk_W",
         "width": 2981
       },
       {
@@ -15414,7 +15330,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/113726749225852579746\">Gateway Arts - Studio Art Center, Gallery, and Store</a>"
         ],
-        "photo_reference": "AUacShhR0dgKdxGQCOWBrHKbcPGgaAH7hZOdL59WIrkN__G67-xBRvYocz9khvpvgT3j6YBx-TPE3w6RbWMzpE4K-TuIooVWHJkspkavEcWwI05trSDYV_6EcZ_-eG-VdhvfxhhUpwoU46Kx5Ov7T2IeqsrCLkzRweDOTLHJb5ZAeLOOxzsM",
+        "photo_reference": "AUacShg5DKvC3ykxPhrVymC1-e6fA9A_CBHUH_KqNXRs5K6X2Bor9c0A5ysl5XHcJRpo9embRwBcABS0BG6ybsxJJJAMUiMBbC1ove58YD4SQLWAIelCA3r38ANLhFyuW4R0gdvulA08vgdndYMjIdLu6fR9HWjekQJ3a4e5diiSGJUKbY28",
         "width": 4608
       },
       {
@@ -15422,7 +15338,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/102146572329442043277\">Mr. N</a>"
         ],
-        "photo_reference": "AUacShib_yqF9OIF1cRWu4A7PaJ1MIiCHl0HZQftTcdWBUAmrFHmcQqT-gttxMrwfBB07wmpPFBPIr7yZ1EcRo25IEr4kXEumo5E4Vo9mWQO8iDLJhRo8DU0YkJPnWxPSMF13ZQlM5dmx9x_aHsVW0AO8_pT8ye64ovlVuhfwqJiQqEmi4Do",
+        "photo_reference": "AUacShjKjgCgq7aHMiz__-YuPM48hWCd3iTlSRN7Wfhu13LShC0YVNr4L_uZ39RLliOdS3heP4wnJq5G7MzoCGh_eE0dEF3OFLOTHrNK9BovBk5u2X110Cm_srHKOmYgKxdn8v_kSFR5ju2OuwXINR3HOexDeftV2u3ySdQugn4Waz7eC8z8",
         "width": 2983
       },
       {
@@ -15430,7 +15346,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/116514185743323795934\">Israel Barber (TwinsanityMultiverse)</a>"
         ],
-        "photo_reference": "AUacShhqjmmmRQwnUbL_ib992107kVGl9KayQQ38CN0egd3ktff83Lx38eAepDyMQn9nenHWPxSAMl8BJbrpNYJWrNB6kKPnWCbiSzwolx0hATs5-5N569J3bnOHtr-tKN98nIyG_D0-pOU5Q02NmgZ4tpwCCbKwRYAw6XHhammhPLYR2eJ6",
+        "photo_reference": "AUacShi6zsH-g9IqAJjtQE6uEVjRAx7tJbFjAJoMkdqEGU5yqXaI6n5tfjOJ_60JgKf3KrLHpwCusTGtw97M1HVwv0VmeJNVryW-qoOlGgFlqFNeNZ1RHnaC_uUPY31zKBTQ05FmgCW4yI1oTz-n60x5zya4t5IbDT00YYNDsu_vyuy07prZ",
         "width": 2981
       },
       {
@@ -15438,7 +15354,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/115268046305728677397\">Paul MacDonald</a>"
         ],
-        "photo_reference": "AUacShgEPugsE1GP9jwaMuRuDVTrMapSSkOOuMFWOqjq3_gtUEWWPS2v0Sk8wpRGoIatXPviMa9oUGnCg4vao6HzemPDlyadXW94i7n4hm-Fs87jvoH9ACRVGqxFY2njhDqh4RSg2-HUBojCXpiplG7Yp8y4SvGMq2PHezZFsm9VEA5VK07x",
+        "photo_reference": "AUacShiFuIhtGo8CHG0pNisV9_nFB2vlDyFTZqP_phArlHoKm4ym6skIpsWLqzyVKY3QfjQQzEbpXSANgw63FeV7wtzmNzNTqaOHuqUeATibjnpH51qL0FZCtDXtFr9M_0K0US352x2FWiq8ipYHuvBCFbUZzOyXzHZliE5Ccvl7uYBrVlp6",
         "width": 3024
       },
       {
@@ -15446,7 +15362,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/113726749225852579746\">Gateway Arts - Studio Art Center, Gallery, and Store</a>"
         ],
-        "photo_reference": "AUacShj9ty_vEJE3MKglvIQMJnKCveRTZUtw80GHyPgM3DRJELnWc92tn2u1QngRYhbTkU9h_-CxrwwVmMD0X7l2gl3P9BHLXh5UdkVH2U9EAuYliCVgDtPTIlfu1tgnPB5y1BegC_PLcqnYO97j-EPpJkACAfFzaIkV01-GTyxgbNKzBsaS",
+        "photo_reference": "AUacShhCGw5ICdkvIAJRYKDnvHDMrMA6BxBhvWbExIz_myxAVYcWo1F1EO-lqWfw0m50G4nM8gUGCy-t2YoneXnBMY1LH3CJycwxK-vYQ7DEf4Vy51OMOPf_-8B2r9lZ8QWJd5w0Z60dQuQZwADcXtDJbR0WdAwR9VoUG7zULc30B5_dEdJf",
         "width": 3600
       }
     ],
@@ -15454,8 +15370,7 @@
     "website": "http://www.gatewayarts.org/",
     "wheelchair_accessible_entrance": true,
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJS0oB8Zd544kRkksu-_fMTG0",
-    "date_retrieved": "2023-08-15T00:05:59.878Z",
-    "placeId": "ChIJS0oB8Zd544kRkksu-_fMTG0"
+    "date_retrieved": "2023-08-14T22:57:24.737Z"
   },
   {
     "address_components": [
@@ -15546,7 +15461,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/117175991660998820030\">Jordan Burleson</a>"
         ],
-        "photo_reference": "AUacShj9W0R6PaATVpO67V92cb1xEQMQnwJKJSgx7QHSVnRb71K7Wag1h1EP1tCg8dm3JXdpdU0QnfYDU0LxIyarWFKt1HNd-eGtWSDFiXC0_VORF3c9IN52WTWe7TL9sOkzinAhPYM74zPTZmtL4e4w5vh4P3RYpK0iEQ1F64Ffyb6XcRVe",
+        "photo_reference": "AUacShjmOaKnxEo1j5Bdc_NhbZ7pSzL72RirnJOICiTdgjZi8Layt9yI1GzD8SOPRQvF_nzU_NaTHHx54Pk_MPoeYoqHPU99OeahpwGzc_Ga0ZUGbdGbDgiWToUq5TBqgo0FGCe5V485myxZVMKSX6LUqSuUMtcqFzvhnrlMpXzmor-1za59",
         "width": 4032
       },
       {
@@ -15554,7 +15469,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/117175991660998820030\">Jordan Burleson</a>"
         ],
-        "photo_reference": "AUacShgAesD94SF9dL3oaGuGM4S64VZaIstSCLeisLlYdbd4v881-xtyTNYxFiBTdJb-WP_tSTVuGGkf438mZK3SZ-K1OYmu-oaP6KqM1diH0vd1Fh52JUqpISdQcENHjwPvFL5893JvzkZL436rri_S0CjUM6y58WHc7mAqmPQ28q52htSb",
+        "photo_reference": "AUacShgXdk4_nz2dw7_7qrtqBjX3k8866ZVdw2DNym3Qec4vP58gqa08RqJswmxyTqhVXwao6P9YmUF7KcLU0Ots7IrFKmGZS_P-mxunkUPYVOI0SnmM9p0bOu1R9KHK5WUSDp71HBTcDlpMttoUjU5u5oE9cLKRED5tldQm3fONPI2Z2MSo",
         "width": 4032
       }
     ],
@@ -15562,8 +15477,7 @@
     "website": "http://enrichmentarc.org/",
     "wheelchair_accessible_entrance": true,
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ64CtWU2uU4gRmaWPXX7bP4E",
-    "date_retrieved": "2023-08-15T00:05:59.982Z",
-    "placeId": "ChIJ64CtWU2uU4gRmaWPXX7bP4E"
+    "date_retrieved": "2023-08-14T22:57:24.843Z"
   },
   {
     "address_components": [
@@ -15715,8 +15629,7 @@
     "website": "http://www.artecf.org/",
     "wheelchair_accessible_entrance": true,
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJb7xbzsrVwoARNwbYCJPGM0I",
-    "date_retrieved": "2023-08-15T00:06:00.080Z",
-    "placeId": "ChIJb7xbzsrVwoARNwbYCJPGM0I"
+    "date_retrieved": "2023-08-14T22:57:24.944Z"
   },
   {
     "address_components": [
@@ -15815,7 +15728,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/105280902413745190200\">ECF Art Center San Pedro</a>"
         ],
-        "photo_reference": "AUacShiK8IQFEkphl13SzmXnnyaX-YtbtNfKywjB2W94TJzIFyjq9O5B52FWsJWPob7qQNV_PMXJClOOcl2vyJHSyb7pthnXBfKMlmnwf8A-3djPB6wKOBfFmJkDrB37gfi_Za3eRPUAonV7Hur6dpiJQttM8oHz-q9DjaZ0h-rMGtzLfImC",
+        "photo_reference": "AUacShi-jGbuZfbvGCZwEx_QlrRLU44ijaMk9U3sQwvt_IhGClCKnG2cCqvM9Lb47V4rZEuQ7LXUL_KbHcTYZHAGm5nOzVCfR-aBzxdUkJkB4Tun0KHBsZcv5ZwqtflM08VVBSSWVmEk8z2ETI0IGpJo2-uWHqmY2lJaDgTd-QsRKsPSy8_K",
         "width": 2048
       },
       {
@@ -15823,7 +15736,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/105280902413745190200\">ECF Art Center San Pedro</a>"
         ],
-        "photo_reference": "AUacShgvwWzle_8zJKyOvxaLs7rl2QeErJfc92ZjtOXmH7uGpaPC35KrmoG0jJIt_9INGixKLS8q3ziUjhcAVfvjuQBK5scINHm9hiU_BBJaGUdnkzcmZSp_KIUjfWRqC99JyjxUC5cz2qYXTdhMCBOM-bB0r8XmxumH5fChivM_6Cikoe6z",
+        "photo_reference": "AUacShhb3qlnAV0PE4hFRm-0NkkOFeVEvCPuSJg6JCgfazYx-KPEmSsBbtE28q0t2-omJLqBFQMTOhVvUcH-zYEn0n06r3olHPY5uujU7p6jFStYot2Hs5lPJzW93UqMFY2WVErrdPpmfTAQPgBNGXFslkm2ivX8TrB4G3jU-BpkVMLoQ_nA",
         "width": 1555
       },
       {
@@ -15831,7 +15744,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/105280902413745190200\">ECF Art Center San Pedro</a>"
         ],
-        "photo_reference": "AUacShj2qXQQt6UK4eQiF2fLDDD5CTsvT0isdOOiJdmbYIxQKjKca01LT5OyHh1YSPE3QCef1LsxfZpK2_eplva9iJOeVZIJ2npRA15JT0RwfW6MdE9zQMZoDNgfEz2kixtGFo-s9iI0KQnG7nnxTz0AJPn3rLGtH1ezlbWPw993h0lw740b",
+        "photo_reference": "AUacShhjo71_PyMfrQ8EgXPaPn0yLwNsxoddP1XV3t3FYT5YVJGLUcUctpJIO9VCpBykYLNo__lFbZKAcOjcpFnkju5hedOso_bzvavdUYGUZKzUkkO9B53HRxr8DvmMoS6W4-BtUGqeN7hRLNqr4wo3f9YYim-39T7l-AXP2bN8jiV2Skdg",
         "width": 4608
       },
       {
@@ -15839,7 +15752,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/100984791752035379993\">Alejandro Diaz</a>"
         ],
-        "photo_reference": "AUacShguFFp16gG59f8crGOOB1lgLDKSKBTHMsATHZCqS8gy7Xe-1482dGFrEGhTYICh8T49VHw2qnDigfFv793kwqw2dhyHPGOxJFNR4oLaF1zr3KFs2LumEcLluf8k8Ve2tGr3T2pv81i4uBGyTUCP0KCWnsjIGMgCxs7nMJBt_ZhQHR6S",
+        "photo_reference": "AUacShgGh2DQB8gogzsL3oW1BC8HFpqbcSYBJWRq6XNgorbmb4ISRMTxPq2j_ufxmwYWS3BBlZIucoDKzVaLtM4lj8u1MZe-pDRjZtz_iFotNz5OQKiF-tpaGw2uk341sw38zePiXpH4aYE3LYyHg3-CBbPL7gG4tVjnxVsReonkJG-GbZTv",
         "width": 1836
       },
       {
@@ -15847,7 +15760,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/115164444127944114085\">Aaron Waters</a>"
         ],
-        "photo_reference": "AUacShjiAXdPqvM0PYXlk08tEwctKSrTCAc5DxFbFlrZO_hGTvcxWkc6vwvwlJF1R95cY8yw51yGYzCznGfhLXHSUBDRjJMipykph0YXlXkGFHUHNcx2o1uyohzEi2SRQ5P3jSbBlg3a3VO8Qu_2MMMTHvrpp9dmwJLblWOw2OO8Ta7BXRAv",
+        "photo_reference": "AUacShjfXwuF6VgDj1oDEXrw9npBvtzNEocZ09z7vf_H8VwhyVL31fAB_IXWMJhhhqVGxZHhjBX8l-PZHA_wpd5bhkRoiTQMRR7phx8hr9_tclZ2QZKx4Cd8VF4Fu2ADT7fkYKrei6bYN-ahxTncKVX-6YIQXSA_mvTAw0PDEgPAi0mo_jit",
         "width": 2048
       },
       {
@@ -15855,7 +15768,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/105280902413745190200\">ECF Art Center San Pedro</a>"
         ],
-        "photo_reference": "AUacShgFebxlQMGu7uA4MkU5Q-4TIqgkSlb0y3kdk1w37GO1QZr_HhzFiO3A-C7fUV1MZYcGo7bQ67cxNyKMmN7JMj5DHYO62aqv47tzC8dKTI1jgMSRgnjmvdS3kZSm2ig9XLlp_-KTKmvgkAmi4awieY8ZqipoISXgAhhg-840W4HyPgKF",
+        "photo_reference": "AUacShgPOURi1Zr2WBaLKju3fP2jZCxDlFqVY-hYP2ylmp_lYzuBsK_MSAUvhuHamuBKblQafz6ivbkkDXHWMK67tWeBonhDvkT46jshq_UIwvOMAuZdg12V_u4F4wTfDReDgA2JLrtvWyZQ9zLIqdLKa9C-qi5pJkBduRspwtGTHQGulrze",
         "width": 4608
       },
       {
@@ -15863,7 +15776,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/115164444127944114085\">Aaron Waters</a>"
         ],
-        "photo_reference": "AUacShhHXedX1Vvaa_KyTS2qrndlqa55bdJHX9qMuEsTwJgGYBkWf7Bo8R83JewquAoGmHslKsmr-Y0voIhvX4Dr0fnng0S6brsvBm5bn1oF2I2801JWDw3VbRmiUAEfNbP8lIfdUYLS_CytqsPb9yMjHME2EO1a1i71-osk-_9tXd7g79IH",
+        "photo_reference": "AUacShj1K7jnIKrZnDqWFC9ukTBYyawcIQJ5_G8SxHCDxuBueS4JDRDeLXj6ePvbg-zdorzsVqL9Vl_IqOPpZ5qsn4hnDQVdcLqChb8t5ZwL6napqGlp6ihLCaIhSvivCdpyAm5Scvohfi8C40FbJl69kDFfC3yjATEATa2P-5C3-15-NRYn",
         "width": 2048
       },
       {
@@ -15871,7 +15784,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/115164444127944114085\">Aaron Waters</a>"
         ],
-        "photo_reference": "AUacShi0WzxH6BPwhZwmanX1wPf6SnT8jdZIRAhrDEXECP--p2b48P8LsXmGtjNqeTLbkTB7oYLOVRwsui94K4dSJT0EAbUiAZfJee57paw88ozNHfeKY255fd5oigP8wi7JLMWKHYPdsS9KEncXx1N55CDOBJiqUpzgUkzRtQWx3RbMt9hb",
+        "photo_reference": "AUacShirYt5wsjI6f72T_Ah4kK2yWHAbMEmQt1U_ZXh8LQRHCLExJ6iAig7jPAdnW1uMR9l4BE-dDJXvS5NA8GD4cghjMtq9pOClohupoQ3LgDIb0XuVlKaVcWLsn6VNCpNQeMarXsWWY-0BZ-BpoXFkmAIAOnW_l2eBAPbaZKPorLJmBUfJ",
         "width": 3381
       },
       {
@@ -15879,7 +15792,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/115164444127944114085\">Aaron Waters</a>"
         ],
-        "photo_reference": "AUacShhQKr15UwCHwzg06yitpRhFJ14tJNHXEb3s8flVtBQkDYsNfrYQTaEakH2Shgm9doZSOs-9cZsdlfeEmS2q9bM2RGtjIKwcOTRzUQhMIOQ5FpAT1sG2CTIjeZKwiEup13tnT2NmgxwQKWedWmrsGv_Eq3KiWr51AILj_vXcdyMqGfsZ",
+        "photo_reference": "AUacShhnpLQVMkrwqxA0QPRn40R_Q5TWDTqPW426V_7b9246TguAynLz6Fkr9ibEXBdzVt_FZKe1Xl2f-PMhrALMYjGGlKNccT1NrOHI8WKjuB_ZzvERoaDngWpQ3L33GT1hyK2zOI_h1aUhEgG974fV1LrM0LEqltUQ7CHMKrzoFeMoarSw",
         "width": 1152
       },
       {
@@ -15887,15 +15800,14 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/115164444127944114085\">Aaron Waters</a>"
         ],
-        "photo_reference": "AUacShiTcDy4hs7g5ixj4orutPNUviCjcfHipNjJL1gogcGTuUwUFbsuXHO0fcGdwptZ5IWxH8RdMfG0G1nPaaq96PV84wx9c9LhNaA_EWw1l5vfBTZdLG3x9eJBdVveR8eRGIlaXCh0RqXSP5RDiID5NBJfb1AjUQCoDmH-OnBQDc2rp-Yc",
+        "photo_reference": "AUacShhYH-r_YQQg-DuO0vDLm0b2wZ3xH2g5B0F4UgEOhvRbW-qLPvyziRjSHMAZa_tg-LP6IAvOJa1NQ6U7Nz4gnq1m2p13Z1QAV_wHJZaX-1bJiougjkAsN1GUOARtKOU3kSxzoD-q_Hq1PvKDPcZBbJIIZMibA-a0dhP2G2R2Mte96-vJ",
         "width": 1152
       }
     ],
     "rating": 4.6,
     "wheelchair_accessible_entrance": true,
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJA8_6uC423YARyTMIfH_coLc",
-    "date_retrieved": "2023-08-15T00:06:00.187Z",
-    "placeId": "ChIJA8_6uC423YARyTMIfH_coLc"
+    "date_retrieved": "2023-08-14T22:57:25.073Z"
   },
   {
     "address_components": [
@@ -15987,7 +15899,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/105564713069844110350\">Richard Schave</a>"
         ],
-        "photo_reference": "AUacShgRlzclzY6pLzta4zZx5m8flH5zHNrXKG9IUGzp7DrMIHlrJyB0a5hcXkTxiXTytDpxog40Lj8-iCnxGec_pFWpeVnXU_vf4ip8H79MfyUuhM94buJnK16CWj7afELMsZiRlvsuMZ3amFvo1kzhiMIH9zT8JvfrXHJMYzVRMSQxUEi-",
+        "photo_reference": "AUacShisBu8S7uLHFz6IuMbVBVkU44UokwDo93_4LGrccG4w5Z36xqTpt4Phhwe_eAgYJ5Z7dm7SMb2EgGZSVdn2CYhxRG_67SqgFmZTDAzri7tlf32p-iQKa8yJCYhmWqp4gjjZ8XmR2wln0sAfTIcmMyzwLmo3rwAiimeKU5QJRISjKAMC",
         "width": 4080
       },
       {
@@ -15995,7 +15907,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/107078901438873326604\">GlennThomas Ford</a>"
         ],
-        "photo_reference": "AUacShgRbkpPyrLjndnLB7qkwbx3IdEgKNnDpEl1Naa0PdAKD6LpHx4hs-73MaSSHMmBpsrUCaLqtuD5jb2zoU1qybrEuk5btC4qDeNjF_qVGJkH8eRSiYVFbAUE3knrEyH0q-ry83xjtEOjUI_VLE7C9S54nsZX6LW_5SkngOVSR_xRl1EO",
+        "photo_reference": "AUacShhcBZOmoPPJ1fnHjlaQp80Lx0nxPNoCAzRQkvBNYhZXYqZbIBel0RKmh1RcXmHC--oLt8d5ITV4jeZ_L17W9TuRqG9z8lWD3aUTmBPj8pQpMIu9Arycj0UmB1NYkxnQX9vmkoXn7JGoWqUjvABhE9RyCunU2WeO8Nq_awA7ceu4DqEo",
         "width": 3060
       },
       {
@@ -16003,7 +15915,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/103857837074214928481\">Cameron Mayer</a>"
         ],
-        "photo_reference": "AUacShh1FfB_qEIStFp17HIm0sHf1krrXwzEGvIef6trjNkEZQzT2cmgERsbhm1RHQhURdZe3Vtgi3iagz_r0f4VCFCcYmqETxFNatWRaHpniUpY3mBL_Jx4JZoAumtAkQomrQOUam2Fi6sc_tO1Hz6JM_3l1ti3mucp6vxmORAY0vpSKq_Y",
+        "photo_reference": "AUacShgvSdWqiX_uOhIrNMHGb6wppVrprzxxv1C16J-Am7W7HTGUWWNv5bifhWGrMh_FBYrno_XyOkkm-OZO0LHbyNhiR8SbhlqGonbnkaCM8hLIcXamWxD2FU4PMnq8HO6e2xek-i13Jg62zMsAKr6_ZTWXki8zZDoQvAJR1aS9kqjtxc0P",
         "width": 3000
       },
       {
@@ -16011,7 +15923,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/104997085703506477026\">Berna</a>"
         ],
-        "photo_reference": "AUacShiDBiDrdjLfL9eCmQmXiQCPEyCgALaJ-54Py-f0nMjlwriQV6OMhZSajsFrFtEXkVNiS5x7nlsjJbgpQgZwa2HZ9k7PLxSAt9MDZU3n5ljoY1jQOMpSM3A9URB1OwJCoMrlTocBdqcshNS6p0kva1-Wr2cPrCMi47raZ-uxOkzBK3vN",
+        "photo_reference": "AUacShgT-BtpMc1fLnJv6IDgWna8kdjHBObBo3k44jv3eGNbRNdUxzh2I_2OuxFI0SFZNC71YEBk_psewChM4bLqfviyjEKc7RIzPK6CydAlEByx0_6NKMsJwxDo61_0WKDGggLqu94_iYqzbBFlUi1Ov41tfsSDVD4wYAEADKPM50CpcCvk",
         "width": 3024
       },
       {
@@ -16019,7 +15931,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/107078901438873326604\">GlennThomas Ford</a>"
         ],
-        "photo_reference": "AUacShiqe8n4DS0hO7iHU2sg3nmEuy9ydHFBMzS8s8fPKVoSSBYAIcZeKcV737ug6zpoLo5sxeGyKclFAK9e6ynRW9Oib9q77pkth-5bflqoxeUQduIj2ZVYXUr96heR-PiFLzJ1pMub053b8aa2exhWEprd2Y6qrJS0G0HUjnmF4gfb92VM",
+        "photo_reference": "AUacShgu2DHC881rVbdZxePEr3ZT3FMI4cui_GVOPlGsTU3oP0Vm3Ra9x-ceWMFp8Q8JD_OcvZPWZU_9_dgAojXVq1jzIJ1L6B9wytJ4WBx_3IXPN0QQmw-HnljyjnXYYIdA3xgdRdQFXNG7_uMCTrfpQwXySK2hKL9cd5hGty7POiB-7N3h",
         "width": 3060
       },
       {
@@ -16027,7 +15939,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/104338555404651325191\">Leandro Travaglino</a>"
         ],
-        "photo_reference": "AUacShi_UPAkixylH-87pdZQoSdZilKr8ieQ6568YoWEwfc4Q4FJ2wZ6pCKuNKkXvrB7nxBZpVlGBaqRnIdKGoR0Yw2PTOrbqTd_uBQObJ7AmJnt0d_IhbmZqIOk6exMJKvbY-snvBPD895SieHFW7JnOkVAutqNLYjpFVn0fvBlYE1zEI2-",
+        "photo_reference": "AUacShjB9U17FmDMt6e5ZP__MeZ-PuJ9k3vAalu9Aq-A-ajZGl_NtMTAGeHoUWasrj62nUNATegSvUEEEvDk8q6XgMcm-atnSFq5rJetShe0I5TxczGZIA9gCH7_-5phlqg4CVaJpcKrCcVP6tmS8sgRJrGUhyCw1bjYmK75_nzCWFJmtwc7",
         "width": 4080
       },
       {
@@ -16035,7 +15947,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/113034035868468613301\">J C</a>"
         ],
-        "photo_reference": "AUacShiCEIAnAtU-ArlQZZtiYQCtPL9FR-qXSlK29q4nMzyyxqKM9V0Rlj-eEg_myVxwPEwlg85udMBb05niTeBCT8eKG815AvOzgGwLJB-TBdsdAhDYGCUzsivUJULkZH01hKjfWCAvqPk-F3jnC4Pv1cxJ-qvVgQ_SbdznqVpjWU34kGh9",
+        "photo_reference": "AUacShhGIokK5OsDhVKJGhV0hectIZYfEe_CkP3y10LwnSugcJUiMwGh9BMSY16kVedLi1zX-bV4XijWEUI2UT2QljxzzvY9kQkONFq0VMf0IJVGz6-vQyAUaoCs9OE8p-E0G0I46Rgdh1EOaHyd2IEpHiOSkRfE21a5Ei7xZlSDKIbU_Bus",
         "width": 3120
       },
       {
@@ -16043,7 +15955,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/111915073617175382826\">J V</a>"
         ],
-        "photo_reference": "AUacShjT19xTZXvyRiGVxVxiXIE22cLLECADQmRBYgHieypOnZrJFemszw8stiC51zMAq18Pz6qC2bfcaa-3PXF0UL0mLqeLn3uZdnAAHHf5Qbddja9zmBye5POs8G2VvPIyA7eikdu4IMqSoj2euqe26m0o2EtquCsAZ4UrzkeHM3GsB-wV",
+        "photo_reference": "AUacShjJwbHXctubEXf6z3r2yt6uBBtNZkhQ4Goyur4dKAx2oNNmFM-cJVmCkg5yw_wcYBoB_er8EkEHqdLI-NZRTAWh0OR5FJWSIu89p5AYuVxA9uFYm0tP72amC2d8Hb0FjfNLC-sgr1StldOdebq3M-qStgcgUpE-q36MG4Xz6hcXgVzr",
         "width": 3000
       }
     ],
@@ -16051,8 +15963,7 @@
     "website": "https://www.artecf.org/",
     "wheelchair_accessible_entrance": true,
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJgUQMIcvHwoAR8s2zfvJv0_A",
-    "date_retrieved": "2023-08-15T00:06:00.298Z",
-    "placeId": "ChIJgUQMIcvHwoAR8s2zfvJv0_A"
+    "date_retrieved": "2023-08-14T22:57:25.190Z"
   },
   {
     "address_components": [
@@ -16140,8 +16051,7 @@
     "rating": 3.7,
     "website": "http://www.artecf.org/",
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-1TECfu3woARyyWYdLYKLpk",
-    "date_retrieved": "2023-08-15T00:06:00.423Z",
-    "placeId": "ChIJ-1TECfu3woARyyWYdLYKLpk"
+    "date_retrieved": "2023-08-14T22:57:25.330Z"
   },
   {
     "address_components": [
@@ -16229,8 +16139,7 @@
     "name": "ECF Art Center",
     "wheelchair_accessible_entrance": true,
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJw9OFJXO4woARj6NOM1_1_Lo",
-    "date_retrieved": "2023-08-15T00:06:00.524Z",
-    "placeId": "ChIJw9OFJXO4woARj6NOM1_1_Lo"
+    "date_retrieved": "2023-08-14T22:57:25.424Z"
   },
   {
     "address_components": [
@@ -16385,7 +16294,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/105775981062593742554\">Creative Clay</a>"
         ],
-        "photo_reference": "AUacShiyIsQmjQPniEAqNL5EwIsS_sCA1OAxoOooE0Fwql_Mvv82cHbrftgmFDDMy4gvNumviXu5g6U5b3bFoIJruwmnfLyTb2h-vnqxG9RqUqxzwrB0qJoKH1OtVXaGjNZBoimm71OunC5rfanz-W8BnC2DS9CUHDWLMcwHcovx3l1i3zH5",
+        "photo_reference": "AUacShiY5SL2zt5Pq8762xGIuOX5Pw5rFGYqVJbL6R9TzPd_tENzjKfQvjNIYYdIzI-WK0nR_a9LxNcvN-hcUle4yTaUZWaMoivLuSodtS1ALR7INZREDYmwx_ybtQXlJAy1F5FGVsP0GpLUlcOR5YYFCM7zNqOy8dy1Cmuh4hos5We0JfRj",
         "width": 3600
       },
       {
@@ -16393,7 +16302,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/117292730339176298860\">Michael Scott Novilla</a>"
         ],
-        "photo_reference": "AUacShhHSivHR1BfvRhisuA5LVu51HRP7aTBIK7J6J41kb0PJpHaqI8QtJPeZuOY4SweuDBWQawjjA02sT-mhmFhUzNX7mHL_eOLBEXLs4godeliFmCnuFLsgguXMrfuYgwanlZxJW0chVVYknv1Iob4kWH8jEC6HqWtzfeWDoW3QKPjpNoJ",
+        "photo_reference": "AUacShjMixu0aTmq8k-s_2s6S1LhA5a54wMgp18wpRH-B38GhN9kLycWNmtT1XUqYKR2XavnA9RDidoDytvu7XQGZUh_FcJOGVs264Lkr2Wl4hwN22IUqWC_T5Pb8y39zeM9gh-MTr5oeTBuANirixU-eCq-BKzCdW8OlLW5-XcTAu7XWDpR",
         "width": 1328
       },
       {
@@ -16401,7 +16310,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/116834850752083799547\">Leonard Speights, Jr</a>"
         ],
-        "photo_reference": "AUacShgYzKxuC1Ov4R4_ELT852v-77RTTj7uk8kJK6zFz-ADOLnqYTpjsU8-JBiOMEOvgeQ9UIKCO-8rUMhNb65BbZ1ThPV4Puhp-Egn6ec84sBASR9fbuRD54eqFsoPvKCYTT030gF0C8CqhONkq131lW1jx3zWWfMCaPZiE_uyhujO7LXy",
+        "photo_reference": "AUacShj0yh_6N7dZR2-ugB0a1DMZZu_rKQIunLNmorhgRYhOpb8UxnigZ-WBPYjNHgmUGQog7US8MB7rxrHsPRY4OcOlrs9PEoJwrzeXgjOod0O3N1uIiPF1d7YHSExtCA2Pv6hzBlct4SQuHBio3x0FlCcDFyMo-glSWePsJVuG2vIECZ6Q",
         "width": 3072
       },
       {
@@ -16409,7 +16318,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/105775981062593742554\">Creative Clay</a>"
         ],
-        "photo_reference": "AUacShj4qoETsegeEnEvGhYUjjh2KewnN0Q_1FtzibAdvfE-QSc-9AyCj7LkgSqgmWikXeVNU1ziwbCqWXR7fAfWOO09tHxP1xYNPiHBx2cq19NsJfVaaNI995q-LQNbW-bU-NQVP0iMiMa1Lt3tXKF5wX2XoJbq1JQuAI2niGOJKG9_T-qi",
+        "photo_reference": "AUacShiC8CVho-mFFtNWIww3M0XtCD_SFzP_potP9Rjpi_LET9aMcZPeaWGWC7uCwtcvZhVn7yWxOZ53dyxdip-Az9RVLyM72JHUTOwlEo_XCmHjWQEsPvhQ1dULR2pCz162DLfDG7O3_-tcemxhBdQerEeRxafLHw77acAgM1fepG1V88Yq",
         "width": 1849
       },
       {
@@ -16417,7 +16326,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/105775981062593742554\">Creative Clay</a>"
         ],
-        "photo_reference": "AUacShhhfpSocADOJyX7qEazRIULEMubI8xyYUwJtdioamZXO10Yn2aaFz4df2LsN0WigPUVERPoJTsVX02z15HbHP87r90YtFKMsrzxAIMlY4e04DlE4DJ7h61RPFXiIWH-WLs2mqBJylX7Q6HAJZIMnOE_Y6oIyvryUhKBHW6vh9So-8Le",
+        "photo_reference": "AUacShjy5Q3KibeQrOhlgV85yABqIL1qD005T5klNvYZDNAurAk8HRMKvlWR_i3wu3RG3SyH4AzKJ1nWS4cIa0KfmtiY5OA9YHpCNVNb0v32_kpeHf0aMlTk2dDC-wLrxq-5Uq5i2VNt1EB2Pwn0ozqjN8_X3vdEQPzaZgvdESwtosoa4jDg",
         "width": 2016
       },
       {
@@ -16425,7 +16334,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/101003356003558106323\">Natures Revenge</a>"
         ],
-        "photo_reference": "AUacShg8tkS3PZ3UQGjLIfcc3KTw1vLhrMdsyKTWzfapT5ZliurlCE4kQJyYZ14ot9ylJgJ-3Yg3SEIXsQObuQ_vrjlyFF5C_u1TvZwIkbTn7d4wAmGjp8_muNHYvv7qaiLsTk0FIvyo0GAYRwVgQ7_vDYTt-fg4hm7iWWFLufnykt9WfGVn",
+        "photo_reference": "AUacShhne89bB8jj5QlI3dNEjkkc9F0_EEHZqbLyrbcAJAh5IROdi8z_LiiQf4mKYgNSih7vRpdE0t-h-Ba5W8EWTqOTviIj0z_-KKKKSdEOrgbKGDR77fks9RoLBAzTIwi4vVuaxMQbzREYSRELKaTta8uVHrDZPU9YH5JEu7yD29KwZFht",
         "width": 3104
       },
       {
@@ -16433,7 +16342,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/104485608083051366554\">Cornell Williams</a>"
         ],
-        "photo_reference": "AUacShhpTBdRnp5V1KDpku5_LOl3Qsi3n3LrRzuHVVzHI_pijGnojumUBBDSfgG71BnzNJKITVecD0nh53JTsXULn4LiZPtYUeu5MJfZMz2MHrxTdeltDz97zvE7nP_5JEqrsIiRzZikpm1476cj2KrIJBP8bM76_BR0eQmZSfOyLfd-nS9B",
+        "photo_reference": "AUacShgU7mU79yyhC1r5xwSHexGCwpiYRlcj43qxL59rtCUmR7nVj9v1F7l8NuJ4S4nM7cOSggOosckWniZPGg1H9bwgJNfZMrE5EIAkYhth-hW97Evzne4gtavdgxd80BKhaW6-47sKbQ8LDDZNDH7FMCmE7cMxkM4AoloZ30Z4dDtl0wMK",
         "width": 2576
       },
       {
@@ -16441,7 +16350,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/105775981062593742554\">Creative Clay</a>"
         ],
-        "photo_reference": "AUacShhzwr2dBkuVxbmO0hfdicaO7XzzroPERtn6yJ8LT_ohHk2c-CxdkrlbBYrea0r-RLrWUtGD9tT1svg4UnnKbHeAhDxHUJK25bbJrrPcIFFI42cInDaw7gSAUFhVoVjYpYMaNpIMeA7GsvpKOC_tK-t7dy8V42G7MM462SiQve4w0qAa",
+        "photo_reference": "AUacShhqvJFH_SOdxy2bGgTeHnd_PTIeI1R9Pg1SKncswosfC5h4YGhg2mWxE_1MFCoPLvz6NfZPBUTaa2AqjWrS2__XC4TRBD_PxA1te2ic-XEnkMK8zwQ46q2OGcdzWKDiuBAlnWSGX0k5WkvxDSkyoZs7oLVaXMc5FYfyjcyBq6vJBjjb",
         "width": 820
       },
       {
@@ -16449,7 +16358,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/108820173370614057475\">Hassan Moussa</a>"
         ],
-        "photo_reference": "AUacShgHLQjNo3_orVEvlRsbJAiibW9B8ZeVyOrD0BVuuvduMnu6C36bGqwg9bqlu4grfJs7qXpfh4P8PLQ45j4T8Bm74ol-xox_dl9bxa-uI7nwnUiSfIRtzsx96OTHpAtvdJud92UhRV8mj1BVYHgRx8lOU-UumPs1zozctKVn5TGIoPDP",
+        "photo_reference": "AUacShjBX3hifHdgXm5RTBpcJAk5hi2FFBz2D2US2DRe6foxdLtHZq6OUsIg3FlyCGBiGkeWNFw9PqoBcO5HmFF2lJ6tMIH3SGfU2M_XVg9xHE_KZrrXHvADotKcgrZahZ8ufVW5EAzKIfHEWqU5QUFcTnMIpuwXl_s8oPXHLeKtY4erZbWX",
         "width": 908
       },
       {
@@ -16457,7 +16366,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/110671989869061369475\">Travis Shaw</a>"
         ],
-        "photo_reference": "AUacShjuIQs7jwbRUQUxw7fZbCIXnPLUA4jCZwTtyB-FIiMqbfziTmI96LtUa7mbdbMQdRB5-F9ynt5UqBC8WBoseHoe7Q8FW-IWuOOJAo-o0YNIDQRo4tv0XN72W5gevMAyzI3v6uFPfKbbprUnJtjB5DqAVZHFiKqVtAz0jIaubiAXWaFc",
+        "photo_reference": "AUacShiokj3i6R_PfCcKRCtRHg9whJpfbdQfx0mhHThM2S-GDTO7BsG7R0vbqnpGkklM8j_RIqxcLMIA_pBBvQZt1lPJl7TNyuxwdRxxUdSAsSnbkFOm94aGgmi4RxBiuy4xTp8uV1GVkSdAmNKsAgzCEpPYp4seJRiXpOm6JR3Shp33Xz09",
         "width": 5344
       }
     ],
@@ -16465,8 +16374,7 @@
     "website": "http://www.creativeclay.org/",
     "wheelchair_accessible_entrance": true,
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJPYsHmeIEaRQRguov3jDHy_k",
-    "date_retrieved": "2023-08-15T00:06:00.635Z",
-    "placeId": "ChIJPYsHmeIEaRQRguov3jDHy_k"
+    "date_retrieved": "2023-08-14T22:57:25.549Z"
   },
   {
     "address_components": [
@@ -16554,8 +16462,7 @@
     "name": "Creative Citizen studios",
     "website": "https://www.citizenstudios.org/contact-us",
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVW5HQryNIgReutLJWz0sHQ",
-    "date_retrieved": "2023-08-15T00:06:00.751Z",
-    "placeId": "ChIJVVW5HQryNIgReutLJWz0sHQ"
+    "date_retrieved": "2023-08-14T22:57:25.676Z"
   },
   {
     "address_components": [
@@ -16640,7 +16547,7 @@
     },
     "name": "Mainstream",
     "opening_hours": {
-      "open_now": false,
+      "open_now": true,
       "periods": [
         {
           "close": {
@@ -16706,8 +16613,7 @@
     "website": "http://claratyarts.com/",
     "wheelchair_accessible_entrance": true,
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVhRhlAjoARoRds0OkEmgE",
-    "date_retrieved": "2023-08-15T00:06:00.844Z",
-    "placeId": "ChIJVVVhRhlAjoARoRds0OkEmgE"
+    "date_retrieved": "2023-08-14T22:57:25.791Z"
   },
   {
     "address_components": [
@@ -16873,7 +16779,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/109021558375972068597\">Anne Cauley</a>"
         ],
-        "photo_reference": "AUacShiPWUIkaKV-YpoOPkKe9pLMWy8vhitltsY2RYuGQRCcOAZTKTwCFxwpOBwH2EVDIyHe9B4-Edtn0n6CfADU1oz2XcPAE3mF36CiOT6WW-aw120s06dpyZN3faz6nmbs9Oyv4fxotzixjAfQALzeAuXJFT4CHvTVqOlcoLcKZfCsKNP6",
+        "photo_reference": "AUacShhOjdZ_CRsWvIYSSdUl7OEwsU8-bL0I_ptnm44RSaBs9QFEegvo25NTbxDqVfQuRJyeIZTL7IbP0B2lawgPTLZouDOJr1iO5o-1KrqTFZzXiQKl2WOAiK9_Ni-HD0O1M2sdrsP_1LlabVvOrBUadVU6D1dN9xEuN0ROmtKaFrP3A0Ps",
         "width": 3872
       },
       {
@@ -16881,7 +16787,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/109021558375972068597\">Anne Cauley</a>"
         ],
-        "photo_reference": "AUacShh14cjWDqTGol7WrAr-Ak9P2mwhLwaKdWlusl2I_k-Xrs1iAvcOGmZZb1DTSwz-bmk5pQg1s8qrryokhZJYaSWNl4lQsAxtkzo5yhLPWO5c0NA9GqOx9Un1jvi2nYBiAUFVTcxCT--wy3c2njKKzpfsakYj_Ct_foLNof-sex7gJ42o",
+        "photo_reference": "AUacShj8dQV582rQnRDBjidASIZ5FPAETMJkRwDloOCZYDiw4_b5VUeBt6GmZx0l1-QBxqZFqKZv0nCPNJ-yjPptd0-gKSgJvGkubrgnINB7v-nik9NguRcaOV4se4eZDwH09cnjM3H4iuHHE0vfM5G0hH8xIP3-aoqlMFuoVxqQoF6eMRMs",
         "width": 4665
       },
       {
@@ -16889,7 +16795,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/109021558375972068597\">Anne Cauley</a>"
         ],
-        "photo_reference": "AUacShjDOg8_zRDGsGbPCm902rRY3PZlqh3prE93IVEVws1ciEqjGFccgD14OJAiORgQ9xSLk8z9aaK4BCcZ_3RM1WdE3FYJG8t-BNZZZ64UbbkRqJKE6cGWfYjP6IxAiYyabeH0DNtiWgU9nsbtBIy8IKhBCYPbodkPeem3W40avnceYm5g",
+        "photo_reference": "AUacShjfi_MxBH_njWx17WdEoMDWVPiT7euSuJYNBPhaWwWx_GgYWove_SwNIxmHRLvK6gtAzh7X6W2sWFjE4AAnkvIGdQIjFnYt6Hvi1aDcXwRd4di9UNwA1z53s8oJeVwmugsaqtrK5sNMVsucUacmPxgIuKifCAzIfTDA9Q71W9BBuA1f",
         "width": 6000
       },
       {
@@ -16897,7 +16803,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/109021558375972068597\">Anne Cauley</a>"
         ],
-        "photo_reference": "AUacShjWqlm-jLOlU7p2fg4mbgPaBioxyz4U17Amnfx-5VIzK0qzOt5_U87fwzpkQweS1OhEtKW1j8LQDInbcLIsyozuJzeoS-5sbFGCVt1TK1YtwliiM_cR6anWNeA7-_S48prvFcRwGW0MX3wdgru9kW7GkeKke7MeD_lqY8U_wbMrj0Mi",
+        "photo_reference": "AUacShjvs4J6UyMxVwh1KwiRjUuvnP2tsBqnyi-6jmcMA-qp2F3pVZEtVYlNZUZl_i-y3v5O68NI6oKv3vE5MFCAEu8VgHdzXxYx5wJnpXEr_IbEJwWSw4hFuhMhbJWMB0lg2g3u5qBzr9zHwAi7BrZLvvOhUxs03_R2Ksmq403jpQhBtJBs",
         "width": 6000
       },
       {
@@ -16905,7 +16811,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/101666880762081764015\">Alex Cabrera</a>"
         ],
-        "photo_reference": "AUacShjPe0vvtTfkPbUwevWQ2ycLcm2zmktQ4l8nt5tV9gsgPHIM89pvBLtbxiRO4ySrRhmdDpD35of_jkUE9gs-U1q6pROZxFfWD9d-ltBpOEQgzkgIYdaODrcaIVR9Msc4Rk-l8mxnCZk0hDJfYTicvbRt930cq6o7l7_cAEhCK0oc2Znk",
+        "photo_reference": "AUacShhRWKmjLZ2iIVVQlyfVqwow349AJxGv3qQ3SZSzLXoMzmZJuITZ4ouEVPaj3zCTmJ4b3VRtLTvptX4MsrBuaLwJwkYsFxifDEWyxUN-YmiJ-KB7ynsWmDuKDh9FM7INKZWsf8YUyiLFJ3NDAoso4Ih6lZ_YAIm9aZnESPSOIMbz-nSa",
         "width": 4128
       },
       {
@@ -16913,7 +16819,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/109021558375972068597\">Anne Cauley</a>"
         ],
-        "photo_reference": "AUacShhV10aJj2H54nVbm0jgV6QeiIBaeIps1d68Ee1yczsqx5bcZ_u58GTARjlHiBGbDXK5QsHdtnllCaNGKaaO_SOqKro2ltNISTG1QN7sH8GWrs07d1kAMJQzEHF3UlDWILYfFJ7QSsdD-ZZW_HkQtZzl1ZZ6Lq3BzJnENshoLVfmjWAQ",
+        "photo_reference": "AUacShiunkBZGlCoCpqbfn0b7bhcNbaHJpvsIK9yK-UR5mlMprUr0X8YKkiSRMN4LJFIrrSToyross7jVXuc-HoOO_qPIlDWdlCkyWjESDR3KfwMD-de2uq4cMQaKzm4nnndaXkJYPbySA-iWfe2eiggDuvDNYOTmE4Mpy5e7VSX_KeFIPF7",
         "width": 1024
       },
       {
@@ -16921,7 +16827,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/109021558375972068597\">Anne Cauley</a>"
         ],
-        "photo_reference": "AUacShjItfS8JHywvnWusp5zyLbROixVoV5SerBPtf0a_JT8o1RUrosW9eBfwnxt6-BhlaMXKUtdN1YhPY1g8W89p1gdxgP9H9j2xDqYp54Uqw4WbvzOcRu7vwoe2BHvI6UdEZuxGpIhx793W-TO8ttWeN5w6xwQW9w7BvFYug94tcRcb4IU",
+        "photo_reference": "AUacShg0znfRhDQxPTHLlQ7fvBvynCR3tikTXW4WMs73VGDo8qyGJI9ckOnGUXFaqgW-Hp7-b8Q5DTf3tkJi4qoUiQoVj6ZSqlEGdzSmoJJrdXPkf1_aKmeCpUbiszRizaJQJ7kxhvB1Oalj9Mbffh_j7TWYTUQ_I2kEsxtg6NWVcHcX0GiI",
         "width": 1024
       },
       {
@@ -16929,7 +16835,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/109021558375972068597\">Anne Cauley</a>"
         ],
-        "photo_reference": "AUacShjXs9sZMHKBX9KCq-lBzvRfUXEKd95E86xsfn_RxFYIku6I6HsOBztIVDIah-DxOXCMr_HjP43o75Ut0ADXdROu8-Jy3nvASm8WoP75vX0zfS6BAD8l0G-W0W93tai8PT9fBta8bU9tY19_YiPn3Ad2wwxNavMld6ORVCZVQFcKFxeg",
+        "photo_reference": "AUacShiA0S-DOjz2ps1rIbcCWXt1Q4igKM_uc1XaqbPocIN0VqVqc0b_tAM-WdeMJJqDwnx3od1V1RSQppmzHVf0e3rFyRmLRLH3t6W8SwKsU6na-_eba4bhVqsKmh8yQ4UqJ91_NS835FqgkuKOErG1qwNx0Z-pJPkQsZxWKvGQHDWKN51S",
         "width": 3513
       },
       {
@@ -16937,7 +16843,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/109021558375972068597\">Anne Cauley</a>"
         ],
-        "photo_reference": "AUacShgaBgEV45kUO2b14MvUAzwDQ3oVoAUdr9hsKiD51CS5FNKj-OlszUy0pXJ577pxKn-eh0eNDSvRNTgNIwzrB-06DFwOyr6-2uFO5cpwEO5fXfTTIl6gteVgpzELZtkw_AthALzw1dT0Qd3j9nd-l-cqlGFjiAm2uFOHcLd5ybPAZqBB",
+        "photo_reference": "AUacShiZAaLCBCNeRZZEuhAktxmoLAANx5PYA3h96B7CQGmzQ6oroDwLgtQ5VY8jovdxvMuwHjIGtKyodksi4rjKu1IpD2F7TnToaUuASe1qklHlInFJjZwIIWGp1UBorUzn4AuC98zNaXmR7bSRDuGJrWNOaoJQOVFaR0xs5C7NevlyP7J8",
         "width": 6000
       },
       {
@@ -16945,7 +16851,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/111414935239353356786\">Anna Kramer</a>"
         ],
-        "photo_reference": "AUacShg1yLZCsbNUrLzk828J_XNPylx6JsHrtXs5UPOQFzazuR1_wNeQmBhYUP8SBiA2KjwTDPKTFdjIPFwS1T5V0sHNcnNDcF6hu65LDDd_6F165-mTfDcL_SCSbEGs0V0q2Bof1o9Ijs17do289AZ-ntxN0uXEhSWye8ZmdT9JqKfoRWIs",
+        "photo_reference": "AUacShg3AeQlyILcKl_sQUaq2k4GczJ9liCArLG4kg5Hnnf8sZRdOjKiChzEY6PGw79EruNU1utiti70LR6hEFm3SU7-wrdwEhFuHoxF7AnP8Nq3tfaWFbii9bssK1NVigTBGpqromcSf8AbCDu8lhMuhLCi11wmrrxjR2Fg2NAYHxe-h2dd",
         "width": 1960
       }
     ],
@@ -16953,8 +16859,7 @@
     "website": "http://artsoflife.org/",
     "wheelchair_accessible_entrance": true,
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8bO63TctDogRABWQfog-gbA",
-    "date_retrieved": "2023-08-15T00:06:00.962Z",
-    "placeId": "ChIJ8bO63TctDogRABWQfog-gbA"
+    "date_retrieved": "2023-08-14T22:57:25.927Z"
   },
   {
     "address_components": [
@@ -17118,7 +17023,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/113979315110305201411\">Tom Isbell</a>"
         ],
-        "photo_reference": "AUacShge_18Xuh4V8HnpXaNvesyImJdJGlrODmnfgG_iqFCn1QF5A-n2ZTWuFM-agYeSuluP1M-nEEFeMZwIdXncVqWGXUOBkJ7h63XIsneSj5YVBligDcB829XgT91T1ZJi4rUlx56KQc-u7GiTXDIMxtjO2muuDXIvNPCZuzPvzwCYQ3tM",
+        "photo_reference": "AUacShjgsQqxKUuSC_oR8NW32xzew5-5W0gdbVAj97EtCvpSS4i9lIU5nhjGkWAPwXdtBb-e239Kn27eQ9woAAtc8M57MB9-JIW0Zcw9_ijw-CEop0Ira80bC_ZrG78nl7OdEMBo8XFshaUu1FsiC1ytdp17TsYig8glDEOuxlIk92-O3w-m",
         "width": 4608
       },
       {
@@ -17126,7 +17031,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/113979315110305201411\">Tom Isbell</a>"
         ],
-        "photo_reference": "AUacShhsPBKdc1dXSXPN9HLdRZg9JwAGFeQqJQqZQLBuf5TTy7J2iRJyxMEYnYD9mtdEBjyFTcqBCoh8fU5VF5I4jkk4I8rwM0p-AXBjcVFNm6gQhtUqSx9NENgUFuA8n1yago26-dDM0Cryza6tOzNahNitk4UqoScLyqnkW_7tHFeLMNBf",
+        "photo_reference": "AUacShibS1auo2-GLcGLjVXzpIY8dN0J0jFLuio_QjvEmv8IUb0FazeyI1tZ78_QNLM48T5M0rGXYtyZ2LJRPipG3LY-vRF44PzDP3v3NnxSAk9Iv0svPk3fl6LddpTHwVbjU7unNQpiX99GaiuLKDvODgJ6x3gQPVOLYaHpt9xGQObUr-oq",
         "width": 3456
       },
       {
@@ -17134,7 +17039,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/113979315110305201411\">Tom Isbell</a>"
         ],
-        "photo_reference": "AUacShhuWijeLmxNY87Nr83T0ClaIWonfQ_2ZDY4moCV0NKWAtjphEDRVeET-1-nJLVXRkXQBmlvpt46BFxupbPfMUeRvKH6LTauEM9ZBCTXyBWmK_mp3xiddp6A_tNDsgMShJE49iK5IuEeKc7VSR1Abn492cEXWg415uzRs-xJNUrz9mxV",
+        "photo_reference": "AUacShgBn1zG_-U7VxInnQ5W7IxGgUZa_aefxvxulqMTG4yCLeJ-VLOQT5w91JfRSJLaiUK9ru1D419nsx1Cr09EFT1mYdiIkS0GGdv8CzaVWFEusbCzKZte2iibohdmZeAm4AK1kpGGfxG9wKkosMmmhomGUjZsSslDmMDcee5GVkrS240s",
         "width": 4608
       },
       {
@@ -17142,7 +17047,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/113979315110305201411\">Tom Isbell</a>"
         ],
-        "photo_reference": "AUacShiKlhj6Iv_b0KFgATRh28mil8_7LXLVdUpYJorfUENTqOP5KItelr-TJ29eTpm0xTK4FSLgBfOf0Ug8FrrAbISAebU-IuJ4BifraWtsJ8r7B67bZz-URNe6NvtmE-B27CY-4LOFf_-pp7HznZ4-_i7uqppLLiMCp6UEcMq7fDcWPtvu",
+        "photo_reference": "AUacShha0dcCArCtDm1f4QfX_FP0wA_wgC115jsRxarzG377Xo2J6FWavP87OuAUK3tMc5o580G3Xmo8GOehtM2IkmQCaK-JhAW7qu5y7j8Prdcm4RsUB7Kh1TZm_kraZ5PjMDLbk-jDnaNxz86nIQ6xnFDWYBAZ1ZvKKqlqBD69DbkhMq8e",
         "width": 3456
       },
       {
@@ -17150,7 +17055,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/113979315110305201411\">Tom Isbell</a>"
         ],
-        "photo_reference": "AUacShjkUt7vqJuUoKk6BZrUYZocHvm2f1aqRJM-J3osAbBALJcsBBRd5LsVmu84HTSY9DMGgXRLAdR9zrwt0UqLC4twhMtNIdM17EGYS6j4XuxtUmaaxgnY-AsXR4dFwIeAtJ-Q0STyB73iWoIiwp65Et30gMKpoL151JfaGiS5cEsSQhRU",
+        "photo_reference": "AUacShgHM7eWWyKpcACRtLrDn6hpxHsYv5QVLJ2jNoGWeQOQlfpvK3svkGtxpNup_HAxYZD60C6b0UMm7bEz3fCHC2ITV7ITANEAAyR95IKhCOp_HL04dRGWIx2BYYsLM3FGWGJSt3U8vFWpHDNwaAvz77NBjOiN4W7XjbKimlxywuNpiACD",
         "width": 3456
       },
       {
@@ -17158,7 +17063,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/114796004323264068228\">AH Evans</a>"
         ],
-        "photo_reference": "AUacShi8yi1b0GUMUKJRmjxOjHZXbZQnd1dEwZTnp-ctmWYzqqps1n7NktumNnM1zEC8VuiHM9ElGf8crS88M9IXHCIwDUj6Tgk0NRm4frc7ki89c5-J9bVtV0z6F-jrJEa96erzht-SvmVT3TtuBjYClGEs2EPcBEP7CQ1pqCa6Fo1c30om",
+        "photo_reference": "AUacShjkU-NL20v-tGscZQVEgNwayc8z8MXzlTGGMH3OgElT4TMiucZau188Ia1JU0fSNLZokcytsxSGSNAiYysghDifQ0rB6lFD-rkb_6dZmEHrskhgHNvxtQnbdAJN5KPZTRUeRQPzEuuPLmtmEIU47CTEU1cAB1AqWQYVNCOjZKUtYNBE",
         "width": 2988
       },
       {
@@ -17166,7 +17071,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/113979315110305201411\">Tom Isbell</a>"
         ],
-        "photo_reference": "AUacShinsl43jz9Xi01ii5F6WlHWwye3TzAfQgQd1rTNYE7yvuP-YCqDdoztfAC24o7IUQwyUB2a_YwPbyakoalHWNC5EYeBcbXf1IAEwYpdcA20AWX8E3ulq0u43uGm_CGSfzcJJhoDuJVeAZECRSlx19Cw7dHHcgt4h4qULlu9ROW0mj5y",
+        "photo_reference": "AUacShiP-h7WMjhBl4Fm0X5wTA6FCfI9GmE6L_KsPfCn474-k3WQ1DcgAb3ezn567DaPqpNQk-ZIu1Tflkrpis3oyp7vbvKfTbq4dp6Zug-SZy6qcwM_L9XereM56CIuSadzxNkKklP8af34fP_Ga--WaJrCGhTufqdm41Txn5nmNd9OuwU7",
         "width": 3456
       },
       {
@@ -17174,7 +17079,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/113979315110305201411\">Tom Isbell</a>"
         ],
-        "photo_reference": "AUacShgXLsQ66cfboWy1TvIskW4uem_F2m-v9vRUCqXbfHxUsoBFg2wkqYqCqm0vlDq1mT88k_LnTbeaCPIM0psMQ7Y5cw2sWwMqtbKCTg34gzJvYRRIvQzQa92W47QK3zX0r-ykOXqWXGSV4saF_jBHfNbCAIa0BcxUXygQh8NcRc5BJOfD",
+        "photo_reference": "AUacShhPwMrwZxVguwQoBrFH6GwzpqSoClRYAxQPQ9rY8WBJDQK9HGs0K8Ch0dxV2KfKQw0MIVt_ftYQ0Z6DLkextEuERQn629nModtQcxapgYvIRE9qqK5S_OYNd5bcmZ8zHM62TWx78qA8m3tX1PX6J-uOal3IJM2JmG_aug-7U3jZrh64",
         "width": 4608
       },
       {
@@ -17182,7 +17087,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/108486390497750865119\">Paul Johns</a>"
         ],
-        "photo_reference": "AUacShhWTEKb4qQ9-p9M-ah18HjIpcn6Pug7ElJAgxstFEQLckNKhm14dZuR97lZYXy5cLkWtSQE5NqfM4xWcdwCVOquriRnPJTnXN2n_aY4rs-cY9X5_SSULB6hxJ2OhHPOHiD2rZdg9vfNAdRaC40F5bejGEIJXILjTYjIzPPMgbNa-cyR",
+        "photo_reference": "AUacShj_DCEcPKv8r9tO3DdpTN5cjiuf70XazwVCh0U3mwDcHepe5wqVl_d4pUpZVN30fyfrEe1L72ZqA-koRg7X0eeUqo5VzEvc2z-vk4Y3edPMjP-vxGZd5mRgfBbkqVPBdEXjvGEMxABEXin4KpfLS5-hHsSwCF71ujqn5czbz_6fQ-sS",
         "width": 960
       }
     ],
@@ -17190,8 +17095,7 @@
     "website": "https://www.artistsfirststl.org/",
     "wheelchair_accessible_entrance": true,
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJcZqmaYnK2IcRta7OFeKZYuI",
-    "date_retrieved": "2023-08-15T00:06:01.080Z",
-    "placeId": "ChIJcZqmaYnK2IcRta7OFeKZYuI"
+    "date_retrieved": "2023-08-14T22:57:26.046Z"
   },
   {
     "address_components": [
@@ -17353,7 +17257,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/112801487689287862559\">Kwok Pun Chan</a>"
         ],
-        "photo_reference": "AUacShjeDHpaxd60wRpjyQCtT30KtrrqXw7gfWTP_YFcxDpfeMPEwGGvIanEx8FTXt3PuiSKqbZOJ3bw7Ve-s71_HoNsRmhosjJMj2XApFHX3Al767hUtt6KZlA0hD9wwypmH6P8M_SjN4FUVhPT2LkD-jemtWK1VHJHgE6dtlFfNHJkDR8",
+        "photo_reference": "AUacShj9-QN_YJIddKj4j_UQQI6oezbq3f1hLQO79DFFkvlGSG-_8s-KcfW1dYNHohNin273sdIQ9GaAZ2SFzDtmNHoGJ_1_O7M6RUKDoKzd1Sxz9yfYxTZKSENa07kH2AUMEvqCzBZCdbDaijh962hYjGiXIwpajaVCK-OerRLfKYQEqZY",
         "width": 3024
       },
       {
@@ -17361,7 +17265,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/103597151381929406204\">Tangled Art + Disability</a>"
         ],
-        "photo_reference": "AUacShhrcfbjk6cczSN8GHjFIabZ-JscLVNRfnKxeWs0IRJOB0J_ADMHnq41ngK6Ilz4K40DMcr3kCTrImozB1kUpG6mp-DYNnprtDhi_d-Dja8naDsVJMrVjG-ayxtEtbguJF8mTk7nWijUig-jqVGVptvwLScmkAjCBPv5Z0ws8D1JXER3",
+        "photo_reference": "AUacShgaNVnE-dMJ95wv9X4RmPwkwPCtRXj0GXggsex_rg5BvVll2gLd4kO_tu6WE5PSyTkfoLOKyH-4VuRjny4UxZU38ihkLFlxoGuIe5Rezb9M6VmMDdmmMAn3UsnE69WL05_udHTsapwkgXMX5xxhlWRvk8k0gM5Tifia0oWv2QUXS4Y-",
         "width": 1000
       },
       {
@@ -17369,7 +17273,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/106022937247763653575\">Jorge Ayala-Isaza</a>"
         ],
-        "photo_reference": "AUacShjlcpC92U7FShStVRaHOZX8WG7Kz7wvRuByXmrs9p1hunODJEVaX9ozxsHJsZ7iSwly1DQElIkT32PZD6u2ShE13XqhfLOsaTf0IYd9UnRRRSV4QFbyLwl_LAuu4hMnbXSCwOMquFX_6B7JFbTdE5piNEVO76XmLYiq6zonsBqg0Bf4",
+        "photo_reference": "AUacShjBkNg0fr4o8Tgbn4Q6pRLZm3GRozb2fXu7R_1weVFfRwy7DjKkf4Jr1fh7Mdb8CRN4ly4Kdh7bSwBMl0pcYjJEd6lR8-T2wEk2AmTCbU8pdn9unpxcmqhmP53ut4FnMFDwICJZtPmCMQzexYnZI__KLy1MVS_4aevqzw85-pmZHK1m",
         "width": 2448
       }
     ],
@@ -17377,8 +17281,7 @@
     "website": "http://tangledarts.org/",
     "wheelchair_accessible_entrance": true,
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJYw_8V9o0K4gR_BTEF762Gjw",
-    "date_retrieved": "2023-08-15T00:06:01.191Z",
-    "placeId": "ChIJYw_8V9o0K4gR_BTEF762Gjw"
+    "date_retrieved": "2023-08-14T22:57:26.168Z"
   },
   {
     "address_components": [
@@ -17456,8 +17359,7 @@
     },
     "name": "Art Camp Artists studios",
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJxSrHQ2CxEmsRqLvkqFuo8H8",
-    "date_retrieved": "2023-08-15T00:06:01.281Z",
-    "placeId": "ChIJxSrHQ2CxEmsRqLvkqFuo8H8"
+    "date_retrieved": "2023-08-14T22:57:26.261Z"
   },
   {
     "address_components": [
@@ -17536,7 +17438,7 @@
     },
     "name": "Arts Project Australia studio",
     "opening_hours": {
-      "open_now": true,
+      "open_now": false,
       "periods": [
         {
           "close": {
@@ -17615,7 +17517,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/109240911632098643337\">Andy Miller</a>"
         ],
-        "photo_reference": "AUacShhE5sTxfxrxrkTeQQMFJfuzhUs4ddG_cCftvZr2hyj4nyyh-t4DcNXCRaIc0x1NwxGO8G7p53Ut5HmYjkyYAtsLi2WVDOLreDkokRynEsq5xE0n-w-HHKceSHaJTWmEqJ2V9RVHqaoTLj42LUY37V-92sC4QQBS3bHWvbTPGT-6wGK5",
+        "photo_reference": "AUacShhdTSVxODvPX-CsC37LbESR1942Lsop3GtHvHIRu9Ryj6nt-rnwwDwF-ibCEHgBczgbdpC2-XB17F-aqiZoUd-iX2kSrF5I6wHmUUsNjHeFxHZ68p7nkvI98o2GGOPgZqod3TQesBr-uTfidReh-PT_m02kt9duPbTTwUXTnY7u0XBU",
         "width": 4048
       },
       {
@@ -17623,7 +17525,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/111753755221832382610\">Cathy Staughton</a>"
         ],
-        "photo_reference": "AUacShhqTBArbE412FEZFTgfmhkaSk68nMWDZg60R-UqFNhQ0gBB1tQYUAbioS4o4aZSQzSnIqrZssKnlnu8CoxyoqHtxLJvXTZjrMKRDzEzJdN5TcgSkuu3Q3scTnJUhYcYDzyiOee3B87qLG3BP5b4OIsgH0e5jg8fV4NGg8snaoISQyM",
+        "photo_reference": "AUacShizD2lxbkPCpcX7AbFvK78ZO38CNuHsuM_SkiJo97R-Q0wQab8I3LD4wkQRmYKLPdL2CnH11f7nt6m5rneNuraOu_12v623i_xn8yuH9F24G2VM7xWSvQamEhM7Szq7MOvdPtWMgEFRbFolyxlnEHn5VWK_7gS-eqmw7DXQjEg76do",
         "width": 3120
       },
       {
@@ -17631,7 +17533,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/111753755221832382610\">Cathy Staughton</a>"
         ],
-        "photo_reference": "AUacShgUsrja82038BfLVLomDCXEyl6pd5EgzUj_2X_bq4ba-ieaDVrFu2sLQB8YZsyGeuTJV3SMKQyrCCkXc9NEFLTcf9dl-KuGCSkeVDS1gHGY4aY9ca0NPsYzyc3w1r9mY7Yel88HUVMINykcOHVwbmQGejwCCzmpdBxXp9u6KfgrHJk",
+        "photo_reference": "AUacShiOiDOAymhpPRoyQFTT6em13ZdzLHg8YliW2XJo4kgENOcYRfui9Wauu4ICHxGwU1fHOaBWRKa6rfRlOgWKEQubkjL68JoseqHzGiIasF3UDFNuI4JpJSsFIcWg7h1qIkDDWjsF6_1QY-4dcxa3hmV0lMmpTtOiKQPvjWnfPY7dNq8",
         "width": 3120
       },
       {
@@ -17639,7 +17541,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/103072709610798549422\">Mark Smith</a>"
         ],
-        "photo_reference": "AUacShiZSYMGQ8esPF2CRDW3AnbcRg6wFlo1_LyA5Dq-YPGYhv4E_zAGtgnHyzi4cY5ybu_vt0eJnGtrlnXPjuBulYynb3TzH7NSvaR93fQlRBoRsy4DkAe0OybXZan-HJgXC-C2Y9FWsxAw0Y8aIWV82i1yGbm11kfnYFdRIUaea1hmO26n",
+        "photo_reference": "AUacShganBF-HVcp3V5egx_Zod4Sc7swT_CYU7WnlwWKi9xMfa4F3_edLR3H43cXrarHSkcrne9V1gkfUuXYkIfsMF7gV1obUYyLrZZADQU9jScO9T0iKH4CUQih09zDTvGj-rhYcVVkzCSWKe1dTT0iGBmMebcw0H_H4JLAe8DXr-73IuXa",
         "width": 3096
       },
       {
@@ -17647,7 +17549,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/109240911632098643337\">Andy Miller</a>"
         ],
-        "photo_reference": "AUacShjklutpz-XCOWoPdCO4GnYJCFn7ojbUU0oOpNefReQeo4Jz3ytGu9muOZeBT7J1iu-QY5Uf2L0xQPbs4SwX9rLvWjMALAAhgCaZN7p7YkR3KVVzM7vrVb8jFVDngVghUPb7HKuOUUn45CsQoteq1TMaddYwpFcPaDXcbR3HV5YNdZcr",
+        "photo_reference": "AUacShjm2yoAuBSpfWHw1gJvCb-e3G9646oGTvOzaA6OlHt-1KHOoupQTjVD7-Ev50ZTl9WMTsgFhPQCInHQMtZQOqdZWD9ojgMtCQMfp9b0vk91clCJ8HAHHhWWJnZOCVMbCn3UHL_Wb9mlJCkA6-4-3UehyBMCXtDWrVFz1p6Jb8B-4t0g",
         "width": 6720
       },
       {
@@ -17655,7 +17557,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/111753755221832382610\">Cathy Staughton</a>"
         ],
-        "photo_reference": "AUacShjzejH6AO9t4rFe9BeB5KdkIwRh7utI9ArzMVcuCZTjXeBrNcajfYKM2hepvnYYkPPp0Ei684kkub4aOorPIno4CParKA4JZ0qfNxUKxJjWxgj0duw7pwrIsDeKx9q9CXRBaQP50oNMa-38XLp8p3q9KSZCeqM-B5pwYS1o2CHuQCc",
+        "photo_reference": "AUacShhcM7sgGUePK-OlGXCbmyp2Q9rkjkcRVmynrnloJcA2cisfYOEdoaMXUceYwdWMvpiq8iFRvfyUJoqY75ADVjJdO-D_haC_ufRYudBEDS4JrCgqDF3tQr5kTtLUPqoavkrLpH3JdCHIVTuK4c6fI-kEy_AOCuRGs8__vV2zMg4ZHwI",
         "width": 3120
       },
       {
@@ -17663,7 +17565,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/103072709610798549422\">Mark Smith</a>"
         ],
-        "photo_reference": "AUacShhcC1QYubqgMWa4_5pmz8xuy7DAXCd0SMwYh1lE4AIpTer989ju2SugIyC-q17X69oyIDGjdMEMN0KA99LFcNfTh6rRHdrFCv2JFqb2vBbrtmgTFoivyqIHCU0PEPQ1J18LeCLcJWdtaPUAchmBhXcpwoYT2WB87o52NrDcRwxa-1Kc",
+        "photo_reference": "AUacShgBiy9v5yKaRQn548vgnuPQ3uJxWWjiQXP4YS6KTrZzm5k4zQrGCX1yXvql1pOJHHbHf6eR6htsD_gHoY5Y7Am6FT5a9GhI4OwU7t8ng84agy3TWvlpsmMnawftuPX9pMs6f4-i_1ZIkWIQh833Lgbz_66tzrv3h8wx3sSqVrlxzpB9",
         "width": 3096
       },
       {
@@ -17671,7 +17573,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/111753755221832382610\">Cathy Staughton</a>"
         ],
-        "photo_reference": "AUacShj2EnMtmnDiHhTREOlPv4bRn3SPhJW2dn01pMqkErW5BMBRifL5NCvjcF0m4nLIpxyLlCBZytvRuVWz5MN0twPX3IyPQa68QDcCtwuKiuWsO7qxjtoc3RTHoiBTEu5xofuZgRZYF9BtKHJG-KabZ_8MggvUggpYn1QH9rJwIz-cJJg",
+        "photo_reference": "AUacShh37lKOSwo-cW0yKbXKU5T7TKRbDpEckvtsKJoRSmDe-I0dTmwlzD9OBMHujFiQax-s6-llK6pyDgzGwNg03UtB5rgwFu2XCn1MmkxewPXYt-He3oPiAYA3PKO89a3wr6Zd478OGBEzrQ8P3U1iPgvyVumtgokjVsXuWgxrSKMVShY",
         "width": 4160
       },
       {
@@ -17679,7 +17581,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/103072709610798549422\">Mark Smith</a>"
         ],
-        "photo_reference": "AUacShhMIC0xACR6SaExiYP41i50sTf_zoeYdc6FaBIROwlAopfOccg3AwSffXRKZiww2NdTO0Lsi16qvomoblIDdTLzt45Y4CQ6kYhdl6fMdJsvdSHjMRP3NMlcsteh8jIdYWCJJD66QCWEiUZbKdM0xop2NYd8DkVVqffiT6PE7mOCBYhN",
+        "photo_reference": "AUacShhut1TrF7bVPR9OEGYxnZ-0ZU1f26yBTixlq-a1NeJZd79EEiKy1kzvacVu8nPbNrXO57M5ZzT1eKM_nZcx8Yyvyj1ix-Tusy9Hn38J7c-iOyiVKpXWg4Jf4-vQS7BFDelO2-HF4qY78mf77VcOYgsIFG6rZ5LBly0yvkaseMHuLp1r",
         "width": 4128
       },
       {
@@ -17687,7 +17589,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/111753755221832382610\">Cathy Staughton</a>"
         ],
-        "photo_reference": "AUacShhG_I4wUpRr5KhvQ8yIXBy3kNs9uOzJ-A45UXvzATTGUwuRyMRtXiHF_9xqoYpZk1mJIpJYnrb67enOs7-QrZNuJzDOSB0ScImD5_oJY67CdJIpF6TSytoqWZYH4nx-pSUUo-XBUEGTRLCIknFcolkO1gqZLjAqEfAucDy8RiXJwtY",
+        "photo_reference": "AUacShioVuZGE-YLq74kWCnR_OUtnQkQn74C-BCjkqtVyPpnYNToNQUSUTp-knYj3Wj_CMLSvexMqs42wnCEwluR175tIwTeKPRqhsPaIApU_RDpxt_-PqX1S4eN8rugypaslR7wC_IrMziUigZ8xa32NhD5gz2yew0Xb12o2_TFwSCLs20",
         "width": 3120
       }
     ],
@@ -17695,8 +17597,7 @@
     "website": "http://www.artsproject.org.au/",
     "wheelchair_accessible_entrance": true,
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6wvpM3JD1moRUJQLbUcYMoM",
-    "date_retrieved": "2023-08-15T00:06:01.390Z",
-    "placeId": "ChIJ6wvpM3JD1moRUJQLbUcYMoM"
+    "date_retrieved": "2023-08-14T22:57:26.379Z"
   },
   {
     "address_components": [
@@ -17844,7 +17745,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/104716274491783169750\">InsideOut Studio</a>"
         ],
-        "photo_reference": "AUacShgAmDrO45q78b58n1ZesLinWRaQALYNjuDYw88LaJ6a1mgaMbdgsy3JX8kC-INT5hBD9vMNmAwyO4yOpXGiLu1lg1IYTF_xRy37rjE8UBBdpBX5o-zhLSYyHZ2KTy8c6efDNCZfOOa7FCqgSUPYGl85FMdkiiimxuZtvBHkw_aJqRFZ",
+        "photo_reference": "AUacShhaU5mmxCst353Ohyu7NeZOLm5itljWxZzPDP9C9okGNIVPb0_XNB1dnQymO9Q-KKeZIw6quTLrhn4jnyBXyL7zRha4gCKzaAz9gVVN6f9ivgcBUCyXs4C0PIfRfkSO1sLDmsSGi0Rlu8wMktPzkTtyH9BUARuzUcp_vPwsu5EyeGnT",
         "width": 3897
       },
       {
@@ -17852,7 +17753,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/104716274491783169750\">InsideOut Studio</a>"
         ],
-        "photo_reference": "AUacShhDtYIIEoo1rmOg-IEdGmD_pD3GsaK9MwapXqlWzCoiG6vIvPii3VF-uv7Vt1SF_H9F5ChyFNC-AIxvt6K32Y15I66unaXMqapLRARfEynoBlqaMsHJwkx0i9PXOvwNW8qvrNssC6mHm7xomK8FEkT_mHoqjUzsK8IbjB2hmo4EpmlX",
+        "photo_reference": "AUacShig_pgXxjHHYwiCo02c0qA1RGovarOE-Ac6_tf1sfndKxM-dGdonqLKb_C0PImuI6ZbbZJTFMnJGi-AqvuCQMeDhB7moQ5EZnagwiurAASld_Btd9bqDCo0JD_kfDT7oFiACzNuc0AwCI0QeSk4Xt0cXfg8MhEECN6qWNLrFOjmzRGv",
         "width": 2955
       },
       {
@@ -17860,7 +17761,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/104716274491783169750\">InsideOut Studio</a>"
         ],
-        "photo_reference": "AUacShjXxT8ROWS4VlTRt6lsXTT8P-zJsgCJ3FX7JeejvgHHeFRYKdhORwxpo_dfP3_DS6XHbalZIMPgvukusfAMqOlgaVymlwQ9LlZhB_mHBXYmzeUlzGegeAOYRFOJb9s57qajuq0TBsBtTuHXwi9zKFmyS9BCqAH5OEz2MaDB3TSNiT5q",
+        "photo_reference": "AUacShibNkXR7uQk79xc6CSRuR7o2jkYF_LvRLuM0oZV7kXvpvh4TZ80BAYMjgR3dZL02EJ7DatTaGco4GizLA-l2rmJsi4hRU7bR846frpzbCI-oqG81I84F6CTcudFdxF2ojCs5TMCQ_9mphXXQ9BQo4aqXlawaFTyF9CLFCuQ6bq265r2",
         "width": 1920
       },
       {
@@ -17868,7 +17769,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/108406419965239142018\">Travel Butler County, Ohio</a>"
         ],
-        "photo_reference": "AUacShjiWEXj1udKL3KCGotePdEsb8i1-4XYtErvRlgTP-B0Ic-Hq6Jdbf0nkyl6HNKP0UHlW8VZzW0kC9pWVAlk0jEPfD0V_BrZqQqM6sOldkT8R5a8hVL2wgdr5CvaBVriHOB1Pf465iYbeCmEb3vwmPY16ZokYznLV4KRDUdh_fEc_T9H",
+        "photo_reference": "AUacShgyHXvUreN8FaqovKy1_haGdN23Hxt12BNQ8JjaPht3EQveZ6ttZrYNuM01VscRmc5fok_5DD7bRzSQtCbSQAv3OrBKAo2i_APIfVS-Q7iTval__b2VKl4EcCJsfgQxJovqk0kBsdFlkIrS15X10ZDmC0dtcO2krmiQzlPD_PJQyWgI",
         "width": 3024
       },
       {
@@ -17876,7 +17777,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/104716274491783169750\">InsideOut Studio</a>"
         ],
-        "photo_reference": "AUacShj9PpVnylnI-Q6dZU_3dWri-sd61QEl5wJ-xJkXVp78LLN4MDeJI_8tE5UuQz43RbK19iOdYDeagIkEfi_jR9BwsA_R5pkZOZNuWODTJnBQioR64JUkGkQUlP3raLTp2NxB5iF532zlH6y98skjQbkUWXd6OSBcdKsuYIUOvcssbPht",
+        "photo_reference": "AUacShj3U4oSIuvWcF3PdC4LqXa1xVbW-F8ne7cjVUQEDRVTGeNKqJWSz0GY3NSXZMburG7hDZP2PudK9QIzjgNDyjr8yWBz3xe1V_gdre6dFYP2R6YngwPjKkJtTsacx-U4gH7mU3cuIpoeB9jaSf0Z_WYfqrKtFVs1JI6GakAH6v8FtNUk",
         "width": 2436
       },
       {
@@ -17884,7 +17785,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/108406419965239142018\">Travel Butler County, Ohio</a>"
         ],
-        "photo_reference": "AUacShiFn6GKmwY8b5yPrJVqjP-T5pPE6ZunuC4QWHMqEE6HUDilbmIisZIW4guJSWu4oG-V1gsfTOOBIlXb8eJ8zMtAR_WFN0KEliacFoircbMed2feBVFMQclLfVQUHlDH9ZVyRKVAAMi-_r-mzlzz1gZldeU4F8F9iZaXIcd93-lX74Zg",
+        "photo_reference": "AUacShhIq-9hKqJ__HAULROpQVPbSuPQu7QJD0HyTgN2kSLPYbkpMyacjGQG6noGPGlRYy0yAMZQzD0Z3n1w909m2gOgcqHQuswm5b00JJokAvJzELDAQaWCaheQH5LmHTYt1h58me0bM5FDG3mzI447rdNTgvRCAcyeaDhMEW8QNrmFU7-r",
         "width": 4032
       },
       {
@@ -17892,7 +17793,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/104716274491783169750\">InsideOut Studio</a>"
         ],
-        "photo_reference": "AUacShhU12omQaKZztkyKW82_3mFiPQKy3lUtYjlbwBNzsTzHzMOifjByW6SH5CzETsIaIJpCbdkMyWt-6Q2CwpuNutG89vNet0hvzSkL7cn1bsydVXr0OOydjRUmlXQEXXAql2HvMklEjsrS_Vm32PHq1LT5yVL24ogEHBZNHsmVhAKPuqL",
+        "photo_reference": "AUacShhTOksTUS-0YjxLEtVrIhxMjZ-TAAo0SSpAS-_C4adLvu-JWjEo_cNJ-yI7VLyUhN2nxqTKpBCYLr9IOK0zUSmxXxD5NE0D1hLKEGqikW_-_c5mr0zhKIsCtlLxMn2LVcC1Fk2hoIE08hlBPBF7k39W6-qxWYTpzgSUCvHnXB095drA",
         "width": 3760
       },
       {
@@ -17900,7 +17801,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/104716274491783169750\">InsideOut Studio</a>"
         ],
-        "photo_reference": "AUacShgAYB12VP0U8ChSI9P-cx4-O_-Ex30nYU4_7sB3Il0t116LbZNjaKf3PpUzMOVjrpzvi6rnY6UfxFbwDXj6rsZo5jGgtAs3I0wluMftx8z_emC9kO7WLpz6ejoTllU4S3vAQywT9T0D6b4TAwIac1EUlwDsBWs4YPqnm4mznQNzcq2U",
+        "photo_reference": "AUacShg0Swb6MnHDaNkrgtGuFIIBB_YpbiyYyWwfls-lMciLNVsnvTMnitIiNWjBCtwauVf5dbdOfMAX8nQ14x9UdfhD-1aQiJjJnbn6Vt9HnWnfvOzleVbcbLrlTTyqAPV5OHfcOiBFp8NfeCdMQhM_8gOh_ow65EnLtRqlP8eGcT301pav",
         "width": 960
       },
       {
@@ -17908,7 +17809,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/108406419965239142018\">Travel Butler County, Ohio</a>"
         ],
-        "photo_reference": "AUacShi5xE1BqpGXr-O5AMDzQDqE_dbZlU0-mZES72w_o-Pijfo9eGQGElEf48htLCbtw561oe1nqXbiWyRQwNJQehgBaGiz8CyOJTUKkoS32XtuoCTiLv5AYTG4Cq2l9dlYX9RysOnJQe69CBfDA9C1Rqybo2FZ0XGD_97-BApVrAzizbUJ",
+        "photo_reference": "AUacShjjicoenRuu-MSCVEdXl9du4JsGfCO2VHnwayD13b0WPcXpn7mVv87fGR1n4YaxTuU9MD5BgRRBdMIvr5F-1k_kAf-PG21D-TpjT1ug60LMlMoiqepNwGbsf5KfXLx6HGUSzNs1NaR6RkS8oMHKt-OnLMeII_jNT1OTnlf0InSM8DtS",
         "width": 3024
       },
       {
@@ -17916,7 +17817,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/104716274491783169750\">InsideOut Studio</a>"
         ],
-        "photo_reference": "AUacShinFX732yR3asHDVvFeE8hILYOmBw2T8pfnvVe-PxcuWLnP0GNTMJBtqvgMOVnAqZ_E39g3zQgpGSn2uBv46QmV2dj8C34z2RV8qhNVJgq48K2SIBHDLMoKu5zfzlgWE-x-jGNOgB6qGUA-DWM1YfiQoTn9Mm-LwdrTTf7VQtU3XE-P",
+        "photo_reference": "AUacShjmQtbxsmTz22ofZz0ZBGUA5P1IL8jjVglef5IglMlSC_iH7YQi2-BvKwalgndlsbv2we4scCCUms4BNucsOj8r3IcEJm_8uXtm0IvkV_bRB8WSkhCWbvag5hIoXn_BxoTr5MviIMyFmnOhToIimvadzVtspUIikiQwBnjCKN3zwz9n",
         "width": 3694
       }
     ],
@@ -17924,8 +17825,7 @@
     "website": "https://www.insideoutstudioart.com/",
     "wheelchair_accessible_entrance": true,
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJuQKPaVVGQIgR8ogpqRYwkdg",
-    "date_retrieved": "2023-08-15T00:06:01.518Z",
-    "placeId": "ChIJuQKPaVVGQIgR8ogpqRYwkdg"
+    "date_retrieved": "2023-08-14T22:57:26.513Z"
   },
   {
     "address_components": [
@@ -18073,7 +17973,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/114414093805315753612\">Koko Sarkis</a>"
         ],
-        "photo_reference": "AUacShihQx08U8MFckbXmHApaH2MsFBolTmWmMJvi4dkQtCrX1KlNu2FhHHagKX6SS-EkXssQ4pFgCxP4MQledKmEIjRDGdOAiPsoe2Bfwyb4ZwR79XxGWWGDTMGT31FbMl1BT-P3wQ9RrQrwi2sLEFlzbbLluYZQ5yXtOWePwYfE5e0lE4D",
+        "photo_reference": "AUacShjb0KLgOtJnaW-jq5N7AaNqj4NqS0KXlClcGnwcDKHqztdnOkNYVIPbhBQmA0vfYWwcsPO4PU9U2S1q-mICtDo29q6Apseh4jVSXztKfUdbE8fwYKFht5OAoGZaYdRHOer7aiKgdg2qSLNOJtqqAsPa9Bbbz8PI6horleb7Yl_WZ5dv",
         "width": 3096
       },
       {
@@ -18081,7 +17981,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/114414093805315753612\">Koko Sarkis</a>"
         ],
-        "photo_reference": "AUacShi9smhtAWh2wNVpjjtLsgKmGCK63CW72PgPrYzU-Rk2Gkd_p0Nk-9jz87K9xJzrGKpBZeSN32_Rsh8ff-N43FsxUQEmlDpkl3FhRgFD7oSZO7xyom2iNZn5v3OJdOanGnXYkKS0XPEI3fvOhAGE1ROgMuZPZ6ktDCqQ3HPvvEtK3OSM",
+        "photo_reference": "AUacShguGqGw9gvAzf2tnCVIx7zD9uRBw_wCo7K5mawfuHUOnQtepoSUKMdJ7_76RuzqlASMDHGMuVU7L91eG-PaxdIkED0LA6l15k-J4l2OagLryVjec6XJv0AstF7ySS5R_9DSmMTrKaBpa-plpMzTMYFh5o_CucdzZO7JpLU--aO2-DeC",
         "width": 3096
       },
       {
@@ -18089,7 +17989,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/114414093805315753612\">Koko Sarkis</a>"
         ],
-        "photo_reference": "AUacShjbUx5fXaevRWNqlVfhydZOrsPm9hpIaojdub1dyD0PORm_wYrd_cSyqbkNZ3-vDRnzvGzGpWcHQdHLx7J0KNoK8E0fzED5OoqhfR0RHUOcJGJfEoIhjdz0WaSRohOOTGKbqwUKBzqNC65zzUVAiFMkvx-LEL6XgzuPu7eDE29eQYnW",
+        "photo_reference": "AUacShjwUqU4EhtTCXcvm7B5Zhtp7svW8lqQtSpknREiO-tW0_hfE144lmmT9WqAgqZ2pc25nxPMlDB8akSMCO_A_CqkYsJKHaYEVmuTf4tUQt04hU_0qUy7oaa7rm_PUh81eV4AcDzYQDJ_taAvGhx0BufJ3CowUCKtzqdzZvrUq5XR_hjo",
         "width": 3096
       }
     ],
@@ -18097,8 +17997,7 @@
     "website": "http://www.studioartes.org.au/",
     "wheelchair_accessible_entrance": true,
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6VlWiYWnEmsRf0bdl8K4HGM",
-    "date_retrieved": "2023-08-15T00:06:01.621Z",
-    "placeId": "ChIJ6VlWiYWnEmsRf0bdl8K4HGM"
+    "date_retrieved": "2023-08-14T22:57:26.631Z"
   },
   {
     "address_components": [
@@ -18254,7 +18153,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/101100761650765595286\">Susan</a>"
         ],
-        "photo_reference": "AUacShgcxK-aWcvxqqQZzu_i8nkWJcc9RurR9alBq5XUECWAHpLHH_BBNakXRikflFMn4ja7kCCLcFHvw0MMwIsU0Xe1oVhvw_LRWQSbAyxawK-pPzo4pAuTUfVjlKOEL9ddn8H3UpoCdjrgLWX3kn74wAkj4cfFnDwpfzUzA246oDZT5uGo",
+        "photo_reference": "AUacShjxOKk7raO2yTnWUa0k7Jr9DEYi_L18CWrxCHk6fXDVOOg6TvDUUZm-M3u2667JyTH2Re7R7EJUNOhcbr2HSOYhA82UlYzqfIKGnGCMwtCjNoYrd9vSPzg_ANE8JXrAySs46mQJk7f8vJJjEt0LMVAG5EoltK7Tz7gedVyeUF1a_sgz",
         "width": 4032
       },
       {
@@ -18262,7 +18161,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/101100761650765595286\">Susan</a>"
         ],
-        "photo_reference": "AUacShgumdwsPfb062fOSSo2Ni-EQvFuCum40cAveL3i0cRuUZQA39ARmM3E7qr0831K9N5PEolK2p8ilWrg8o7sfa_cBmnuP5bjB62xpeIKdVAoPOdKsohMm6o5roTA6_y2kBTSGKk4ylhxDwtA7M5q-EXqmfTGCMxVtLhDxCaaVG0Xt8hR",
+        "photo_reference": "AUacShicdwmuiYL-be5aZxrjEQ7cZsVDd_2AU6k_J-UutJETC34PjgqQ9bDDzcsAUFUwA4j8tg6FG_3UwQRgxV2MDiNFSgmBLk7uQUEzYAh6C9crEaBnF5FRv2ojOw3i62eS5gp__NULNLmyHAL3ehBVgEqf0RLpnQIAzAhm03iSFVCJFqVS",
         "width": 4032
       },
       {
@@ -18270,7 +18169,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/109813654727645463260\">Jan Hoek</a>"
         ],
-        "photo_reference": "AUacShhRTmVsQv6_4wR4toHw28-y11VWcdTy0aKrsg5W4nX1s9Z60VJSGEG1R9tdtd9PrSjnZ_7aDs_2FAnYk1trfsAAk5oHz-HE6oWYQVht95pQzpGzmpsbRjKiLkv78T_isQUavish4Z5lLIsIiYSr0airNiFYvHJwTE7m5sa8TD3giQJL",
+        "photo_reference": "AUacShhjPLNowN853RUUzFdBgLyJ33Jq4kBroCCxke_zAUGa8EGmZbC5UJT1kV-hVlw11g2CXr-Y-kkFZbhTUa90iU9QsskU0NGzodsrIfgVkUAhQjoSwkst8hiQyGT9OaJ9C7wrHgeiOTGBMK7xUrmYdsmc0-NhDNv3Ut8p_SrzVRgm89LS",
         "width": 2048
       },
       {
@@ -18278,7 +18177,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/100175111662575335453\">Yev Kravt</a>"
         ],
-        "photo_reference": "AUacShhncjdZ1d_c9lKOZtmgdJDHdtm9VvigOXO20J2I8SXOojrFsqUHLyqjhto6Nmpk21uz02CI8ysagbcsq6GBCmfDej5HwipkgQOYOkKgL8CplZUE5mte1dtOiXpr1tk-pVdA2W9qM5RTCRD-wYdTZOo9XWJoIo1BEhUwRfw0nHRTb0lm",
+        "photo_reference": "AUacShhFQRdNokwSkPjC8AmcHjGYh54tevcwZ4wbfgvTST3UchkbCvAmRgUdGv-ei-sjZGdFLCf0Akw079w3p9vt0Pp38gNKI_8qO1vG3uP4kpVHyJfzuIJsIMMBhBxyzC6w64cY4HMdG3Imfy-2LYiE0EJYIu6LmbKpNiZMFetdKSLnncIL",
         "width": 6048
       },
       {
@@ -18286,7 +18185,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/100175111662575335453\">Yev Kravt</a>"
         ],
-        "photo_reference": "AUacShitiW_VGrL0Esb5S7WhYdDCw1WqO3rjcY803Pe2KNGG9zq6FdkUZl0XVePcBzoXGqfvCIkz8ngrJKTkEA2X9NoiGZ2PGKC13lnqZoyOsWKaA6FFY4JdVIRU8EeS7RDtWU4UbYzInIOgga2sRsn_BVDsmNIkB6hTaNNpRJ6OtEE-kIXY",
+        "photo_reference": "AUacShjsLQwxAAAmPlFvDrR4eI89UGVa3haD5n2agJz7eLdY-HN9DmXxUcgSbKt74Zr9At2upl9lAnIW4RR8c7vVyjgn6xIXytt9yWpDTWSpKwuqmlXwm44SQO313poVcrfkRB6DipwgioD6YuK4XGbhfYWhnhvSTpMJOyxdAr0r-k8US5uQ",
         "width": 5321
       },
       {
@@ -18294,7 +18193,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/109813654727645463260\">Jan Hoek</a>"
         ],
-        "photo_reference": "AUacShiwQDjRS9NAqaQXeAZe3Vp5YuRabRPNH-lN6SFnu3ts0ZD5CwAiOovyUWsGkpy7cp0Ex34O1c9fNmVqxbh_0K0ZeVS8j72NinXRGF_uf7ixkB68ETOO9YndepftpyYjJUVrwhMLCwbgqAqKBWXpIvU3TnRW_tHuEDFRIhqOB7LaKVVo",
+        "photo_reference": "AUacShjEaU7Fse-cOMJWFU0gloYybw9UGMA6iCFh5wZt0S0BhMPsrSoSmcyqs14ATnlfd_lvmvbBeo_tEWiXMmDDmORepIPJH4os5lpjCr-m5zBpj9Mz58Gt_DGDm8OkMZdn4yZ7vNIMRGiaFn92lngL71uKHgPnauKblTrvyWXvNc4cdaia",
         "width": 1536
       },
       {
@@ -18302,7 +18201,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/109813654727645463260\">Jan Hoek</a>"
         ],
-        "photo_reference": "AUacShhqIcPR3mIOmEGy7BD4Qx__KOduIDReXz6a5-SRkO2Fo6RCuN_gbYQgojRwj3g0l19lBastEqHlt14_BsoFHT11-N8E7I0QD3-7Ssg1luXAPkkjUTySdE5rbvNxXy3RptGK43pOQAp2iMFo_-Fj1VOqnUKjrdcKXGxyNoZbITW_k5Ty",
+        "photo_reference": "AUacShgRTXziXzwz_TfXzeMnFVGufRr_tnzJdWm-LfUSBmUSz0h_QGsv4XHGWEKV7gz0UKllJM6sM5-f7Tb4Ouxa_VDad0wCDfdd7ixLv5Ndw3hSo6PxkGpNyhCHfTcnyQtq7n2_z-ztZSjxVZub0myoEbw_Yz26zf6s1gq1qxPDQXWqFuAF",
         "width": 1024
       },
       {
@@ -18310,7 +18209,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/109813654727645463260\">Jan Hoek</a>"
         ],
-        "photo_reference": "AUacShjfhzmNluXSw60KOKlI3-u2LMq2JcnG6DzofDXBdiKrT2EdaVJlfv1XhwTjRgrW1knMSwpubeWKzlLloeT8p4fOXOqMZe-thAS8aOzvT80Ygdabp3HLlgXo7dAEPJUVbqGtmCnh1NE4EFaJeJTJECMn1ppu-46UPH5UP8WPmtQiypNF",
+        "photo_reference": "AUacShhxdHdKHucWqdA-vtAvRTQVLUf5UYZe2jaZFqfrmVOJuYvPymw0uFoOF9XlwTZ7UOuZI2VWMxxFbZZo4lTVku-TfAIIecBoa0Un5dwYYYZNvPzNZFvkgMdhqUMx4bWZ_RhlxVNgN-8-6jDzCY32pR3NiCn4ycjjrtjNJc3tuqxmD3Tf",
         "width": 1440
       },
       {
@@ -18318,7 +18217,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/101100761650765595286\">Susan</a>"
         ],
-        "photo_reference": "AUacShg3kGDD_6NVVwrMSRzlQjcsr7TmdqGyO4dhL1kjimllfWXv6ahU9o1KYO4gM0I9pBN5GtUODQWjhMmIsQ1tKVq4wjWtwH3ChD6xBHTFxspo4WVYCkc1YdqUd7Gcm7DQzKSFdZH8g1YXSWvOIYKX7MOafYvyMxc3seq3kMSz3ssJDc8_",
+        "photo_reference": "AUacShj21sx-gU9mKZ9rcADs-YdhY9oCzLo1TlNIEAvhngqfnNpdLnpXsOqKO8T6_HSkIVSKnBU_RqiZsgIP6RCX9McqOtcn8YXDjhkWLuPWVKbYHjfoV1IsQwDaaHs_pwKi76ZsAK-t6GFOND5CAV81a2wrK2pjUInfe7_mryobiUi6zSgI",
         "width": 3024
       },
       {
@@ -18326,15 +18225,14 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/109813654727645463260\">Jan Hoek</a>"
         ],
-        "photo_reference": "AUacShgQavELD4CEK4nREQ7j0OWBiz-vCPrrT8VD4HiZzf0fNvZ9Bs9hz38Qe2T_ECAX08JwH9pGr6GxBUIboBUkpEQl5OA3ZdYv4KNehL_nUuBFFHsw6A0I1y5YrlsdPPTyzgrLEPWaUnpyRq-BGMTvH1GSAOLYxSB302yPm9NOQ93c6v9U",
+        "photo_reference": "AUacShgfRD3cVf04UaLwAP5V2obnx48fwD-btv54OzUeQGcXh4wqhaSCDxYvJjWI9oCrp6QibCCDic3hD2vDMC3V1dgX6GQp_W_37pLrWYhgDPCygnVuYx1ckZI-hwm3rBlZmIF4sLXcERvJNatcPTv1JrrTLbFLvsZjkJTH3Rb427wtyPiY",
         "width": 1536
       }
     ],
     "rating": 5,
     "website": "http://www.nolimitsartcastle.nl/",
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-UpgRcwJxkcROezxdjNfMlc",
-    "date_retrieved": "2023-08-15T00:06:01.736Z",
-    "placeId": "ChIJ-UpgRcwJxkcROezxdjNfMlc"
+    "date_retrieved": "2023-08-14T22:57:26.737Z"
   },
   {
     "address_components": [
@@ -18499,7 +18397,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/101985566640990226147\">Gemeinnützige Werkstätten Köln GmbH - Kunsthaus KAT18</a>"
         ],
-        "photo_reference": "AUacShh_J_8FVDb9CNPdz4DUj9qIkdQI1VV_-qBhA9O9K0oab1jxPVFmpn4Te9CrTlC950b0xfxAGhVb3Ou1rPu-xW720bF05i63OGA2-Ha4UluYG2t1BKmO1bIEBU95mLKRX4IqJ3OhR1EpxskBUfC6IcMbYwoTfE-_pC88pRkpOu8tAdFp",
+        "photo_reference": "AUacShjKcK6KyAybbtLKbCDWP29NcgXBd2ym7GbXuZRT2YKG5Fki7ifr0GfJ3NxJfqkVSMRN0M-uEDSJgtJu5TSfrT9mIcGfEu4lLa3sSRJvaDlEYCV4kyemy9-_rJV8a6cSpd-tyNau4wZiJFHL3QzRPgqhjJxoJY0iYWtI4NBI35EWzISH",
         "width": 3565
       },
       {
@@ -18507,7 +18405,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/110486360472289481316\">katia Moura</a>"
         ],
-        "photo_reference": "AUacShiRuos0Exhg8oQwz5yBrdayRwc4LflmxJVvXsbmGfqQkSBAAeuDVLOu5Pgrp8_fLT7v3hg5wovaUzYB6Vpd1bAIJ-9j8dNdVddsTTj-ghx4BtGHTZegQoQSm00Fy5Vg1O8xKuzNaohhJOHJ4wYbhM4pVXq0jF3vRw51wl9fQ2Tf6mDk",
+        "photo_reference": "AUacShh8bCBkc0eWKigshpwH64f0R6MTnBNdALqhKch3C1SNzkT3E9D-Un49Q1Y4ZuLfWONySqcB4MWChStZqPbl-RfICuGMqJPn0iY7EGz01qSO0OfwX9bkHKGNCfHr-qJNACS1cG__qt_jbq5wfr6DO3vNLXt5WwVIj0fZHtQE3DhVQP2A",
         "width": 3024
       },
       {
@@ -18515,7 +18413,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/110577643433984318785\">Marion Waeser</a>"
         ],
-        "photo_reference": "AUacShjdpwtEku3K8mxre6YhSFrnrh_G9z9McyJ_PvAYXKTnYJ8aN8iwMUgE58qpd_62pY7ra3gGx0Z6TTNyb5YggGzCbzsDYcO1mhAk9q1jdnScxG5azs1lqg32sNbvgoJWI82oEvAynIlq6e_1T_f_T77I_3GVm7hFVrhR6QpKWvPxFAU",
+        "photo_reference": "AUacShidfB4mCO-bBHiIBahFJVOp-16ZrXRIq0kkYhNWzqPqgt2tmidYVA0ud0IbZR6bBPCbSxk9OoakgnV01p8xZwf3upu82cFGteCikyS2BwEsdP8e17B4PK-BFfAsiYREsP0o4e96cB7Bm-aBxI4qUnGiO2sAg2aAwh6U_iUmnUJuoPg",
         "width": 2560
       },
       {
@@ -18523,7 +18421,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/110486360472289481316\">katia Moura</a>"
         ],
-        "photo_reference": "AUacShjmOC8NVrRfgBwhHvLNbxq_YMZ1NnWAqd2_GnWsAKGEUxtFz2atMXMW1Ekq36kqaCVLXiflQrfeDMUAFsdaAm4yuPqwbNVGEy25fWGAbbH9B5YY9Pzm3hlk1cCO4iGdaXK9Tn_i9c2A97ecauOTqafVEbX4TXjgaL4j-a7pO9AhHwhG",
+        "photo_reference": "AUacShh3ruHqB0OlCDGeQLFbsr01LT6tkgVW7hORz-fp5TfjCSxhDtmhqlM5ZVwA6ENFbZvTAEk-g76DhCVPw1ci7KwFs6Uqc9AN5DcaPaIDMYHwohM0iiSomsEmj-SljUdIj5TI3w29p1aFa6iR2J5_45W7zkzxfMfRC24FJxlvYDCsekmp",
         "width": 3024
       },
       {
@@ -18531,7 +18429,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/112246980219427169783\">Gregory Wolf</a>"
         ],
-        "photo_reference": "AUacShgb5MvKxONFG8qNTMjDHyvm-nfuXpXrIoOpBISC3yAbVht1rT8dD-6Niw8N81PHUndJ2cwhVVqH5sLM9aq_Z-mKgqvX0DDIUm9dihPWY4ElZa2hC3W108P6RJkxizxM7CmQDxs5RJCV10P4Uhkd9yB56igX0HzZfv8FVWsxcHQb6jjc",
+        "photo_reference": "AUacShjcRhPqJcjzfl63dbKidclaU2uVhtcBB8XW7NuBTM7n3ANN4BCML8MlKFDmCqHXx537wkHNrX6ZnZuMDi9PgixVdPpEaV0lgExdc8cjoalCPOhJxRZpFdF6U-PvJ1wLsmMl1so7O3elN7ZB1suSwiGU6V4K6aMrxfMd2Ca8YDizIViR",
         "width": 3968
       },
       {
@@ -18539,7 +18437,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/113671171979529899054\">Isabell Lövenich</a>"
         ],
-        "photo_reference": "AUacShi6twh-lyrne5qr4vwroHOoC2dCJHFXDZRqa91yBN9LEki_3FVsPOj9YuLxN4scPyxe-Rx32xc6gk6wV3bnWiGbYjvWtTBQAhIPTr7pcmdcAZV-wsYeVoUzSKP1xLl9Qa72flAU3-WM3j6TGIYsrWt4bdQ0BlYBufLsUkmZFYoWlFS2",
+        "photo_reference": "AUacShiDXD4qPj1O8kvcF3drrYsYbxW-kkJ-aRLIOXX3XEqaJN9YxJcsDbQe5hg8J7rskHffpHo_58Q6osMGJptksI4l4ovWPuktN8AD29V-Vd7AjJsVOYpNBPlixyYvWQomLNYQS1Ep6gOQFssd4xjzttZ_7fnkAezoUW900M8nAn5YwEl5",
         "width": 3968
       },
       {
@@ -18547,7 +18445,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/116187723273454012886\">Uwe Rissler</a>"
         ],
-        "photo_reference": "AUacShiatmur-b2CN7p3EHy-PtmtzKKzMKTjpgGPxciZ71K4Ki0MzKclP_3r_bbMg7Ef2wxdk7lLwUgeUjqFd94V2O-XAEEO8zqGwu4Yon22MOaqmpr-yzt8mVUv0eoXSmDsc1NFRmHPwZUly9Dahd3H3-akkaKzfSgXI3zG6BNnskbSK58V",
+        "photo_reference": "AUacShjvKYsOIfEjZETSPymueZndRajmX4k5Xf-YJzcUBdqCsg_oO3IvNaow2GBLLnZCFeK6nybF1E9HV9zaVZVzMKn2qJSG4hATk0okLGpXY1xBfociibrRemDxudXnGVjRDtL_4vRZLnMwioBog7fLdJUz-DlFxMnRbXORqRmPZ_UxSZ0-",
         "width": 2336
       },
       {
@@ -18555,7 +18453,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/110021993914955153562\">Stefan Reuter</a>"
         ],
-        "photo_reference": "AUacShhncJ7S7YUuRn43tcm4uZt9CLEoNQIg52xfccf1xs1UkR9P_Odowsab9SVd0rn97XTEz3ud4da31klWArLzm127LD7WNCgmsh-6AjG6qLOs1OG6Ep0WG_Yh3mVXsbM7Wby3HzbbhP5GKUJdqSn7m6UY0KXpKZH_z_EaAyY77sWsiqUv",
+        "photo_reference": "AUacShg8fAtIWXotPj7DFhjsmkBw8w47IwNyjlsGVS8xyDF7AbL2O6ELUB6YPTeMY_x3PUXyYZCZnF7xiUAmKnM-5qH16hEyFQPS45gH7uBQiOr-3q9rQhTdIbGGoOwapnLE6qDgoQ3GgLtlcgXbcSoYRNjiZnfg1rnjWlgqQmrXTnvDyPTU",
         "width": 4048
       },
       {
@@ -18563,7 +18461,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/100500698762205759527\">Frank-Michael Preuss</a>"
         ],
-        "photo_reference": "AUacShgSuFAdNzPA3njSkBQCETcIoX747dfA4yFe7bRT5cZ-Zfs-kD-5VsBnjYvYZwfKvP63MZUXOm6m2DOe4Al7NNriJxXxixkMORdVjFYT4cTROWmXfpYF_DIAIEiVlyBSbrv0R7ie0lHD7b66opM1cnCfd2qB_FoaR-o5CcyGbBW2_I72",
+        "photo_reference": "AUacShiwwTyywpAp0spgEeLkZ5YA27YpX_CzvmB1BLNORQnM2SqItSHcFBJyUOlvDpiD8ZbQmNmTBvjXudP_Sv1e_TXI8_03kafx_x1Tlg_bAbjbqCLw2BGtvsdmU2zizh8DjYj3VnVfbeaGwJqUfle0bY-FfLVfi2USxHANf-7xzcqk_-Ek",
         "width": 3072
       }
     ],
@@ -18571,8 +18469,7 @@
     "website": "http://www.kunsthauskat18.de/",
     "wheelchair_accessible_entrance": true,
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJzZUrH08kv0cRdoT9AtS0Pfc",
-    "date_retrieved": "2023-08-15T00:06:01.852Z",
-    "placeId": "ChIJzZUrH08kv0cRdoT9AtS0Pfc"
+    "date_retrieved": "2023-08-14T22:57:26.882Z"
   },
   {
     "address_components": [
@@ -18729,7 +18626,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/111309935713521078049\">David de Lourdes</a>"
         ],
-        "photo_reference": "AUacShginOpSLt5nQGGflzNgstNMQZ46sGNaEtph1iLPbqdRVEfPtR1V4IoYNUTjpE4xMBdJg72wfw37T7yBOnS_C2uZt2dVpC2rblAafzHuBY4CHC7282UhQKl7-ZFx5vnIpvXp1l6j6Sc8tfL8ImuyxMsTHuYXE9RzHrY_uNYVZFaHfpDe",
+        "photo_reference": "AUacShhGcR847snrbEEq-4LEXXWDrthu8yWtPj9l2q3vr1Gp4F_eYT8xLlKB7e4P95-o94QgivsZmf_9D2lV_iXzwSbOwHBLKWz62xi_DOPfJVI4oFdXI85D3Q0s7bbPB9diowc3bb-cZKTB8z5PCQwOigyp7am-7mzbpHlLjQEUzAVP1pjX",
         "width": 1536
       },
       {
@@ -18737,7 +18634,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/111876782004494633470\">Katinka Kaskeline</a>"
         ],
-        "photo_reference": "AUacShh7yu8nptYUzJkaMP6OMROBnlCTTiILMLovvxqJj3bXcEFonw573YkxXOWa9KEQ1DYTsYgZp-eZjCCtX_0mkdehI_LQXUiB1AjWFtnorPhqkXNz5FalYVK2tHhq4aj2n9LKGuVGICs3yN0xvLlvft-JVMWA6X2CbFlWRWWPcra3a_5Q",
+        "photo_reference": "AUacShgfhIOMNjPSIqi6NWmbdQKwOKo3H0UsbzKY_ccKG7DfvRI53qG7ygBxmbifKvLn24a6pvlPSSt4Z6o7m1hVAu-P8TYKM6c2TIx8G_yM8vLVXiNO6jkjZgerjmnP4UptqH6Cdg1uCr0FTJfD5KGdaLzGBkFvIv3PF9ij6jlpJp6DqOCc",
         "width": 4000
       },
       {
@@ -18745,7 +18642,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/111936152036404092346\">Neo Crank</a>"
         ],
-        "photo_reference": "AUacShhoItPHq5NQEtVWR9RridSJZ1q3VvcC88MIKyviYnTYG4MgV_AcVxUGzPx0TSPY0H58hU8D1OACVJ5_5P6h-nvezJGXWn55FwsheJ8TTxoZI5BCMFwzMNM8CO5wSbAMhktU7POfNVpJdMNIYwPA0mLqT_f_d95DDNunmTwIXYnLU7aE",
+        "photo_reference": "AUacShg6x5hV1H3UwhF3pqTMc-wMKsEi-ebWTyq3EmW1uqvRiztIjuVZkDaKIxcY6M4UQlpJpQt_e0WxYRXk4TFomzKg0p7HhXleJ8lVHZButAY43QN61Er_1q3f8NPC7jPss720bE8M6rrUrJw8JLrtmwGGvQ7k9XCq1XGtoRQGIg5sMIek",
         "width": 4618
       },
       {
@@ -18753,7 +18650,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/117952253183867671480\">Recki&#39;s Fotografie</a>"
         ],
-        "photo_reference": "AUacShg1zFxVyianlFPrUmxvXhRwyraiSOgOPnmISXrju-REvkoNwxTcV5xOxNW1ygSO1Nu8KbSa2kMUIjRzZcAcPSrF4b2pC3xI23Bq7ZmWr2yU91RsQkw_j-chzo88cl4IwTuJ8HVon83DUa0_q6N4-lO2yjL8__QAUXjG27NGOzMc3yz8",
+        "photo_reference": "AUacShjtL0FrasKRM3aIYdHGpvW4SR_CkiYAw-M990UiHEzqKkv5mPkTHwcB4qQ8IYyeexB8fEsw3UFPN4BFORDLKva_rOSZiv246An8exynJtEaBhuimNv3cmo3qfqJyFdoZWLb0VQe-CwetjXIEt_8vid852PLWj7euiBOJ-Nlu3FlSNHP",
         "width": 3472
       },
       {
@@ -18761,7 +18658,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/101061408605149380294\">Helmut Forner</a>"
         ],
-        "photo_reference": "AUacShg5fx73_sk289-mf_W8frhTy_4yepiRUjNw8TJeviYfZbidYfDOCCR82aFc2HSFOkTAne372wv2RedqRuyNol_vy5Lt5I4xJamR5I3tG6oHMt6LBva44ICPD_gCiwNnCcg3EgIHADGaH7v2WJWiuGpjqq2qQoM5Mv0Cu_8NzlbJY8Se",
+        "photo_reference": "AUacShhfUy5XlOgjqyvhGvlvki1DeypVAtqF0SBpNI3D40h6yiC0apqYvUY9TXTg0d4nZwami-ttZ8SDX3v5brNZ3faagdZez9XlLFwLOUnLWgXCqZR9ak_0FH9tb1yX63gzCfbtPZVIWzm4vY-dahAEEUlgzq6uNISnAHS5XYq8ksBqb0E5",
         "width": 1604
       },
       {
@@ -18769,15 +18666,14 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/103581690245059584751\">Nikolaj Bultmann</a>"
         ],
-        "photo_reference": "AUacShh29x8Wv4HcKosZvCJvWvAsB6YgmNGUzXFGJ9l0xJK4L5wyfQmW9-YKdLJyefhlayxz41vdhT3znJLh7QqRxYx9A0OeLGhlKs3pZstpTfocTR5gU0BmXEdcN2JHfR3LFdPRqloJIeg0oh2DCSdMNn9GrJHL5CNxXWkstKc_KU_xcc55",
+        "photo_reference": "AUacShhv4c7pz2OEEyCf0PWtdC--KTNiR0z0E6sc9fd9Kj9rcCkpq57xCFRt2kR4abmz43YDboUownOQ7v11s7sfhrdKuRB7u69Z_AsYgnHo5Ktx3qa7u6AlGWaazT4ngW657PTf-5bALDeEipSDsQN7WnxTae3mzC3a9SxH3DqGXVkK-yQS",
         "width": 710
       }
     ],
     "rating": 4.3,
     "website": "http://www.art-cru.de/",
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJaxflvpBTqEcRpxThhjph1ak",
-    "date_retrieved": "2023-08-15T00:06:01.955Z",
-    "placeId": "ChIJaxflvpBTqEcRpxThhjph1ak"
+    "date_retrieved": "2023-08-14T22:57:27.001Z"
   },
   {
     "address_components": [
@@ -18866,8 +18762,7 @@
     "name": "Mosaik",
     "website": "http://mosaik-berlin.org/",
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJtTSRsvpRqEcROwBtfcC-nXQ",
-    "date_retrieved": "2023-08-15T00:06:02.050Z",
-    "placeId": "ChIJtTSRsvpRqEcROwBtfcC-nXQ"
+    "date_retrieved": "2023-08-14T22:57:27.098Z"
   },
   {
     "address_components": [
@@ -19024,7 +18919,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/115091815105738318827\">Mosaik-Berlin gGmbH - Betriebsstätte Spandau</a>"
         ],
-        "photo_reference": "AUacShiZWQZ2_JG35tZ_2UVrHVsO9vPPze8iToQ9ptOEqpVkSG-6V6Eg7ftjQZzgumwZr9HI5kWyl0d__8M3yOoDXjNo0OXntLha4LVVpszALHfizI4JZW74jdAweP6aJ1qjhpI5_ndcS6FOdi0rjWLPBpN5CE3pr6oyKlfWvPs3ULNqjjAi",
+        "photo_reference": "AUacShh-XdDjPYx4Q96ymZ1PFCq4ZlbP1Q83HDL4s9ssRs5MHpe5-LoACrdG_MfPwWJngs_wjPQlSnHjq05uMh307HVfDGRIkqQVCLdexlWXHLvp_ZkCAFURAHeVM-NY2sbMV87aP9_HWFpiCMGa_Xdw6QSOqZoz5uLifzEjuM2LzJvYRt4f",
         "width": 1500
       },
       {
@@ -19032,7 +18927,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/115091815105738318827\">Mosaik-Berlin gGmbH - Betriebsstätte Spandau</a>"
         ],
-        "photo_reference": "AUacShjGm8EyV4nXSivGTLHk7MpRI3KC1xidXxtOQuJqjs_te-OVciw7X_LQbXNQ-6kbX1lAf_Rwp9Srouymf0SRfJj3vJ61BVQDppe3qsskumd20TP7h_wT-4o0V5GELE1Q-xziG1Ncy255JkO1ddUdrSwZy9QhQHJlM9c5p9h17vGA9H_5",
+        "photo_reference": "AUacShgZsULdk3TlLUxaqzsp7Rmh3hpO3H7pXYOWdPtbyy4Gtceq0I1dzJXFsydCfnQJwq5zCuvUoUuLy1I9ulKVTBSdXG1KCR6hbv6mRhKTN_3Qa_gyu4cKO0_KdWtmVkthU-5SCLgVCKUCYJLJFaL-dVAULpaM3-YcuINajnvtRCc5smjt",
         "width": 1500
       },
       {
@@ -19040,7 +18935,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/115091815105738318827\">Mosaik-Berlin gGmbH - Betriebsstätte Spandau</a>"
         ],
-        "photo_reference": "AUacShgZ7e8I4BK5Wu5BOTlRgEuyMkwhfs-RyyqC1ThntBl4qbp11GP6-2uM_bvgbR3pK42s5q4ncXM1q_s_GTIL7tFW7Ket2R0jK3BiFxtuM1lFhX65xACHy1L-2vEmuqlsulXqfzrsJ0sJgJ0sqnrVo6sGZuNdOpKJ6uaAiZ-Ykvu6ULgG",
+        "photo_reference": "AUacShgZoY_URIV1-XWnRUyJ9UbZqNEnOpM-xuj7PonAWbeiV1j44CLNIEn52PnMCVbRixCD1YFKgLpu7hLN4sPvlGCw_RxW3b96Nv3-poqTL6rzfEFiJC_PrktflMHR6BVKzETqVzvVKy0DWEiSGFz8bNx5pbUI_pBrJ16vxdORQbKTtDvl",
         "width": 1000
       },
       {
@@ -19048,7 +18943,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/116696180590105514871\">Rafal Wojciechowski</a>"
         ],
-        "photo_reference": "AUacShioDR1EFGK2ngeHlnZfOKUKLaRPvgSblWs0rM3cv0PeAtx_9Sv2_Ue_h-vbZR7LnYdhyDlO2WzvcppItLSzQv99SomGQZHL9bl1pQB4wWWWBND1wzTMNSkuagUQXHdsBYVm_79XW3QdeBmz07vnXL4VRKp55IM5B4O7L2myI_jasb8h",
+        "photo_reference": "AUacShgqEJh6FR6XmmWg2DbDpjaZbmOEE33sxaZGF8GxVQ19akzzRExejDN8VsLFfTovBObXVSV_jiCsgtKpr5Kqolb8n8mD6O4IjWfAj37RBwfDddgpdxVeNE9jEPMVLobSYJl1c-hfTsc1CEtgYaFxTmPfaleAW4e4jT7KX-Ic3H1hV_T9",
         "width": 3264
       },
       {
@@ -19056,7 +18951,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/113324161064187763066\">Alwin Dedic</a>"
         ],
-        "photo_reference": "AUacShhYEDPbLnkFKLyfYHDqiKI8kAQz_XqYNr06uQjv_IEMVPIFJfFMl2XQJzGDqxQbUprs6xStTDCPy9Nf4qBwnOQXaglB9H_jNdOj6g8S9CezRF-yA9YiOG7Nvkhns77l6Po963t1eifr6AgNnNgRh5OSQZtaaLbUoI6QZTR8Tf8N8SKj",
+        "photo_reference": "AUacShjXnxSCvhYEzbX8RNJKPAW5xCu95CmuarKYbth6yYCN3R-uGT4dgMIpXuGzJDg_SnbLPcz-462zPqJaF5qu3B4mTi_5T88wXdAj5EsS7tkoNG8ijJhYem4X8RbTzDUpThlPXevtBwHIN7DYJgOyjc4eXqFvOb4f7GQoSd5dEkl6jYIP",
         "width": 3120
       },
       {
@@ -19064,7 +18959,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/109857779818845949734\">Nicole Witt</a>"
         ],
-        "photo_reference": "AUacShgk1PsARAaYKR8mI450hlS3mn6LkX-ocw4EnYLZ9xzZVLisIUK_V5i3f0dQ4atoOd-yIFiEDartqHQUDVszojUEY5dUxslOec_P7eL5l-otv6M85nVxCtvaiBVr2hDRvd5LYSiRzvIR-syUsg7D3uO4SLSI0kSFfl0l2Fxb4vg06DqU",
+        "photo_reference": "AUacShhX4tGUSwX_wWYnSM2HDAxHTcXJDJnT0NCvnOGH17QZfqevwLHYMeNqhqfARusoIihW-KZibXdyJnXn1uWVMb77P1UCw3jVroRrjgur6Hf1GU8QLzUpy94w6eiB2bCS0m8eyUSma_v5cV4JEK2xBmwmlJUI0uQaZi1lTrH71nn4_jp9",
         "width": 1035
       },
       {
@@ -19072,7 +18967,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/115091815105738318827\">Mosaik-Berlin gGmbH - Betriebsstätte Spandau</a>"
         ],
-        "photo_reference": "AUacShhHimS2d3zHCIitqz_N4Q7oHrV7A5Lserc6rm1xjDYMgVW7vc1en3NumcyqsGJt6Jo3zn3yCKmd5rqqugiToGHb969wyjC6wNNGS-N9WPARyawsGvlj0cx7U-BOG1XFqbRHk8AZEea1PFA07HTvdIHD1c9XxLaAjYciIRZhCDUh4M5c",
+        "photo_reference": "AUacShgEle78QWqXHw8YSBw_BD_oXB7owaYMQITVa74tpEl_evcweRCqTdIbmEEQwjATSqOl83nh7ealBIaNRpggt9CFB_rNOIQONgkre4e7Ojw2dwgFZM5icsJ-XkSdd2_AFpaFzXqRioXhn7UlLdME8kcoAhcDuefqimlM7N-Fn6vdrEQv",
         "width": 1000
       },
       {
@@ -19080,7 +18975,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/115091815105738318827\">Mosaik-Berlin gGmbH - Betriebsstätte Spandau</a>"
         ],
-        "photo_reference": "AUacShg0OL58v87OiCskXE1gEjHGKR6YQUSwsFcEHLYcPVbcOqTGCrnbGDE-_UHKydqzNCnORh7GoMB6gtQl2B2vj1uC0gZwDfPilpfe-NL-_4fMZQ9VBA4YYhFqRWnOvOJF8oLaGk4koy9T4_DyRQPDwY522kyIvk2W5rR0lJYyd_oQ2-9u",
+        "photo_reference": "AUacShh_lj7rOgu4Gd7OznHgya03N9w_97UEqI-tihxx3qSOu5Mtz0ZRYuY1Tv9BMPXrXFA0wwQmRuTKjRpKV1Xqhj8Y1j9WKQkyu4x7mEC8cNeo-elrP4m8bujCqPOxTEADTTUOGSxSouoy2wQPlDXSL5SzAsfwylx7IZI1CAFA-8oelvlC",
         "width": 1029
       }
     ],
@@ -19088,8 +18983,7 @@
     "website": "https://www.mosaik-berlin.de/de/betriebsstaette-spandau",
     "wheelchair_accessible_entrance": true,
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJW_UYahZWqEcRQPbBQ-bz6jo",
-    "date_retrieved": "2023-08-15T00:06:02.177Z",
-    "placeId": "ChIJW_UYahZWqEcRQPbBQ-bz6jo"
+    "date_retrieved": "2023-08-14T22:57:27.222Z"
   },
   {
     "address_components": [
@@ -19264,7 +19158,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/104648181362421672380\">Sammlung Prinzhorn</a>"
         ],
-        "photo_reference": "AUacShhxYkjkuSSBDOlizHNLUVc16Lia_PyH5Ddq08uCvx-j1V71NbMb6YQm_AAT--pV_DZibfh3y6xDMG3sCZJIUr77kaVUPnVVzHozOVpiGByCvUtIW1EPsl9jp_uDnUdF1lO2WOGrFDiZyL7q9Ho_qeAdKY2z7En3krZoq7s22DGtUg7a",
+        "photo_reference": "AUacShgCY_wBFsqKaMALIa-E73LooqYQl11ADOTOESeY3v0J8uoQeJ52TrbGiIW9eAVUJEbZAaTW67oTThrJtRTcVnab3XEr7a1SHuC39JshksCzhAhxyL8q2OmSxNLvhnhnWKVcNy_7iyIHqh9uBbw70Y4ePHH4wiJ5kvAHa2P1jL0RQgMq",
         "width": 5551
       },
       {
@@ -19272,7 +19166,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/104648181362421672380\">Sammlung Prinzhorn</a>"
         ],
-        "photo_reference": "AUacShisnq4m_u5UvpyPchfL6tflnEFfa5gCGwTafjk-0yxMc2oDV-gn_1rHWSojY-dH39nDopZqrmFdMzZ-jjz8qwIBxwGDfq5Hn0-d5hsdljnXto25zyuAnbbDJ06YpIJ5oV_0NQJLXoJKDN2kXZaZmVjeamIa6T82F7xq4d8biANPTA2S",
+        "photo_reference": "AUacShhDWM_IWwQtmnLNqaVV16UMyrdpg89WEmVwoQ1m2V5RRSmPsrkeTsRQFiv6XnUjJsM-cKPD2KgGha3zh8dhLB3YM0yW_-Zr-aAVLWrU8f5gn02xP_XuYYqqC3MqSwOlD3aw_2GPo3CNY05QCClm64Ndgyf6qu7873WfIpkuhrZUUXze",
         "width": 3003
       },
       {
@@ -19280,7 +19174,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/101545349274467777668\">David Lorenz</a>"
         ],
-        "photo_reference": "AUacShiUc56ehY6312b3b-Y_-G84DmaTTbHfoqrUHaNsm1Sl2oajbNm0MKoqM0AaSV_4tPVS8vpQLLjGmUM93ZwvEa6oj7pIt6OGmKYeV3RIxU6WXqwGRc05hD62-mYhqdkvv-wYhX2KohpFgyY3olkTpKkuRRk2TKq6fs3WNPxfDTIygUWQ",
+        "photo_reference": "AUacShgZ5N0io08cNsuVR2EhWU2ZTat7rUfkE0Qy0OG16mz6yN7RWFW1jkZCf2vfYxJEmUgQ7R3XZSFYx5luytJ_pFm_JYif-wIaG9R3im2zNMlk2gbhyVtAb69Fvr3IIcMfpy9Nk0uh26_o7cH8KaQQM-yndyHeX0asJRkzzZCJ8ipk0K9I",
         "width": 4032
       },
       {
@@ -19288,7 +19182,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/118110146590884748437\">Leonie Ronja Reese</a>"
         ],
-        "photo_reference": "AUacShgvS7BZNfxrvCjexiIsVAShv45jhGPitxY0Pg3KFGFJo6OmWO5qGfY9ppCzb0X6Vcj3jFKzuIYnsESgXVYFyNBhjAfgSd_m6Tij6lNVFyJ4tNAlWXYv1UF64cOLjWdknid9BMqMIJ469GA4tSRmcuE_XRP-jLAW12NK2l8u-7iK_Qe6",
+        "photo_reference": "AUacShio4Tq1TgL-7UJiAo-nvksC40zui9ksw4qfE7rl26R5Ra4NMZlIDurBZfZLP1pUQPuOMLnoN7L0fMYmO3wMI7OuHT5BpUj9cTJTTvupN9S6qAXyNeWlFVQXUJgdiA4nJbi9tIee6Mn7FtDCW45i2Z_9ojgzU7x104H1zKBotwmV9b2C",
         "width": 4000
       },
       {
@@ -19296,7 +19190,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/112362439632351477483\">Andreas Conrad (FrontRowSociety Magazine)</a>"
         ],
-        "photo_reference": "AUacShh2UH1bmjb4WJThhHwMN3xAFhDBqfB8PbWTPSUbCPLKi5qTpwSsLZoX7Pl_f-4YxYQS5ypNEatNDmZCa8bqzgfy5bD132bnOI0-sBXmuuvSvyW_rXy8YCWinqqdY46xAzRnugB7Ck32wvAB9hl63RpLNIKGksyJcamrRcL39BHvTgv_",
+        "photo_reference": "AUacShhAegZVbYFzFj2YapQ7KNBKgh1RVmbcF6Pk7r8J1P9pzfOFTezqF5c3t1cRFp9An7drDXghFKmcHPPsxcE4opSZq2YL_8sbK96XaU5ViA0R-f2yX82jWeKruwp55KNlxm_0D-u5_Ommk90lJv8dfgZe4lypWLewCg1834WWyTPJpgqr",
         "width": 3936
       },
       {
@@ -19304,7 +19198,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/112258370329984663083\">Kenneth Weidlich</a>"
         ],
-        "photo_reference": "AUacShjjprG53lF7uInCRbEW5h3fgVJuIsJgS-a_dl2ZwWbnJx6xksrtYMNW1PGfIb6LVsTszGKqTbryJhUmSuy0iRb_xzil2YD9lhPjY3jGcYxiVfNVxs9KaCMYyuaLOGUAaEqa_B5cZrG2DsXCpwFEaDV-srr7uLVPKEqYWpafgCn0gGTA",
+        "photo_reference": "AUacShjN_Bvkz5MrYgsjRhyWZKHYrnp6ysfeR04L9qK4x_u8aI2Fgog4rVy3urlOPRFjvCkOzvOgYCaUqpgekpdqffTOMc90EmDRxsKatFrAlks4Mw8iq-UV8syRfCZubuXcGQBC5_G9qxZ-fASvcIUuwphaN3N9R_C2qUqRgcQ8B-I0iix9",
         "width": 3000
       },
       {
@@ -19312,7 +19206,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/112258370329984663083\">Kenneth Weidlich</a>"
         ],
-        "photo_reference": "AUacShjwL4Av8R27VCHXK7JUuiz6BbqcZIIIvlFyzqqQIT-yY3TnOxCrKs6Lm8HEw8VGe198osbns7BfTgfetO7Pc0Wh7iXtkvNe_qnfIqF4Ftmh28nAw9hVeae3kTjVERTn-LyaINQa-ogUxS8fwTCr9S_khEOuqrpQzZO4s2Vcv6TKZGT6",
+        "photo_reference": "AUacShgsNEzcaqpkz-dfYFVUYGY68hHq7I_92BvPmUckUJJcGkZhLh2gdi_89MBwu09xz3BFA9YxyAXzOdmnwfbLZyPgL35iXN2uNjXMYL8ntHhyWIErBMB2GZX5SvYHDpGmEbIeI0f55uPUutSB1V69fn71sfRP1sGJ7ri1DSK4oR0jM4Mf",
         "width": 2000
       },
       {
@@ -19320,7 +19214,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/102334864026206361204\">Zukunft Berlin</a>"
         ],
-        "photo_reference": "AUacShiIVM5A_PV8EpTFeCyzLc7ciHZRZg6g3T4Z836OCD51csc8EocQgOBMCpy5QuBS1guAaLbtZXe3D_Ok5zbwd8O2e_DgyQYzeWpx8Fz9r81zkA3U0H6hvjQhF6C-5JW8cYqTqMb-CbF8Rj0vgmZ3vDnng3EHmiU1Iy7APVA6LUWFE8BZ",
+        "photo_reference": "AUacShiEZTaLSkPHoHCMVetbImGrvIW22mBaAs1966H-dtugseskmfx0cJ9wHXrxVdG6POLgLADmKQHfzi7ASJOH2EpnlrgdSbZJH2Ad2LCYv2jJq71vA07RLHWGRJu7CvJ6049OQ8gQJvAp5DDNV1tWre9HD5E5O8vvO_WC4sxkFymRpkEL",
         "width": 4032
       },
       {
@@ -19328,7 +19222,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/101545349274467777668\">David Lorenz</a>"
         ],
-        "photo_reference": "AUacShgTl7filouqclzV7bXPMl3TimCPFKfBawjExbkRyOxseJCCULtdcqLhJMJTrf4K7NIlOqVDhvm-bumnAaFpgVmkSfkD20S9YnaW55EWVDQ-PmO8H-3QO5leiICvy6fVIFSxuOVEHpqflIZr55UCJxFcBF5KFNxmyAUfadqVejCZyUiO",
+        "photo_reference": "AUacShiSdBBencK63I432l2eTaaYGiUZVutUqqKGijMm4-EalupH6P4JOcPWqfMAoGi9ufoojLx7J4uRU0nsw0qHz_l-13_kTVl17pH1qPGeis4jBV4js98HYNc6vDYPAfr7klFOrXMiOsUOxQPxvo9tt4Zl2goT-X5IOrTD7czaMp5h5lHv",
         "width": 4032
       },
       {
@@ -19336,7 +19230,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/112258370329984663083\">Kenneth Weidlich</a>"
         ],
-        "photo_reference": "AUacShiIOiBrdu1vuhNK7DyHhPhvnL_FK81WP1DbJj11i7FYLmlRrPkryMD6VOuZhj2Tb2inu6D5k5bu-NcQUCNW_GGqVpVKS49xBuRQ-Hy07BcanXJttSNo64DuUGYkKBNLsVJsvBgF-14iR1ch7YBqxV85zUbzbEyxsNCSiAIfYJUI0gfQ",
+        "photo_reference": "AUacShgHftReELR6FejW6xJ_uwwy5ux22wuVzKPMflMIvu8Rb0DZgXe_xQcsQlco_uDNHLM_AuAEuIjjPtnHo8KWX026xzxdsOXXt5ttCjBF0BUeQUExy5PnRgdRNMCzxBWIqHJU9fr9jPlR8TcpnNkH7zx2dbomH0y-bm904xHORqhbe33q",
         "width": 3000
       }
     ],
@@ -19344,8 +19238,7 @@
     "website": "http://www.sammlung-prinzhorn.de/",
     "wheelchair_accessible_entrance": true,
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJERwOMB_Bl0cRFpJn310s8MU",
-    "date_retrieved": "2023-08-15T00:06:02.292Z",
-    "placeId": "ChIJERwOMB_Bl0cRFpJn310s8MU"
+    "date_retrieved": "2023-08-14T22:57:27.335Z"
   },
   {
     "address_components": [
@@ -19510,7 +19403,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/104809524552676437347\">Art Enables</a>"
         ],
-        "photo_reference": "AUacShh4oDx-BsneASgvBEu_QXfZteZg74RwNF9T5sqrmLaSEOrV-HR50SP__tNZiCHfi1kRoXp1JQYJp-2jVWQM5lkjx63oPdaKeDxSwQ_xswHbO16qBIDllv709r1Jf5ZoiqIbpsjFQrLnZjLkeMjHZPrvoYOa1R-GTdiskj6WnFfiWEcN",
+        "photo_reference": "AUacShjwrA-1hGXxj9R2uwGPuuclhafunFeF2H84lFgsT_P8QGqDOQEkeJSt3pOF80KX1TN4dOrbQ6SxxIdMm92ovxhzoa8d27dwkYGKbgxJcdigPO3POXS36su9rZ-I_PNemU40Xyiyv7496-W8_QgswfVRzXVcdsKtM14V2VaiPf3xNxM9",
         "width": 3989
       },
       {
@@ -19518,7 +19411,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/111480668462434205746\">Evan Whitbeck</a>"
         ],
-        "photo_reference": "AUacShgrRSdCHN7ZPSEMSHklNvddl-ySWggyOmMbhBozsVzlrwXzQrZoegf_Arx3rqE0ToZAUqFKF0O5p8tC9u52RiEYioKJyAnPi9O3kS2kEn1j8KP1NBBF238Wh_fnNrQ8vKs5r84GA-VkRo4L-csucLcT93Qp3M4RsiBLmq5zsmlBu4uS",
+        "photo_reference": "AUacShi-XtmAbPBxxEPyGVQCrOJN4mtfUzT70b895L3oeEWwlCGSHNMGfeLAxHlM8KoHjDnzIbE6Ar9lL3yQChZDqefVTX4SfrCOeM9m_Iz64oMlerVQO0MO0ROEw5NucFtltqyK8KGT62c9JAMeZWqrZ0VUH73onkSYSqfvf8BRJwnmNkEF",
         "width": 4618
       },
       {
@@ -19526,7 +19419,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/104809524552676437347\">Art Enables</a>"
         ],
-        "photo_reference": "AUacShhedVggcRoc_nPz7WNOzUjjLxgfw2fzagEpMDChrSmCHlyJPedFeHsoKmTSu1qq1RUKUOIOdlch_ZQdUV4ACU54Yzr5tzpF79gbBJKvLMeClervvq72VAiJIQk1kLwS83oXb43Jxa109liKRwX7XDiVmterG9HjR-ps6FCn82jIqxs5",
+        "photo_reference": "AUacShh0ADJGVDu9Lnqn-CxXJ1awDAp8vf8zL0RuCOPMz7pHTLZT4yJCPuoFj9sEdQ57jqjmMzE6fC0sxVuFIFfDKxHB_uhz0b4by_dkEKnqQljvzWVw8y1JuTC6a4okHCKVgf9FVywkA3YZjN6ZiYRtw-LJCrK7Yv_tQWAy8qMm4ketEawu",
         "width": 4032
       },
       {
@@ -19534,7 +19427,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/102850957864478344839\">Justine Rehak</a>"
         ],
-        "photo_reference": "AUacShjECgcdCkyiLBk2ke8ssMfFsz3VGC0enpJ71cmGqcdUlIznn1wK7xzo8nc-SMhgVtO1AltDkIlCPBLVWgu1cMl2eUwNrxfltSi1wFFRGirT7DsTeSGOgAuDRwph44_H8cKX-qH92LVJ7ehFx31qY_b8pzDw26345LpzPajqlElhbfkt",
+        "photo_reference": "AUacShgqueYGtnzoECwwr67Tk3Gsm3KhwtvcFG3MoqYfJ4lR8unpVgAnzNGzU4UFcsNVVGSfZHgD9YsNkkb1uKm2W6RT3QlMQEmynEYjakaDOuWha7VwA4xHSmA1ZFg3wUiL9NKRK7sDwwXG1F5knKrjwoTBEFjNl9--f4zDwgwNB-FQXmMe",
         "width": 4032
       },
       {
@@ -19542,7 +19435,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/104573590825299833607\">De&#39;Thaw Cot&#39;man Jr</a>"
         ],
-        "photo_reference": "AUacShhAI_TvYr4mT_PWf29xyFjdu-3I4VPJiYV2c6i2uzpafTWepEskqRyg9MmT6weSJd0Q2o7ufAX21zLAUYxfJko-I2M66vDPsPaGUVeBS687QRPFNMbTDlqT1yyqBDclpKeSa9dFlW5x5-z6sJVqbxK-oewDXEcLeEBV3XbFjcCI4VKI",
+        "photo_reference": "AUacShjdpZE5MXHdxfA_Zet0EVWT49obnXNvHy0MYeCO5YPMT1EGp2wGC-JB_ubYbiY3Kk-s5Moxf-XWrWxUYUuaA_Dw5sAG9_kmd2HsjCBv9yAzBWi4uzE4fgWGZAWwQb04tZQWiTWfeRBgTs7-PW1vU-RFo1gpXxZSYLabyAZSATXUTtic",
         "width": 1836
       },
       {
@@ -19550,7 +19443,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/116564017874567532540\">Rose Sokol</a>"
         ],
-        "photo_reference": "AUacShikJ66B5GIfNOcZrE7cUlLTJQNWrtdVG_V0V1QOMgA4oM5gibJI2HXkU3StsvFZJKGZIG6vMfkPDniGseQjuFW5jAAi29IAQZJ5hEovBqelerfUrN9spnY817kjNI-HuLjzv0XqEBp_IBbl64n-Qc83fP30JJ1YOgAGu2MeHvbvDxWf",
+        "photo_reference": "AUacShjZvj72G9RPpS-p6s0BLbASdr30kK4a91CWee9kpfa2nvkMU3hGNpGNbJF9sT4MgbYSTHr_V76s_mXsXfOAnKWF-93Hah2KdBEGBRvVvFzW7ssA5LeBDPHY0kYrc23VPYKhPfBIlv-itPFM8G2_ZPrbg3-nHXY1Ef3sgl4NhMXw1aEt",
         "width": 4032
       },
       {
@@ -19558,7 +19451,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/115507343310105162585\">Shawn Payne</a>"
         ],
-        "photo_reference": "AUacShitbtGB5_H1rDxVbZyNPjh8Bq9DEeejf-ubLIKdAKstpe_g1X-1zhNCYqgLZcCNu0HJoBqFPIBhSSBuDrUgTplrVL_mKLjYJcRrqozJK4XtnTvL3hJ3akdiW4claeUEN4iLddssYpk1j2PNVxs4_87i0DtpJVsJe1pMGJPHgLYC2Gzk",
+        "photo_reference": "AUacShi-O7YKlU4tRIX-2XnnxiwbH3FV_iGne1IZucDl6xLgzrZwWQOUV2cwH3wMZu9WK9MWXm-o485by3Wd0gBmC704dz5LRJsrYfNU4EWknpo5r2WIXbcbBkQnrt1dEhZfMbmyOiRaveiJmdVAaFni1wXtdVvdo-wk4G8b9R3QV4NizANL",
         "width": 2560
       },
       {
@@ -19566,7 +19459,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/100911456699814439497\">빵구</a>"
         ],
-        "photo_reference": "AUacShg9lSOpFkumGz7-gHfVN4yTc2JHBtyUM39RZQc84rTDYNRKhkF1QXAIlcWTA0QdAxcgPsmtR1UIcHog3tjs27FLxQRt5aEm4RfJuwZKgeVvyM6mzztrrEtqE808i6JCMISkm_F3seSn6SlmbY7N9W7HrJ2KdtucVgKhhcXHcDlhte8",
+        "photo_reference": "AUacShg5vb-zC5x2j-5hi4MyXZWvQ4O7QLkENq3FedK6AL7Nq8LsEHDdl84D9-o7CnfgiZj9YFOX5uGkbQtIIPMqXobdkGQQ0TA7RIYqfJRdJ0fSIDDyT9GO2CtO5ze-PDTO2p9dE_q6nOq47Dd2rIIaAX5_VvaxpwfbfrYpt2QHCBjVIF8",
         "width": 4032
       },
       {
@@ -19574,7 +19467,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/100911456699814439497\">빵구</a>"
         ],
-        "photo_reference": "AUacShgfkYwzeXnpAYYDwmGZg4_pJDdDlxtfNv9VVIByXPoQfk44SMh5LDW12GB7G5bVcKtDAYBjIKDQ__F1th29oK7W5ZgwDgoGNeBEsiOkEit4zGOcajuaHxXV806r9-hrrnIImPNk-tdL01h1UmUV3uHilz3hS6Qg0JwUd7N_t5aof48",
+        "photo_reference": "AUacShhEMqydfYA-jSja6X2rdix0JC3bwzEsAnrL2hleg7kr-4DG1KKQD9zDL7_vDddGZU2iv6n52E40ZzCC7ctHyuYI1WcWsEdz64zyIkh1YPwQ_iuCNsQySQ5mzotbfCx_ACu2CvkRW2kBZmjWPethrGI3unioxB_jkeu-W4FM-cF3e_E",
         "width": 3024
       },
       {
@@ -19582,7 +19475,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/100277005836646268974\">Lance Clawson</a>"
         ],
-        "photo_reference": "AUacShh7U_ADY-ohAYSWvhd4QA2BldenoSvfNeTACJAFTrSSEK3yYsIyNfBmfgWgPw4h5s7SgNCS1CUvrviAPJgWQJOk75QtAo8e4tGlBmI04vUMFRvlRcN7VSSo6TB5yRgkGAu2GMBJjjT6psPkl67TmA6ncKd3orKoSYDJSMF7S-i1-X7v",
+        "photo_reference": "AUacShgSTuF6YFBmUZfQ5oe_YmYUhtm20z8umsLNZiLfu4DfGkMExOb89usCT9gTmOfCptDOOT4mwgx4kUWyJ9SKJccKoW-30rryFFIQNd9hfVbvIKDnIQOsKdIhsbeTTMt3Fiu4JJCr3LNABIepHNlXm6sf4AGRq35hm8OG7H3ZVZU6t-Sh",
         "width": 5312
       }
     ],
@@ -19590,8 +19483,7 @@
     "website": "http://www.art-enables.org/",
     "wheelchair_accessible_entrance": true,
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJY95ozprHt4kR6I1cTlp9oRQ",
-    "date_retrieved": "2023-08-15T00:06:02.407Z",
-    "placeId": "ChIJY95ozprHt4kR6I1cTlp9oRQ"
+    "date_retrieved": "2023-08-14T22:57:27.451Z"
   },
   {
     "address_components": [
@@ -19758,7 +19650,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/114717015917872295989\">Michel Ranzijn</a>"
         ],
-        "photo_reference": "AUacShgRFI_PdT_pK8DQWVIej_jycEuQwrej29mQ38X5vDNz05qn5tQUNAmf_3keT67SywLVZbs2i4Z8jzzVqb1CuS6yu7vFOoVDnZc30Ql89LJn3iJKGCWgSCgoTEOGmM0_3u052NTv2IO1dcya1Wrb4_n7Vcu0R4dtVHNjvv1F055Gup2O",
+        "photo_reference": "AUacShgWD_y94hjCMVplSw4WbdDat6ysrZGQwzXurkz02nnVF8QPsojoDFCTP_iR4cf9wqbx_ggt0QCSDp2kxdTiUlicjHLTqsavQ8vh33ZjJVddwJF6gkOcDHGakG4x_O9pFun2fCUYT3PZR7SKWG8FBH7p-R59oZ6WBgIyg2opX3pFUPU4",
         "width": 3024
       },
       {
@@ -19766,7 +19658,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/111078264694581233407\">Go 360</a>"
         ],
-        "photo_reference": "AUacShg-Xzpr9yR71nFeoQfdbix5ahOpeMzTwlKf8M2vq5_g9XQnIWmoYqTu22IbRTLwapjuy1aDM_jMpNdYuSNOHKmJKV_m3iwrR0VBiv7i3AxOZjT4bm3SiLdP-wRz4N3GWJXFV6_sJ9w6Qd93WWSnhsgbNRW6jz4ay5jqNxPls8cvG-TD",
+        "photo_reference": "AUacShinPXtNZxfOP3LuQ2CLzzbYVqrc985XK5lzixgLwYr91GCczmHaxm8br5ZL0gdEPanaGhJWpZFK71A0xICFvpCXIoy8FlTSaSoFeUfB1ew_eTYfQSMNgMnhdxjDyEAvjeCtr8fe4y9weRiHITVyJ4LgeyRJHrAlHJ4pCg2pbvV-7UK8",
         "width": 5184
       },
       {
@@ -19774,7 +19666,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/117834843644600725342\">Philemon Mukarno</a>"
         ],
-        "photo_reference": "AUacShgbVsIIxL3_InX1oTDxpPGvMWJ0_toFk9rXvi05JbM4Hu0gtwWNL35dn7Mv22IBH5NrXqhntOC7kDG-eTE4Th0YL24J9x7mqbueMIZVTJwWllmEr3Pu-_bt1gdaa5g-qLkexCSFA-224HuhP2zWVkJ2Dwp46EjWryUwZMHugv-imGVv",
+        "photo_reference": "AUacShg9nS_cU-WTfJQBBK_fa-cX0e1LgCi0Gm-kPXPRlrX6x6AkM4ZTwqEud-sMTfzKFPSt9TOFvPpnufd5G-hSERoQiEMxzkUbUkIuBuaCtCAGlt_8ZmzxIutT1bDOQCIFcxaij4zrUbv00taKTT8vYE1hJm-WJ0qET_dpjsrlZg10Vumg",
         "width": 4032
       },
       {
@@ -19782,7 +19674,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/117834843644600725342\">Philemon Mukarno</a>"
         ],
-        "photo_reference": "AUacShib3FNeLdbPAID4lRVPob_3MRupY6w-JiWitVnk1I9ENyc6ztBrBHo-DtCaTGZMJOEr_TBMuraLyLM9Zp6jIsQbcT5O3o31NmQZJOEeLUNZvp-bFmmJvTHvWCT6WU-2_oSiQRgsBbNMHzzr18k7YgdCuiCL1nTR3xw1PN6hd1XGAW04",
+        "photo_reference": "AUacShj5LLHcndS0vVNbNfpqgwQzNkfRF01stF1iRfLMg2skaNr6Irj7EG6y30yHI81TfXkSAg41u_bY0WrP53GsM6NyR5i6X2f5QUmvc0g85J1W7SHDSCirJm_whs6-15Yzda1XHJ1yWv_sKXwOeFBwsPCugSkscA_hViNsYsQGU8Rh6O8k",
         "width": 4032
       },
       {
@@ -19790,7 +19682,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/117834843644600725342\">Philemon Mukarno</a>"
         ],
-        "photo_reference": "AUacShhysdr7GzOCJGGLd5KMwCB4TWfJO_Sx4QDuFXzOmtSxQ7JCI37w7qSP8mYmMjhHsUlI_K26nuCPgfghcoX6Vpd43lYWf2F79rDxmNVgx1JdYJAdHg69miJbuyhGESaIZvqgOMuSA52Mb7e2SiWu7adAFhjfONR-IkH-FcDPqU0bZOz0",
+        "photo_reference": "AUacShjklARXCkI74yz5pj5mG0JgkRlLIfBYACZs4YetIziI5RAiSTMw41Fz2yn3BRj9usiGcJbUK5gZFLHbgpvJ8L7P2aT8DFnoX2YL6s118DVyaBRGDsDgg54ejyj1t9oe35tTwbNNH24MztmEnGCH902AR6WTsbO2dxQfvjAlaQBktUea",
         "width": 4032
       },
       {
@@ -19798,7 +19690,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/107387163718737108922\">Jonathan De Regt</a>"
         ],
-        "photo_reference": "AUacShibxisBdslfTUKXiCV17tiUCT6hyYrV1GJm0TZds4hPZ1H1qnOGhQggGzxUX7lP8r9H1LEglgBN7O2__JENfaxmYRl15htEvcE_5Ccl3eeulplJuI-f-SI5zXfPCYSLa5avsDW8UbZP2_x7RAp4Jv7_QsgPUKx2Idw5t038J4C5JBjm",
+        "photo_reference": "AUacShghuy29OcFcRTdRfFpVJP_IRyqfepjtaa60Xo6gnjyftRI53bLL92nCvTGCGtdzxPVB9lf-cmefeX1GxkkIxQQHaTJna2oS15RA-2anOfY4emF-Tl7kjy4AV__-NKQRfHrUn9qeGTFUVbvOJLaGHUpANCWce3a0sujygvJRUICUSxNy",
         "width": 2255
       },
       {
@@ -19806,7 +19698,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/113062548086679196707\">Giel Geldof</a>"
         ],
-        "photo_reference": "AUacShjKR8O4kiUlhkr8RwjGgzmsXW7xph1fc5phxwpEyPxueS9ItpilAlrVi9dHRNs5ZVesn-jsy-IgrjXhXKTL5wX9iKLS29h6idQn5w9TXBj5XnRxUxI-_1UMnGv5gEERVivVy4dbXsAg81YbqjLhGeKIcgVpXEdIYBbCDPJAgWM0Z2Dx",
+        "photo_reference": "AUacShjFCzkarOmKQ9_lgRcXARx2I2FSyL8mxaQ4pVEFuAIY_J5o0V4kKzzVarRGOt3e91pGYRSNP5Cs8LhbYpE8JsK37pFocEvbsVyVGCwTEB2sV1EtP4NhzU3gEISQNHYyhcGIj3Sgw-keDXCr6Ef9TLJDbEJhW2JAjxGv1ajcMyWuL465",
         "width": 4032
       },
       {
@@ -19814,7 +19706,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/117834843644600725342\">Philemon Mukarno</a>"
         ],
-        "photo_reference": "AUacShhRKDfsZ_D_FDb9D0d3ox2GIYbw4B-SJ9UYChM_5Dyjl1wyDvBlhogcCcilhgkDEpV1zx9blVF_yzVaHzVScw7PhfXEkWcuNbD8Q7_SiM5jFO10HzN5m00vYkzWgtSP14a5mjXA7C9yiPMvk6MU8Mo1fYvfQ1xGSx64p7g7HVi72mW4",
+        "photo_reference": "AUacShi968hc4XMiiHXPaQZHA9J_oxxVB8TQxf6d9CO_P0u36Hjlf_qx40dR4l3jx4YznQrqihON5y-Gl0A78Unpkyujqmcn-G6f1bPCOb2zXocUG00NoMIYsdzQ6UH043ni-QhLBD8ut3sk3ABrSNWuUZbfm78Vm18KXH0w1wFqdN8APNDE",
         "width": 4032
       },
       {
@@ -19822,7 +19714,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/111078264694581233407\">Go 360</a>"
         ],
-        "photo_reference": "AUacShh9fS8G8oAp8q4GywtwVN0OiG9vBxAvb7tjEPcZ-xXzVve-Mwrj22ASXKWy4_wpXsQl2UXI7rHggCmGUUtmOKuh6XElJOK9hN9vr_6SBpreBbR3xGvKk1mBEF9hyXECf4512LqFx7FErMo-Am6oexXXiQfvwqqCWEe6dS_5iYVscMHx",
+        "photo_reference": "AUacShhbNv-yJ0arDldTJarPTdVIPrinbwyHiC20NCWrl7Uo0C4BQ62TeV7n3ZQul0FxdwHNln1npBokLahhaELrV1Fy6JwgLoTE1eJvSUyNkptSsAeqWnkmHdqjygYVsfiEBRFkIUXTiMKlyo7evr4aOHz3qcbm7HBUNlLncI9hcXp3xySj",
         "width": 5184
       },
       {
@@ -19830,7 +19722,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/111078264694581233407\">Go 360</a>"
         ],
-        "photo_reference": "AUacShjL4wAj2hai8CC4Jr6M4GQx2ayIRtB5il16FJhC7qclZAEeA6hCRyIZXtZfbLJghrm0fHWNLve_efp_WK785OtKIrlkgewLabQgT_QvEcfev0mW0UpCD5M6qMS7zTwlD7m5uFCFKNcsBeykcsZ21cj7sKIuL-cGFzn1Pm_1sLF5MubY",
+        "photo_reference": "AUacShhhOEyi1RpllEaL9EZnLoajyyPc3wSN-JO7jVYWxiOBM0NanLEVKV8-QuXPwpiKJ5bFbly6dcZ74YNg0s_5cBsFpeskKUghbfbttQUTc2-mIqpXji6GIpqKJoYHMrzamw6oAzLqIALdqD8-93fANpEbzVjNgHO7PB97HfaEwE0zMqud",
         "width": 5184
       }
     ],
@@ -19838,8 +19730,7 @@
     "website": "http://www.herenplaats.nl/",
     "wheelchair_accessible_entrance": true,
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJg3PfSl4zxEcRq1sAL0GptAI",
-    "date_retrieved": "2023-08-15T00:06:02.518Z",
-    "placeId": "ChIJg3PfSl4zxEcRq1sAL0GptAI"
+    "date_retrieved": "2023-08-14T22:57:27.577Z"
   },
   {
     "address_components": [
@@ -19920,8 +19811,7 @@
     "rating": 5,
     "website": "http://www.atelierblau.com/",
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJCXDRj4MrlkcRU2e-ZtabBYg",
-    "date_retrieved": "2023-08-15T00:06:02.623Z",
-    "placeId": "ChIJCXDRj4MrlkcRU2e-ZtabBYg"
+    "date_retrieved": "2023-08-14T22:57:27.686Z"
   },
   {
     "address_components": [
@@ -20012,7 +19902,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/110483368529030994553\">Lidija Reitter</a>"
         ],
-        "photo_reference": "AUacShh2zwZmvJGiGcbD1btO-F1POoSCeKLvk5qKKVUpfRogr2IekY9Lvz0zMdOh3J7zXo3gWNy4OINkry3CVvj88YtogrRWXamxvcHuxNNocebPw_rcm0UicmUbVbIvrdPUwj20FrgsX-MCn1qvJnem2lTrV3aImAS_o_THOpiv5dJNVdF6",
+        "photo_reference": "AUacShj6ymOqLu6QpCKeJeBef7xOem_kM6vebGySknjbkD_InjpJdohYeHnT04tvCP9vybopyR8lZD7y8gFnlleNggVSaNF6ng9MQYoWV2kYRoIFq3pV7K4f3xwO17FFngnzXxdDNtQUhzG2QN1-RGA2I0CEotf-g5UVTIQJ4SNwGJi1azNp",
         "width": 3072
       },
       {
@@ -20020,15 +19910,14 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/110483368529030994553\">Lidija Reitter</a>"
         ],
-        "photo_reference": "AUacShh2ZiadyNWVCE2IANoeEQGUBtf125TwCNwm5_x65XFAYfCaM6Jg2QjLyhmHEURSQniuSOL8jum8oaBf1UL4qWAeRtQqwcQtXe4BQVjceZ7ECdlE1AvyXFFdhLtnA8NBq_uytAP8gTN8dJJhsTKI9-wUNEamfu3bXeNZFqA9QJpzhph4",
+        "photo_reference": "AUacShgabO7a9bm4H5ycK4oaoJg2qCzyVXDxW7pxWu8hOlK34AQitnqWajA0NliZgZS0rqIEbuP5qfvOaMb95TYgkNeMBv_SW2nDilXv48p0-QJ6jH2WuY_bblVkTskuyReepFByFwGq57K0-tIZ91vXz-u3twrb9dDY9OXceoa9rJIgciLR",
         "width": 3072
       }
     ],
     "rating": 5,
     "website": "http://www.atelierblauart-ulm.de/",
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ_jj5JRlmUcRP1jPgsMhhxw",
-    "date_retrieved": "2023-08-15T00:06:02.733Z",
-    "placeId": "ChIJQ_jj5JRlmUcRP1jPgsMhhxw"
+    "date_retrieved": "2023-08-14T22:57:27.806Z"
   },
   {
     "address_components": [
@@ -20119,8 +20008,7 @@
     "website": "http://www.kreative-werkstatt-lobetal.de/",
     "wheelchair_accessible_entrance": true,
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJlSsQihmxqUcR1TMBOnDpA0U",
-    "date_retrieved": "2023-08-15T00:06:02.845Z",
-    "placeId": "ChIJlSsQihmxqUcR1TMBOnDpA0U"
+    "date_retrieved": "2023-08-14T22:57:27.906Z"
   },
   {
     "address_components": [
@@ -20278,7 +20166,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/102068657315866380598\">Bernd Nielsen</a>"
         ],
-        "photo_reference": "AUacShiTewOABhDz8z8JRCkAiiFUR0XBjRXjbxvFKYjmhPm4zUudBARdFEWeZILjUeXpoyYaIVzlECRm9tq1O6uZDXoqxN3qSkQKuM7TcmpdUy4nYQ9Bvlh_lZl4XzFD-RR95-NrDgUyhlMxeMeuUgzGRJhNXhQHm0uexpG2IaUNMsy-KuXR",
+        "photo_reference": "AUacShiyb9XVMWLxPrYk2C6CtSohPSuqWph1Tx-pCSUTWHnbiPjKU_KcsNC9SGjmAD0p_5HaWN23eugc0MupZ3IgZINGPZ5zSUR5P81b_1SleUJ1YOZ9wrWEE0xxWObWGieT7DJUqNzI-3_acFDM8h0HvvUwgQbc1YLpz4SLw7yg1iPIlEwN",
         "width": 3968
       },
       {
@@ -20286,7 +20174,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/102068657315866380598\">Bernd Nielsen</a>"
         ],
-        "photo_reference": "AUacShidfL9boIzx_JZd3OmOOVdKwjSv2IFVnAUnDsqM0fwbOoVxaJO_DEzHBbIobkiDEEVdHlwcaIlUnxdnX8DvzbczIcD3gA7IWfr0qAxVuh3p-px_HM0bU2LSZUsmprIWh-MDVzaVop918KkZ3sb8oSHDgrl11b9QG-21fUfIg59C2cuw",
+        "photo_reference": "AUacShirts6W-dtKC_w33lNigZxm36cxiDwV-H2X1UYam4RWrmiafgrVStC7ksA-0KuLsLnVIekZ95riEOKyydOdZ5HnLRmd5QKdMC4e13Q4Chz9wXrjtGRq3izzGVimABEkCXNF8T4BpmHNTKx9nGPgJFnVh7cO2vq73MxuMNCYw9Wi9R-F",
         "width": 3968
       },
       {
@@ -20294,15 +20182,14 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/110109992955659083079\">Hansjörg Bornhöft</a>"
         ],
-        "photo_reference": "AUacShi3EZIefESN-3wqHlEinZJcH90h0aBHLZCXSHcS9mZ7eelsiWizbvvNSSVNltNdnIwIRjJYtieltnnp4ngHfFiALdAe9J-ccl9b16iN1LVTYx9RjZOkas4K9rP3ebCPi8Hb9Qr95u6hXW4fSLAZvb-5KaKL8EezcjJrMzqnZQadDROu",
+        "photo_reference": "AUacShhCN7gZCk7QgizuXat0dUY5sMVUyG8VOJM2o1aVTrkIcM537dXOc0xTzUztOfQEXBP0jW8RQUlT51g6JhxOggSyvqtNI8hmhN83OzGJsDNasfXbmuJhkOUhBiv6tGK5BBE3sTUvKxkLLcr8Bl8dV3DzqMScWO5j0_8MdtjAhi18Q9vM",
         "width": 2160
       }
     ],
     "rating": 5,
     "website": "http://www.bildnerische-werkstatt.de/kontakt.html",
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVUlQAgEsUcRJXSdn2mbaW4",
-    "date_retrieved": "2023-08-15T00:06:02.947Z",
-    "placeId": "ChIJVVUlQAgEsUcRJXSdn2mbaW4"
+    "date_retrieved": "2023-08-14T22:57:28.025Z"
   },
   {
     "address_components": [
@@ -20459,7 +20346,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/116787134568476067634\">Christian Hansen</a>"
         ],
-        "photo_reference": "AUacShiY4Ev18DQBgKbiKWxuhgEGlTdgDDu6mGw6CKR-A7LOZeAA-p3fMI4hFpcoUfZZh_ITgsB9vyDuahAy6RCYLbAmcG6Y8RWsNwz8OV9ZGzWIk1pBMvvYnWXJeMkmyboijLM-BR6YxLnHQdGg0WirRGDfy3l_9VhNpwEiX75cKM6fIQq7",
+        "photo_reference": "AUacShjwi2PuAnUdXBu4egjxAscWLjs7Nm-qodCVZ54mkTJjPllBWG23XTvvhQ-oSFV4MY6VVirmH9ipBBpI_dXxKsxFCpwqWRQK1MDrRv9CGdTakta9v7hB5Q1PW8SvDaGwdL29LjA_L47DyNJiUdbY5oYtUyrCJIxOlRvX52HXdgpfAYOD",
         "width": 3024
       },
       {
@@ -20467,7 +20354,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/116787134568476067634\">Christian Hansen</a>"
         ],
-        "photo_reference": "AUacShg0aZ6LO5cOz5GaHupEbb3aKTgr7LuTXb96upGZV3cT9ZRLi2UqShKGSmFLMIwcTPB5mX13acmyTKKfHBm3stsn-QzVg5u6wbXydMIrpK7BksAM7o_TVL4TRkgZu2rlhbqABegXbl0Yyk4aktOKfgitFM9ikZjaGaKiEy6BoUCEW_05",
+        "photo_reference": "AUacShg0FP24Bh0ELUCwbowBMmh849GQjL6rPxnH13xsKfTHQPYNSQDvQ-J01EqcaYMi5yKTa8HdEXASKYaECMcN4O5fvmTa8t5Ys6fYaG-58sfYtzdTIpygOHm7KjMX_m2utZlYrg9tPOpUx4Nz9cE8wesFtbD-ZIqVXWm5KsBEE_b-CJQn",
         "width": 3024
       },
       {
@@ -20475,7 +20362,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/116787134568476067634\">Christian Hansen</a>"
         ],
-        "photo_reference": "AUacShjlWQqmxC76VHvrfkVSOIbdVX-6zyEhDsdIUR-VEy3h-BMWbeQpDAdKILEi-hxkprcStZj5jtDSBAWN-RySj9QqtEweqlh5QmYBaPisMDetpaDa1pEW2SQz8pncn8zYEaW9dA_RFxnksYP6xRoeFSFZ0enbIVGBRBFKV5nDifECDGsM",
+        "photo_reference": "AUacShhu5ErN26fOevDyiqP39MnxrKrvc6CAU9y5ht1hdSInqTqrTOgagO85MpZYeAmjanT4NuxrliKL6GaTJmQTc5W7f7N1Nwf79nStxN3FF_aEzm3jMc3WKz_geCtJUGVdq4VXhcKA6pVm0pAG54r90iKsTOzdtfEQMoHsG5W5CIt_hRs_",
         "width": 3024
       },
       {
@@ -20483,7 +20370,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/114844504854325441308\">H Channel</a>"
         ],
-        "photo_reference": "AUacShgtnm5QYE-qcSkH85NX487yuz5d4B8F9VoOX9B4duHkKvqDtzONwU31KxtmgX-T1pbBLaJU5BIRu16zRZMm24dsmht-RTy53PB8M6EhQx-ud3O4A4hvcrpF_OMr9Mg0BsDALtFJDQmWi5M-bIxce2Oug_lS1bFgwdH2jhixpi3IxxBp",
+        "photo_reference": "AUacShhX7eCCYDjNMrC24rw7-lKwxLSqpGdkeUQFr0MKArgvTsUI_xxIzUl7Wuc2M_yDdDk1xeSgGkIH6CbdKKXhnX9nyvmFrR7UA3xenjnN_uyG9dIGL4oIRlsdu6dnFaxGQ81g-RLauUOaxjAAXI4thg3GzXaSagUebasxO96y1UOTb0kS",
         "width": 9248
       },
       {
@@ -20491,7 +20378,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/114844504854325441308\">H Channel</a>"
         ],
-        "photo_reference": "AUacShjJIVArE4rKHKe8o6EN2uBAMjt1pmwUgYp3DVqxWsD6Zn_QUoMrtWhyc72Wec2LEJZ97MMX8DtUqp2uPMJ6yyX6ty5VGlvoa3m24uq41qQlxgUHftZUFVKCCjfzRHWQpWYA_WqgdlO5XngP3VPJIPnqkiciiRHA7xlYH24HJX-8YjeZ",
+        "photo_reference": "AUacShiLbyiT4VVF0iMElEoYe0nVAcoun_bgW8hgyDkcXFbQzNS7Lonno9LoEPHJMdr2WIxPkDKamcdfPnYdzqEy34qhzmgRoQsfYlFEEib5S0vMIQ7IGuD5lFxvxm4xCdzMW2QQm4sifhcTleAaTnU2qtFJbBqUqJCYQH4F28QO5ZPQSzGk",
         "width": 9248
       },
       {
@@ -20499,7 +20386,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/114844504854325441308\">H Channel</a>"
         ],
-        "photo_reference": "AUacShjRZVqefFgWWs0uPIqxYd5r7W-J-U63YQNQY4J8CA4-vx1KkBJtQlSkd1lCW9gbavMb9S3Y7VSnP-vFQcn_wzbmFWxHhRM-GKs_kfFW5L21NoRhNpxS-P_bKXGQOn1ngLfG6DdYwJhyE-N1vWqSrEdg7au-Qyf_hYZ5GS_iy6CC2CHt",
+        "photo_reference": "AUacShgoGHtR-Vp9Ps-mtKKC6o1M3MnAqlA9pYGgl5ESLya7v6BNBgZ3MM2svP4nKFWZl3Z-LJOsqpl7pd8v7_f3Fwvx99TQb8FuV5BXBYmSbHcDooc-PW0GYnwva_hyQYvpL8kWlbd1e08WjJBzaVgcfhNdF8cAOcMfFuwnRbvK-cQ1Eocq",
         "width": 9248
       },
       {
@@ -20507,7 +20394,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/116787134568476067634\">Christian Hansen</a>"
         ],
-        "photo_reference": "AUacShihdDjMHOBYZL2pAAbrmrUx_boZhhzXoRoshlIH2Jx6uXorh3YlqJ5mxwNicCttjUUm-8bECLkhrwfWGWgNPxjo_D7MVTPrqAmz_tUmR7eGozCxc77EM1RgIgrg5xwOgVPLWwsuqjmcULNL4s9fZWjeg2xEqxmiGVOqI5bN8ANrsMe0",
+        "photo_reference": "AUacShjiloaPYlQWDjM6A86T6LoTqr2f58DBeMHtZ8Uc3u-fvM9nqAM9suliq0ujoua-bGKHImLNOGQfxzR7hh38v49EnpP2CXyD-VSYAAwFZV9le9SwX8pVjlw-4Jacp_JBuMnZCKcRd3bHcOvG9zMrFonIt0gbGGiFV6liNKpaHvuoUnoz",
         "width": 3024
       },
       {
@@ -20515,7 +20402,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/116787134568476067634\">Christian Hansen</a>"
         ],
-        "photo_reference": "AUacShiuYVpwf256amcl1sQ3cl6QFIsJymH_fE3EQPSG_qKIKnqsPGQv5OlRdPvliplvtnXEYTNv3G7tDX4eGCjK7RwWy_gEAjP9bVq8n3qKEwZNK_cYXP6wNa1Kpdoe3lZVuzuqHYrA-4BEm5mJHFOf6r7vPw8cIXhA-tqZy-koGxLO7vFs",
+        "photo_reference": "AUacShhHitTj8qRlICuzhcGUPALhIqKHB3bC-GpuWotWiFWKMR-g4eOzN7HF0MBdKaBzgM0GTbeooa0OmOfjWx04rdDaIKBxXYD__sEzP_cSu7ZdIQyW9TmQAl7tFHLQc6p_j2JHBUAuUkesQ6gp5-3Qz9lyGx9LRDm1w_mvs7klSBET5WL-",
         "width": 3024
       },
       {
@@ -20523,7 +20410,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/116787134568476067634\">Christian Hansen</a>"
         ],
-        "photo_reference": "AUacShgvoAcLNaeMqe7dWT1BsQG2bd6NdPjm9iRcluhv8hmO4reVOO9gAkIyfo8pmUApXIgpyW0KrbO_LF3pIFpJX6a9P-p1lLuzc-bIhXrLupNJW9KP_fEIQd9dPQzjzi_HFTBBEzTbGf4o1_pNaSU6UEPOvUrJm-Ai_5qzkXiHPRfeiegV",
+        "photo_reference": "AUacShhADb-GX_tZbJKnqMua3bkJ2oxg-uHSVHTKrM7Z5NCXlIe-9cu-hp0b2goXU01bopWcFtFHHMZ7QECEcmMLxuYuGasu5z9j1OkYLKDgtfrL75XWC92E9KczEtAWpa3uQ_xQ2uyCUfQpiTVdNivM4nz5HfwUwJ9CqbDbSaejlkkgnMkM",
         "width": 3024
       },
       {
@@ -20531,15 +20418,14 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/116787134568476067634\">Christian Hansen</a>"
         ],
-        "photo_reference": "AUacShjuQUjoI8lHGWNmQHtcQr3BC0asfxfqwPdaN9yaSARWI9GSi7FE-eXZxr1RDos-LpDJT6vhGcDZFj00gSqj1a7sjkRlqn9-yKBfzMe5Z5fnqArcA2vSTq79qmF4Y0BF86NBmV9aNLUp3SYUtSDsUMjKJKm4Be1xMhcXR0dUb3pC2MoV",
+        "photo_reference": "AUacShhH0VPRe9OKU2bMO4mPsYLP4FxtuypUrBDKws_y18fhmFMiIelHtfPFAhnCzfC_CxaEda6FcVYJZwyjhSdYhKp-l7H20NpmQhUIGBTFbsbBac6MpFTece-6Z4NCZl7ERjCwpKaZzlod9hnhdcHy-KWks8mbdYrN33efYEHSngiJ7aZ-",
         "width": 3024
       }
     ],
     "rating": 4.9,
     "website": "http://www.schlumper.de/",
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJMft2NhWPsUcRM3l44t8WD4w",
-    "date_retrieved": "2023-08-15T00:06:03.054Z",
-    "placeId": "ChIJMft2NhWPsUcRM3l44t8WD4w"
+    "date_retrieved": "2023-08-14T22:57:28.139Z"
   },
   {
     "address_components": [
@@ -20696,7 +20582,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/111589088801561307553\">Thomas Castan</a>"
         ],
-        "photo_reference": "AUacShjdW0Y1zo9YiY_hkC1JGooc-jZewMlq3claujhimlxkLJD7rKJoKk8W21KkRK5dKGwTeaKxr6MlA6gLeYuh7Kfqm2rYJfWeox5e8RbJfifOLzOHrUzqqNAzUTbL7kjo5ZYv2zT8TII2j2oRmKd5BumPDNWyx4GlrVXjguPbKEeCzQeJ",
+        "photo_reference": "AUacShj8EBNKdfmeZJOyVCCWeGfnNMTiEUK_3SlfyHVGqc7LiG9KZVoYYHe0MqYgRhZKUNWLtnFy71MQ5yxBjPzuEvO-lhHo2aNa0LBxP55gJ9PCZnPoNIYGnaZ30W0tbS-ipn7nBRC53z1yM5KyGsp-UmWhDiwMmQ3TcKrladAjVOLb6SH0",
         "width": 3120
       },
       {
@@ -20704,7 +20590,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/116078598693573852500\">Markus Polhmann</a>"
         ],
-        "photo_reference": "AUacShg8R_n0CKmfWXjsXF4U4P9Zb4yYnm_kUBjN1wcNyk7KJwvxkSB1DjqxWsOmXHn95_Qyjp6ARGJquNYNiC7iTFZ2wQtN272iaWwPYDmKNzn9yfSirsOfu_z_p222wP2IVg6Wvppj2o9nUZgJuksQn2pATn5dHNST9SC-i35x4iU0V5V9",
+        "photo_reference": "AUacShge2yQ3miR4oCB65Z3ROxG85dLCCYKIOTa1IKvSX9ZTRiEPDi7Mu_l5Pwt-q_I896gNHQ960aOmOJSkGlOlXu1RnYM3R6i0GFajQB6xBsHgXi3B7A9JPIQKbtwexELNxk1GKoKiEhOikbeT9UXj1WMkcUoT9hKTA0HRN7tgPZ2tbjKo",
         "width": 3264
       },
       {
@@ -20712,7 +20598,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/103205521121281923197\">Patricia Okkels</a>"
         ],
-        "photo_reference": "AUacShh_1Qh0Rm_BI7Kh57UAva6_w7QYVyw7ZlQSTKnOkN1L6mVkhW1ibkWETUsuiBIgKiesNIE05ew6qhvSUlCUqrL1P9z9ToW-NYzD2lYjg2K3U9z_YdtlqwdTiNwR8k16xj__mqv0h_3AMAk1V5g047xjWd1RkQlxtzfF-nDAe24gbXPo",
+        "photo_reference": "AUacShho31wHrdxqGv0fWKriWp4rZ15INx5rbXk0788EmZYwuvYCQ_2oM_8Dcg_85aQblcnY7p7yLQ2k3CArzKdiafq6eYvdP0FxAhpzB5jiL2aL1Hi3gZR9gU35rVtNzXyK9qL6ZM8yHC5bgK6PsNwVqXJNFLV2ycLlHqAAkDC6bKh1PoO2",
         "width": 2368
       },
       {
@@ -20720,7 +20606,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/111404874458892349577\">Klaus-Peter Benecke</a>"
         ],
-        "photo_reference": "AUacShguALLEw7E4HB0l_5rXRB4SE1wy13Z1S7SmOC6oE-_WnRhwmniM4PduCdBjE67KU_JYsOzYAPMOIHzG30Wn0NGB9Y2CF-Rf2oiKiqgoLbZfWRJIP4Aeg8_UwM51_oMBHAFQ1C-Xv7Fm5mV3lu2xDwOjfzv6-f04z24IeTCUaJUDhfNa",
+        "photo_reference": "AUacShhmb8FAdHWgijzTpbom8zZYkbXnUIf7JIoHj0GX8BDkG5ybDU0g7hcTLhaTx_NqgHEBXGgntA1VTXGOm3rwm9W_jEMbkS5J42YrFGYrqLzwmNxDmr73_t3657gScekNDvawmfIygXlabOzHIwTdecf5V-WKqA1wnsyQKwF0hDvr8mEF",
         "width": 2250
       },
       {
@@ -20728,7 +20614,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/116692398023537199372\">Karolina Sosinska</a>"
         ],
-        "photo_reference": "AUacShiu7ZbxXILIEI96jfrTO-WJoIZN-7XD0rkb889Z-VOo6Wdmy-3dNfOosNK5aNHJAzP42Ma7TU67sGkC1GNquFzYfY8uGQyP65AOLFfz4aPRehZAgiaKC0eJc96YAwUisShos_0nObb86keSQ6dNQGh8ZSeWdjPdYF9NJbZAY29zxH5m",
+        "photo_reference": "AUacShjhS4yGxVjar4yM65TNYfsOjZKBd_pQKwq0S4byKQuTh4JStc8GeoB25zuaPq5AO13GgI3eWiacVVVbY1Ss8XOVoWYJ1dE4EQ6c3jvOmgD_u8z-MaocXw8XAjefCDCbc8OzOMphetgh8s-nGcVVdSWM6aB_LUG2QibOnahzaPYXCLE1",
         "width": 2992
       },
       {
@@ -20736,7 +20622,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/111404874458892349577\">Klaus-Peter Benecke</a>"
         ],
-        "photo_reference": "AUacShhEvQQn4SIrNI0Uq5XavwlDklXQM3_n7y9Soa6nFnB8Xv7ZfhlB21-n6wBrIgReMNiI0o9-xkRyQYWeYFqU3MrRaYmj4_3TFHkHAYQpZaABnARKaRPaJAJyZ0td_Jy4KZ_fuY4QQ0oluM2X5hWTnH6YAyEdEHz4BCHsYkZHqyS60t82",
+        "photo_reference": "AUacShgN9LXNUeY1aoVWanuIPYGxprhtLsus2a6Pyb5YVkIxN_ifGv_SCZw4-xEtomRL96w5MU7czNYwJGkSrc_CTovVg_HsHoRoKKxY2fAjn8od9u6iPNbNLXR5H5I3T3FFRTzBh2Kpwqtici7dga96cVyfbj1ocbA77hBgtV4M8aY9pTNX",
         "width": 4000
       },
       {
@@ -20744,7 +20630,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/116078598693573852500\">Markus Polhmann</a>"
         ],
-        "photo_reference": "AUacShgnQ4zILFe0FKAmLNyv6_jsNFQ00qS1tUi1Y3sICK3veyVNXx7ghSYj4J2unPgZGkhh1a0JlmR1ORlU7yufczS2NW9HW6-Qe78BhkOtRjT1JOmlK5qMlRhVYeazUZdmerWfvusp29IKGT7KWZwky7o1ZqFMVpRH0VxnC-hzxhYSbxvg",
+        "photo_reference": "AUacShiCiASKFAKF-5jURM1YT8wZL6sotG3Fw7Ha8PzujBFaTi41NA-Vp9F15TMoTueTkMjlATaj06AxYWyl7Moo-XmHOBQb4DRApC_oEJWlSuBk7dvslxP5hulHbiIcPvex9_MuJVTM60NPedLWed-asZjMVfVO14GOF-_JDMQiKKU64dGg",
         "width": 3264
       },
       {
@@ -20752,7 +20638,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/110022447590745692365\">Doris Hentschel</a>"
         ],
-        "photo_reference": "AUacShglL5gctQo1BN4JzSP9x2-jZB9mD6Wb4FnSlMRlOdiyRZ3ElJ8YghFZSctq29dz3vw6ZrtF0E90qcjAFtmupjgQp16SzxxLko237LeomlNdBZ-5TcL6fGnmVnPkMsMeBWlJWjf8UR6KBK2yOp03alrnnb8-3SHzgBjrqjX20yp_7A9b",
+        "photo_reference": "AUacShhNJBF2qspEVEZDAHYnygD_UONXVKbkyiSPvK_haLGlEGzM0CgL8r72QTz8CItnaO0hTuW2GmSHQhViN4c7KSdxvibM9Jn-6itR0v202ti-ZyHbcJR53LMaPOjFJHsU-kfw0jWlt_7aPWXvCV10klSNJhwM1Loh1ggY_CL17XMbBy0U",
         "width": 3120
       }
     ],
@@ -20760,8 +20646,7 @@
     "website": "https://www.blaumeier.de/",
     "wheelchair_accessible_entrance": true,
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJDyU7i1MosUcRYoSZxLc8X_o",
-    "date_retrieved": "2023-08-15T00:06:03.166Z",
-    "placeId": "ChIJDyU7i1MosUcRYoSZxLc8X_o"
+    "date_retrieved": "2023-08-14T22:57:28.245Z"
   },
   {
     "address_components": [
@@ -20899,7 +20784,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/113147887640238203024\">Tereza Prepadnik</a>"
         ],
-        "photo_reference": "AUacShg5JYP1jgx6nzYcrf_nxsoyzPDBOXkPsCPeRwaPI605YZXtmpvWOlZnZusATGQ7w1gQT1tbAQnNfB1iglJBKrha-iCJzOs_5eDZwR4B67D9i5ponglpQA3ke9XPmPeGdvbsmYmPlZP_7CVU7AdIhBU17LzkUcmtF5EAPiigKJXkqQ2D",
+        "photo_reference": "AUacShjBZCBGb0ZvL6GWM5LXUVlGkaAwX5DOXcnWtHTGKQGfqKfqKf9gw7rIxbJks4cpIhbSHz4Z0G0_NU53cJf190d_ef98xGOKN6p8wX4QBec07QLxU5I0I8Q1ZZ7-_4LKVVtZOiNI-UjEbqvbO5lFSLYEGsCnyB3SIywpgmF6l0yoNgPX",
         "width": 3024
       },
       {
@@ -20907,7 +20792,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/109562722502338680186\">K. Matthias Mäke-Kail</a>"
         ],
-        "photo_reference": "AUacShik1OXzk2gm26oPalXl9_vtiEBaIXIaAy7XaIL4XW9Ecg_uNp8McTnLd98vl6W8zwGXjTeAeoIVkiKYFgrFsOqra9ND-qRAe1-3Ey0VIah3LhvxFcjJLra3fLSzugMrjzshOIpmmpmpQ8cagnIzvO-6tQbvf4K7Kzuqwf-2dQNEs62w",
+        "photo_reference": "AUacShisihv-0ofP3KoE7W4P1K-yQ9YPhD0RZ-b2TTW1hMsaOctZm4sqRawf6SZ_xi7kBQ8G5uu3gZdLt0FHKFQNBNhg3eBnVUM4ncoBa6EqoeX4vTxnD_ekJxmKoE3Som_n43DS1ISWTfuxkdfU2EJKQyT94w_moWAiFZfBZPF-3JbSFFWN",
         "width": 2600
       },
       {
@@ -20915,7 +20800,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/111402311648647121005\">Maria Höger</a>"
         ],
-        "photo_reference": "AUacShj1J6jt3DxkpUV9Q6a6PVTtNQyK89zhJoM1qYgKdyqyPIJnfWOPUesl8xJ6LGDEzKdyJ2UlBbFa3IBUlrVFkj1GLZdSk9oHqHyIxsc9kOjsi8k3Lmb_yb-7If1ZQ0HdL4-aEQedy85_D81ePw3EyFn4axxI7I-j5SPdZdAguBus8Fit",
+        "photo_reference": "AUacShhXPKcksw1g0wxAmo5_C9PvrbDx1ios8JzztzfbEwvYVII_dnenIOt-_Gd_7G3yu3cbEk5WHdpxaW3xSQktLcIA5NJwg4IEcM7KMxbDdCed7o8Qitu9xi5Gvhzt9SFirfMVqiAIYzdNG4AYRY8O4gS9W7aZZHYGRTbKI9HPX_ZIy6iR",
         "width": 5616
       },
       {
@@ -20923,7 +20808,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/111960515488041281574\">Karin Veyvoda</a>"
         ],
-        "photo_reference": "AUacShihWZMk9N1km2mhp7E1GlO3QX6AwhY29XQB8oCV8YWy1Cs2_c-TpkUtryXCOmecIpxJvXksZRGN3yjXlw0AqYdLmbpRXwIy2B8MaUHe5rsap6PR4C3MK9vcW_BA_fFOfc6ftqJKN5naYt94Pq9xCjIV683dEcU_1svGn07xwec2uBnZ",
+        "photo_reference": "AUacShh-y9XSHus2bESvaZ35POnvj7O0yCF-0dvLeTNZNV7O2Oq1WOHLXI4FCPO1c1DWAgNWA0NAH_enFB6zKSFykCmqjQF_8HbWvmQKT_4sGF42UtgHmbtfWzfjWf7OJlj3guxmHO_pLZy_e2moHX2Gos0iisdTxwFuUr415VXNKkw1a1Qn",
         "width": 3648
       },
       {
@@ -20931,7 +20816,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/109562722502338680186\">K. Matthias Mäke-Kail</a>"
         ],
-        "photo_reference": "AUacShjweVGonqerKQKeH65u6ukH4tfRCSfU25rJgDqeFp4DMFru7mFZWXgA7HMQ_ZRqI-rtXIEHHSX0RB_EsMCBrV6BOaCZVVwwNVbM4TFsGnLRsh8y68znlblLK9Lbf6eDvwhMtRPiMzZjmVEe5ulNfGjEmeJiJSHt184g8qRcObnDenBC",
+        "photo_reference": "AUacShgGdglBqUTCGuq6yqWo4BQWfal8EHv4TtKsQa5fMZWDPyvwM0uyFJWS0v8BLr4AM2M4NWOF_ISDr2QBC6AAjpiZgtukXmHdFkR2iYuOBT-0X3PMX6VUFcvo06XMu6fJge7m8hDUU4TI0x_DGtxV_fYfIsxIfXwJ7lKMBbsK5CV6hs6w",
         "width": 2572
       },
       {
@@ -20939,7 +20824,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/111960515488041281574\">Karin Veyvoda</a>"
         ],
-        "photo_reference": "AUacShgpKeEuhr-nG8o1-KJT2_NqzNd1SAtWoLq-PvZeZY3txPjK33SgUigz_3GqjCqL9sL8yTt2-tPQkm5V57RFWVA-kyNkjuJ1unX9H_mRWd7MBiXNCuzAqcQFddpmzPkBKJ-sK11Bgj4gIHLKuZx3-pn9uK6rxEuY9pKz9zLyGe1CR0am",
+        "photo_reference": "AUacShjspsNUD1IZkHo2nk0MwDmiFD3o2VVrLxSa7Rm70rDPN47NBogR8UVqxgyekyvyyjJISHfyvgZ4J1YySMRN28_dDEEodSL2HA0AS49N9Vm7-MOBHxW9LPH63hp071bbWzc6pDKwfUXwRd8o6XjjoQk4Z4ADo6fLuhSNWb4wEs4awkEO",
         "width": 2736
       },
       {
@@ -20947,7 +20832,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/111960515488041281574\">Karin Veyvoda</a>"
         ],
-        "photo_reference": "AUacShi_lnWDnkyifd9v5qZ2xW9B913Rj5U-d6ANS6IY936n9y8VG0j3cHx4YhntIqilXRrHehwgOmXsZJcRR__-8vq-DvvEUnJL9z7iJx-cW00fAYzQXQCrCTxStS6erKE3DuQMu0paY6FUrUKju9e0B-VY02URrv6s365vIpgd4Mi1u59l",
+        "photo_reference": "AUacShiQU2mWzq97HiDVErdl67CfasbFvZnZMurp0oErrnUi1xWFKkDQGdm80XDRI4CQBLpOInOh6i0lyWKMLzYqwrevfbaL0SZ5zQqNZcClQHGMtrXCtZDZUfIE35hhtzQWVEYDfJ5i_ZejGDa96wTYSba8LC7uPlyEChG22N5PVPf6YE7d",
         "width": 2779
       },
       {
@@ -20955,7 +20840,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/114319721989714216011\">Thomas Bachler</a>"
         ],
-        "photo_reference": "AUacShiGNtdSMaC0qv8x06zBgp2Y2u-g63xfP9vjsd8gMp5iwLuC2ASmQn3bFNHFLyObNeV5IywYn4MZsTPag-L5z5iMxlS_ZBfVr4PdqSRlwjE0qLzce8wDOUZWydOmhMiF5rjoJBI852qICaAqUehpy10k09hVrfXyqRE9sS5FcesBEawa",
+        "photo_reference": "AUacShhRvpzaPU4BvVHAjPGU7MXxJJ1ehZzhlfsEOiERZFpgpCvzvmPe8DOgjJZYqPySwTqPYtvGd4cEhqnKPBtyyidntL4FyWGY3LNzSsNCaxd_ujoB5ZuRIZC_gfXtQwBtXgps8Dr9Qazjz2FxqXVDht8ugS3ovKzqVqAuJFsPeD3HVS7w",
         "width": 4608
       },
       {
@@ -20963,7 +20848,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/113147887640238203024\">Tereza Prepadnik</a>"
         ],
-        "photo_reference": "AUacShiIe5u_b6ztBjGb1O3GhdPHttAm2VZDC2TiVnl1n5Q7acLyEFWLYroFlN6lfEJ8n93lA4F6Lf28nF09iV6LxfShhwhZwK7ZAMyTPKOYW9o6oFG94QnYxQdICfjudbeWtO7n65DS_bOTOAJogDK7bSZhwa2536X7pxvR5l9aX6E0Z1tC",
+        "photo_reference": "AUacShjNfXXV8H4Djq3d9QfZNYBt1bAUf3rACutVh8xltWXZb9Beif9ltPXibH9LachFbeGk_19aHD8DWgjvD-Qh1wR3QqyX9_4wcZoKHbwiQLy7jISHoxpqkMzYEit--dADKbESx68C3WlLTgXZ13T7nJCjPQ6ZP__jio-8D97KEJcQGkTX",
         "width": 3024
       },
       {
@@ -20971,15 +20856,14 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/109562722502338680186\">K. Matthias Mäke-Kail</a>"
         ],
-        "photo_reference": "AUacShiPFiZSXdO6JErSFByUHLhHOfuiU7dwFXXQ586mkwMHfgzeqIy1y44lVFLifvPqdvtP7M_xh1QMEo8C1ynh4l-gPsVUpfxi2AIy7lUMwy7EGj2m2HcS2yrApW0tUzsP62YdVdQmy9x3bXUMqHUwXbr7WnoBdTT9PisbVZG9y0UJZZa1",
+        "photo_reference": "AUacShhnXQzuM9iFA3ajnmG4Hr4X_oNdInanAIGze0TUjaqBuE2TDZssM1fLAsTQJLCZ783dCEX6R0ZUQdlmzWA3eQHNVQDOh_BO8LaPiKYyvKoUhaM45o2tu3NmIQLEUioRqWFbshShr0wLDm8fKVyIM1NcFqDsLcm1svHQUvTtQFiajYgN",
         "width": 2600
       }
     ],
     "rating": 4.4,
     "website": "http://www.gugging.com/",
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJyVP3ZiQMbUcRdtaQ2q84ONo",
-    "date_retrieved": "2023-08-15T00:06:03.282Z",
-    "placeId": "ChIJyVP3ZiQMbUcRdtaQ2q84ONo"
+    "date_retrieved": "2023-08-14T22:57:28.389Z"
   },
   {
     "address_components": [
@@ -21155,7 +21039,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/114330066137753236472\">Kunsthaus Kannen - Alexianer Campus, Münster</a>"
         ],
-        "photo_reference": "AUacShiEyvB-WlbsLTEtDH3I0df51E-XQNJvv6LBkFutfvtDVNGxNo3aVGGnzjkcEHf2BwUpZAXA_-JJRKyycH3feIJx5O4iHAg3gOl_ppVUKn9IPtiXaa_mU1GnS8UfUc7yaLxKNoepw5dYs8f5vtZW-6cNEbqTSGkMimOuQ33y_CsiTbHK",
+        "photo_reference": "AUacShj0SPSvO0qQXW0Y8-Qna1qq4oWPuXnCOZH2ouudeOggGqxoBcuKc8RjNxgRFoeFSgN0-qulZPFEMLRdY2K7iVEN7HrFCB0baCbToinFyAB1n9kGvo1IcxhbKOchvyjIXyqDUQX4hO4o4I7T7EP6grfa_8Dfyomwsjj5x0LUMQwWzj5d",
         "width": 1152
       },
       {
@@ -21163,7 +21047,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/114330066137753236472\">Kunsthaus Kannen - Alexianer Campus, Münster</a>"
         ],
-        "photo_reference": "AUacShglasrYIM6l8GjV6ZmFHsUfzeun797hV13X-eJGO8tkrUDTtFSqiBMUorlXsd_5eTdW66VKSIryMjIOqlbvfOlVs3O6Hb8mhYJjhE62cLE5xvsR1HyAY5pQEtbeyBRsX-qUsLxRev5zQjx_R25w7sgDB28He6mGKi7oA-mED7X5o5Df",
+        "photo_reference": "AUacShi6EyzUWXmEy-MZLk7WamNsy1PXhJk8HtyPcRyz5Wj1AVx0-GnVSkUWrgQwxxZzZ8U8NB6l-aI0-5IgYERp31NYMFv5kVy3UxFCx4iD2_9uV9wO1RfOenlIHnUa7l6tpOxUYvGjtzH0FXYp90j-O41qgLnw_zL2wdDO0YVCI5gIzES3",
         "width": 1000
       },
       {
@@ -21171,7 +21055,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/103370330506752701617\">Michael Slabon</a>"
         ],
-        "photo_reference": "AUacShi7dXDL0uMplvvY44C0FwO_8YndOiAoU6oUfYgF_0ktejhRoU9cFvGD9s3rLcB5TWOZ7ui0H4HTlUbNQWt6C2amUPAIiXM2zm23jJak0GhYjsTx71cfj0Yj-SA6S9se_LWxhpxnkHWG33vNZUH9tC45CcMOgKKJf75UPrL5sHDWsDOG",
+        "photo_reference": "AUacShh7vbOphmyj31if3tkvKi0-9aAH3iuSzBIBtm5_v7Qljj_uCMnwWl1fEn6VYxMXEiG1nNNFKEw0sdOiT2KGS7W59Uyn3di0scQwjgq3QMQVaVs-KJA0ULp2HxEvDw5JwOxJ-H2yZRQB6_Y91mbyPEEYUhdo9fcmvm7-N2Ie0BiY9-TK",
         "width": 1024
       },
       {
@@ -21179,7 +21063,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/114330066137753236472\">Kunsthaus Kannen - Alexianer Campus, Münster</a>"
         ],
-        "photo_reference": "AUacShg4Nfly12aXkHbie7tCRZ_yZcMqIDsKJJ134qKndBg2IapeBB6rRvvuwU0K8eInQGVDfY43kENePIODiFmdamGczhz_tOv-uP7dvlTEsIm-8X8pW5wwgF3NIIdouRNk-_NIK7LGPhn6F8ilx9MXSP4JKnRa-PJJvR-D2aAO7t1xmF0d",
+        "photo_reference": "AUacShiFoH16JAFf7UnveVgXpkncBDpxML614vdYaOakvg-gMoZyFASGXUeoHmTjQGtFGncMmSt-bt_TgFxULp_Nj8-1pCIlNRfKDAmHeyGtQbMiECBgHFgRDqxdIUbd2jAAUAFYGX9jrvOULpkue8QFoJirpge_scKROXZM-lesvGZDWqNH",
         "width": 850
       },
       {
@@ -21187,7 +21071,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/113232627774468580084\">Klaus Benker</a>"
         ],
-        "photo_reference": "AUacShjtBrfr9BmMeg0oJyCmEqHtIZsIPJ9SU7U08gkaLeCfLyNx9DgP0MACSz2EB2JIseHUz8Dx1gIghjiGklKebjI_oh6ATkNUbhOVhTTSDK57A62yep_Z0BzkoRBdY_NhUnB9Q7IlywfVW5WJQ_4t6Qn8_zj5z72qJpo2YD1_jXgIIdzQ",
+        "photo_reference": "AUacShg5MEnA6tYcpcnmLmxnxpFJ-62rvecKcqEMLexdbBNWtonrkC0BQCQKtAZ2aZlWjxPQCBOdN0-4I8gUNvSGajAn7o9kU9wIIH6r2zf6A7oCylaMtTJWvVvsPXUpP-A5Fm8k6_kvaDjaOLF0wUIRWmyuhuYwF4c6O7YcYCBfLEILfWCJ",
         "width": 4128
       },
       {
@@ -21195,7 +21079,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/109452194461597836335\">Hadwiga Nieting</a>"
         ],
-        "photo_reference": "AUacShgFCEC_IdUIpVsPmS6ceT4AmIUdFKACoOC-THqO95-n1xROIoJdyBT4IyTvukA8Dn9SSWPDwMpp0m9i1MDZ2QidKCATygqNWpIPDAkuYMq1gCO7V6dbR1Z4Y-vX17snv1n-OYfbaDxyAi45IxxGQb0oJE9uxrpJjeCyQLXjYHzoo0aM",
+        "photo_reference": "AUacShgYgZ-NnLd24xWmgSgRLUA4C0537NXeEq_Ze0PSIE4h2Kz88zMBNqqOKSHqcFyEDWum5jbA0-24by2cuKH8NNwN_Dsa9PFAvk2P8kVZol5zGZ917oU1qYFz03G7-Cp5vH9JPiQmztMaTLntVQ1Rm_y-j3GoYA0iTd4PAZ7jc-UhsnJO",
         "width": 4160
       },
       {
@@ -21203,7 +21087,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/114330066137753236472\">Kunsthaus Kannen - Alexianer Campus, Münster</a>"
         ],
-        "photo_reference": "AUacShiGwRYHmxY0UsUyASpctPwxhuyUgZEKoUw9D7vgmPWe1mtdRiLLuhA8coJusTujqHn88F9jdsvpjxD1P1-Te05gtWdUR6mPTK5qwcbXv6k8XyRbFcclLrlSk11WxPZ8SMmM-Y3wFNLFZ_y-G6TUxO22gc_SWyPwcodEC9Ws2sZCPABZ",
+        "photo_reference": "AUacShhebf7GnRYv1mmrCS4d6-GS_w_bW0Tp1Pz3JW-X-zBHuR-MelAudZWUhtwgvVRqXEZ-XMFLOQ6DOvhKsvrVQlDUaFxsWkj7ClediKCdyD8HuLcBwICoAOxhKxwyNtVTA4oKnLxh17AVF94RKZYZ9U3FUsDRNHj7YLnlzlKA9sHtIkTA",
         "width": 800
       },
       {
@@ -21211,7 +21095,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/105937779860432886601\">Gabriele Gischus</a>"
         ],
-        "photo_reference": "AUacShjDB4ipY6ovjV_AnN6E7eJx__qHmta7dTt8IX56lw7C2uX-N4ZpioG1tZhW61iWS-CntHkpXEWSVqHVEMJC35nrySQN2ZX_hMHmms8Rgj4i1n4knOw6qZJsRof2FBBJk_OgvozL21yGhNOJB9OSAfbmvYThmPtEpmU4lCuOcTcXnNtC",
+        "photo_reference": "AUacShiEA-pPKcs_ZmabKMXiVD451jnf6Lg3Q6_LcLLFh9sUYOgPc6FJnRKiX8Z3va9MEgdDNwHag4YAwXoRmvEwzpeKM1uS--gtKwuzwK5TgEa6r9ctw2csNkDm4xnGj6l6jaRAxUXhbZFC8myhq4C0XeKnjDY2YBsj6VBj7MG3FxhXMVBA",
         "width": 3000
       },
       {
@@ -21219,7 +21103,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/109452194461597836335\">Hadwiga Nieting</a>"
         ],
-        "photo_reference": "AUacShh05f2tUsqOqztNyMw3M-SPSVprZQX2kRFXRQvZ5mkXQWtnfO1jsor_xNrIeVbGTPvf-yQ5uphsPU38X4Y5bnjAorwRkSbFZzBDblOJ4YeRH0V9M9Gq74k_CeKZ1nAXs9pgY-o6Qe4_X-w_clPhET61xj2kzVkHhIEJXiF3HyEvq788",
+        "photo_reference": "AUacShjoxCZ0gsU6Nndgl50v6CDQNRZYJe8_S0l94Klm4JyNb-Py1PsD2Ko5_s-52uktwCVDYf8s2nEBGyi0y0Y_SdIp2xh8BysygGX3XdXh0noEnRO_1RztlE0OqY00tiKuG0PHHHwZHIQ9sE5jTEeJPri4MYfNf3wxsOMUdH2_GsxN0IqJ",
         "width": 4160
       },
       {
@@ -21227,7 +21111,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/116120666628144667297\">Gunther Witting</a>"
         ],
-        "photo_reference": "AUacShhrVL7U8kLSpfHNZwMgVdy_7Anpg6v85DvpSYOPJtVA-recwiFJ5168xn-2Z_NucVgGeaV8pfkI9DAfWzfoldUKb259YNhDjrIw-__1HXBQak0heXaj-yQWlnP9_-TCcKUxlvo4LjjOufwfOITpzfAq7dqEpSbnnc14r6X-Pan7mxrj",
+        "photo_reference": "AUacShjp0iRKqW003ubgOkV83gaQqNbOC5yzTNQQrHSeBP2CNTITwvTl8D-3axf_XzgZiIqfiIeM1XcY11Q78Ppxp8eUyk-SJiFl1n96xgWEziZ6YtOWMu5q6oVqzjDYW2zz5LF0NhdQPnL0vUxsJRP2pb96oxj-OJb2jnkgDCDrBesiOjTv",
         "width": 2213
       }
     ],
@@ -21235,8 +21119,7 @@
     "website": "http://www.kunsthaus-kannen.de/",
     "wheelchair_accessible_entrance": true,
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJuzClnFivuUcRL3ITBH1fSqY",
-    "date_retrieved": "2023-08-15T00:06:03.408Z",
-    "placeId": "ChIJuzClnFivuUcRL3ITBH1fSqY"
+    "date_retrieved": "2023-08-14T22:57:28.508Z"
   },
   {
     "address_components": [
@@ -21384,7 +21267,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/101816810726149715531\">Severin Bunse</a>"
         ],
-        "photo_reference": "AUacShi01LaDrNmYjlQv1ldow8V0Xn6Vnrw-p7hIDiUxuM1rWJciIXwTfDwnb1eGiI13uI4zrenFQY6EPkSJTDzk4hGJxi9CFcyTd2bJIgkCVklFf2cVBxqDShR6DrEOVhVpeJs-NpRksqDONxqYZqHTOW7Y5Y0-ifd4fPAu8MKN_ypa1KKa",
+        "photo_reference": "AUacShiQRu8jO8T7BE_y87W0vbvc6qAYKpVdvwJTaVYLDSDrF1UkuRKcHKQlMeVCTbY0qyahe8tNSCmIGOQhPV1xwHfFNwfrh8sS8Jpf_qM9sLiBBYSQ7nif5TktJ_xDPKG-BsIvX6NpjkezO14RyUHPSsQ-Y0IlzecicaXkfkPZBBsbYiwN",
         "width": 1500
       },
       {
@@ -21392,7 +21275,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/101816810726149715531\">Severin Bunse</a>"
         ],
-        "photo_reference": "AUacShjrWx0KuaCHMoXigBl4SjUPSQt0jRAZIVZT9F0jj0n_jaygdDFwHUltj7zvUs9ZA2NZyHJarVCImAh0LSRGlwmuj6q3WH0wyeuaQ6Ko4TSfS9dtH6XHztXtM6CQlPj3HrXe_VFT8ezcagEYvRKT6PaCoQ0Z4ncUQb4hCektJGuGc9zU",
+        "photo_reference": "AUacShg5Hgu3bcqBGvvOaAHpqpSA-dtFfRB1zw09fGFgZMpVLWPLkgopsA3XYM2Ieyr-VGG1tUSyBBA2dmRs_U8vNEm9m6-T7RJaFgLdvSN-pBvfxAZZ4YgGy7zd7Xhc3MMBUSlcHs0SbG7o-b90WODPkduV5lMuzGVosjJzJNZNbzNjrw0E",
         "width": 1500
       },
       {
@@ -21400,7 +21283,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/101816810726149715531\">Severin Bunse</a>"
         ],
-        "photo_reference": "AUacShiYLNa85UcV1TbxBtyG64tElug9IzsjJFDyfZgnrbN68__ybObZHGLfqDX3cBKlfvqUbfqk6MPSDP0G7uOPMrOpXlGvuB_p7Cr7RY9iPWatU08uLia3x8Nme18ge8cRxtNAfig6vuyC8bDG8wyfWOEqqxxoHBVNWj_xdZO1e2LGz8rG",
+        "photo_reference": "AUacShjhdpxn01ltkjRG9hVfhptoz8g0iqAaJwMxWm2izORVx2PsW1gMYMbZCDbPEuyrX-KN7S2dMLZOmwsPBDzBxvj1hRYOS3KwHi5h91cYsjeRO-PEalYUes4QtwzYf7aRa7ZLyWnQq9snevY1dZw70eSameW9NNnWOHK3C3V5Zcb_OS_Z",
         "width": 3840
       },
       {
@@ -21408,7 +21291,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/101816810726149715531\">Severin Bunse</a>"
         ],
-        "photo_reference": "AUacShg0qlG00U0g5D5iLaSsM7sK1U839h6LYpXdNhBeatTLpELvcHSU_FsnuZAF7wrBgWf0AOjqteQQiKzObZ5iJqQaagO5SC67gAswlHpt8Z-1AQ6XtQrIvbfbIARpoG8V0RNafp_UgBAJWXj-zMqiMrGkYkmpccY88S5qIswLOps_ECGr",
+        "photo_reference": "AUacShjNQF3Vf3Gads06f7BiSE42c-XTu9YTVlA4IM9Bbdr6pJDkTA-gwPu-vv8NHGCRnxtpRNyPqg0Hvq4frfPCdRzc1jcznh4LcrrzUNMhVPZ12SqODfdMHR1GncfJFBru5cSE3NfIwK00FSGod2GLu4WOjr7jVAUT4OsZA6q_LpFdSYEF",
         "width": 3840
       },
       {
@@ -21416,7 +21299,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/101816810726149715531\">Severin Bunse</a>"
         ],
-        "photo_reference": "AUacShiFffutJ3FysE_rzVnAdT-Kde2szZ4B_h5PIWJhmEEcoMqKxe_XU7UfpIl-sEJZGD0b4Y9fseRy0GhHNCn3hghTgZwhwR4DfMAlG9yPpSeNt0-zCgC3jvRgt1oERYQB0LOTtenYUVlsOiEFBdMOwg03qqI-EvZaI1IkpvpN_lHVL94V",
+        "photo_reference": "AUacShhYaI-2fobu5cl0Ryz-rb6V4MeMNmseLnpcoeGQumy2qdVkFwhspB5eVehwdYrvzgJ9qAt_lTzaJMu_56HpYy_W8MNQmUEWECBXVzLCHyjY36Kag8GcMyEMgxNl4l6kmFaFa9lSAHtPmkecJ9lAzLo0XeD5VYD2Nb6wfaN185d7Zhaz",
         "width": 3840
       },
       {
@@ -21424,7 +21307,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/115886602583702104301\">Marita Avio</a>"
         ],
-        "photo_reference": "AUacShgW_IJc4ynsmT0i1UCcidoB9QUixEG9pKScOZJNz9CfQGueARYnibqraC7MenYUCSz5b4Ts5gLFZq_EyA4L6N62VxlEKWillVyPDU4tuW_D-RMnIgePX_sY5kFofCz-NRGxFti86xiT3mvWxtpBdK6LtzcAxT5tl9XETLWIzecasBhm",
+        "photo_reference": "AUacShglzGKlwW9j_9FvRKBQCDGZkBX2_RLl-u4UPQCo0VRmBInrfiQjDWcRU1S76KSM2Oh-KfJt6QR0PC09fsJNQdCumGQ-ySHi7JFRcMmacxaPyChOp9b4hboGXoEOashl3xLu1esYTZ4gZ7j1fHx7zKCNNTIwwSLD1wY91RxKXOHKjn97",
         "width": 2448
       },
       {
@@ -21432,7 +21315,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/115886602583702104301\">Marita Avio</a>"
         ],
-        "photo_reference": "AUacShg1qiPPyLIgQM3v4G-kav0Ky-HNu8xixAqyNwGICPvfMlR6DKB1YL5Jwi4QNCzHI0Lg2c9M33-rrbYw5tGh1YpTTEr1CLvJKCVrGenAR9_jdRIfZAqIAVzZYg9qwGAe_c7bR-Qn0fQXYHns9aq4feNB_zUy92yRaAdX-kx9Br1RbeUu",
+        "photo_reference": "AUacShg2bf0f_of3JdaKIVT8QCMbKBjCeShFR5JBVPdOKULmUO2PVaaWO4bcpjSDeIEf50FMuHiNQjeKYr6P4TB7SlvSfKi30Zp7dAMv7ULnakh7Oyv7xS00hUy8HdsyjUWdvMJUrPxXrZBidlYrEm2lUo6MV032Sx9IKFII0uIVUi_e6-Hs",
         "width": 2448
       },
       {
@@ -21440,7 +21323,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/101816810726149715531\">Severin Bunse</a>"
         ],
-        "photo_reference": "AUacShiBtCRuNec9aGw8iTT5Z9DNQuWvuTzRMCQp418lflZa003i8a__lc3lT5kkl645UynqW-knGFWE8mW6a19JULcE4hBZVuHAkJ3AYHxekureMpE0ZtWvo0lXduixroPAkGF-KXsZoB0t7A1sg8BRKwa2KPJQy3wE4sPzrb6EKGaWTp6y",
+        "photo_reference": "AUacShheIzWrI0qSNJEbuQamh7qRFSt4fCm9FgghFYh9amgdq8h83YiQyuR_XmijW6WeZCkx8Ywek5IJ8q7emOico-LBncMRSoWnZ93G8U2DXYvi_3zvVO6r35F3epRK-cyfYnJggqBJH1AzJ8StvDwM4BOl3Lz5GOIDQfirMV35oeOClE5w",
         "width": 1500
       },
       {
@@ -21448,7 +21331,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/101816810726149715531\">Severin Bunse</a>"
         ],
-        "photo_reference": "AUacShid9OORaYUOKz52L76WNwQDVsg0ZfAB7sDx7cBD8Hce5LMG1XRlARh-lWYwO4bsPF2RV4a9SKjEnef7RYNGYTS-SujeDhrwvI6TZBJir2fiZbjYXCV8LMp44ck3QSP2y-GmSfKA-9ww-0eDRaC0WIpH6lDemA2KpFGsugSA5envg2Gh",
+        "photo_reference": "AUacShg_Tl_dosPTzDHqdUjjB1HnTcgLu8X_tGCNhPzQzgOfeuRP7j4PGC2dTlKd12bh0BvTPteuLkBIqlkKf_ubDAAbRYZsJ2UTv7PcvnMGs7hrur8-RXBpEeTot5Ctc9R9Yqv636nzXJRMiYXtVbNZlojxVFzBXfIMXNzc-T72C0oHUy3N",
         "width": 1500
       },
       {
@@ -21456,7 +21339,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/101816810726149715531\">Severin Bunse</a>"
         ],
-        "photo_reference": "AUacShiwjVWMueFLli7btCbO26kJoigy4Q_ZKHdnpS07_Pazi6XVx4GfjZ0VAe4BMpDb3sKpLHbaBa5HOI7eAD0ymBSFWVShaVgKEbRe2UIUSyW8tZh0Lvht0uAairugieDbPOe3Tbn_OxotD2D3wRzbSJ3xIKH4PsctxSR88DnOalINDIbF",
+        "photo_reference": "AUacShgjtVTC961MWtZ16MVBt-PwoiV2Q5y52EsE61XZUqTJPCazsjMzAWD6gq_lUWSW7ccUtPYBFK0aTowTWen0n3lo2BG1CZVPSHAMbHjjG_4SfHY_RsZmGxGT23wR346hDCv2ChQrNOscmZ2CM2NceCmnQkklTRhuqUbL-fZ5IGR_8NEw",
         "width": 1500
       }
     ],
@@ -21464,8 +21347,7 @@
     "website": "https://www.liveyesstudios.com/",
     "wheelchair_accessible_entrance": true,
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJG5EhQMe_locRpFrjtr1ZtwU",
-    "date_retrieved": "2023-08-15T00:06:03.530Z",
-    "placeId": "ChIJG5EhQMe_locRpFrjtr1ZtwU"
+    "date_retrieved": "2023-08-14T22:57:28.625Z"
   },
   {
     "address_components": [
@@ -21559,7 +21441,7 @@
     },
     "name": "Creative Growth Art Center",
     "opening_hours": {
-      "open_now": false,
+      "open_now": true,
       "periods": [
         {
           "close": {
@@ -21638,7 +21520,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/111383913900870229200\">Lawrence Marcus</a>"
         ],
-        "photo_reference": "AUacShhlKXHeV-3-6TYVy0mU4VudYtjMsEAnWQHkHDnYTrjQ4KZ8BjTShuTiahaSE8piRLq9jTEZngkI-ZOCaN4HEAFdAleWK5506I_kf0wp09uSegUa_9LKfcS11LeXabL2qwZ67iXU6SmYhbvNglAUpU3BjaQZhGaCvgWla-FXUQlXs-2O",
+        "photo_reference": "AUacShgiteldXFlVfYA297m2ys5NCqC-Z3fsE__WP14B5t6IR5eA-vU00gLt5PqsF0-osWOvOJQdr_fe-twr9Z1mKp-2l05PRlw5bqKxPUppZcsUIS5SKc9cWhB3JBhOCnYLP0fBql2Q9OMOXmzRiv6Zn4kJ0VhpqqhY4xeLFIp3TChGmrd2",
         "width": 4032
       },
       {
@@ -21646,7 +21528,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/107804974369010181478\">Micah Brown</a>"
         ],
-        "photo_reference": "AUacShj6GCauX2QS8RP6J87qrru46E3TJ7H8wI2YJ34ocyyjj8WEij1P1Z_yzwt1j9fwgv0NoOgT4LneboLcd3T0ck6PjZW9TCq_GMpfZQh8IXkW8kiCcK4NxgWs_zTxGWsHtX7MfhLhNBB-gPgwKYyUJ03QBrwBGbWwXRnLyTN5iNsOs1Tp",
+        "photo_reference": "AUacShjI1WJt2Zkk_WaaoQ80a8R_oYyv_6cVzSWjXfqhxbNZs4CWmsXuD9wSwRqC4dqaaANr-ddNFjiOFp7fXVJfDU7lqhrtoxsl8qF3YqldKg3U-VGqZt8e_PbO-YaQErNGWRrEGX1uDs17FeeVHDbsVoBC5shnK-p8im1zZlPPxDoTriip",
         "width": 4032
       },
       {
@@ -21654,7 +21536,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/113129437749966010611\">Trisheam “Tjquadius” Mcdaniels</a>"
         ],
-        "photo_reference": "AUacShh9g0T-7DsQTT72Bd61QM0uIcsFKcvQor_gyYuW-5gomFHDSXghSWP2o-rBon6f14DOrB2THzE3sVs-EH1c3umVV9mee9vzaIE5xdD769Yq1HW0pfvvnddSUxO6mBy6AYLq5KmyMBHWSdzW7JeygoQvoeF5R0jjl0Gmtj96OlF710CO",
+        "photo_reference": "AUacShjLMJX9CP1xqgog43GzEwVD5if31rAxEaqRjU91QBpA-Tefq6vf8d6QstIvFU30RI-VDxlmWXonUnOZEwzvXVgYhp5g_9bjHNsW-3baZ5lrYDeLXHdICMn2L9cbuw1uNEw13OxAJSeYChMAWaRoLzP8AwzBOPW2hgi_73YYYzfrY92p",
         "width": 4032
       },
       {
@@ -21662,7 +21544,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/111781372824004436491\">Michael Rolph</a>"
         ],
-        "photo_reference": "AUacShhp5BKP0CYcGKc1ZNNs9DpFvyV1TSNODcEEGrpRN7roNKRzFV6wJtq8DtSC4CRdvbsOZZWbRgWTWn3Kx1-4URlXOaH3XQQmldNzARpsOeINkdFQDOCu9rokG1zmGjugUb50IV_mZsITc_8HSPsUMcJ7YaQ3PtP2lhtVYBOHmmJEzpxM",
+        "photo_reference": "AUacShhUXt5RwYfN8o0ju1Sf3p-zxJhm3O72_m_RQ-OZzP_Ls7PRzHzGjLSU7OVKYylT3uMmrmQhHngCHPETKIXjgmUvifcYplyTWl6y8sC8_D0lKJWdQ09O5yTRV_hp-UVUJvS7FED2rB-DezGQmNEMxsolKix20UFIA5N6pcXg1Agu8evT",
         "width": 3221
       },
       {
@@ -21670,7 +21552,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/106217801188541252717\">AlisaK Moore</a>"
         ],
-        "photo_reference": "AUacShjQ8xSMIoSKBqth6uq0EFV3Ko23n6f9bm61uDMXhG2ultG4DojFeiAZpdtMJ1Lzn44B1F7Ov5w1dZ7daOkCHuIg0vxMqEPVHuSfI6r5ZlEkK-IptDN-MW4sJb6hekLi2NxFI-uk-dGS0xG_DDdlLg4IsYPPuv8-u6kYU2uLajfL3tb8",
+        "photo_reference": "AUacShim01yEEr31gQrPU75KGxGg0ii8N-HodbYe6fFhu-oG-kSZbDBE8GP-iONSd-sAcXiqxw7XJCqp-qE3jakAnuc3xgooBsN5r86mUR6uNs8AM1ztw4AG7kvwO2NuzECXmsMUwj4Dm4sgWxWBv5hQF7BJ9WY1wYkFe2_COKwfh8m00St3",
         "width": 3120
       },
       {
@@ -21678,7 +21560,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/102001851249951180326\">Monique Low</a>"
         ],
-        "photo_reference": "AUacShj4VB5jthHKm38GrzxCEjwymyhPbitCSVKsP8IycdZQyKFjqf8S8N4RuB8OVPO2CyuMHJKqH4aJcbPtiw6bHu4OX5XET5boTbvXyWGEKi0bZrVLrsBQqL_Zzux9w_m4VEUE-dWY88ny3Qg9KbdnjdDNy3hWHfeD7oiD6GSGHWkmWXc0",
+        "photo_reference": "AUacShgpvZ1QM1hWo_TQKw4TmzWP0aJB0-pt9qT2IkFcT7wGe3HtwI-eWvpLfCCw3qiBle1qfMNT3lkXruPSIwMXDSsM10hvwHCDhxyGulwedF7I0zVqJEB2SVe05up5Cyz7iRrAR-MaomyHnLYYq7gkjq5Qp4dVBk-93WLonvkIm38VPjkU",
         "width": 3232
       },
       {
@@ -21686,7 +21568,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/113129437749966010611\">Trisheam “Tjquadius” Mcdaniels</a>"
         ],
-        "photo_reference": "AUacShivBP_fz3AKa1hq_Qe4gNeIfPYPU3ZvmtOI0oC3joSNUbZPGBhzrYlVP5vXsayvjNqxObNwH-wI9k-HqFUdmY-CdWFwGe7O3IbEXuWz4U1lon4UJxGGGDreYPd2ix2FGd2oMNR4wZ2oZnuV2t7h7I1fbYxMamG08yv843Yvy_nXwfLk",
+        "photo_reference": "AUacShh-xwruuQrkIoXIV0CFOD9z_bjt8mkRFLKsVkXI-C7dGy8Ix-sJMEw9BwWl_K8ybkh87OQShtSTARzWgEqb9IZL6r8sHfUete89FD3dDkkyCAKL1vjaQKyTridmzDSBcSAmzzizfyDGELMHzhsqsqEojVei5D5Yj-f4H41gl8iQLcbH",
         "width": 4032
       },
       {
@@ -21694,7 +21576,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/111144595517732087418\">Catherine Devriese</a>"
         ],
-        "photo_reference": "AUacShgaqH4EE566zOTsuKBwn_k7BmCot7TVDuo3fy7IuE3i5TkNnYtEq1viCT0PiNy1G9FXP77sDoXvPbyQC7vcNU4OZ1cDmsBtJrUKBvgpLnWRmDHvxL_HqOjzDnJEYomNPzFbNwdDCu4lnfMO5ws1xK7PH3Bby4OfrM1xkQdLHSGXwr7l",
+        "photo_reference": "AUacShg3iPD-zm9cbV9933Y3SJGjrgFnxUEcKkfD2yDxyfwtz2Q_gneHJRV-C8gJP6Yy0CsgJ7zUqISWUmhudWMWOpXTsszBBa52Z_jR0pClde6ahqP4PROXWNpAPhDG73abPliOCROJx2bNHprGS8po1iTr3ONJx1VzsB8_m6xHiyS2OYmj",
         "width": 4000
       },
       {
@@ -21702,7 +21584,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/106217801188541252717\">AlisaK Moore</a>"
         ],
-        "photo_reference": "AUacShjgoe0MxtXyuybEdFExjtcRewKrWMivCFJTKGz9U8ggk1FLN4ty4GvJuP38RmHwb9fpmPiPMrRFF1YrIz2HCsPJbGtnugZCban0mNxRGK0O06zPrz0vihVdzna0NmgKpW0WDjrN7LTHy2hiKHb9kqdkCGkqfFD6U9NoS1zE062bw7xw",
+        "photo_reference": "AUacShh9BCXbP2P-4ZF0SfTtK3geSjX9v-_R6HhvBFCYp0JmXdl3_mWiAz91E7w3srewgkyWD4yI-pyC6139gpzgYGSrXDrjTElMv46NAOR9--71nF4zHu2VCHpJm3emRjPHqEdjTsudM8YnJUr2LLVMBZT8-x0BnFesMUY2Ltm1CEbxEUk4",
         "width": 2798
       },
       {
@@ -21710,7 +21592,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/106217801188541252717\">AlisaK Moore</a>"
         ],
-        "photo_reference": "AUacShjYt2EUwcCuyGAljYYyfSSlvZETv8USVZdxTFMqtDzR3qe5qFMpAGQJYqpjvkMeva-Aci5KY3MRCMfzdktJ1P15UD40_2l20ddjDElvbTR7-QeeoOi9bPnYVJEQs7yK0cBEtrqXhFABSNhjY-oYp4DUH4YG_o4702g0dybs2w76qT5L",
+        "photo_reference": "AUacShg5qGmDmKytlnTz3DO5nHaTaZtGcXefzisdaRwwhRNulVJUokIoX_NF_UF9b-hJqEkf2nQ9QTdnvB3rtGPzWu6VA5rx9hR5Edup4ppABwhSKfpI-D6GIFLe6ML30wH6oZZWODQwGbnvzcYIqcwiOsFzpS9NDO6PaiQ25EdMpla9msyL",
         "width": 1413
       }
     ],
@@ -21718,8 +21600,7 @@
     "website": "http://creativegrowth.org/",
     "wheelchair_accessible_entrance": true,
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJhxa2I1OHj4ARKsl46I6D7Zk",
-    "date_retrieved": "2023-08-15T00:06:03.650Z",
-    "placeId": "ChIJhxa2I1OHj4ARKsl46I6D7Zk"
+    "date_retrieved": "2023-08-14T22:57:28.750Z"
   },
   {
     "address_components": [
@@ -21806,7 +21687,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/110135989150483264956\">Julia Hartmann</a>"
         ],
-        "photo_reference": "AUacShihjlPSU7txtVMNIqrykb54P5ndG2yROAg4MIHuOCZC4k0K2BOiKvsW1eKmgl7cCUrQvAdbjkyD2UgWdyShl6OF45mDQMGWb98GAbk0Qdti3x9uNbmOiLlGzUkwNZLk_5ze06i79OfzYAEfrAqKyO7zZhsFPThEbdUXxWxDyBZhzPMw",
+        "photo_reference": "AUacShjH7WeHj-2IZjOg5CYIENSpnIsLwGMctYlVMgmHgLq2QfWI50I8mKNR8ETYOf-20ggKF7_uC5eJbQgkP34AadxilGSfmTlQcGPxUBsHqdc6awBr4NFMjlgdLEyO2daGajPP5vsVY2womnWEcE9RNfH2xSDkfQwHTJXB5QLBj7Y0UpLO",
         "width": 1024
       },
       {
@@ -21814,14 +21695,13 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/100804248698333694981\">Matthias Geißler</a>"
         ],
-        "photo_reference": "AUacShj58N4a7i6cKtDcC2BIWBwgbok7Dx8EpSGhX-eqpBfxBHZoF5EQPCim_vgIyN7wFELtQAQhbt9JvEeHOMtL0If7J2qWJs-y-HyiPKjTszReYLrXcvyrXfDO8k6oa-xl1zW-XoVYaXn_ZW80WdsfPixpot5_ZGxvz43gx6h75RKW_azL",
+        "photo_reference": "AUacShiY_aBAu5A7HZAP25mOQI--u4GGEVOZYWFarvSBxXoaSptukMUv2oCECv2Jkk5pa86sRXhB3hpLfiI1QpU8jJRRXZ-AUtHy_MMycxwoPHvJcIZsWp6qwE5Q_erUcR4yB5ctAgoLSNkj4pOdBwlpo-YuCWz4PGcRSTFh01BxpZvV4FgE",
         "width": 2340
       }
     ],
     "rating": 4.4,
     "website": "https://www.atelier-goldstein.de/",
     "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJyw3KlBkMvUcRXR9OSynpTN8",
-    "date_retrieved": "2023-08-15T00:06:03.762Z",
-    "placeId": "ChIJyw3KlBkMvUcRXR9OSynpTN8"
+    "date_retrieved": "2023-08-14T22:57:28.855Z"
   }
 ]

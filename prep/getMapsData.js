@@ -3,7 +3,7 @@ import { parse } from 'csv-parse';
 import dotenv from 'dotenv'
 dotenv.config()
 const MAPS_API_KEY = process.env.MAPS_API_KEY;
-const PATH_TO_DATA = './data/input/place_IDs.txt'
+const PATH_TO_DATA = './data/input/place_IDs_0809.csv'
 
 // Parse CSV
 // https://csv.js.org/parse/api/stream/
@@ -22,7 +22,7 @@ async function parserCallback(error, data) {
   for (let i = 0; i < placeIds.length; i++) {
     const placeId = placeIds[i]
     const placeDetail = await getPlaceDetail(placeId)
-    placeDetails.push(placeDetail)
+    placeDetails.push({...placeDetail, placeId})
     console.log(`Retrieved data for ${placeDetail.name}`)
   }
   const jsonOutput = JSON.stringify(placeDetails, null, 2)
@@ -32,8 +32,8 @@ async function parserCallback(error, data) {
     console.log(`Place details have been saved to ${jsonPath}!`);
   });
 
-  const jsOutput = 'const placeDetails = ' + jsonOutput
-  const jsPath = './../prototype/data/placeDetails.js'
+  const jsOutput = 'const placeDetailsData = ' + jsonOutput
+  const jsPath = './../prototype/public/placeDetails.js'
   fs.writeFile(jsPath, jsOutput, 'utf8', (err) => {
     if (err) throw err;
     console.log(`Place details have been saved to ${jsPath}!`);
