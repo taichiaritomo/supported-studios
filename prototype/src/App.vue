@@ -28,7 +28,6 @@
         <th>Name</th>
         <th>Country</th>
         <th>City / Locality</th>
-        <th v-if="distancesAreVisible" class="distance">Distance</th>
         <th>Website</th>
         <th>Phone number</th>
         <th>Status</th>
@@ -39,7 +38,6 @@
         <td class="name"><a :href="placeDetail.google_maps_url" target="_blank">{{ placeDetail.name }}</a></td>
         <td class="country">{{ placeDetail.address_components.find(address_component => address_component.types?.includes('country'))?.long_name }}</td>
         <td class="locality">{{ getLocality(placeDetail) }}</td>
-        <td class="distance" v-if="distancesAreVisible">{{ formatDistance(placeDetail.calculatedDistance) }}</td>
         <td class="website"><a v-if="placeDetail.website" :href="placeDetail.website" target="_blank">Website</a></td>
         <td class="phone"><a v-if="placeDetail.formatted_phone_number" :href="`tel:${placeDetail.formatted_phone_number}`" target="_blank">{{ placeDetail.formatted_phone_number }}</a></td>
         <td class="status"><span v-html="formatBusinessStatus(placeDetail.business_status)"></span></td>
