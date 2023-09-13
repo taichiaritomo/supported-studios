@@ -1,0 +1,209 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 26px;
+}
+
+body {
+  margin: 0;
+}
+
+header {
+  margin: 0.5em;
+}
+
+input, textarea {
+  font-size: 2em;
+}
+
+button {
+  font-size: inherit;
+  cursor: pointer;
+}
+
+select {
+  font-size: inherit;
+}
+
+h1 {
+  text-align: center;
+}
+
+table {
+  min-width: 1600px;
+  border-spacing: 0;
+}
+
+tr {
+  background: rgb(241, 241, 253);
+}
+
+tr:nth-child(even) td {
+  background: rgb(248, 248, 254);
+}
+
+tr.table-header-row {
+  position: sticky;
+  top: 0;
+  background: white;
+  border-bottom: 1px solid black;
+}
+
+tr:hover td {
+  background: lavender;
+}
+
+th {
+  vertical-align: bottom;
+  padding: 0.5em;
+  border: none;
+  border-bottom: 1px solid black;
+  text-align: left;
+}
+
+td {
+  vertical-align: top;
+  padding: 0.5em;
+  border-bottom: 1px solid black;
+}
+
+td.name {
+  width: 300px;
+}
+
+td.location {
+  width: 300px;
+}
+
+td.website {
+  width: 200px;
+}
+
+td.website ul, td.website li {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+td.website a {
+  display: inline-block;
+  margin-bottom: 0.5em;
+}
+
+td.website .kitchen-add-link-form {
+  display: flex;
+  gap: 0.5em;
+}
+
+td.website .kitchen-add-link-form input {
+  font-size: 1em;
+  width: 110px;
+  gap: 0.5em;
+}
+
+td.website .link-delete-button {
+  color: gray;
+  cursor: pointer;
+  margin-left: 0.5em;
+  background: none;
+  border: none;
+}
+
+td.website .link-delete-button:hover {
+  color: black;
+}
+
+td.phone {
+  white-space: nowrap;
+}
+
+td.accessibility {
+  width: 200px;
+}
+
+.gray {
+  color: gray;
+}
+
+form fieldset {
+  border: none;
+}
+form label {
+  display: block;
+}
+form input {
+  display: block;
+  border: 1px solid gray;
+}
+
+nav.filters {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 1em 3em;
+}
+
+.kitchen-room {
+  background: rgb(186, 186, 222);
+}
+
+.kitchen-nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  padding-top: 1em;
+  transform: rotate(-5deg);
+}
+
+.kitchen-table {
+  background: white;
+  width: 100vw;
+  height: 100vh;
+  overflow: scroll;
+  /* transform: scale(0.75); */
+  animation: forwards zoom-out 2s ease-in-out;
+}
+
+.kitchen-table-header {
+  padding: 0.5em;
+}
+
+.kitchen-add {
+  position: fixed;
+  z-index: 100;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  transform: scale(0.85);
+  background: white;
+  overflow: scroll;
+  padding: 0.5em;
+}
+
+.kitchen-add-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.kitchen-add-form {
+  margin-top: 0.5em;
+  display: flex;
+  gap: 1em;
+}
+
+@keyframes zoom-out {
+  0% {
+    transform: scale(1);
+  }
+  100% {
+    transform: scale(0.85);
+  }
+}

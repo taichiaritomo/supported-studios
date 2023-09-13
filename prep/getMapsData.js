@@ -32,7 +32,7 @@ async function parserCallback(error, data) {
     console.log(`Place details have been saved to ${jsonPath}!`);
   });
 
-  const jsOutput = 'const placeDetailsData = ' + jsonOutput
+  const jsOutput = 'export const placeDetailsData = ' + jsonOutput
   const jsPath = './../prototype/public/placeDetails.js'
   fs.writeFile(jsPath, jsOutput, 'utf8', (err) => {
     if (err) throw err;
@@ -43,7 +43,7 @@ async function parserCallback(error, data) {
 // Google Maps Places API
 // https://developers.google.com/maps/documentation/places/web-service/overview
 async function getPlaceDetail(placeId) {
-  const fields = "name,rating,formatted_phone_number,formatted_address,website,opening_hours,geometry,address_components,business_status,photo,wheelchair_accessible_entrance";
+  const fields = "name,rating,international_phone_number,formatted_address,website,opening_hours,geometry,address_components,business_status,photo,wheelchair_accessible_entrance";
   const url = `https://maps.googleapis.com/maps/api/place/details/json?place_id=${placeId}&fields=${fields}&key=${MAPS_API_KEY}`
   const response = await fetch(url);
   const placeDetail = await response.json();

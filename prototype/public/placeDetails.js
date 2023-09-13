@@ -1,4 +1,4 @@
-const placeDetailsData = [
+export const placeDetailsData = [
   {
     "address_components": [
       {
