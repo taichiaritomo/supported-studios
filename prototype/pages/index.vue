@@ -84,7 +84,7 @@ function haversineDistanceBetweenPoints(lat1, lon1, lat2, lon2) {
 }
 
 const countries = computed(() => {
-  const countrySet = Array.from(new Set(data.value.map(placeDetail => placeDetail.country))).sort()
+  const countrySet = Array.from(new Set(data.value?.map(placeDetail => placeDetail.country))).sort()
   // find and remove null from countrySEt
   const nullIndex = countrySet.indexOf(null)
   if (nullIndex > -1) {
