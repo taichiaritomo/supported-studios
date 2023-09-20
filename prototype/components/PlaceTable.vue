@@ -1,51 +1,53 @@
 <template>
-  <div>
-    <table>
-      <thead>
-        <tr class="table-header-row">
-          <th>Name</th>
-          <th>Location</th>
-          <th>Links</th>
-          <th>Phone number</th>
-          <th>Status</th>
-          <th class="accessibility">Wheelchair Accessible Entrance</th>
-          <th v-if="isKitchenMode"></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr v-for="(placeDetail, placeIndex) in data" :key="placeDetail.place_id">
-          <td class="name">{{ placeDetail.name }}</td>
-          <td class="location">{{ placeDetail.location }}</td>
-          <td class="website">
-            <ul>
-              <li>
-                <a v-if="placeDetail.website_url" :href="placeDetail.website_url" target="_blank">Website</a>
-              </li>
-              <li>
-                <a v-if="placeDetail.google_maps_url" :href="placeDetail.google_maps_url" target="_blank">Google Maps</a>
-              </li>
-              <li v-for="link in getLinks(placeDetail)">
-                <a :href="link.url" target="_blank">{{ link.text }}</a>
-                <button v-if="isKitchenMode" class="link-delete-button" @click.prevent="handleDeleteLink(placeDetail, link.text, link.url)">✕</button>
-              </li>
-            </ul>
-            <div v-if="isKitchenMode">
-              <button v-if="placeIndexWithAddLinkFormOpen !== placeIndex" @click="placeIndexWithAddLinkFormOpen = placeIndex; linkText = ''; linkUrl = '';">Add a link</button>
-              <div v-else class="kitchen-add-link-form">
-                <input type="text" placeholder="Link Text" v-model="linkText" required/>
-                <input type="url" placeholder="Link URL" v-model="linkUrl" required/>
-                <button @click="handleAddLink(placeDetail)">Add</button>
-              </div>
+  <table>
+    <thead>
+      <tr class="table-header-row">
+        <th class="name"><span aria-label="dot symbol">●</span> Studio</th>
+        <th class="location"><span class="material-symbols-outlined" aria-label="pin symbol">location_on</span> Location</th>
+        <th class="website"><span class="material-symbols-outlined" aria-label="portrait card symbol">perm_contact_calendar</span> Contact</th>
+        <th class="accessibility"><span class="material-symbols-outlined" aria-label="wheelchair symbol">accessible_forward</span> Accessible Entrance</th>
+        <th class="status"><span class="material-symbols-outlined" aria-label="door symbol">door_open</span> Status</th>
+        <th v-if="isKitchenMode"></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr v-for="(placeDetail, placeIndex) in data" :key="placeDetail.place_id">
+        <td class="name">
+          <a v-if="placeDetail.google_maps_url" :href="placeDetail.google_maps_url" target="_blank">{{ placeDetail.name }}</a>
+          <span v-else>{{ placeDetail.name }}</span>
+        </td>
+        <td class="location">{{ placeDetail.location }}</td>
+        <td class="website">
+          <ul>
+            <li>
+              <a v-if="placeDetail.website_url" :href="placeDetail.website_url" target="_blank">Website</a>
+            </li>
+            <li v-for="link in getLinks(placeDetail)">
+              <a :href="link.url" target="_blank">{{ link.text }}</a>
+              <button v-if="isKitchenMode" class="link-delete-button" @click.prevent="handleDeleteLink(placeDetail, link.text, link.url)">✕</button>
+            </li>
+            <li v-if="placeDetail.phone_number">
+              {{ placeDetail.phone_number }}
+            </li>
+          </ul>
+          <div v-if="isKitchenMode">
+            <button v-if="placeIndexWithAddLinkFormOpen !== placeIndex" @click="placeIndexWithAddLinkFormOpen = placeIndex; linkText = ''; linkUrl = '';">Add a link</button>
+            <div v-else class="kitchen-add-link-form">
+              <input type="text" placeholder="Link Text" v-model="linkText" required/>
+              <input type="url" placeholder="Link URL" v-model="linkUrl" required/>
+              <button @click="handleAddLink(placeDetail)">Add</button>
             </div>
-          </td>
-          <td class="phone">{{ placeDetail.phone_number }}</td>
-          <td class="status"><span v-html="formatBusinessStatus(placeDetail.status)"></span></td>
-          <td class="accessibility">{{ placeDetail.wheelchair_access ? 'Yes' : '' }}</td>
-          <td v-if="isKitchenMode"><button @click="$emit('deleteStudio', placeDetail.place_id )">Delete</button></td>
-        </tr>
-      </tbody>
-    </table>
-  </div>
+          </div>
+        </td>
+        <td class="accessibility">
+          <span v-if="placeDetail.wheelchair_access" class="material-symbols-outlined" aria-label="wheelchair symbol">accessible_forward</span>
+          {{ placeDetail.wheelchair_access ? 'Yes' : '' }}
+        </td>
+        <td class="status"><span v-html="formatBusinessStatus(placeDetail.status)"></span></td>
+        <td v-if="isKitchenMode"><button @click="$emit('deleteStudio', placeDetail.place_id )">Delete</button></td>
+      </tr>
+    </tbody>
+  </table>
 </template>
 
 <script setup>
@@ -62,11 +64,11 @@ const props = defineProps({
 
 function formatBusinessStatus(status) {
   if (status === "OPERATIONAL") {
-    return "&#128994;&nbsp;Operating"
+    return "<span style='color: #00ff00'>●</span>&nbsp;Operating"
   } else if (status === "CLOSED_TEMPORARILY") {
-    return "&#9940;&nbsp;Temporarily Closed"
+    return "<span style='color: #ff0000'>●</span>&nbsp;Closed"
   } else if (status === "CLOSED_PERMANENTLY") {
-    return "&#9940;&nbsp;Permanently Closed"
+    return "<span style='color: #ff0000'>●</span>&nbsp;Closed"
   } else {
     return status
   }

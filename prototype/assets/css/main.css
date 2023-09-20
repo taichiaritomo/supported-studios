@@ -1,3 +1,22 @@
+/* Define a CSS color variable for light grey */
+:root {
+  --lightgray: #f7f7f7;
+  --gray: #BDBEBE;
+  --blue: #0000f5;
+}
+
+@font-face {
+  font-family: 'AtkinsonHyperlegible';
+  font-weight: 400;
+  src: url('/assets/fonts/AtkinsonHyperlegible-Regular.ttf');
+}
+
+@font-face {
+  font-family: 'AtkinsonHyperlegible';
+  font-weight: 600;
+  src: url('/assets/fonts/AtkinsonHyperlegible-Bold.ttf');
+}
+
 * {
   box-sizing: border-box;
 }
@@ -5,10 +24,22 @@
 html {
   font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
   font-size: 26px;
+  font-family: 'AtkinsonHyperlegible';
+}
+
+@media (max-width: 720px) {
+  html {
+    font-size: 20px;
+  }
 }
 
 body {
   margin: 0;
+}
+
+.limited-width-wrapper {
+  margin: 0 auto;
+  max-width: 1200px;
 }
 
 header {
@@ -20,66 +51,87 @@ input, textarea {
 }
 
 button {
+  font-family: inherit;
   font-size: inherit;
   cursor: pointer;
 }
 
 select {
+  font-family: inherit;
+  font-size: inherit;
+  padding: 0.2em;
+  -webkit-appearance: button;
+  appearance: button;
   font-size: inherit;
 }
 
+a {
+  color: var(--blue);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+address {
+  font-style: normal;
+}
+
 h1 {
-  text-align: center;
+  font-size: inherit;
 }
 
 table {
-  min-width: 1600px;
+  margin: 0 auto;
+  width: 100%;
+  min-width: 40em;
   border-spacing: 0;
+  border-top: 1px solid var(--gray);
 }
 
 tr {
-  background: rgb(241, 241, 253);
+  background: white;
+  display: flex;
+  justify-content: center;
+  border-bottom: 1px solid var(--gray);
 }
 
-tr:nth-child(even) td {
-  background: rgb(248, 248, 254);
+tr:nth-child(even) {
+  background: var(--lightgray);
 }
 
 tr.table-header-row {
   position: sticky;
   top: 0;
-  background: white;
-  border-bottom: 1px solid black;
-}
-
-tr:hover td {
-  background: lavender;
+  background: var(--lightgray);
 }
 
 th {
   vertical-align: bottom;
   padding: 0.5em;
   border: none;
-  border-bottom: 1px solid black;
   text-align: left;
 }
 
 td {
   vertical-align: top;
   padding: 0.5em;
-  border-bottom: 1px solid black;
 }
 
-td.name {
-  width: 300px;
+td.name, th.name {
+  width: 20%;
+  max-width: 240px;
 }
 
-td.location {
-  width: 300px;
+td.location, th.location {
+  width: 20%;
+  max-width: 240px;
 }
 
-td.website {
-  width: 200px;
+td.website, th.website {
+  width: 15%;
+  max-width: 180px;
 }
 
 td.website ul, td.website li {
@@ -90,7 +142,6 @@ td.website ul, td.website li {
 
 td.website a {
   display: inline-block;
-  margin-bottom: 0.5em;
 }
 
 td.website .kitchen-add-link-form {
@@ -116,12 +167,15 @@ td.website .link-delete-button:hover {
   color: black;
 }
 
-td.phone {
-  white-space: nowrap;
+td.accessibility, th.accessibility {
+  width: 30%;
+  text-align: center;
+  max-width: 360px;
 }
 
-td.accessibility {
-  width: 200px;
+td.status, th.status {
+  width: 15%;
+  max-width: 180px;
 }
 
 .gray {
@@ -206,4 +260,80 @@ nav.filters {
   100% {
     transform: scale(0.85);
   }
+}
+
+.home-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 2em;
+  margin-bottom: 1em;
+}
+
+.home-header__left {
+  flex-basis: 66.7%;
+  flex-grow: 1;
+}
+
+.home-header__right {
+  flex-basis: 33.3%;
+  flex-grow: 0;
+}
+
+.home-header__right img {
+  width: 100%;
+}
+
+.target {
+  font-size: 0.9em;
+  vertical-align: 0.15em;
+  -webkit-text-stroke: 0.02em black;
+}
+
+@media (max-width: 720px) {
+  .home-header {
+    flex-wrap: wrap;
+  }
+  .home-header__left {
+    flex-basis: 100%;
+    max-width: 540px;
+  }
+  .home-header__right {
+    flex-basis: 100%;
+    max-width: 540px;
+  }
+}
+
+.home-header__location-options {
+  display: flex;
+  align-items: center;
+  gap: 1em;
+}
+
+.material-symbols-outlined {
+  font-size: 1.1em;
+  vertical-align: -0.16em;
+  letter-spacing: -0.1em;
+}
+
+footer {
+  background: var(--lightgray);
+  font-size: 22px;
+  line-height: 150%;
+  padding: 2em 0.5em;
+}
+
+footer .footer__grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 1em;
+}
+
+footer .footer__part {
+  grid-column: span 1;
+}
+
+footer .logo {
+  width: 300px;
+  mix-blend-mode: multiply;
 }
