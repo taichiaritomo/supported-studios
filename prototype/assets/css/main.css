@@ -130,8 +130,8 @@ td.location, th.location {
 }
 
 td.website, th.website {
-  width: 15%;
-  max-width: 180px;
+  width: 20%;
+  max-width: 240px;
 }
 
 td.website ul, td.website li {
@@ -168,14 +168,14 @@ td.website .link-delete-button:hover {
 }
 
 td.accessibility, th.accessibility {
-  width: 30%;
+  width: 26%;
   text-align: center;
-  max-width: 360px;
+  max-width: 312px;
 }
 
 td.status, th.status {
-  width: 15%;
-  max-width: 180px;
+  width: 14%;
+  max-width: 168px;
 }
 
 .gray {
@@ -320,10 +320,11 @@ footer {
   background: var(--lightgray);
   font-size: 22px;
   line-height: 150%;
-  padding: 2em 0.5em;
+  padding: 2em;
 }
 
 footer .footer__grid {
+  padding: 0 0.5em;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   gap: 1em;
