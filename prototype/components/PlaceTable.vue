@@ -1,45 +1,51 @@
 <template>
-  <table>
-    <tr class="table-header-row">
-      <th>Name</th>
-      <th>Location</th>
-      <th>Links</th>
-      <th>Phone number</th>
-      <th>Status</th>
-      <th class="accessibility">Wheelchair Accessible Entrance</th>
-      <th v-if="isKitchenMode"></th>
-    </tr>
-    <tr v-for="(placeDetail, placeIndex) in data" :key="placeDetail.place_id">
-      <td class="name">{{ placeDetail.name }}</td>
-      <td class="location">{{ placeDetail.location }}</td>
-      <td class="website">
-        <ul>
-          <li>
-            <a v-if="placeDetail.website_url" :href="placeDetail.website_url" target="_blank">Website</a>
-          </li>
-          <li>
-            <a v-if="placeDetail.google_maps_url" :href="placeDetail.google_maps_url" target="_blank">Google Maps</a>
-          </li>
-          <li v-for="link in getLinks(placeDetail)">
-            <a :href="link.url" target="_blank">{{ link.text }}</a>
-            <button v-if="isKitchenMode" class="link-delete-button" @click.prevent="handleDeleteLink(placeDetail, link.text, link.url)">✕</button>
-          </li>
-        </ul>
-        <div v-if="isKitchenMode">
-          <button v-if="placeIndexWithAddLinkFormOpen !== placeIndex" @click="placeIndexWithAddLinkFormOpen = placeIndex; linkText = ''; linkUrl = '';">Add a link</button>
-          <div v-else class="kitchen-add-link-form">
-            <input type="text" placeholder="Link Text" v-model="linkText" required/>
-            <input type="url" placeholder="Link URL" v-model="linkUrl" required/>
-            <button @click="handleAddLink(placeDetail)">Add</button>
-          </div>
-        </div>
-      </td>
-      <td class="phone">{{ placeDetail.phone_number }}</td>
-      <td class="status"><span v-html="formatBusinessStatus(placeDetail.status)"></span></td>
-      <td class="accessibility">{{ placeDetail.wheelchair_access ? 'Yes' : '' }}</td>
-      <td v-if="isKitchenMode"><button @click="$emit('deleteStudio', placeDetail.place_id )">Delete</button></td>
-    </tr>
-  </table>
+  <div>
+    <table>
+      <thead>
+        <tr class="table-header-row">
+          <th>Name</th>
+          <th>Location</th>
+          <th>Links</th>
+          <th>Phone number</th>
+          <th>Status</th>
+          <th class="accessibility">Wheelchair Accessible Entrance</th>
+          <th v-if="isKitchenMode"></th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr v-for="(placeDetail, placeIndex) in data" :key="placeDetail.place_id">
+          <td class="name">{{ placeDetail.name }}</td>
+          <td class="location">{{ placeDetail.location }}</td>
+          <td class="website">
+            <ul>
+              <li>
+                <a v-if="placeDetail.website_url" :href="placeDetail.website_url" target="_blank">Website</a>
+              </li>
+              <li>
+                <a v-if="placeDetail.google_maps_url" :href="placeDetail.google_maps_url" target="_blank">Google Maps</a>
+              </li>
+              <li v-for="link in getLinks(placeDetail)">
+                <a :href="link.url" target="_blank">{{ link.text }}</a>
+                <button v-if="isKitchenMode" class="link-delete-button" @click.prevent="handleDeleteLink(placeDetail, link.text, link.url)">✕</button>
+              </li>
+            </ul>
+            <div v-if="isKitchenMode">
+              <button v-if="placeIndexWithAddLinkFormOpen !== placeIndex" @click="placeIndexWithAddLinkFormOpen = placeIndex; linkText = ''; linkUrl = '';">Add a link</button>
+              <div v-else class="kitchen-add-link-form">
+                <input type="text" placeholder="Link Text" v-model="linkText" required/>
+                <input type="url" placeholder="Link URL" v-model="linkUrl" required/>
+                <button @click="handleAddLink(placeDetail)">Add</button>
+              </div>
+            </div>
+          </td>
+          <td class="phone">{{ placeDetail.phone_number }}</td>
+          <td class="status"><span v-html="formatBusinessStatus(placeDetail.status)"></span></td>
+          <td class="accessibility">{{ placeDetail.wheelchair_access ? 'Yes' : '' }}</td>
+          <td v-if="isKitchenMode"><button @click="$emit('deleteStudio', placeDetail.place_id )">Delete</button></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
 </template>
 
 <script setup>
