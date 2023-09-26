@@ -13,13 +13,14 @@ model Place {
   location String? @db.VarChar(200)
   country String? @db.VarChar(200)
   google_maps_url String? @db.VarChar(200)
-  links String[] // array of link_1_text, link_1_url, link_2_text, link_2_url, ...
+  links String? // JSON of links
   website_url String? @db.VarChar(200)
   phone_number String? @db.VarChar(200)
   status String? @db.VarChar(20)
   wheelchair_access Boolean? @db.Boolean
   latitude Float?
   longitude Float?
+  created_at DateTime @default(now()) @db.Date
 }
 
 model Website {

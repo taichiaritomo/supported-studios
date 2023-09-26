@@ -12,7 +12,7 @@ export default defineEventHandler(async (event) => {
       place_id: placeId
     },
     data: {
-      links: links
+      links: JSON.stringify(links)
     }
   })
   return places

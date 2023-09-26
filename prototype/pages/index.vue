@@ -14,9 +14,9 @@
           To add a studio to the list, send your suggestion to <a href="mailto:severinbunse@gmail.com">severinbunse@gmail.com</a>
         </p>
         <div class="home-header__location-options">
-          <button @click="handleClickUseLocation"><span class="target">⌖</span> Use my location</button>
+          <button @click="handleClickUseLocation">Use my location</button>
           <select v-model="selectedCountryFilter">
-            <option value="select-country">⚑ Select Country</option>
+            <option value="select-country">Select Country</option>
             <option v-for="country in countries" :key="country" :value="country">{{country}}</option>
             <option disabled>(more soon!)</option>
           </select>

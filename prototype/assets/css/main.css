@@ -109,6 +109,7 @@ tr.table-header-row {
 }
 
 th {
+  flex: 0 0 20%;
   vertical-align: bottom;
   padding: 0.5em;
   border: none;
@@ -116,23 +117,24 @@ th {
 }
 
 td {
+  flex: 0 0 20%;
   vertical-align: top;
   padding: 0.5em;
 }
 
 td.name, th.name {
   width: 20%;
-  max-width: 240px;
+  max-width: 20%;
 }
 
 td.location, th.location {
   width: 20%;
-  max-width: 240px;
+  max-width: 20%;
 }
 
 td.website, th.website {
   width: 20%;
-  max-width: 240px;
+  max-width: 20%;
 }
 
 td.website ul, td.website li {
@@ -147,13 +149,28 @@ td.website a {
 
 td.website .kitchen-add-link-form {
   display: flex;
+  flex-direction: column;
   gap: 0.5em;
+  background: var(--blue);
+  padding: 0.5em;
 }
 
 td.website .kitchen-add-link-form input {
   font-size: 1em;
-  width: 110px;
   gap: 0.5em;
+}
+
+td.website .kitchen-add-link-form button.kitchen-add-link-nevermind {
+  -webkit-appearance: none;
+  appearance: none;
+  text-decoration: underline;
+  background: none;
+  padding: none;
+  font-size: 0.75em;
+  border: none;
+  color: white;
+  display: inline;
+  align-self: center;
 }
 
 td.website .link-delete-button {
@@ -169,14 +186,14 @@ td.website .link-delete-button:hover {
 }
 
 td.accessibility, th.accessibility {
-  width: 26%;
+  width: 20%;
+  max-width: 20%;
   text-align: center;
-  max-width: 312px;
 }
 
 td.status, th.status {
-  width: 14%;
-  max-width: 168px;
+  width: 20%;
+  max-width: 20%;
 }
 
 .gray {
@@ -252,6 +269,11 @@ nav.filters {
   margin-top: 0.5em;
   display: flex;
   gap: 1em;
+}
+
+.kitchen-delete-button {
+  display: block;
+  margin-top: 0.5em;
 }
 
 @keyframes zoom-out {
