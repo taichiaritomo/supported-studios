@@ -43,7 +43,7 @@
           {{ placeDetail.wheelchair_access ? 'Wheelchair Accessible' : '' }}
         </td>
         <td class="status">
-          <span v-html="formatBusinessStatus(placeDetail.status)"></span>
+          <span :class="placeDetail.status === 'OPERATIONAL' ? 'text-green' : 'text-red'">{{ formatBusinessStatus(placeDetail.status) }}</span>
           <button v-if="isKitchenMode" @click="$emit('deleteStudio', placeDetail.place_id )" class="kitchen-delete-button">Delete</button>
         </td>
       </tr>

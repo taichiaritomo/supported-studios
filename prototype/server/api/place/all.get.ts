@@ -12,7 +12,6 @@ export default defineEventHandler(async (event) => {
       console.log('place.links', place.links)
       place.links = JSON.parse(place.links || '')
     }
-    // place.links = JSON.parse(place.links || '')  
   })
   return places
 })
