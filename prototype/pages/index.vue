@@ -2,10 +2,10 @@
   <!-- Header -->
   <div class="limited-width-wrapper">
     <header>
-      <div class="flex gap-2 mt-4">
-        <div class="basis-1/2 grow-0 shrink-1">
+      <div class="grid grid-cols-2 gap-2 mt-4 items-center">
+        <div class="col-span-2 md:col-span-1">
           <div class="bg-light-blue p-4 rounded-md relative">
-            <div class="bg-light-blue w-8 h-8 absolute top-1/2 left-full -translate-x-1/2 -translate-y-1/2 rotate-[45deg]"></div>
+            <div class="bg-light-blue w-8 h-8 absolute -z-10 left-1/2 top-full md:top-1/2 md:left-full -translate-x-1/2 -translate-y-1/2 rotate-[45deg]"></div>
             <h1 class="font-bold">Supported Studios</h1>
             <p class="my-4">
               Supported studios is a list of studios that foster and support the artistic practices of artists with disabilities.
@@ -18,14 +18,14 @@
             </p>
           </div>
         </div>
-        <div class="basis-1/2 grow-0 shrink-1 overflow-hidden">
+        <div class="h-[90vw] max-h-[420px] col-span-2 md:col-span-1 overflow-hidden">
           <Globe :coordinates="coordinates" />
         </div>
       </div>
-      <div class="home-header__location-options flex gap-2 my-6">
-        <button @click="handleClickUseLocation" class="basis-1/2 grow-0 shrink-1 h-8">Use my location</button>
-        <select v-model="selectedCountryFilter" class="basis-1/2 grow-0 shrink-1 h-8 text-center">
-          <option value="select-country">Select Country ▼</option>
+      <div class="home-header__location-options grid grid-cols-2 gap-2 my-6">
+        <button @click="handleClickUseLocation" class="col-span-2 md:col-span-1 h-8">Use my location</button>
+        <select v-model="selectedCountryFilter" class="col-span-2 md:col-span-1 h-8 text-center">
+          <option value="select-country">Select country ▼</option>
           <option v-for="country in countries" :key="country" :value="country">{{country}}</option>
           <option disabled>(more soon!)</option>
         </select>
@@ -39,20 +39,27 @@
   <!-- Footer -->
   <footer>
     <div class="limited-width-wrapper">
-      <div class="footer__grid">
-        <div class="footer__part">
+      <div class="grid grid-cols-2 gap-4">
+        <!-- <div class="footer__part">
           <address>Contact: severinbunse@gmail.com</address>
           <div>Last Updated: August 18th 2023</div>
-        </div>
-        <div class="footer__part">
+        </div> -->
+        <div class="col-span-2 md:col-span-1">
           <div>Programming: Taichi Aritomo</div>
           <div>Accessibility Advisor: Kelli Blacketer</div>
           <div>Design: Severin Bunse</div>
           <div>Special Thanks: Live Yes Studios</div>
         </div>
-        <div class="footer__part">
-          Funding by:
+        <div class="col-span-2 md:col-span-1">
+          Funding:
           <img class="logo" alt="Creative Industries Fund NL" src="/creative-industries-fund_NL.jpg"/>
+          <br>
+          <div>
+            Contact: <a href="mailto:severinbunse@gmail.com">severinbunse@gmail.com</a>
+          </div>
+          <div>
+            Last Updated: {{ lastUpdatedDate.toLocaleDateString() }}
+          </div>
         </div>
       </div>
     </div>
@@ -105,7 +112,8 @@ function handleClickUseLocation() {
       }
     })
     .catch((error) => {
-      console.error(error)
+      console.error(error);
+      alert("Sorry, geolocation is not available on your device.")
     })
 }
 
@@ -148,6 +156,16 @@ const filteredData = computed(() => {
     return data.value
   }
   return data.value.filter(placeDetail => placeDetail.country === selectedCountryFilter.value)
+})
+
+const lastUpdatedDate = computed(() => {
+  return data.value.reduce((latestDate, placeDetail) => {
+    const date = new Date(placeDetail.created_at)
+    if (date > latestDate) {
+      return date
+    }
+    return latestDate
+  }, new Date(0))
 })
 
 </script>

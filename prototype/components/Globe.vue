@@ -39,7 +39,7 @@ onMounted(() => {
     // scene.background = new THREE.Color( 0xffffff );
 
     var camera = new THREE.PerspectiveCamera(45, width / height, 0.01, 1000);
-    camera.position.z = 3.5;
+    camera.position.z = 3;
 
     var renderer = new THREE.WebGLRenderer();
     renderer.setSize(width, height);
@@ -112,29 +112,6 @@ onMounted(() => {
       renderer.render(scene, camera);
     }
 
-    // function createSphere(radius, segments) {
-    //   return new THREE.Mesh(
-    //     new THREE.SphereGeometry(radius, segments, segments),
-    //     new THREE.MeshPhongMaterial({
-    //       map:         new THREE.TextureLoader().load('/images/globe/2_no_clouds_4k.jpg'),
-    //       bumpMap:     new THREE.TextureLoader().load('/images/globe/elev_bump_4k.jpg'),
-    //       bumpScale:   0.005,
-    //       specularMap: new THREE.TextureLoader().load('images/globe/water_4k.png'),
-    //       specular:    new THREE.Color('grey')
-    //     })
-    //   );
-    // }
-
-    // function createClouds(radius, segments) {
-    //   return new THREE.Mesh(
-    //     new THREE.SphereGeometry(radius + 0.003, segments, segments),			
-    //     new THREE.MeshPhongMaterial({
-    //       map:         new THREE.TextureLoader().load('/images/globe/fair_clouds_4k.png'),
-    //       transparent: true
-    //     })
-    //   );		
-    // }
-
     function createSphere(radius, segments) {
       return new THREE.Mesh(
         new THREE.SphereGeometry(radius, segments, segments),
@@ -147,6 +124,15 @@ onMounted(() => {
         })
       );
     }
+
+    // event listener for resize. change the size of the renderer
+    window.addEventListener('resize', () => {
+      const width = globeContainer.value.offsetWidth
+      const height = globeContainer.value.offsetHeight
+      renderer.setSize(width, height);
+      camera.aspect = width / height;
+      camera.updateProjectionMatrix();
+    }, false);
   }
 })
 </script>
